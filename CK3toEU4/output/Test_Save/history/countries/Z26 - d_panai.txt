@@ -1,0 +1,56 @@
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+technology_group = western
+religion = vajrayana
+primary_culture = sumatran
+capital = 618
+867.1.1= {
+	monarch = {
+		name = "Rasuk"
+		dynasty = "Siak"
+		adm = 0
+		dip = 4
+		mil = 1
+		birth_date = 849.1.1
+		religion = vajrayana
+		culture = sumatran
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Damayanti"
+		dynasty = "Sekumbung"
+		adm = 0
+		dip = 5
+		mil = 2
+		country_of_origin = Z26
+		birth_date = 849.1.1
+		death_date = 909.1.1
+		female = yes
+		religion = vajrayana
+		culture = sumatran
+	}
+	add_queen_personality = well_connected_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Sati"
+		monarch_name = "Sati"
+		dynasty = "Kualuh"
+		adm = 6
+		dip = 4
+		mil = 4
+		birth_date = 838.12.17
+		death_date = 903.12.17
+		female = yes
+		claim = 89
+		religion = vajrayana
+		culture = sumatran
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+867.1.1= {
+	add_prestige = 47
+	add_treasury = 35
+}

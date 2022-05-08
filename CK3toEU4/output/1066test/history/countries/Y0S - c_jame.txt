@@ -1,0 +1,57 @@
+government = tribal
+add_government_reform = tribal_kingdom
+government_rank = 1
+technology_group = sub_saharan
+religion = shamanism
+primary_culture = senegambian
+capital = 2239
+fixed_capital = 2239
+1068.6.5= {
+	monarch = {
+		name = "Waali II"
+		dynasty = "Bainunk"
+		adm = 5
+		dip = 1
+		mil = 5
+		birth_date = 1041.1.1
+		religion = shamanism
+		culture = senegambian
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Malado"
+		dynasty = "Silla"
+		adm = 1
+		dip = 5
+		mil = 0
+		country_of_origin = Y0S
+		birth_date = 1041.2.18
+		death_date = 1101.2.18
+		female = yes
+		religion = shamanism
+		culture = senegambian
+	}
+	add_queen_personality = well_connected_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Yumeyga"
+		monarch_name = "Yumeyga"
+		dynasty = "Bainunk"
+		adm = 0
+		dip = 1
+		mil = 1
+		birth_date = 1066.5.4
+		death_date = 1131.5.4
+		female = yes
+		claim = 89
+		religion = shamanism
+		culture = senegambian
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+1068.6.5= {
+	add_prestige = 50
+	add_treasury = 44
+}

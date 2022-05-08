@@ -1,0 +1,56 @@
+government = tribal
+add_government_reform = tribal_kingdom
+government_rank = 1
+technology_group = east_african
+religion = shamanism
+primary_culture = sidamo
+capital = 2776
+fixed_capital = 2776
+910.1.30= {
+	monarch = {
+		name = "Abdirahman"
+		dynasty = "Orma"
+		adm = 1
+		dip = 2
+		mil = 1
+		birth_date = 852.1.1
+		religion = shamanism
+		culture = sidamo
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Habesha"
+		dynasty = "Wagda"
+		adm = 4
+		dip = 3
+		mil = 4
+		country_of_origin = Y2M
+		birth_date = 886.8.11
+		death_date = 946.8.11
+		female = yes
+		religion = shamanism
+		culture = amhara
+	}
+	add_queen_personality = well_connected_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Naleye"
+		monarch_name = "Naleye"
+		dynasty = "Orma"
+		adm = 2
+		dip = 3
+		mil = 4
+		birth_date = 883.10.31
+		death_date = 948.10.31
+		claim = 89
+		religion = shamanism
+		culture = sidamo
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+910.1.30= {
+	add_prestige = 70
+	add_treasury = 34
+}

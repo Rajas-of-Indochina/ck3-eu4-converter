@@ -1,0 +1,21 @@
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 56 50 103 }
+monarch_names = {
+	"Beizza #1" = 10
+	"Duttabaung #1" = 10
+	"Hmauk #0" = 0
+	"Khanlaung #1" = 10
+	"Khelu #0" = 0
+	"Maha Thanbawa #1" = 10
+	"Rachana #0" = -1
+	"Sawatdee #0" = -1
+	"Semkha #1" = 10
+	"Sula Thanbawa #1" = 10
+	"Supayagalay #0" = -1
+	"Thakha #1" = 10
+	"Theinkhathu #0" = 0
+	"Thumondari #1" = 10
+	"Yanbaung #1" = 10
+	"Yazathu #0" = 0
+}

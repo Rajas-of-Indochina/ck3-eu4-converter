@@ -1,0 +1,52 @@
+government = tribal
+add_government_reform = tribal_kingdom
+government_rank = 1
+technology_group = western
+religion = buddhism
+capital = 2390
+fixed_capital = 2390
+867.1.1= {
+	monarch = {
+		name = "Napet"
+		dynasty = "Cupak"
+		adm = 3
+		dip = 6
+		mil = 3
+		birth_date = 836.1.1
+		religion = buddhism
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Dharmapatni"
+		dynasty = "Tanjung"
+		adm = 4
+		dip = 1
+		mil = 1
+		country_of_origin = W3K
+		birth_date = 836.1.1
+		death_date = 896.1.1
+		female = yes
+		religion = buddhism
+	}
+	add_queen_personality = well_connected_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Wijaya"
+		monarch_name = "Wijaya"
+		dynasty = "Orsini"
+		adm = 4
+		dip = 5
+		mil = 2
+		birth_date = 831.11.15
+		death_date = 896.11.15
+		claim = 89
+		religion = buddhism
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+867.1.1= {
+	add_prestige = 47
+	add_treasury = 35
+}

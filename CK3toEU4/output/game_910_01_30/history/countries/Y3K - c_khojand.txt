@@ -1,0 +1,41 @@
+government = monarchy
+add_government_reform = english_monarchy
+government_rank = 1
+technology_group = nomad_group
+religion = khurmazta
+primary_culture = sogdian
+capital = 457
+fixed_capital = 457
+910.1.30= {
+	monarch = {
+		name = "Anghatnaw"
+		dynasty = "Maymurg"
+		adm = 4
+		dip = 5
+		mil = 6
+		birth_date = 864.6.6
+		religion = khurmazta
+		culture = sogdian
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	heir = {
+		name = "Ghobad"
+		monarch_name = "Ghobad"
+		dynasty = "Maymurg"
+		adm = 1
+		dip = 0
+		mil = 1
+		birth_date = 906.7.9
+		death_date = 971.7.9
+		claim = 89
+		religion = khurmazta
+		culture = sogdian
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+910.1.30= {
+	add_prestige = 48
+	add_treasury = 49
+}

@@ -1,0 +1,53 @@
+government = tribal
+add_government_reform = tribal_kingdom
+government_rank = 1
+technology_group = western
+religion = converted_kaharingan
+capital = 638
+fixed_capital = 638
+867.1.1= {
+	monarch = {
+		name = "Laki Bo"
+		dynasty = "Agung Baru"
+		adm = 4
+		dip = 1
+		mil = 2
+		birth_date = 849.1.1
+		religion = converted_kaharingan
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Ubong"
+		dynasty = "Noor"
+		adm = 4
+		dip = 3
+		mil = 3
+		country_of_origin = Z3Q
+		birth_date = 849.1.1
+		death_date = 909.1.1
+		female = yes
+		religion = converted_kaharingan
+	}
+	add_queen_personality = well_connected_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Nara"
+		monarch_name = "Nara"
+		dynasty = "Orsini"
+		adm = 3
+		dip = 5
+		mil = 3
+		birth_date = 834.8.2
+		death_date = 899.8.2
+		female = yes
+		claim = 89
+		religion = converted_kaharingan
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+867.1.1= {
+	add_prestige = 47
+	add_treasury = 31
+}

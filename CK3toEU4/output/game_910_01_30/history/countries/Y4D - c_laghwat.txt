@@ -1,0 +1,57 @@
+government = tribal
+add_government_reform = tribal_federation
+government_rank = 1
+technology_group = muslim
+religion = ibadi
+primary_culture = algerian
+capital = 350
+fixed_capital = 350
+add_accepted_culture = berber
+910.1.30= {
+	monarch = {
+		name = "Mez'yan"
+		dynasty = "Mus'ab"
+		adm = 3
+		dip = 2
+		mil = 3
+		birth_date = 856.1.1
+		religion = ibadi
+		culture = algerian
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Taweret"
+		dynasty = "Rustamid"
+		adm = 2
+		dip = 5
+		mil = 2
+		country_of_origin = Y4D
+		birth_date = 869.3.24
+		death_date = 929.3.24
+		female = yes
+		religion = ibadi
+		culture = berber
+	}
+	add_queen_personality = well_connected_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Ash'ath"
+		monarch_name = "Ash'ath"
+		dynasty = "Mus'ab"
+		adm = 6
+		dip = 6
+		mil = 5
+		birth_date = 890.6.30
+		death_date = 955.6.30
+		claim = 89
+		religion = ibadi
+		culture = berber
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+910.1.30= {
+	add_prestige = 63
+	add_treasury = 45
+}

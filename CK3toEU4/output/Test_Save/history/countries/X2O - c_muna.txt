@@ -1,0 +1,53 @@
+government = tribal
+add_government_reform = tribal_kingdom
+government_rank = 1
+technology_group = western
+religion = converted_celebic
+capital = 2716
+fixed_capital = 2716
+867.1.1= {
+	monarch = {
+		name = "Karaeng"
+		dynasty = "Hayin"
+		adm = 3
+		dip = 3
+		mil = 4
+		birth_date = 835.6.24
+		religion = converted_celebic
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Taiana"
+		dynasty = "Aka"
+		adm = 3
+		dip = 4
+		mil = 2
+		country_of_origin = X2O
+		birth_date = 836.1.1
+		death_date = 896.1.1
+		female = yes
+		religion = converted_celebic
+	}
+	add_queen_personality = well_connected_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Poenui"
+		monarch_name = "Poenui"
+		dynasty = "Orsini"
+		adm = 6
+		dip = 6
+		mil = 2
+		birth_date = 834.4.29
+		death_date = 899.4.29
+		female = yes
+		claim = 89
+		religion = converted_celebic
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+867.1.1= {
+	add_prestige = 47
+	add_treasury = 31
+}

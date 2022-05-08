@@ -1,0 +1,42 @@
+government = tribal
+add_government_reform = tribal_federation
+government_rank = 1
+technology_group = muslim
+religion = sunni
+primary_culture = moroccan
+capital = 348
+fixed_capital = 348
+religious_school = hanbali_school
+910.1.30= {
+	monarch = {
+		name = "Muh'end"
+		dynasty = "Gazzula"
+		adm = 4
+		dip = 4
+		mil = 3
+		birth_date = 873.10.31
+		religion = sunni
+		culture = moroccan
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	heir = {
+		name = "Theophilos"
+		monarch_name = "Theophilos"
+		dynasty = "Mitylenaios"
+		adm = 6
+		dip = 6
+		mil = 6
+		birth_date = 866.7.26
+		death_date = 931.7.26
+		claim = 89
+		religion = sunni
+		culture = greek
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+910.1.30= {
+	add_prestige = 68
+	add_treasury = 51
+}

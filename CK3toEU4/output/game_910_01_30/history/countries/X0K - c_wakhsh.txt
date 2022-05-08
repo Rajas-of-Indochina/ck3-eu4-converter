@@ -1,0 +1,57 @@
+government = monarchy
+add_government_reform = iqta
+government_rank = 1
+technology_group = muslim
+religion = sunni
+primary_culture = tajik
+capital = 1968
+fixed_capital = 1968
+religious_school = hanbali_school
+910.1.30= {
+	monarch = {
+		name = "Hassan"
+		dynasty = "Banijurid"
+		adm = 5
+		dip = 3
+		mil = 5
+		birth_date = 892.11.6
+		religion = sunni
+		culture = tajik
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Upach"
+		dynasty = "al-Harrani"
+		adm = 5
+		dip = 1
+		mil = 5
+		country_of_origin = X0K
+		birth_date = 882.1.11
+		death_date = 942.1.11
+		female = yes
+		religion = sunni
+		culture = sogdian
+	}
+	add_queen_personality = well_connected_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Ardavan"
+		monarch_name = "Ardavan"
+		dynasty = "Banijurid"
+		adm = 6
+		dip = 6
+		mil = 5
+		birth_date = 885.8.23
+		death_date = 950.8.23
+		claim = 89
+		religion = sunni
+		culture = persian
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+910.1.30= {
+	add_prestige = 51
+	add_treasury = 27
+}

@@ -1,0 +1,127 @@
+ck2_converter_generated = yes
+graphical_culture = asiangfx
+color = { 148 182 3 }
+historical_idea_groups = {
+	defensive_ideas
+	offensive_ideas
+	trade_ideas
+	diplomatic_ideas
+	religious_ideas
+	economic_ideas
+	administrative_ideas
+	spy_ideas
+}
+historical_units = {
+	asian_arquebusier
+	asian_charge_cavalry
+	asian_mass_infantry
+	asian_musketeer
+	east_asian_spearmen
+	eastern_bow
+	reformed_asian_cavalry
+	reformed_asian_musketeer
+}
+monarch_names = {
+	"Ayangba #1" = 10
+	"Kalyanavarman #0" = 0
+	"Kaokhangba #1" = 10
+	"Keirencha #1" = 10
+	"Khongtekcha #1" = 10
+	"Khui Ningonba #1" = 10
+	"Khuiyoi Tompok #1" = 10
+	"Naokhamba #1" = 10
+	"Naophangba #1" = 10
+	"Naothingkhon #1" = 10
+	"Ningthoucheng #1" = 10
+	"Nongda Lairen Pakhangba #1" = 10
+	"Pengsiba #1" = 10
+	"Purandelapala #0" = 0
+	"Sameirang #1" = 10
+	"Sudangpha #0" = 0
+	"Sukhampha Khora Raja #0" = 0
+	"Supimpha #0" = 0
+	"Sutamla #0" = 0
+	"Suvrata #0" = -1
+	"Taothingmang #1" = 10
+	"Timgyadeva #0" = 0
+	"Urakonthouba #1" = 10
+	"Yajiyavati #0" = -1
+	"Yaraba #1" = 10
+}
+leader_names = {
+	"Ava"
+	"Banyin"
+	"Bawnin"
+	"Bawzaing"
+	"Bhamo"
+	"Hopon"
+	"Kale"
+	"Kokang"
+	"Kyaingchaing"
+	"Kyaingkan"
+	"Kyaingtong"
+	"Kyaukku"
+	"Kyithi Bansan"
+	"Kyon"
+	"Lwee"
+	"Lwelong"
+	"Lwemaw"
+	"Lègya"
+	"Maingpyin"
+	"Maingseik"
+	"Maington"
+	"Manglon"
+	"Maukme"
+	"Maw"
+	"Mobye"
+	"Mogaung"
+	"Mohnyin"
+	"Momeik"
+	"Mong Pan"
+	"Monghsu"
+	"Mongleam"
+	"Monglin"
+	"Mongnawng"
+	"Mongtorm"
+	"Monè"
+	"Mönglong"
+	"Möngyawng"
+	"Nanke"
+	"Nankok"
+	"Nankon"
+	"Nantok"
+	"Nyaungshwe"
+	"Panglawng"
+	"Pangmi"
+	"Pindara"
+	"Poila"
+	"Sakoi"
+	"Samka"
+	"Tawngpeng"
+	"Thamaingkan"
+	"Thaton"
+	"Thaungdut"
+	"Theinni"
+	"Thibaw"
+	"Thigyit"
+	"Wynn Tho"
+	"Yatsauk"
+	"Yengan"
+}
+ship_names = {
+	"Hsim"
+	"Inle"
+	"Kengtong"
+	"Lui"
+	"Myitnge"
+	"Nam"
+	"Pilu"
+	"Saluen"
+	"Salween"
+	"Shweli"
+	"Tachileik"
+	"Taunggyi"
+	"Teng"
+	"Thanlwin"
+}
+special_unit_culture = south_east_asian_special

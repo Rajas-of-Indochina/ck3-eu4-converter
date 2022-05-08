@@ -1,0 +1,12 @@
+government = monarchy
+add_government_reform = iqta
+government_rank = 1
+technology_group = muslim
+religion = sunni
+primary_culture = andalucian
+capital = 220
+religious_school = maliki_school
+1068.6.5= {
+	add_prestige = 60
+	add_treasury = 42
+}

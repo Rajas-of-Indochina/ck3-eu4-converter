@@ -1,0 +1,53 @@
+government = tribal
+add_government_reform = tribal_kingdom
+government_rank = 1
+technology_group = western
+religion = converted_alukta
+capital = 4798
+fixed_capital = 4798
+1068.6.5= {
+	monarch = {
+		name = "Tunyachoka-ri"
+		dynasty = "Burau"
+		adm = 2
+		dip = 6
+		mil = 1
+		birth_date = 1045.2.19
+		religion = converted_alukta
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Tehani"
+		dynasty = "Biagel"
+		adm = 6
+		dip = 3
+		mil = 6
+		country_of_origin = Z6S
+		birth_date = 1045.5.8
+		death_date = 1105.5.8
+		female = yes
+		religion = converted_alukta
+	}
+	add_queen_personality = well_connected_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Titaua"
+		monarch_name = "Titaua"
+		dynasty = "Burau"
+		adm = 2
+		dip = 2
+		mil = 2
+		birth_date = 1062.1.9
+		death_date = 1127.1.9
+		female = yes
+		claim = 89
+		religion = converted_alukta
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+1068.6.5= {
+	add_prestige = 49
+	add_treasury = 43
+}

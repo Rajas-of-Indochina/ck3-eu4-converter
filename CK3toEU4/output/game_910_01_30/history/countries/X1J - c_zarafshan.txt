@@ -1,0 +1,56 @@
+government = monarchy
+add_government_reform = english_monarchy
+government_rank = 1
+technology_group = nomad_group
+religion = gayomarthianism
+primary_culture = sogdian
+capital = 454
+fixed_capital = 454
+910.1.30= {
+	monarch = {
+		name = "Shaw"
+		dynasty = "Lushan"
+		adm = 3
+		dip = 6
+		mil = 6
+		birth_date = 870.1.24
+		religion = gayomarthianism
+		culture = sogdian
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Mahwash"
+		dynasty = "Askhan"
+		adm = 3
+		dip = 4
+		mil = 3
+		country_of_origin = X1J
+		birth_date = 880.9.2
+		death_date = 940.9.2
+		female = yes
+		religion = gayomarthianism
+		culture = tajik
+	}
+	add_queen_personality = well_connected_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Omaid"
+		monarch_name = "Omaid"
+		dynasty = "Varaghsharid"
+		adm = 3
+		dip = 2
+		mil = 1
+		birth_date = 852.10.24
+		death_date = 917.10.24
+		claim = 89
+		religion = gayomarthianism
+		culture = tajik
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+910.1.30= {
+	add_prestige = 47
+	add_treasury = 41
+}

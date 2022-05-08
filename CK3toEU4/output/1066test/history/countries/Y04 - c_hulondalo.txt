@@ -1,0 +1,57 @@
+government = tribal
+add_government_reform = tribal_kingdom
+government_rank = 1
+technology_group = western
+religion = converted_malesung
+primary_culture = sulawesi
+capital = 2713
+fixed_capital = 2713
+1068.6.5= {
+	monarch = {
+		name = "Bukal"
+		dynasty = "Pinpin"
+		adm = 3
+		dip = 6
+		mil = 5
+		birth_date = 1036.1.24
+		religion = converted_malesung
+		culture = sulawesi
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Alangkasalat"
+		dynasty = "Dalao"
+		adm = 4
+		dip = 5
+		mil = 3
+		country_of_origin = Y04
+		birth_date = 1036.5.29
+		death_date = 1096.5.29
+		female = yes
+		religion = converted_malesung
+		culture = sulawesi
+	}
+	add_queen_personality = well_connected_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Laran"
+		monarch_name = "Laran"
+		dynasty = "Pinpin"
+		adm = 6
+		dip = 6
+		mil = 6
+		birth_date = 1053.2.13
+		death_date = 1118.2.13
+		female = yes
+		claim = 89
+		religion = converted_malesung
+		culture = sulawesi
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+1068.6.5= {
+	add_prestige = 49
+	add_treasury = 46
+}

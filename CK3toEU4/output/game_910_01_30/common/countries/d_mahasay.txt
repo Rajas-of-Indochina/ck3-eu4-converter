@@ -1,0 +1,20 @@
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 96 193 162 }
+monarch_names = {
+	"Arunny #0" = -1
+	"Chhorvin #0" = -1
+	"Davuth #0" = 0
+	"Kong #0" = 0
+	"Methavy #0" = -1
+	"Pheakdei #0" = 0
+	"Piseth #0" = 0
+	"Ponlok #0" = -1
+	"Punyamin #0" = 0
+	"Sann #0" = 0
+	"Soriyotei #0" = 0
+	"Sothea #0" = 0
+	"Sros #0" = 0
+	"Theary #0" = -1
+	"Veha #0" = 0
+}

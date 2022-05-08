@@ -1,0 +1,14 @@
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 89 88 231 }
+monarch_names = {
+	"Dilie #0" = 0
+	"Duolubu #0" = 0
+	"Hongji #0" = 0
+	"Jing #0" = 0
+	"Pusuwan #0" = -1
+	"Shuogu #0" = -1
+	"Wenshunu #0" = 0
+	"Xiao-Wen #0" = -1
+	"Xiuge #0" = 0
+}

@@ -1,0 +1,14 @@
+ck2_converter_generated = yes
+graphical_culture = asiangfx
+color = { 29 26 7 }
+monarch_names = {
+	"Aiqin #0" = -1
+	"Da #0" = -1
+	"Du #0" = 0
+	"Jin'er #0" = -1
+	"Lingguang #0" = -1
+	"Xiu #0" = 0
+	"Xun #0" = 0
+	"Yin #0" = 0
+	"Yongfu #0" = -1
+}

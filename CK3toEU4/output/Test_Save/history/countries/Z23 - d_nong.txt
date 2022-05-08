@@ -1,0 +1,55 @@
+government = tribal
+add_government_reform = tribal_kingdom
+government_rank = 1
+technology_group = western
+religion = converted_ban_phi
+primary_culture = zhuang
+capital = 616
+867.1.1= {
+	monarch = {
+		name = "Sonchai"
+		dynasty = "Nong"
+		adm = 3
+		dip = 4
+		mil = 3
+		birth_date = 832.1.1
+		religion = converted_ban_phi
+		culture = zhuang
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Sarocha"
+		dynasty = "Chitphentom"
+		adm = 1
+		dip = 4
+		mil = 3
+		country_of_origin = Z23
+		birth_date = 832.1.1
+		death_date = 892.1.1
+		female = yes
+		religion = converted_ban_phi
+		culture = zhuang
+	}
+	add_queen_personality = well_connected_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Chuanchen"
+		monarch_name = "Chuanchen"
+		dynasty = "Kimi"
+		adm = 6
+		dip = 4
+		mil = 6
+		birth_date = 838.1.1
+		death_date = 903.1.1
+		claim = 89
+		religion = converted_ban_phi
+		culture = zhuang
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+867.1.1= {
+	add_prestige = 47
+	add_treasury = 34
+}

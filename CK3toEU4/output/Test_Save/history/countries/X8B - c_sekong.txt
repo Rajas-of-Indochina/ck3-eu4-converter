@@ -1,0 +1,42 @@
+government = tribal
+add_government_reform = tribal_kingdom
+government_rank = 1
+technology_group = western
+religion = converted_kuy_animism
+primary_culture = lao
+capital = 608
+fixed_capital = 608
+867.1.1= {
+	monarch = {
+		name = "Oudom"
+		dynasty = "Nang"
+		adm = 2
+		dip = 3
+		mil = 5
+		birth_date = 851.1.1
+		religion = converted_kuy_animism
+		culture = lao
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	heir = {
+		name = "Chang"
+		monarch_name = "Chang"
+		dynasty = "Orsini"
+		adm = 1
+		dip = 6
+		mil = 4
+		birth_date = 837.2.18
+		death_date = 902.2.18
+		female = yes
+		claim = 89
+		religion = converted_kuy_animism
+		culture = lao
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+867.1.1= {
+	add_prestige = 47
+	add_treasury = 32
+}

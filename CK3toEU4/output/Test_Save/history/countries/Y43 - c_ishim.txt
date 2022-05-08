@@ -1,0 +1,41 @@
+government = tribal
+add_government_reform = siberian_tribe
+government_rank = 1
+technology_group = eastern
+religion = siberian_pagan
+primary_culture = ostyaki
+capital = 4690
+fixed_capital = 4690
+867.1.1= {
+	monarch = {
+		name = "Kezhedey"
+		dynasty = "Ishimir"
+		adm = 3
+		dip = 1
+		mil = 2
+		birth_date = 841.6.19
+		religion = siberian_pagan
+		culture = ostyaki
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	heir = {
+		name = "Kudym-Osh"
+		monarch_name = "Kudym-Osh"
+		dynasty = "Ishimir"
+		adm = 4
+		dip = 4
+		mil = 3
+		birth_date = 842.2.13
+		death_date = 907.2.13
+		claim = 89
+		religion = siberian_pagan
+		culture = ostyaki
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+867.1.1= {
+	add_prestige = 47
+	add_treasury = 34
+}

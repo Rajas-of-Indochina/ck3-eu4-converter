@@ -1,0 +1,55 @@
+government = monarchy
+add_government_reform = mandala_reform
+government_rank = 1
+technology_group = western
+religion = hinduism
+primary_culture = sundanese
+capital = 4791
+910.1.30= {
+	monarch = {
+		name = "Pasukala"
+		dynasty = "Galuh"
+		adm = 3
+		dip = 3
+		mil = 3
+		birth_date = 869.12.28
+		religion = hinduism
+		culture = sundanese
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Bhiswari"
+		dynasty = "al-Harrani"
+		adm = 5
+		dip = 1
+		mil = 3
+		country_of_origin = Z2N
+		birth_date = 853.11.29
+		death_date = 913.11.29
+		female = yes
+		religion = hinduism
+		culture = sundanese
+	}
+	add_queen_personality = well_connected_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Pasukala"
+		monarch_name = "Pasukala II"
+		dynasty = "Galuh"
+		adm = 5
+		dip = 4
+		mil = 4
+		birth_date = 888.6.29
+		death_date = 953.6.29
+		claim = 89
+		religion = hinduism
+		culture = sundanese
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+910.1.30= {
+	add_prestige = 71
+	add_treasury = 56
+}

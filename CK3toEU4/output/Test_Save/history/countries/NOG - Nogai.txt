@@ -1,0 +1,41 @@
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 3
+technology_group = nomad_group
+religion = vajrayana
+primary_culture = sumatran
+capital = 622
+867.1.1= {
+	monarch = {
+		name = "Balaputradewa"
+		dynasty = "Sailendra"
+		adm = 3
+		dip = 2
+		mil = 4
+		birth_date = 818.1.1
+		religion = vajrayana
+		culture = sumatran
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	heir = {
+		name = "Pramodawardhani"
+		monarch_name = "Pramodawardhani"
+		dynasty = "Sailendra"
+		adm = 2
+		dip = 6
+		mil = 3
+		birth_date = 816.1.1
+		death_date = 881.1.1
+		female = yes
+		claim = 89
+		religion = vajrayana
+		culture = sumatran
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+867.1.1= {
+	add_prestige = 47
+	add_treasury = 53
+}

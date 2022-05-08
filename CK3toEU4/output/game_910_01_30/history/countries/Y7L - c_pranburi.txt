@@ -1,0 +1,56 @@
+government = tribal
+add_government_reform = tribal_kingdom
+government_rank = 1
+technology_group = western
+religion = buddhism
+primary_culture = mon
+capital = 2387
+fixed_capital = 2387
+910.1.30= {
+	monarch = {
+		name = "“Arya_Damar”"
+		dynasty = "Tanah Tinggi"
+		adm = 3
+		dip = 3
+		mil = 4
+		birth_date = 871.11.17
+		religion = buddhism
+		culture = mon
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Sudiwara"
+		dynasty = "Khao Phra Narai"
+		adm = 3
+		dip = 4
+		mil = 3
+		country_of_origin = Y7L
+		birth_date = 870.10.10
+		death_date = 930.10.10
+		female = yes
+		religion = mahayana
+		culture = mon
+	}
+	add_queen_personality = well_connected_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Napet"
+		monarch_name = "Napet II"
+		dynasty = "Tanah Tinggi"
+		adm = 6
+		dip = 4
+		mil = 6
+		birth_date = 889.11.9
+		death_date = 954.11.9
+		claim = 89
+		religion = buddhism
+		culture = mon
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+910.1.30= {
+	add_prestige = 56
+	add_treasury = 46
+}

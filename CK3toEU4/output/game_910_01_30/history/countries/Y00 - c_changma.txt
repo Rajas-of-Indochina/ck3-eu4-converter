@@ -1,0 +1,12 @@
+government = monarchy
+add_government_reform = confucian_bureaucracy
+government_rank = 1
+technology_group = chinese
+religion = confucianism
+primary_culture = xibei
+capital = 708
+fixed_capital = 708
+910.1.30= {
+	add_prestige = 82
+	add_treasury = 55
+}

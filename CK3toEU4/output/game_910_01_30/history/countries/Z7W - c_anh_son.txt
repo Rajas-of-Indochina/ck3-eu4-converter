@@ -1,0 +1,43 @@
+government = monarchy
+add_government_reform = mandala_reform
+government_rank = 1
+technology_group = western
+religion = converted_phat_giao
+primary_culture = vietnamese
+capital = 4821
+fixed_capital = 4821
+910.1.30= {
+	monarch = {
+		name = "Tam Trang"
+		dynasty = "Vo"
+		adm = 2
+		dip = 3
+		mil = 4
+		birth_date = 886.7.3
+		female = yes
+		religion = converted_phat_giao
+		culture = vietnamese
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	heir = {
+		name = "Khiem"
+		monarch_name = "Khiem"
+		dynasty = "al-Harrani"
+		adm = 5
+		dip = 6
+		mil = 6
+		birth_date = 840.3.27
+		death_date = 905.3.27
+		female = yes
+		claim = 89
+		religion = converted_phat_giao
+		culture = vietnamese
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+910.1.30= {
+	add_prestige = 58
+	add_treasury = 45
+}

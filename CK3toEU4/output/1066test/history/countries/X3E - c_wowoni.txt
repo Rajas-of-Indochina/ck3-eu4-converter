@@ -1,0 +1,52 @@
+government = tribal
+add_government_reform = tribal_kingdom
+government_rank = 1
+technology_group = western
+religion = converted_celebic
+capital = 4796
+fixed_capital = 4796
+1068.6.5= {
+	monarch = {
+		name = "Palonga"
+		dynasty = "Wowoni"
+		adm = 6
+		dip = 5
+		mil = 4
+		birth_date = 1042.12.2
+		religion = converted_celebic
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Taina"
+		dynasty = "Lapsay"
+		adm = 3
+		dip = 3
+		mil = 2
+		country_of_origin = X3E
+		birth_date = 1043.4.1
+		death_date = 1103.4.1
+		female = yes
+		religion = converted_celebic
+	}
+	add_queen_personality = well_connected_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Batara"
+		monarch_name = "Batara"
+		dynasty = "Wowoni"
+		adm = 4
+		dip = 3
+		mil = 3
+		birth_date = 1060.3.5
+		death_date = 1125.3.5
+		claim = 89
+		religion = converted_celebic
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+1068.6.5= {
+	add_prestige = 48
+	add_treasury = 43
+}

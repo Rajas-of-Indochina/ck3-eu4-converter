@@ -1,0 +1,56 @@
+government = tribal
+add_government_reform = tribal_kingdom
+government_rank = 1
+technology_group = east_african
+religion = coptic
+primary_culture = nubian
+capital = 1222
+910.1.30= {
+	monarch = {
+		name = "Theophilia"
+		dynasty = "Alwa"
+		adm = 3
+		dip = 3
+		mil = 3
+		birth_date = 876.7.31
+		female = yes
+		religion = coptic
+		culture = nubian
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Mašanñal"
+		dynasty = "Hadaatar"
+		adm = 3
+		dip = 4
+		mil = 4
+		country_of_origin = ALO
+		birth_date = 874.10.28
+		death_date = 934.10.28
+		religion = coptic
+		culture = nubian
+	}
+	add_queen_personality = well_connected_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Patrikia"
+		monarch_name = "Patrikia"
+		dynasty = "Alwa"
+		adm = 4
+		dip = 4
+		mil = 4
+		birth_date = 897.9.3
+		death_date = 962.9.3
+		female = yes
+		claim = 89
+		religion = coptic
+		culture = nubian
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+910.1.30= {
+	add_prestige = 58
+	add_treasury = 64
+}

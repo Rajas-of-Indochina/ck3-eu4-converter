@@ -1,0 +1,55 @@
+government = tribal
+add_government_reform = tribal_kingdom
+government_rank = 1
+technology_group = eastern
+religion = baltic_pagan
+primary_culture = old_prussian
+capital = 4524
+910.1.30= {
+	monarch = {
+		name = "Ulinniks"
+		dynasty = "Wilks"
+		adm = 3
+		dip = 3
+		mil = 4
+		birth_date = 872.6.23
+		religion = baltic_pagan
+		culture = old_prussian
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Nadzieja"
+		dynasty = "z Leczycan"
+		adm = 4
+		dip = 3
+		mil = 3
+		country_of_origin = Z4G
+		birth_date = 866.1.1
+		death_date = 926.1.1
+		female = yes
+		religion = baltic_pagan
+		culture = polish
+	}
+	add_queen_personality = well_connected_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Sergonis"
+		monarch_name = "Sergonis"
+		dynasty = "Wilks"
+		adm = 6
+		dip = 3
+		mil = 5
+		birth_date = 875.8.7
+		death_date = 940.8.7
+		claim = 89
+		religion = baltic_pagan
+		culture = old_prussian
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+910.1.30= {
+	add_prestige = 61
+	add_treasury = 27
+}

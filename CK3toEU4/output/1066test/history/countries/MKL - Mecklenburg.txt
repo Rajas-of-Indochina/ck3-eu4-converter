@@ -1,0 +1,55 @@
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+technology_group = western
+religion = slavic_pagan
+primary_culture = sorbian
+capital = 46
+1068.6.5= {
+	monarch = {
+		name = "Krutoj"
+		dynasty = "Wizlawid"
+		adm = 5
+		dip = 3
+		mil = 4
+		birth_date = 1035.1.1
+		religion = slavic_pagan
+		culture = sorbian
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Regelinda"
+		dynasty = "z Liubic"
+		adm = 0
+		dip = 5
+		mil = 3
+		country_of_origin = MKL
+		birth_date = 1035.2.8
+		death_date = 1095.2.8
+		female = yes
+		religion = slavic_pagan
+		culture = sorbian
+	}
+	add_queen_personality = well_connected_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Czcibór"
+		monarch_name = "Czcibór"
+		dynasty = "Wizlawid"
+		adm = 5
+		dip = 5
+		mil = 6
+		birth_date = 1052.1.11
+		death_date = 1117.1.11
+		claim = 89
+		religion = slavic_pagan
+		culture = sorbian
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+1068.6.5= {
+	add_prestige = 48
+	add_treasury = 48
+}

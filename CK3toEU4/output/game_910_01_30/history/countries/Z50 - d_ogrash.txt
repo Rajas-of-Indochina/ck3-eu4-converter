@@ -1,0 +1,55 @@
+government = tribal
+add_government_reform = steppe_horde
+government_rank = 1
+technology_group = chinese
+religion = tengri_pagan
+primary_culture = khalkha
+capital = 4220
+910.1.30= {
+	monarch = {
+		name = "Bodonchar Munkhag"
+		dynasty = "Munkhagid"
+		adm = 3
+		dip = 2
+		mil = 0
+		birth_date = 850.1.2
+		religion = tengri_pagan
+		culture = khalkha
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Sarkan"
+		dynasty = "al-Harrani"
+		adm = 6
+		dip = 0
+		mil = 3
+		country_of_origin = Z50
+		birth_date = 847.1.1
+		death_date = 907.1.1
+		female = yes
+		religion = tengri_pagan
+		culture = mongol
+	}
+	add_queen_personality = well_connected_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Sengun Bilge"
+		monarch_name = "Sengun Bilge"
+		dynasty = "Munkhagid"
+		adm = 0
+		dip = 2
+		mil = 2
+		birth_date = 904.11.23
+		death_date = 969.11.23
+		claim = 89
+		religion = tengri_pagan
+		culture = mongol
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+910.1.30= {
+	add_prestige = 65
+	add_treasury = 33
+}

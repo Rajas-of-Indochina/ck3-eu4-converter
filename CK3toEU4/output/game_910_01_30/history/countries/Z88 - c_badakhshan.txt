@@ -1,0 +1,42 @@
+government = monarchy
+add_government_reform = iqta
+government_rank = 1
+technology_group = muslim
+religion = sunni
+primary_culture = afghani
+capital = 452
+fixed_capital = 452
+religious_school = hanbali_school
+910.1.30= {
+	monarch = {
+		name = "Mehmûd"
+		dynasty = "Ghurid"
+		adm = 3
+		dip = 6
+		mil = 6
+		birth_date = 869.4.3
+		religion = sunni
+		culture = afghani
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	heir = {
+		name = "Nuh"
+		monarch_name = "Nuh"
+		dynasty = "al-Harrani"
+		adm = 0
+		dip = 5
+		mil = 3
+		birth_date = 843.9.19
+		death_date = 908.9.19
+		claim = 89
+		religion = sunni
+		culture = tajik
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+910.1.30= {
+	add_prestige = 55
+	add_treasury = 46
+}

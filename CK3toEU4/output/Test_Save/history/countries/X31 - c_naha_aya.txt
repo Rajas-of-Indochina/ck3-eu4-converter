@@ -1,0 +1,53 @@
+government = tribal
+add_government_reform = tribal_kingdom
+government_rank = 1
+technology_group = western
+religion = converted_kaharingan
+capital = 2711
+fixed_capital = 2711
+867.1.1= {
+	monarch = {
+		name = "Mamut"
+		dynasty = "Surapati"
+		adm = 3
+		dip = 0
+		mil = 3
+		birth_date = 830.5.19
+		religion = converted_kaharingan
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Mawinei"
+		dynasty = "Tun"
+		adm = 2
+		dip = 5
+		mil = 0
+		country_of_origin = X31
+		birth_date = 831.1.1
+		death_date = 891.1.1
+		female = yes
+		religion = converted_kaharingan
+	}
+	add_queen_personality = well_connected_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Nara"
+		monarch_name = "Nara"
+		dynasty = "Apau Ping"
+		adm = 0
+		dip = 6
+		mil = 2
+		birth_date = 847.7.29
+		death_date = 912.7.29
+		female = yes
+		claim = 89
+		religion = converted_kaharingan
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+867.1.1= {
+	add_prestige = 47
+	add_treasury = 32
+}

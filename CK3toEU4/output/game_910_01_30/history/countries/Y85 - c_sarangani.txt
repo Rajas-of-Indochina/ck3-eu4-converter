@@ -1,0 +1,52 @@
+government = tribal
+add_government_reform = tribal_kingdom
+government_rank = 1
+technology_group = western
+religion = converted_tulumanon
+capital = 652
+fixed_capital = 652
+910.1.30= {
+	monarch = {
+		name = "Tunyu II"
+		dynasty = "Awa"
+		adm = 3
+		dip = 3
+		mil = 3
+		birth_date = 869.2.19
+		religion = converted_tulumanon
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Limlim"
+		dynasty = "Wasile"
+		adm = 3
+		dip = 4
+		mil = 3
+		country_of_origin = Y85
+		birth_date = 876.2.24
+		death_date = 936.2.24
+		female = yes
+		religion = converted_nunusaku
+	}
+	add_queen_personality = well_connected_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Beynat"
+		monarch_name = "Beynat"
+		dynasty = "Awa"
+		adm = 6
+		dip = 5
+		mil = 4
+		birth_date = 896.1.18
+		death_date = 961.1.18
+		claim = 89
+		religion = converted_tulumanon
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+910.1.30= {
+	add_prestige = 53
+	add_treasury = 47
+}

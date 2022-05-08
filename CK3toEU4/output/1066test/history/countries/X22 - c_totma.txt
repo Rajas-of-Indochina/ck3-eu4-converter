@@ -1,0 +1,41 @@
+government = tribal
+add_government_reform = tribal_kingdom
+government_rank = 1
+technology_group = eastern
+religion = finnish_pagan
+primary_culture = karelian
+capital = 4262
+fixed_capital = 4262
+1068.6.5= {
+	monarch = {
+		name = "Ignoi"
+		dynasty = "Chudi"
+		adm = 6
+		dip = 5
+		mil = 5
+		birth_date = 1038.5.29
+		religion = finnish_pagan
+		culture = karelian
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	heir = {
+		name = "Heroi"
+		monarch_name = "Heroi"
+		dynasty = "Chudi"
+		adm = 1
+		dip = 2
+		mil = 1
+		birth_date = 1065.3.17
+		death_date = 1130.3.17
+		claim = 89
+		religion = finnish_pagan
+		culture = karelian
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+1068.6.5= {
+	add_prestige = 48
+	add_treasury = 44
+}

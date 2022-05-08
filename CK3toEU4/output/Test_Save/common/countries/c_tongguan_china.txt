@@ -1,0 +1,14 @@
+ck2_converter_generated = yes
+graphical_culture = asiangfx
+color = { 240 155 229 }
+monarch_names = {
+	"Congdang #0" = 0
+	"Hong #0" = -1
+	"Ruirong #0" = -1
+	"Sihui #0" = 0
+	"Xiaoyuan #0" = -1
+	"Xun #0" = 0
+	"Yan #0" = 0
+	"Yingmei #0" = -1
+	"Yuanfang #0" = 0
+}

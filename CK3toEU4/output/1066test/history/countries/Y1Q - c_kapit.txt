@@ -1,0 +1,53 @@
+government = tribal
+add_government_reform = tribal_kingdom
+government_rank = 1
+technology_group = western
+religion = converted_kaharingan
+capital = 4806
+fixed_capital = 4806
+1068.6.5= {
+	monarch = {
+		name = "Purok"
+		dynasty = "Roslan"
+		adm = 5
+		dip = 3
+		mil = 5
+		birth_date = 1040.11.7
+		religion = converted_kaharingan
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Ubong"
+		dynasty = "Mat"
+		adm = 2
+		dip = 2
+		mil = 2
+		country_of_origin = Y1Q
+		birth_date = 1041.8.16
+		death_date = 1101.8.16
+		female = yes
+		religion = converted_kaharingan
+	}
+	add_queen_personality = well_connected_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Mawinei"
+		monarch_name = "Mawinei"
+		dynasty = "Roslan"
+		adm = 1
+		dip = 2
+		mil = 2
+		birth_date = 1058.4.11
+		death_date = 1123.4.11
+		female = yes
+		claim = 89
+		religion = converted_kaharingan
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+1068.6.5= {
+	add_prestige = 47
+	add_treasury = 49
+}

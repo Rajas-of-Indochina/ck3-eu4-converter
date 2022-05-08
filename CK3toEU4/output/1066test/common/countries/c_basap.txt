@@ -1,0 +1,17 @@
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 252 8 102 }
+monarch_names = {
+	"Ampong #0" = 0
+	"Apoi #0" = 0
+	"Arai #0" = 0
+	"Danum #0" = -1
+	"Hante #0" = -1
+	"Jau #0" = 0
+	"Lisu #0" = 0
+	"Long #0" = -1
+	"Menteng #0" = 0
+	"Nara #0" = -1
+	"Purok #0" = 0
+	"Sulin #0" = -1
+}

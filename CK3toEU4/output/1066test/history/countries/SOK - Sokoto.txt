@@ -1,0 +1,41 @@
+government = tribal
+add_government_reform = tribal_kingdom
+government_rank = 1
+technology_group = sub_saharan
+religion = shamanism
+primary_culture = hausa
+capital = 1150
+fixed_capital = 1150
+1068.6.5= {
+	monarch = {
+		name = "Yerima"
+		dynasty = "Karbo"
+		adm = 4
+		dip = 2
+		mil = 6
+		birth_date = 1040.1.1
+		religion = shamanism
+		culture = hausa
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	heir = {
+		name = "Abarshi"
+		monarch_name = "Abarshi II"
+		dynasty = "Karbo"
+		adm = 0
+		dip = 0
+		mil = 2
+		birth_date = 1065.1.1
+		death_date = 1130.1.1
+		claim = 89
+		religion = shamanism
+		culture = hausa
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+1068.6.5= {
+	add_prestige = 50
+	add_treasury = 42
+}

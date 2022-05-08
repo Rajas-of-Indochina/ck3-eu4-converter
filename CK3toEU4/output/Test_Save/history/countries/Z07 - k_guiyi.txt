@@ -1,0 +1,41 @@
+government = monarchy
+add_government_reform = mandala_reform
+government_rank = 2
+technology_group = chinese
+religion = confucianism
+primary_culture = xibei
+capital = 708
+add_accepted_culture = sogdian
+867.1.1= {
+	monarch = {
+		name = "Huaishen"
+		dynasty = "Zhang"
+		adm = 3
+		dip = 0
+		mil = 3
+		birth_date = 820.1.1
+		religion = confucianism
+		culture = xibei
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	heir = {
+		name = "Yichao"
+		monarch_name = "Yichao II"
+		dynasty = "Zhang"
+		adm = 5
+		dip = 6
+		mil = 5
+		birth_date = 799.1.1
+		death_date = 864.1.1
+		claim = 89
+		religion = confucianism
+		culture = chihan
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+867.1.1= {
+	add_prestige = 47
+	add_treasury = 43
+}

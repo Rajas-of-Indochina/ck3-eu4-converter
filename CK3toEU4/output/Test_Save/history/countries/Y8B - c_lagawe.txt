@@ -1,0 +1,53 @@
+government = tribal
+add_government_reform = tribal_kingdom
+government_rank = 1
+technology_group = western
+religion = converted_kabunian
+capital = 2698
+fixed_capital = 2698
+867.1.1= {
+	monarch = {
+		name = "Pagi"
+		dynasty = "Bugyas"
+		adm = 3
+		dip = 2
+		mil = 4
+		birth_date = 845.1.1
+		religion = converted_kabunian
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Mati"
+		dynasty = "Salonga"
+		adm = 4
+		dip = 1
+		mil = 4
+		country_of_origin = Y8B
+		birth_date = 845.1.1
+		death_date = 905.1.1
+		female = yes
+		religion = converted_kabunian
+	}
+	add_queen_personality = well_connected_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Bina"
+		monarch_name = "Bina"
+		dynasty = "Orsini"
+		adm = 2
+		dip = 6
+		mil = 2
+		birth_date = 845.8.20
+		death_date = 910.8.20
+		female = yes
+		claim = 89
+		religion = converted_kabunian
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+867.1.1= {
+	add_prestige = 47
+	add_treasury = 35
+}

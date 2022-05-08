@@ -1,0 +1,55 @@
+government = tribal
+add_government_reform = steppe_horde
+government_rank = 1
+technology_group = nomad_group
+religion = tengri_pagan
+primary_culture = cuman
+capital = 476
+867.1.1= {
+	monarch = {
+		name = "Sokal"
+		dynasty = "Andjogli"
+		adm = 2
+		dip = 6
+		mil = 2
+		birth_date = 819.8.4
+		religion = tengri_pagan
+		culture = cuman
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Ayasun"
+		dynasty = "Urosoba"
+		adm = 1
+		dip = 2
+		mil = 3
+		country_of_origin = Z2G
+		birth_date = 825.6.14
+		death_date = 885.6.14
+		female = yes
+		religion = tengri_pagan
+		culture = cuman
+	}
+	add_queen_personality = well_connected_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Sirçan"
+		monarch_name = "Sirçan"
+		dynasty = "Andjogli"
+		adm = 5
+		dip = 2
+		mil = 2
+		birth_date = 846.11.3
+		death_date = 911.11.3
+		claim = 89
+		religion = tengri_pagan
+		culture = cuman
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+867.1.1= {
+	add_prestige = 47
+	add_treasury = 35
+}

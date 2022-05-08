@@ -1,0 +1,36 @@
+government = tribal
+add_government_reform = tribal_kingdom
+government_rank = 1
+technology_group = east_african
+religion = shamanism
+primary_culture = somali
+capital = 2795
+fixed_capital = 2795
+910.1.30= {
+	monarch = {
+		name = "(Regency Council)"
+		adm = 3
+		dip = 1
+		mil = 3
+		birth_date = 1.1.1
+		regent = yes
+		religion = shamanism
+		culture = somali
+	}
+	heir = {
+		name = "Hantale"
+		dynasty = "Abgal"
+		adm = 5
+		dip = 3
+		mil = 5
+		birth_date = 899.8.4
+		death_date = 964.8.4
+		claim = 89
+		religion = shamanism
+		culture = somali
+	}
+}
+910.1.30= {
+	add_prestige = 50
+	add_treasury = 30
+}

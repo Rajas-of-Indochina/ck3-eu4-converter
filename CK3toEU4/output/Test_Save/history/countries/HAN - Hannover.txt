@@ -1,0 +1,40 @@
+government = monarchy
+add_government_reform = english_monarchy
+government_rank = 1
+technology_group = western
+religion = catholic
+primary_culture = lower_saxon
+capital = 4771
+867.1.1= {
+	monarch = {
+		name = "Otto"
+		dynasty = "Ludolfinger"
+		adm = 3
+		dip = 3
+		mil = 4
+		birth_date = 851.1.1
+		religion = catholic
+		culture = lower_saxon
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	heir = {
+		name = "Bruno"
+		monarch_name = "Bruno"
+		dynasty = "Ludolfinger"
+		adm = 6
+		dip = 6
+		mil = 5
+		birth_date = 840.1.1
+		death_date = 905.1.1
+		claim = 89
+		religion = catholic
+		culture = lower_saxon
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+867.1.1= {
+	add_prestige = 47
+	add_treasury = 46
+}

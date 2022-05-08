@@ -1,0 +1,43 @@
+converted_burmic = {
+	converted_burmic = {
+		color = { 61 99 94 }
+		icon =  193
+		country = {
+ 
+		global_missionary_strength = -0.01
+		religious_unity = 0.25
+		tolerance_heathen = 2
+	
+
+		discipline = 0.05
+	
+
+		leader_naval_manuever = 1
+		global_ship_trade_power = 0.1
+	
+
+		heir_chance = 0.5
+	
+}
+		country_as_secondary = {
+ 
+		religious_unity = 0.25
+	
+
+		discipline = 0.025
+	
+}
+		province = {
+ 
+		local_missionary_strength = -0.02
+	
+
+		local_missionary_strength = 0.01
+	
+
+		local_missionary_strength = 0.02
+	
+}
+	}
+}
+

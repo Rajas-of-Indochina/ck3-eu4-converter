@@ -1,0 +1,56 @@
+government = tribal
+add_government_reform = tribal_kingdom
+government_rank = 1
+technology_group = western
+religion = norse_pagan
+primary_culture = swedish
+capital = 9
+fixed_capital = 9
+1068.6.5= {
+	monarch = {
+		name = "Botulf"
+		dynasty = "Frille"
+		adm = 3
+		dip = 3
+		mil = 2
+		birth_date = 1039.1.1
+		religion = norse_pagan
+		culture = swedish
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Sara"
+		dynasty = "Villnäs"
+		adm = 3
+		dip = 4
+		mil = 1
+		country_of_origin = X2C
+		birth_date = 1039.4.6
+		death_date = 1099.4.6
+		female = yes
+		religion = norse_pagan
+		culture = swedish
+	}
+	add_queen_personality = well_connected_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Frej"
+		monarch_name = "Frej"
+		dynasty = "Frille"
+		adm = 2
+		dip = 1
+		mil = 2
+		birth_date = 1064.5.9
+		death_date = 1129.5.9
+		claim = 89
+		religion = norse_pagan
+		culture = swedish
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+1068.6.5= {
+	add_prestige = 48
+	add_treasury = 39
+}

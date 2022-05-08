@@ -1,0 +1,11 @@
+government = monarchy
+add_government_reform = nayankara_reform
+government_rank = 1
+technology_group = indian
+religion = hinduism
+primary_culture = tamil
+capital = 4417
+867.1.1= {
+	add_prestige = 47
+	add_treasury = 51
+}

@@ -1,0 +1,55 @@
+government = tribal
+add_government_reform = tribal_kingdom
+government_rank = 1
+technology_group = eastern
+religion = baltic_pagan
+primary_culture = lithuanian
+capital = 4535
+867.1.1= {
+	monarch = {
+		name = "Palemon"
+		dynasty = "Palemonaitis"
+		adm = 0
+		dip = 3
+		mil = 3
+		birth_date = 825.1.1
+		religion = baltic_pagan
+		culture = lithuanian
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Žemyna"
+		dynasty = "of Žemaiteje"
+		adm = 0
+		dip = 2
+		mil = 0
+		country_of_origin = LIT
+		birth_date = 833.1.1
+		death_date = 893.1.1
+		female = yes
+		religion = baltic_pagan
+		culture = lithuanian
+	}
+	add_queen_personality = well_connected_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Kunos"
+		monarch_name = "Kunos"
+		dynasty = "Palemonaitis"
+		adm = 5
+		dip = 5
+		mil = 5
+		birth_date = 851.1.1
+		death_date = 916.1.1
+		claim = 89
+		religion = baltic_pagan
+		culture = lithuanian
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+867.1.1= {
+	add_prestige = 47
+	add_treasury = 32
+}

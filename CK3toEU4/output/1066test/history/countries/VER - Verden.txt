@@ -1,0 +1,56 @@
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+technology_group = western
+religion = catholic
+primary_culture = lower_saxon
+capital = 54
+fixed_capital = 54
+1068.6.5= {
+	monarch = {
+		name = "Lothar-Udo"
+		dynasty = "Udonen"
+		adm = 2
+		dip = 3
+		mil = 4
+		birth_date = 1025.1.2
+		religion = catholic
+		culture = lower_saxon
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Oda"
+		dynasty = "von Werle"
+		adm = 4
+		dip = 3
+		mil = 5
+		country_of_origin = VER
+		birth_date = 1050.1.2
+		death_date = 1110.1.2
+		female = yes
+		religion = catholic
+		culture = swabian
+	}
+	add_queen_personality = well_connected_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Heinrich"
+		monarch_name = "Heinrich"
+		dynasty = "Udonen"
+		adm = 1
+		dip = 1
+		mil = 1
+		birth_date = 1065.1.2
+		death_date = 1130.1.2
+		claim = 89
+		religion = catholic
+		culture = saxon
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+1068.6.5= {
+	add_prestige = 47
+	add_treasury = 39
+}

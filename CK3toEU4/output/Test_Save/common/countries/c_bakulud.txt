@@ -1,0 +1,16 @@
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 110 135 211 }
+monarch_names = {
+	"Banaag #0" = 0
+	"Daga #0" = -1
+	"Daha #0" = -1
+	"Dahitim #0" = -1
+	"Ingas #0" = 0
+	"Kabeling #0" = 0
+	"Kalayu #0" = 0
+	"Kulasi #0" = 0
+	"Mandig #0" = -1
+	"Muldung #0" = -1
+	"Palimanuk #0" = 0
+}

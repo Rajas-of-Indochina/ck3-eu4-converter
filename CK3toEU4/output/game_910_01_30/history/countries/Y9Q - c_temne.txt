@@ -1,0 +1,56 @@
+government = tribal
+add_government_reform = tribal_kingdom
+government_rank = 1
+technology_group = sub_saharan
+religion = shamanism
+primary_culture = senegambian
+capital = 1118
+fixed_capital = 1118
+910.1.30= {
+	monarch = {
+		name = "Konowa"
+		dynasty = "Bulom"
+		adm = 4
+		dip = 3
+		mil = 4
+		birth_date = 870.2.3
+		religion = shamanism
+		culture = senegambian
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Adja"
+		dynasty = "Keita"
+		adm = 5
+		dip = 3
+		mil = 5
+		country_of_origin = Y9Q
+		birth_date = 878.8.8
+		death_date = 938.8.8
+		female = yes
+		religion = shamanism
+		culture = mali
+	}
+	add_queen_personality = well_connected_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Kaijaah"
+		monarch_name = "Kaijaah"
+		dynasty = "Bulom"
+		adm = 1
+		dip = 0
+		mil = 0
+		birth_date = 904.8.9
+		death_date = 969.8.9
+		claim = 89
+		religion = shamanism
+		culture = senegambian
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+910.1.30= {
+	add_prestige = 62
+	add_treasury = 47
+}

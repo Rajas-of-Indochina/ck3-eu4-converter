@@ -1,0 +1,55 @@
+government = tribal
+add_government_reform = tribal_kingdom
+government_rank = 1
+technology_group = eastern
+religion = finnish_pagan
+primary_culture = sapmi
+capital = 18
+867.1.1= {
+	monarch = {
+		name = "Viggu"
+		dynasty = "Sapmi"
+		adm = 3
+		dip = 3
+		mil = 3
+		birth_date = 845.1.1
+		religion = finnish_pagan
+		culture = sapmi
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Giste"
+		dynasty = "Orsini"
+		adm = 2
+		dip = 3
+		mil = 2
+		country_of_origin = Z0G
+		birth_date = 850.1.1
+		death_date = 910.1.1
+		female = yes
+		religion = finnish_pagan
+		culture = sapmi
+	}
+	add_queen_personality = well_connected_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Lávrrohas"
+		monarch_name = "Lávrrohas"
+		dynasty = "Jochmoch"
+		adm = 0
+		dip = 1
+		mil = 3
+		birth_date = 845.1.1
+		death_date = 910.1.1
+		claim = 89
+		religion = finnish_pagan
+		culture = sapmi
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+867.1.1= {
+	add_prestige = 47
+	add_treasury = 33
+}

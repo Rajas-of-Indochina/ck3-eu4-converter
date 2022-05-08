@@ -1,0 +1,56 @@
+government = tribal
+add_government_reform = tribal_kingdom
+government_rank = 1
+technology_group = western
+religion = converted_kaharingan
+primary_culture = bornean
+capital = 2709
+fixed_capital = 2709
+1068.6.5= {
+	monarch = {
+		name = "Maharati"
+		dynasty = "Tarakan"
+		adm = 3
+		dip = 2
+		mil = 2
+		birth_date = 1043.8.8
+		religion = converted_kaharingan
+		culture = bornean
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Balawa"
+		dynasty = "Bejo"
+		adm = 5
+		dip = 4
+		mil = 5
+		country_of_origin = X0X
+		birth_date = 1043.1.14
+		death_date = 1103.1.14
+		female = yes
+		religion = converted_kaharingan
+		culture = bornean
+	}
+	add_queen_personality = well_connected_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Mamut"
+		monarch_name = "Mamut"
+		dynasty = "Tarakan"
+		adm = 1
+		dip = 2
+		mil = 2
+		birth_date = 1060.8.1
+		death_date = 1125.8.1
+		claim = 89
+		religion = converted_kaharingan
+		culture = bornean
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+1068.6.5= {
+	add_prestige = 49
+	add_treasury = 46
+}

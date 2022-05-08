@@ -1,0 +1,57 @@
+government = tribal
+add_government_reform = tribal_kingdom
+government_rank = 1
+technology_group = western
+religion = converted_ban_phi
+primary_culture = vietnamese
+capital = 4820
+fixed_capital = 4820
+867.1.1= {
+	monarch = {
+		name = "Ruang Rit"
+		dynasty = "Ariyanuntaka"
+		adm = 4
+		dip = 0
+		mil = 3
+		birth_date = 831.1.1
+		religion = converted_ban_phi
+		culture = vietnamese
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Yod Khamthip"
+		dynasty = "Chaimongkol"
+		adm = 6
+		dip = 3
+		mil = 3
+		country_of_origin = Y98
+		birth_date = 831.1.1
+		death_date = 891.1.1
+		female = yes
+		religion = converted_ban_phi
+		culture = vietnamese
+	}
+	add_queen_personality = well_connected_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Duang Kaew"
+		monarch_name = "Duang Kaew"
+		dynasty = "Orsini"
+		adm = 6
+		dip = 5
+		mil = 6
+		birth_date = 844.8.19
+		death_date = 909.8.19
+		female = yes
+		claim = 89
+		religion = converted_ban_phi
+		culture = vietnamese
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+867.1.1= {
+	add_prestige = 47
+	add_treasury = 32
+}

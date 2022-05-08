@@ -1,0 +1,57 @@
+government = tribal
+add_government_reform = tribal_kingdom
+government_rank = 1
+technology_group = western
+religion = converted_penunggu
+primary_culture = papuan
+capital = 1245
+fixed_capital = 1245
+1068.6.5= {
+	monarch = {
+		name = "Arif-ma-lamo"
+		dynasty = "Matbat"
+		adm = 0
+		dip = 2
+		mil = 1
+		birth_date = 1048.4.27
+		religion = converted_penunggu
+		culture = papuan
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Telip"
+		dynasty = "Kudur"
+		adm = 3
+		dip = 5
+		mil = 5
+		country_of_origin = X2X
+		birth_date = 1048.1.24
+		death_date = 1108.1.24
+		female = yes
+		religion = converted_penunggu
+		culture = papuan
+	}
+	add_queen_personality = well_connected_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Sangay"
+		monarch_name = "Sangay"
+		dynasty = "Matbat"
+		adm = 0
+		dip = 0
+		mil = 0
+		birth_date = 1065.8.2
+		death_date = 1130.8.2
+		female = yes
+		claim = 89
+		religion = converted_penunggu
+		culture = papuan
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+1068.6.5= {
+	add_prestige = 48
+	add_treasury = 32
+}

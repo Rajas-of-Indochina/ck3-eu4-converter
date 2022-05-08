@@ -1,0 +1,57 @@
+government = tribal
+add_government_reform = tribal_kingdom
+government_rank = 1
+technology_group = western
+religion = converted_umboh
+primary_culture = central_thai
+capital = 2390
+fixed_capital = 2390
+867.1.1= {
+	monarch = {
+		name = "Mengat"
+		dynasty = "Kraburi"
+		adm = 2
+		dip = 3
+		mil = 3
+		birth_date = 843.1.1
+		religion = converted_umboh
+		culture = central_thai
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Kencana"
+		dynasty = "Kampar"
+		adm = 2
+		dip = 3
+		mil = 2
+		country_of_origin = Y7K
+		birth_date = 843.1.1
+		death_date = 903.1.1
+		female = yes
+		religion = converted_umboh
+		culture = central_thai
+	}
+	add_queen_personality = well_connected_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Cempaka"
+		monarch_name = "Cempaka"
+		dynasty = "Orsini"
+		adm = 6
+		dip = 2
+		mil = 6
+		birth_date = 834.4.25
+		death_date = 899.4.25
+		female = yes
+		claim = 89
+		religion = converted_umboh
+		culture = central_thai
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+867.1.1= {
+	add_prestige = 47
+	add_treasury = 35
+}

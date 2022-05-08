@@ -1,0 +1,56 @@
+government = tribal
+add_government_reform = steppe_horde
+government_rank = 1
+technology_group = eastern
+religion = siberian_pagan
+primary_culture = ostyaki
+capital = 1780
+fixed_capital = 1780
+910.1.30= {
+	monarch = {
+		name = "Rateg"
+		dynasty = "Sosvan"
+		adm = 4
+		dip = 2
+		mil = 4
+		birth_date = 860.9.22
+		religion = siberian_pagan
+		culture = ostyaki
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Toyaksha"
+		dynasty = "al-Harrani"
+		adm = 4
+		dip = 0
+		mil = 4
+		country_of_origin = Y93
+		birth_date = 860.3.21
+		death_date = 920.3.21
+		female = yes
+		religion = siberian_pagan
+		culture = ostyaki
+	}
+	add_queen_personality = well_connected_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Kya"
+		monarch_name = "Kya"
+		dynasty = "Sosvan"
+		adm = 6
+		dip = 3
+		mil = 5
+		birth_date = 895.7.20
+		death_date = 960.7.20
+		claim = 89
+		religion = siberian_pagan
+		culture = ostyaki
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+910.1.30= {
+	add_prestige = 61
+	add_treasury = 47
+}

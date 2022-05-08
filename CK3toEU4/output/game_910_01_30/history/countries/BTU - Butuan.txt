@@ -1,0 +1,55 @@
+government = tribal
+add_government_reform = tribal_kingdom
+government_rank = 2
+technology_group = chinese
+religion = converted_dayaw
+primary_culture = filipino
+capital = 2701
+910.1.30= {
+	monarch = {
+		name = "Dalan"
+		dynasty = "Bantay"
+		adm = 4
+		dip = 5
+		mil = 3
+		birth_date = 845.1.1
+		religion = converted_dayaw
+		culture = filipino
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Muldung"
+		dynasty = "Nacalaban"
+		adm = 4
+		dip = 1
+		mil = 5
+		country_of_origin = BTU
+		birth_date = 873.3.21
+		death_date = 933.3.21
+		female = yes
+		religion = converted_kabunian
+		culture = filipino
+	}
+	add_queen_personality = well_connected_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Pawikan"
+		monarch_name = "Pawikan"
+		dynasty = "Bantay"
+		adm = 5
+		dip = 5
+		mil = 6
+		birth_date = 884.3.14
+		death_date = 949.3.14
+		claim = 89
+		religion = converted_papaiagan
+		culture = filipino
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+910.1.30= {
+	add_prestige = 88
+	add_treasury = 56
+}

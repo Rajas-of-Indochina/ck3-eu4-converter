@@ -1,0 +1,58 @@
+government = tribal
+add_government_reform = tribal_kingdom
+government_rank = 1
+technology_group = western
+religion = slavic_pagan
+primary_culture = polish
+capital = 1859
+fixed_capital = 1859
+add_accepted_culture = old_prussian
+910.1.30= {
+	monarch = {
+		name = "Gabriela"
+		dynasty = "z Goplan"
+		adm = 2
+		dip = 2
+		mil = 3
+		birth_date = 868.7.9
+		female = yes
+		religion = slavic_pagan
+		culture = polish
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Snowid"
+		dynasty = "Zahumski"
+		adm = 4
+		dip = 4
+		mil = 2
+		country_of_origin = X04
+		birth_date = 874.5.27
+		death_date = 934.5.27
+		religion = slavic_pagan
+		culture = polish
+	}
+	add_queen_personality = well_connected_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Wolislawa"
+		monarch_name = "Wolislawa"
+		dynasty = "Zahumski"
+		adm = 2
+		dip = 5
+		mil = 3
+		birth_date = 897.9.27
+		death_date = 962.9.27
+		female = yes
+		claim = 89
+		religion = slavic_pagan
+		culture = polish
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+910.1.30= {
+	add_prestige = 67
+	add_treasury = 52
+}

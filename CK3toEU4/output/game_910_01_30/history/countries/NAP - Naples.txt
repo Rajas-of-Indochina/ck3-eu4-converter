@@ -1,0 +1,56 @@
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+technology_group = eastern
+religion = orthodox
+primary_culture = magnagreek
+capital = 121
+fixed_capital = 121
+910.1.30= {
+	monarch = {
+		name = "Gregorios IV"
+		dynasty = "Spartenos"
+		adm = 4
+		dip = 4
+		mil = 3
+		birth_date = 864.1.1
+		religion = orthodox
+		culture = magnagreek
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Agathe"
+		dynasty = "al-Harrani"
+		adm = 4
+		dip = 1
+		mil = 4
+		country_of_origin = NAP
+		birth_date = 869.6.2
+		death_date = 929.6.2
+		female = yes
+		religion = orthodox
+		culture = cosmopolitan_french
+	}
+	add_queen_personality = well_connected_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Sergios"
+		monarch_name = "Sergios III"
+		dynasty = "Spartenos"
+		adm = 6
+		dip = 5
+		mil = 6
+		birth_date = 895.6.10
+		death_date = 960.6.10
+		claim = 89
+		religion = orthodox
+		culture = greek
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+910.1.30= {
+	add_prestige = 49
+	add_treasury = 49
+}

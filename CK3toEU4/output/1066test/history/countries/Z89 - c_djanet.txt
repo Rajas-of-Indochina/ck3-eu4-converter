@@ -1,0 +1,41 @@
+government = tribal
+add_government_reform = tribal_federation
+government_rank = 1
+technology_group = muslim
+religion = ibadi
+primary_culture = berber
+capital = 4567
+fixed_capital = 4567
+1068.6.5= {
+	monarch = {
+		name = "Kaldin"
+		dynasty = "Kaldinid"
+		adm = 5
+		dip = 4
+		mil = 3
+		birth_date = 1029.1.1
+		religion = ibadi
+		culture = berber
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	heir = {
+		name = "Ma'afira"
+		monarch_name = "Ma'afira"
+		dynasty = "Kaldinid"
+		adm = 4
+		dip = 4
+		mil = 4
+		birth_date = 1051.1.1
+		death_date = 1116.1.1
+		claim = 89
+		religion = ibadi
+		culture = berber
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+1068.6.5= {
+	add_prestige = 47
+	add_treasury = 44
+}

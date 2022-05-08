@@ -1,0 +1,42 @@
+government = tribal
+add_government_reform = tribal_federation
+government_rank = 1
+technology_group = muslim
+religion = sunni
+primary_culture = hejazi_culture
+capital = 4273
+fixed_capital = 4273
+religious_school = hanbali_school
+867.1.1= {
+	monarch = {
+		name = "Yazid"
+		dynasty = "Suleimid"
+		adm = 5
+		dip = 1
+		mil = 4
+		birth_date = 840.1.1
+		religion = sunni
+		culture = hejazi_culture
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	heir = {
+		name = "A'war"
+		monarch_name = "A'war"
+		dynasty = "Suleimid"
+		adm = 0
+		dip = 0
+		mil = 0
+		birth_date = 867.1.1
+		death_date = 932.1.1
+		claim = 89
+		religion = sunni
+		culture = bedouin_arabic
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+867.1.1= {
+	add_prestige = 47
+	add_treasury = 33
+}

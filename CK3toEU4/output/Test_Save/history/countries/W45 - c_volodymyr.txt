@@ -1,0 +1,41 @@
+government = tribal
+add_government_reform = tribal_kingdom
+government_rank = 1
+technology_group = eastern
+religion = slavic_pagan
+primary_culture = ruthenian
+capital = 279
+fixed_capital = 279
+867.1.1= {
+	monarch = {
+		name = "Yuriy"
+		dynasty = "Volhynsky"
+		adm = 6
+		dip = 2
+		mil = 5
+		birth_date = 834.5.16
+		religion = slavic_pagan
+		culture = ruthenian
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	heir = {
+		name = "Feodot"
+		monarch_name = "Feodot"
+		dynasty = "Volhynsky"
+		adm = 1
+		dip = 0
+		mil = 0
+		birth_date = 864.11.30
+		death_date = 929.11.30
+		claim = 89
+		religion = slavic_pagan
+		culture = russian_culture
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+867.1.1= {
+	add_prestige = 47
+	add_treasury = 35
+}

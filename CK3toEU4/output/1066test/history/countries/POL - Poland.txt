@@ -1,0 +1,55 @@
+government = monarchy
+add_government_reform = english_monarchy
+government_rank = 2
+technology_group = western
+religion = catholic
+primary_culture = polish
+capital = 262
+1068.6.5= {
+	monarch = {
+		name = "Boleslaw II"
+		dynasty = "Piast"
+		adm = 5
+		dip = 4
+		mil = 5
+		birth_date = 1042.1.1
+		religion = catholic
+		culture = polish
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Wyszeslawa"
+		dynasty = "Poluektovich"
+		adm = 2
+		dip = 3
+		mil = 2
+		country_of_origin = POL
+		birth_date = 1047.1.1
+		death_date = 1107.1.1
+		female = yes
+		religion = orthodox
+		culture = russian_culture
+	}
+	add_queen_personality = well_connected_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Wladyslaw"
+		monarch_name = "Wladyslaw"
+		dynasty = "Piast"
+		adm = 6
+		dip = 5
+		mil = 6
+		birth_date = 1043.1.2
+		death_date = 1108.1.2
+		claim = 89
+		religion = catholic
+		culture = polish
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+1068.6.5= {
+	add_prestige = 54
+	add_treasury = 48
+}

@@ -1,0 +1,41 @@
+government = tribal
+add_government_reform = tribal_kingdom
+government_rank = 1
+technology_group = western
+religion = catholic
+primary_culture = irish
+capital = 376
+fixed_capital = 376
+867.1.1= {
+	monarch = {
+		name = "Mugrón"
+		dynasty = "ua Briúin Aí"
+		adm = 2
+		dip = 3
+		mil = 2
+		birth_date = 808.1.1
+		religion = catholic
+		culture = irish
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	heir = {
+		name = "Muiredach"
+		monarch_name = "Muiredach"
+		dynasty = "ua Briúin Aí"
+		adm = 6
+		dip = 5
+		mil = 6
+		birth_date = 847.1.1
+		death_date = 912.1.1
+		claim = 89
+		religion = catholic
+		culture = irish
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+867.1.1= {
+	add_prestige = 47
+	add_treasury = 33
+}

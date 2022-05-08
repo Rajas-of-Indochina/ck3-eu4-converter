@@ -1,0 +1,42 @@
+government = tribal
+add_government_reform = tribal_kingdom
+government_rank = 1
+technology_group = sub_saharan
+religion = shamanism
+primary_culture = senegambian
+capital = 1113
+fixed_capital = 1113
+910.1.30= {
+	monarch = {
+		name = "Yalla"
+		dynasty = "Kayor"
+		adm = 2
+		dip = 2
+		mil = 2
+		birth_date = 892.10.27
+		female = yes
+		religion = shamanism
+		culture = senegambian
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	heir = {
+		name = "Gboto"
+		monarch_name = "Gboto"
+		dynasty = "Nalu"
+		adm = 5
+		dip = 5
+		mil = 4
+		birth_date = 877.1.15
+		death_date = 942.1.15
+		claim = 89
+		religion = shamanism
+		culture = senegambian
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+910.1.30= {
+	add_prestige = 53
+	add_treasury = 51
+}

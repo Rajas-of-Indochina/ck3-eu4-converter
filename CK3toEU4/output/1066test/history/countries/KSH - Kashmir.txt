@@ -1,0 +1,40 @@
+government = monarchy
+add_government_reform = mandala_reform
+government_rank = 2
+technology_group = indian
+religion = hinduism
+primary_culture = kashmiri
+capital = 508
+1068.6.5= {
+	monarch = {
+		name = "Kalasa"
+		dynasty = "Lohara"
+		adm = 4
+		dip = 1
+		mil = 6
+		birth_date = 1048.1.1
+		religion = hinduism
+		culture = kashmiri
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	heir = {
+		name = "Ananta"
+		monarch_name = "Ananta II"
+		dynasty = "Lohara"
+		adm = 4
+		dip = 5
+		mil = 6
+		birth_date = 1020.1.1
+		death_date = 1085.1.1
+		claim = 89
+		religion = hinduism
+		culture = kashmiri
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+1068.6.5= {
+	add_prestige = 49
+	add_treasury = 30
+}

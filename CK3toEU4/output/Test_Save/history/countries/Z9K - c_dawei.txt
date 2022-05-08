@@ -1,0 +1,57 @@
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+technology_group = western
+religion = buddhism
+primary_culture = mon
+capital = 591
+fixed_capital = 591
+867.1.1= {
+	monarch = {
+		name = "Wiruman"
+		dynasty = "Wiruman"
+		adm = 0
+		dip = 2
+		mil = 0
+		birth_date = 832.1.1
+		religion = buddhism
+		culture = mon
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Nadi"
+		dynasty = "Prome"
+		adm = 5
+		dip = 2
+		mil = 3
+		country_of_origin = Z9K
+		birth_date = 832.1.1
+		death_date = 892.1.1
+		female = yes
+		religion = buddhism
+		culture = mon
+	}
+	add_queen_personality = well_connected_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Kalya"
+		monarch_name = "Kalya"
+		dynasty = "Orsini"
+		adm = 6
+		dip = 4
+		mil = 6
+		birth_date = 845.10.11
+		death_date = 910.10.11
+		female = yes
+		claim = 89
+		religion = buddhism
+		culture = mon
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+867.1.1= {
+	add_prestige = 47
+	add_treasury = 34
+}

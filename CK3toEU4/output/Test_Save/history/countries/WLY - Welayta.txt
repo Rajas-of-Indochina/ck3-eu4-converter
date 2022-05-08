@@ -1,0 +1,41 @@
+government = tribal
+add_government_reform = tribal_kingdom
+government_rank = 1
+technology_group = east_african
+religion = shamanism
+primary_culture = sidamo
+capital = 2757
+fixed_capital = 2757
+867.1.1= {
+	monarch = {
+		name = "Sakho"
+		dynasty = "Welamo"
+		adm = 3
+		dip = 4
+		mil = 1
+		birth_date = 830.1.1
+		religion = shamanism
+		culture = sidamo
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	heir = {
+		name = "Sorogoye"
+		monarch_name = "Sorogoye"
+		dynasty = "Welamo"
+		adm = 1
+		dip = 2
+		mil = 1
+		birth_date = 862.1.1
+		death_date = 927.1.1
+		claim = 89
+		religion = shamanism
+		culture = sidamo
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+867.1.1= {
+	add_prestige = 47
+	add_treasury = 34
+}

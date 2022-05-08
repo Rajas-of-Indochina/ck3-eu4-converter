@@ -1,0 +1,56 @@
+government = tribal
+add_government_reform = tribal_kingdom
+government_rank = 1
+technology_group = sub_saharan
+religion = shamanism
+primary_culture = mali
+capital = 2253
+fixed_capital = 2253
+1068.6.5= {
+	monarch = {
+		name = "Doucouri II"
+		dynasty = "Fing"
+		adm = 0
+		dip = 1
+		mil = 2
+		birth_date = 1018.1.1
+		religion = shamanism
+		culture = mali
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Youma"
+		dynasty = "Orsini"
+		adm = 2
+		dip = 0
+		mil = 2
+		country_of_origin = Z5P
+		birth_date = 1050.4.20
+		death_date = 1110.4.20
+		female = yes
+		religion = shamanism
+		culture = mali
+	}
+	add_queen_personality = well_connected_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Ewunio"
+		monarch_name = "Ewunio II"
+		dynasty = "Fing"
+		adm = 2
+		dip = 3
+		mil = 5
+		birth_date = 1058.1.1
+		death_date = 1123.1.1
+		claim = 89
+		religion = shamanism
+		culture = mali
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+1068.6.5= {
+	add_prestige = 47
+	add_treasury = 15
+}

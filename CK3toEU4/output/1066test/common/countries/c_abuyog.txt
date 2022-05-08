@@ -1,0 +1,18 @@
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 217 221 33 }
+monarch_names = {
+	"Alangkasalat #0" = -1
+	"Asud #0" = 0
+	"Balanuin #0" = -1
+	"Bulah #0" = 0
+	"Gada #0" = -1
+	"Galang #0" = 0
+	"Garaw #0" = 0
+	"Hangin #0" = 0
+	"Kagit #0" = -1
+	"Kalaw #0" = 0
+	"Malay #0" = -1
+	"Masana #0" = 0
+	"Tahilan #0" = -1
+}

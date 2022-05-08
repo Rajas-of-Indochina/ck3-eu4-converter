@@ -1,0 +1,42 @@
+government = tribal
+add_government_reform = tribal_federation
+government_rank = 1
+technology_group = sub_saharan
+religion = sunni
+primary_culture = kanuri
+capital = 2275
+fixed_capital = 2275
+religious_school = hanbali_school
+1068.6.5= {
+	monarch = {
+		name = "Hummay"
+		dynasty = "Sayfawa"
+		adm = 3
+		dip = 4
+		mil = 2
+		birth_date = 1050.1.1
+		religion = sunni
+		culture = kanuri
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	heir = {
+		name = "Biri"
+		monarch_name = "Biri"
+		dynasty = "Orsini"
+		adm = 3
+		dip = 5
+		mil = 6
+		birth_date = 1006.1.2
+		death_date = 1071.1.2
+		claim = 89
+		religion = sunni
+		culture = kanuri
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+1068.6.5= {
+	add_prestige = 48
+	add_treasury = 42
+}

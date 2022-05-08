@@ -1,0 +1,56 @@
+government = tribal
+add_government_reform = tribal_kingdom
+government_rank = 1
+technology_group = western
+religion = converted_kaharingan
+primary_culture = bornean
+capital = 2703
+fixed_capital = 2703
+910.1.30= {
+	monarch = {
+		name = "Sanja"
+		dynasty = "Kinabatangan"
+		adm = 2
+		dip = 4
+		mil = 4
+		birth_date = 859.1.1
+		female = yes
+		religion = converted_kaharingan
+		culture = bornean
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Binti"
+		dynasty = "Sinduk"
+		adm = 3
+		dip = 3
+		mil = 4
+		country_of_origin = Y3M
+		birth_date = 867.11.1
+		death_date = 927.11.1
+		religion = converted_kaharingan
+		culture = bornean
+	}
+	add_queen_personality = well_connected_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Mawinei"
+		monarch_name = "Mawinei"
+		dynasty = "Kinabatangan"
+		adm = 5
+		dip = 6
+		mil = 6
+		birth_date = 886.8.21
+		death_date = 951.8.21
+		claim = 89
+		religion = converted_kaharingan
+		culture = bornean
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+910.1.30= {
+	add_prestige = 72
+	add_treasury = 56
+}

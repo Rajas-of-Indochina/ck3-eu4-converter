@@ -1,0 +1,41 @@
+government = tribal
+add_government_reform = tribal_kingdom
+government_rank = 1
+technology_group = eastern
+religion = finnish_pagan
+primary_culture = karelian
+capital = 314
+910.1.30= {
+	monarch = {
+		name = "Mirjam"
+		dynasty = "Volan"
+		adm = 3
+		dip = 2
+		mil = 3
+		birth_date = 887.10.31
+		female = yes
+		religion = finnish_pagan
+		culture = karelian
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	heir = {
+		name = "Sosoi"
+		monarch_name = "Sosoi"
+		dynasty = "Volan"
+		adm = 5
+		dip = 6
+		mil = 6
+		birth_date = 878.4.3
+		death_date = 943.4.3
+		claim = 89
+		religion = finnish_pagan
+		culture = karelian
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+910.1.30= {
+	add_prestige = 61
+	add_treasury = 65
+}

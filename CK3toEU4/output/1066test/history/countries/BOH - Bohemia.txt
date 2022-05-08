@@ -1,0 +1,56 @@
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+technology_group = western
+religion = catholic
+primary_culture = czech
+capital = 266
+elector = yes
+1068.6.5= {
+	monarch = {
+		name = "Vratislav II"
+		dynasty = "Premyslid"
+		adm = 2
+		dip = 3
+		mil = 3
+		birth_date = 1032.1.1
+		religion = catholic
+		culture = czech
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Swietoslawa"
+		dynasty = "Piast"
+		adm = 3
+		dip = 3
+		mil = 1
+		country_of_origin = BOH
+		birth_date = 1048.1.2
+		death_date = 1108.1.2
+		female = yes
+		religion = catholic
+		culture = polish
+	}
+	add_queen_personality = well_connected_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Konrád"
+		monarch_name = "Konrád"
+		dynasty = "Premyslid"
+		adm = 5
+		dip = 4
+		mil = 5
+		birth_date = 1035.1.1
+		death_date = 1100.1.1
+		claim = 89
+		religion = catholic
+		culture = czech
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+1068.6.5= {
+	add_prestige = 58
+	add_treasury = 59
+}

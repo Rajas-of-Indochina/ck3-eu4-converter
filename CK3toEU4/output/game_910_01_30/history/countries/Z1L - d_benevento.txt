@@ -1,0 +1,57 @@
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+technology_group = western
+religion = catholic
+primary_culture = salernian
+capital = 4734
+add_accepted_culture = beneventine
+910.1.30= {
+	monarch = {
+		name = "Radelchis II"
+		dynasty = "Radelchisidi"
+		adm = 4
+		dip = 5
+		mil = 3
+		birth_date = 845.1.1
+		religion = catholic
+		culture = salernian
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Adelgrima"
+		dynasty = "Dauferidi"
+		adm = 3
+		dip = 3
+		mil = 3
+		country_of_origin = Z1L
+		birth_date = 892.4.17
+		death_date = 952.4.17
+		female = yes
+		religion = catholic
+		culture = old_lombard
+	}
+	add_queen_personality = well_connected_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Theodarada"
+		monarch_name = "Theodarada"
+		dynasty = "Radelchisidi"
+		adm = 6
+		dip = 4
+		mil = 6
+		birth_date = 879.7.25
+		death_date = 944.7.25
+		female = yes
+		claim = 89
+		religion = catholic
+		culture = old_lombard
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+910.1.30= {
+	add_prestige = 61
+	add_treasury = 55
+}

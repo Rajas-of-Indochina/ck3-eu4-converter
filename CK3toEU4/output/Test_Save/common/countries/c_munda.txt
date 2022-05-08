@@ -1,0 +1,18 @@
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 38 148 21 }
+monarch_names = {
+	"Cimmavisnu #0" = 0
+	"Dharnidhara #1" = 10
+	"Eluvattûr #0" = -1
+	"Gangakavilasa #0" = 0
+	"Kalacci #0" = -1
+	"Kontân #0" = 0
+	"Olimatiyâr #0" = -1
+	"Parânkucan #0" = 0
+	"Ponnampalattatikalâr #0" = -1
+	"Prithivarman #0" = 0
+	"Tirunattapperumâl #0" = 0
+	"Vijnayavati #0" = -1
+	"Yajiyavati #0" = -1
+}

@@ -1,0 +1,71 @@
+ck2_converter_generated = yes
+graphical_culture = asiangfx
+color = { 202 217 170 }
+revolutionary_colors = { 14 8 14 }
+historical_idea_groups = {
+	offensive_ideas
+	defensive_ideas
+	trade_ideas
+	spy_ideas
+	diplomatic_ideas
+	economic_ideas
+	quality_ideas
+	religious_ideas
+}
+historical_units = {
+	reformed_steppe_rifles
+	steppe_cavalry
+	steppe_footmen
+	steppe_infantry
+	steppe_lancers
+	steppe_mounted_raiders
+	steppe_musketeers
+	steppe_raiders
+	steppe_riders
+	steppe_rifles
+	steppe_uhlans
+}
+monarch_names = {
+	"Aibak #0" = 0
+	"Eldeçyuk #0" = 0
+	"Etrek #0" = 0
+	"Gzi #0" = 0
+	"Karan #0" = 0
+	"Kotyan #0" = 0
+	"Kutan #0" = 0
+	"Mala #0" = -1
+	"Sarica #0" = -1
+	"Çilbu #1" = 10
+}
+leader_names = {
+	"Batu Arslan"
+	"Bora Unegen"
+	"Burilgijin"
+	"Chagan Chinua"
+	"Cherenqai"
+	"Kokechar"
+	"Mongke Cheren"
+	"Qutughgge"
+	"Suren Gal"
+	"Tegus-tu"
+	"Temurgene"
+	"Toluichu"
+	"Yekedai"
+}
+ship_names = {
+	"Cu"
+	"Emba"
+	"Ili"
+	"Irtys"
+	"Isim"
+	"Kisi Jüz"
+	"Nura"
+	"Orta Jüz"
+	"Qoja"
+	"Syrdarja"
+	"Turgay"
+	"Tölengit"
+	"Töre"
+	"Uil"
+	"Uli Jüz"
+}

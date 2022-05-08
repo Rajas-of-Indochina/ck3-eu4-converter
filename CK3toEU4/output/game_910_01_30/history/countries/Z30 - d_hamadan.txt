@@ -1,0 +1,58 @@
+government = monarchy
+add_government_reform = iqta
+government_rank = 1
+technology_group = muslim
+religion = sunni
+primary_culture = bedouin_arabic
+capital = 414
+religious_school = hanbali_school
+add_accepted_culture = luri
+add_accepted_culture = persian
+910.1.30= {
+	monarch = {
+		name = "Abu-Bakr"
+		dynasty = "Dulafid"
+		adm = 4
+		dip = 3
+		mil = 4
+		birth_date = 868.3.14
+		religion = sunni
+		culture = bedouin_arabic
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Maymunah"
+		dynasty = "Tulunid"
+		adm = 3
+		dip = 3
+		mil = 2
+		country_of_origin = Z30
+		birth_date = 865.12.13
+		death_date = 925.12.13
+		female = yes
+		religion = sunni
+		culture = al_misr_arabic
+	}
+	add_queen_personality = well_connected_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Bahir"
+		monarch_name = "Bahir"
+		dynasty = "Dulafid"
+		adm = 0
+		dip = 1
+		mil = 1
+		birth_date = 905.6.23
+		death_date = 970.6.23
+		claim = 89
+		religion = sunni
+		culture = bedouin_arabic
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+910.1.30= {
+	add_prestige = 64
+	add_treasury = 45
+}

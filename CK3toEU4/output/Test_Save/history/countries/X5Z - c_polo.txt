@@ -1,0 +1,51 @@
+government = tribal
+add_government_reform = tribal_kingdom
+government_rank = 1
+technology_group = western
+religion = converted_kadai
+867.1.1= {
+	monarch = {
+		name = "Garaw"
+		dynasty = "Ona"
+		adm = 3
+		dip = 1
+		mil = 5
+		birth_date = 849.8.20
+		religion = converted_kadai
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Irangin"
+		dynasty = "Masakayan"
+		adm = 6
+		dip = 5
+		mil = 6
+		country_of_origin = X5Z
+		birth_date = 850.1.1
+		death_date = 910.1.1
+		female = yes
+		religion = converted_kadai
+	}
+	add_queen_personality = well_connected_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Payuan"
+		monarch_name = "Payuan"
+		dynasty = "Orsini"
+		adm = 3
+		dip = 5
+		mil = 6
+		birth_date = 848.4.22
+		death_date = 913.4.22
+		female = yes
+		claim = 89
+		religion = converted_kadai
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+867.1.1= {
+	add_prestige = 47
+	add_treasury = 31
+}

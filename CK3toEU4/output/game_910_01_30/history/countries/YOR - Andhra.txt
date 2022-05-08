@@ -1,0 +1,55 @@
+government = monarchy
+add_government_reform = mandala_reform
+government_rank = 2
+technology_group = indian
+religion = hinduism
+primary_culture = tamil
+capital = 543
+910.1.30= {
+	monarch = {
+		name = "Aparâcitavarman"
+		dynasty = "Pallava"
+		adm = 4
+		dip = 1
+		mil = 1
+		birth_date = 841.1.1
+		religion = hinduism
+		culture = tamil
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Tissabuti"
+		dynasty = "Lambakanna"
+		adm = 3
+		dip = 3
+		mil = 4
+		country_of_origin = YOR
+		birth_date = 884.9.27
+		death_date = 944.9.27
+		female = yes
+		religion = buddhism
+		culture = sinhala
+	}
+	add_queen_personality = well_connected_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Nantivarman"
+		monarch_name = "Nantivarman"
+		dynasty = "Pallava"
+		adm = 6
+		dip = 6
+		mil = 4
+		birth_date = 869.3.6
+		death_date = 934.3.6
+		claim = 89
+		religion = hinduism
+		culture = tamil
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+910.1.30= {
+	add_prestige = 73
+	add_treasury = 64
+}

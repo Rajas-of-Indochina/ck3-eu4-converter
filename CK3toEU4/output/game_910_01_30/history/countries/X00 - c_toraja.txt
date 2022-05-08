@@ -1,0 +1,53 @@
+government = tribal
+add_government_reform = tribal_kingdom
+government_rank = 1
+technology_group = western
+religion = converted_alukta
+capital = 2715
+fixed_capital = 2715
+910.1.30= {
+	monarch = {
+		name = "Tumammalianga"
+		dynasty = "Toraja"
+		adm = 4
+		dip = 3
+		mil = 4
+		birth_date = 887.6.22
+		religion = converted_alukta
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Raunui"
+		dynasty = "Mamasa"
+		adm = 5
+		dip = 3
+		mil = 4
+		country_of_origin = X00
+		birth_date = 882.6.16
+		death_date = 942.6.16
+		female = yes
+		religion = converted_alukta
+	}
+	add_queen_personality = well_connected_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Titaina"
+		monarch_name = "Titaina II"
+		dynasty = "Toraja"
+		adm = 0
+		dip = 0
+		mil = 0
+		birth_date = 907.11.28
+		death_date = 972.11.28
+		female = yes
+		claim = 89
+		religion = converted_alukta
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+910.1.30= {
+	add_prestige = 52
+	add_treasury = 56
+}

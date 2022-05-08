@@ -1,0 +1,41 @@
+government = monarchy
+add_government_reform = iqta
+government_rank = 1
+technology_group = muslim
+religion = kharijite
+primary_culture = moroccan
+capital = 2460
+fixed_capital = 2460
+867.1.1= {
+	monarch = {
+		name = "Maymun"
+		dynasty = "Midrarid"
+		adm = 3
+		dip = 6
+		mil = 4
+		birth_date = 830.1.1
+		religion = kharijite
+		culture = moroccan
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	heir = {
+		name = "Midrar"
+		monarch_name = "Midrar II"
+		dynasty = "Midrarid"
+		adm = 2
+		dip = 1
+		mil = 1
+		birth_date = 800.1.1
+		death_date = 865.1.1
+		claim = 89
+		religion = kharijite
+		culture = berber
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+867.1.1= {
+	add_prestige = 47
+	add_treasury = 37
+}

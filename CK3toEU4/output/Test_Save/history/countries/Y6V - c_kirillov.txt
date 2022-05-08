@@ -1,0 +1,41 @@
+government = tribal
+add_government_reform = tribal_kingdom
+government_rank = 1
+technology_group = eastern
+religion = finnish_pagan
+primary_culture = karelian
+capital = 4259
+fixed_capital = 4259
+867.1.1= {
+	monarch = {
+		name = "Everkki"
+		dynasty = "Chudi"
+		adm = 3
+		dip = 1
+		mil = 5
+		birth_date = 826.4.15
+		religion = finnish_pagan
+		culture = karelian
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	heir = {
+		name = "Niikko"
+		monarch_name = "Niikko"
+		dynasty = "Chudi"
+		adm = 4
+		dip = 4
+		mil = 4
+		birth_date = 852.8.14
+		death_date = 917.8.14
+		claim = 89
+		religion = finnish_pagan
+		culture = karelian
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+867.1.1= {
+	add_prestige = 47
+	add_treasury = 33
+}

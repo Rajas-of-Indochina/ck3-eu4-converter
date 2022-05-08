@@ -1,0 +1,55 @@
+government = monarchy
+add_government_reform = mandala_reform
+government_rank = 1
+technology_group = western
+religion = vajrayana
+primary_culture = bornean
+capital = 639
+910.1.30= {
+	monarch = {
+		name = "Surya"
+		dynasty = "Katingan Kuala"
+		adm = 2
+		dip = 2
+		mil = 3
+		birth_date = 849.1.1
+		religion = vajrayana
+		culture = bornean
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Sri"
+		dynasty = "Pinyuh"
+		adm = 6
+		dip = 3
+		mil = 6
+		country_of_origin = Z3S
+		birth_date = 885.12.20
+		death_date = 945.12.20
+		female = yes
+		religion = vajrayana
+		culture = bornean
+	}
+	add_queen_personality = well_connected_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Dumadi"
+		monarch_name = "Dumadi"
+		dynasty = "Katingan Kuala"
+		adm = 4
+		dip = 6
+		mil = 4
+		birth_date = 866.1.1
+		death_date = 931.1.1
+		claim = 89
+		religion = vajrayana
+		culture = bornean
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+910.1.30= {
+	add_prestige = 68
+	add_treasury = 50
+}

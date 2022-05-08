@@ -1,0 +1,43 @@
+converted_nuo = {
+	converted_nuo = {
+		color = { 20 33 71 }
+		icon =  214
+		country = {
+ 
+		global_missionary_strength = -0.01
+		religious_unity = 0.25
+		tolerance_heathen = 2
+	
+
+		discipline = 0.05
+	
+
+		diplomatic_reputation = 1
+	
+
+		tolerance_heathen = 1
+		tolerance_heretic = 1
+	
+}
+		country_as_secondary = {
+ 
+		religious_unity = 0.25
+	
+
+		discipline = 0.025
+	
+}
+		province = {
+ 
+		local_missionary_strength = -0.02
+	
+
+		local_missionary_strength = 0.01
+	
+
+		local_missionary_strength = 0.02
+	
+}
+	}
+}
+

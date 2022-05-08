@@ -1,0 +1,41 @@
+government = tribal
+add_government_reform = tribal_federation
+government_rank = 1
+technology_group = muslim
+religion = ibadi
+primary_culture = berber
+capital = 1127
+fixed_capital = 1127
+867.1.1= {
+	monarch = {
+		name = "Awzal"
+		dynasty = "Massufa"
+		adm = 4
+		dip = 1
+		mil = 4
+		birth_date = 846.4.4
+		religion = ibadi
+		culture = berber
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	heir = {
+		name = "Yabdas"
+		monarch_name = "Yabdas"
+		dynasty = "Massufa"
+		adm = 0
+		dip = 0
+		mil = 0
+		birth_date = 866.4.4
+		death_date = 931.4.4
+		claim = 89
+		religion = ibadi
+		culture = berber
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+867.1.1= {
+	add_prestige = 47
+	add_treasury = 34
+}

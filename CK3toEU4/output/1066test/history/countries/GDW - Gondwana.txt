@@ -1,0 +1,55 @@
+government = monarchy
+add_government_reform = mandala_reform
+government_rank = 2
+technology_group = indian
+religion = hinduism
+primary_culture = malvi
+capital = 4458
+1068.6.5= {
+	monarch = {
+		name = "Karnadeva"
+		dynasty = "Cedi"
+		adm = 0
+		dip = 3
+		mil = 0
+		birth_date = 1016.1.1
+		religion = hinduism
+		culture = malvi
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Avalladevi"
+		dynasty = "Huna"
+		adm = 4
+		dip = 3
+		mil = 5
+		country_of_origin = GDW
+		birth_date = 1030.1.1
+		death_date = 1090.1.1
+		female = yes
+		religion = hinduism
+		culture = saka
+	}
+	add_queen_personality = well_connected_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Yashkarna"
+		monarch_name = "Yashkarna"
+		dynasty = "Cedi"
+		adm = 2
+		dip = 4
+		mil = 3
+		birth_date = 1046.9.1
+		death_date = 1111.9.1
+		claim = 89
+		religion = hinduism
+		culture = malvi
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+1068.6.5= {
+	add_prestige = 55
+	add_treasury = 48
+}

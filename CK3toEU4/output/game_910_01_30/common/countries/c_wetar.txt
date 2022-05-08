@@ -1,0 +1,14 @@
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 40 88 152 }
+monarch_names = {
+	" #0" = 0
+	"Gapi #0" = 0
+	"Hapiy #0" = 0
+	"Rangu #1" = 10
+	"Selub #0" = -1
+	"Siale #0" = 0
+	"Silit #0" = -1
+	"Tanna #0" = -1
+	"Ugraseni #0" = -1
+}

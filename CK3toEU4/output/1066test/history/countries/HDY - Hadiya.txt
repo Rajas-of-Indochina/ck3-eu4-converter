@@ -1,0 +1,12 @@
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+technology_group = east_african
+religion = coptic
+primary_culture = sidamo
+capital = 2760
+fixed_capital = 2760
+1068.6.5= {
+	add_prestige = 48
+	add_treasury = 40
+}

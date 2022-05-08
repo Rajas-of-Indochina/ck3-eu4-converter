@@ -1,0 +1,52 @@
+government = tribal
+add_government_reform = tribal_kingdom
+government_rank = 1
+technology_group = western
+religion = converted_dayaw
+capital = 654
+fixed_capital = 654
+1068.6.5= {
+	monarch = {
+		name = "Sumangga"
+		dynasty = "Palapag"
+		adm = 2
+		dip = 5
+		mil = 4
+		birth_date = 1047.11.19
+		religion = converted_dayaw
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Daga"
+		dynasty = "Macapagal"
+		adm = 1
+		dip = 3
+		mil = 2
+		country_of_origin = Y05
+		birth_date = 1048.7.31
+		death_date = 1108.7.31
+		female = yes
+		religion = converted_dayaw
+	}
+	add_queen_personality = well_connected_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Bagiyu"
+		monarch_name = "Bagiyu"
+		dynasty = "Palapag"
+		adm = 2
+		dip = 2
+		mil = 1
+		birth_date = 1065.4.17
+		death_date = 1130.4.17
+		claim = 89
+		religion = converted_dayaw
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+1068.6.5= {
+	add_prestige = 48
+	add_treasury = 39
+}

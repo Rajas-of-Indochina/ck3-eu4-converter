@@ -1,0 +1,16 @@
+ck2_converter_generated = yes
+graphical_culture = asiangfx
+color = { 25 185 75 }
+monarch_names = {
+	"Akhurmaztakk #0" = 0
+	"Ghamze #0" = -1
+	"Hurmoz #1" = 10
+	"Isma'il #1" = 10
+	"Mahtab #0" = -1
+	"Makhak #0" = 0
+	"Nanai #0" = -1
+	"Parvaneh #0" = -1
+	"Qadir #0" = 0
+	"Spadh #0" = 0
+	"Upach #0" = -1
+}

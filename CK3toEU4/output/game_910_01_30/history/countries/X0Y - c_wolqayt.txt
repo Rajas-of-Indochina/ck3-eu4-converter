@@ -1,0 +1,42 @@
+government = tribal
+add_government_reform = tribal_kingdom
+government_rank = 1
+technology_group = east_african
+religion = kushitism_pagan
+primary_culture = beja
+capital = 4033
+fixed_capital = 4033
+910.1.30= {
+	monarch = {
+		name = "Anakw"
+		dynasty = "mn Wolqayt"
+		adm = 3
+		dip = 6
+		mil = 3
+		birth_date = 860.2.19
+		religion = kushitism_pagan
+		culture = beja
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	heir = {
+		name = "Kella"
+		monarch_name = "Kella"
+		dynasty = "al-Harrani"
+		adm = 4
+		dip = 3
+		mil = 5
+		birth_date = 871.11.20
+		death_date = 936.11.20
+		female = yes
+		claim = 89
+		religion = kushitism_pagan
+		culture = beja
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+910.1.30= {
+	add_prestige = 54
+	add_treasury = 63
+}

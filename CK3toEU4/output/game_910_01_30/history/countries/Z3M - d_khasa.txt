@@ -1,0 +1,11 @@
+government = monarchy
+add_government_reform = mandala_reform
+government_rank = 1
+technology_group = chinese
+religion = hinduism
+primary_culture = nepali
+capital = 554
+910.1.30= {
+	add_prestige = 54
+	add_treasury = 53
+}

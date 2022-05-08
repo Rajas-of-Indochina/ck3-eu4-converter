@@ -1,0 +1,56 @@
+government = monarchy
+add_government_reform = confucian_bureaucracy
+government_rank = 1
+technology_group = chinese
+religion = confucianism
+primary_culture = xibei
+capital = 708
+fixed_capital = 708
+910.1.30= {
+	monarch = {
+		name = "Yijin"
+		dynasty = "Cao"
+		adm = 3
+		dip = 2
+		mil = 1
+		birth_date = 842.1.1
+		religion = confucianism
+		culture = xibei
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Yao'er"
+		dynasty = "Zang"
+		adm = 5
+		dip = 3
+		mil = 5
+		country_of_origin = Y1S
+		birth_date = 890.5.15
+		death_date = 950.5.15
+		female = yes
+		religion = confucianism
+		culture = chihan
+	}
+	add_queen_personality = well_connected_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Renben"
+		monarch_name = "Renben"
+		dynasty = "Cao"
+		adm = 4
+		dip = 4
+		mil = 5
+		birth_date = 859.1.1
+		death_date = 924.1.1
+		claim = 89
+		religion = confucianism
+		culture = chihan
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+910.1.30= {
+	add_prestige = 82
+	add_treasury = 55
+}

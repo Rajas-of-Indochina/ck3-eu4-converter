@@ -1,0 +1,18 @@
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 108 48 48 }
+monarch_names = {
+	"Adara #0" = 0
+	"Bourey #0" = 0
+	"Chavy #0" = -1
+	"Dhammazedi #1" = 10
+	"Gadu #0" = 0
+	"Mach #0" = -1
+	"Piseth #0" = 0
+	"Poeu #0" = 0
+	"Puthyrith #0" = 0
+	"Rithisak #1" = 10
+	"Sokha #0" = -1
+	"Solyna #0" = -1
+	"Udinna #0" = 0
+}

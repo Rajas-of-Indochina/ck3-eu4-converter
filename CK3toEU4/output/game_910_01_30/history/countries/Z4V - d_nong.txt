@@ -1,0 +1,55 @@
+government = tribal
+add_government_reform = tribal_kingdom
+government_rank = 1
+technology_group = western
+religion = converted_ban_phi
+primary_culture = zhuang
+capital = 616
+910.1.30= {
+	monarch = {
+		name = "Kham Kong"
+		dynasty = "Nong"
+		adm = 2
+		dip = 2
+		mil = 3
+		birth_date = 873.11.13
+		religion = converted_ban_phi
+		culture = zhuang
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Nu"
+		dynasty = "Kieu"
+		adm = 2
+		dip = 3
+		mil = 3
+		country_of_origin = Z4V
+		birth_date = 874.6.20
+		death_date = 934.6.20
+		female = yes
+		religion = converted_ban_phi
+		culture = zhuang
+	}
+	add_queen_personality = well_connected_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Pha Mueang"
+		monarch_name = "Pha Mueang"
+		dynasty = "Nong"
+		adm = 3
+		dip = 4
+		mil = 3
+		birth_date = 900.7.22
+		death_date = 965.7.22
+		claim = 89
+		religion = converted_ban_phi
+		culture = zhuang
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+910.1.30= {
+	add_prestige = 54
+	add_treasury = 4
+}

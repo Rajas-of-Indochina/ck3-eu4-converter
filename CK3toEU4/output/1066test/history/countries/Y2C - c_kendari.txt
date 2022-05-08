@@ -1,0 +1,52 @@
+government = tribal
+add_government_reform = tribal_kingdom
+government_rank = 1
+technology_group = western
+religion = converted_celebic
+capital = 4796
+fixed_capital = 4796
+1068.6.5= {
+	monarch = {
+		name = "Batara"
+		dynasty = "Gerey"
+		adm = 6
+		dip = 4
+		mil = 3
+		birth_date = 1036.11.4
+		religion = converted_celebic
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Vaea"
+		dynasty = "Puned"
+		adm = 2
+		dip = 3
+		mil = 0
+		country_of_origin = Y2C
+		birth_date = 1037.3.1
+		death_date = 1097.3.1
+		female = yes
+		religion = converted_celebic
+	}
+	add_queen_personality = well_connected_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Batara"
+		monarch_name = "Batara"
+		dynasty = "Gerey"
+		adm = 5
+		dip = 6
+		mil = 5
+		birth_date = 1054.1.21
+		death_date = 1119.1.21
+		claim = 89
+		religion = converted_celebic
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+1068.6.5= {
+	add_prestige = 48
+	add_treasury = 38
+}

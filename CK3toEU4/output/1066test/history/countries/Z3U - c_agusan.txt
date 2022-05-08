@@ -1,0 +1,53 @@
+government = tribal
+add_government_reform = tribal_kingdom
+government_rank = 1
+technology_group = western
+religion = mahayana
+capital = 2702
+fixed_capital = 2702
+1068.6.5= {
+	monarch = {
+		name = "Angay"
+		dynasty = "Agusan"
+		adm = 4
+		dip = 6
+		mil = 4
+		birth_date = 1043.1.1
+		religion = mahayana
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Ilogin"
+		dynasty = "Macalintal"
+		adm = 2
+		dip = 2
+		mil = 4
+		country_of_origin = Z3U
+		birth_date = 1043.8.3
+		death_date = 1103.8.3
+		female = yes
+		religion = mahayana
+	}
+	add_queen_personality = well_connected_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Daga"
+		monarch_name = "Daga"
+		dynasty = "Agusan"
+		adm = 1
+		dip = 3
+		mil = 1
+		birth_date = 1060.1.3
+		death_date = 1125.1.3
+		female = yes
+		claim = 89
+		religion = mahayana
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+1068.6.5= {
+	add_prestige = 47
+	add_treasury = 39
+}

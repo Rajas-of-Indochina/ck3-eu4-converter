@@ -1,0 +1,54 @@
+government = monarchy
+add_government_reform = english_monarchy
+government_rank = 1
+technology_group = western
+religion = catholic
+primary_culture = wessexian
+capital = 234
+add_accepted_culture = essexian
+867.1.1= {
+	monarch = {
+		name = "Æthelred"
+		adm = 4
+		dip = 2
+		mil = 3
+		birth_date = 840.1.1
+		religion = catholic
+		culture = wessexian
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Wulfthryth"
+		dynasty = "Orsini"
+		adm = 1
+		dip = 2
+		mil = 4
+		country_of_origin = Z2N
+		birth_date = 831.1.1
+		death_date = 891.1.1
+		female = yes
+		religion = catholic
+		culture = anglo_saxon
+	}
+	add_queen_personality = well_connected_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Alfred"
+		monarch_name = "Alfred"
+		adm = 6
+		dip = 6
+		mil = 6
+		birth_date = 849.1.1
+		death_date = 914.1.1
+		claim = 89
+		religion = catholic
+		culture = anglo_saxon
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+867.1.1= {
+	add_prestige = 47
+	add_treasury = 47
+}

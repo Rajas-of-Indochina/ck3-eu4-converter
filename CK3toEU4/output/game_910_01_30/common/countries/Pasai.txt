@@ -1,0 +1,75 @@
+ck2_converter_generated = yes
+graphical_culture = asiangfx
+color = { 226 81 93 }
+revolutionary_colors = { 0 8 10 }
+historical_idea_groups = {
+	trade_ideas
+	maritime_ideas
+	defensive_ideas
+	offensive_ideas
+	spy_ideas
+	diplomatic_ideas
+	economic_ideas
+	quantity_ideas
+}
+historical_units = {
+	asian_arquebusier
+	asian_charge_cavalry
+	asian_mass_infantry
+	asian_musketeer
+	east_asian_spearmen
+	eastern_bow
+	reformed_asian_cavalry
+	reformed_asian_musketeer
+}
+monarch_names = {
+	"Ajnajabharitamawakana #0" = 0
+	"Beuransah #1" = 10
+	"Bhasura #0" = 0
+	"Bhiswari #0" = -1
+	"Bratasena #0" = 0
+	"Grihita #0" = 0
+	"Janardanawatara #0" = 0
+	"Pu Liang #1" = 10
+	"Ratna #0" = -1
+	"Udayaditya #0" = 0
+}
+leader_names = {
+	"Abdulfatah"
+	"Ahmad"
+	"Amir"
+	"Anwar"
+	"Azmi"
+	"Batuta"
+	"Chairul"
+	"Hamzah"
+	"Hasanuddin"
+	"Ibnu"
+	"Kyai"
+	"Mahat"
+	"Mukhtar"
+	"Najamuddin"
+	"Natzar"
+	"Nazmizan"
+	"Roem"
+	"Syarifuddin"
+	"Zulkifli"
+}
+ship_names = {
+	"Alas"
+	"Gunung Peuetsagoe"
+	"Jamboaye"
+	"Malik Al-Salih"
+	"Malik ul Salih"
+	"Peg Pusat"
+	"Peg Serbeulangit"
+	"Peusangen"
+	"Pulau Breueh"
+	"Pulau we"
+	"Samandara"
+	"Siak"
+	"Simpang-kiri"
+	"Teunom"
+	"Tripa"
+}
+special_unit_culture = south_east_asian_special

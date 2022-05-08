@@ -1,0 +1,42 @@
+government = tribal
+add_government_reform = tribal_kingdom
+government_rank = 1
+technology_group = eastern
+religion = finnish_pagan
+primary_culture = sapmi
+capital = 1777
+fixed_capital = 1777
+1068.6.5= {
+	monarch = {
+		name = "Njuolla"
+		dynasty = "Magga"
+		adm = 4
+		dip = 4
+		mil = 3
+		birth_date = 1050.1.1
+		religion = finnish_pagan
+		culture = sapmi
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	heir = {
+		name = "Sealggá"
+		monarch_name = "Sealggá"
+		dynasty = "Orsini"
+		adm = 6
+		dip = 6
+		mil = 2
+		birth_date = 1039.4.28
+		death_date = 1104.4.28
+		female = yes
+		claim = 89
+		religion = finnish_pagan
+		culture = sapmi
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+1068.6.5= {
+	add_prestige = 51
+	add_treasury = 45
+}

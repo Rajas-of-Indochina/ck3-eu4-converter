@@ -1,0 +1,41 @@
+government = tribal
+add_government_reform = tribal_kingdom
+government_rank = 1
+technology_group = western
+religion = norse_pagan
+primary_culture = norwegian
+capital = 4145
+fixed_capital = 4145
+867.1.1= {
+	monarch = {
+		name = "Kjøtve"
+		dynasty = "av Agder"
+		adm = 3
+		dip = 4
+		mil = 3
+		birth_date = 812.1.1
+		religion = norse_pagan
+		culture = norwegian
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	heir = {
+		name = "Tore"
+		monarch_name = "Tore"
+		dynasty = "av Agder"
+		adm = 6
+		dip = 6
+		mil = 6
+		birth_date = 842.1.1
+		death_date = 907.1.1
+		claim = 89
+		religion = norse_pagan
+		culture = norse
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+867.1.1= {
+	add_prestige = 47
+	add_treasury = 32
+}

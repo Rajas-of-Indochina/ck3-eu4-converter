@@ -1,0 +1,17 @@
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 165 115 80 }
+monarch_names = {
+	"Aliwn #0" = 0
+	"Amui #0" = -1
+	"Aniyaw #0" = 0
+	"Antai #0" = 0
+	"Awn #0" = -1
+	"Ipal #0" = -1
+	"Kulas #0" = 0
+	"Masa #0" = 0
+	"Takiw #0" = 0
+	"Ukis #0" = -1
+	"Usin #0" = -1
+	"Zinai #0" = -1
+}

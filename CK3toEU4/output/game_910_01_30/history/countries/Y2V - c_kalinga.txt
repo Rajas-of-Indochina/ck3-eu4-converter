@@ -1,0 +1,56 @@
+government = tribal
+add_government_reform = tribal_kingdom
+government_rank = 1
+technology_group = western
+religion = converted_kabunian
+primary_culture = filipino
+capital = 4348
+fixed_capital = 4348
+910.1.30= {
+	monarch = {
+		name = "Lukneng"
+		dynasty = "Maligaya"
+		adm = 5
+		dip = 2
+		mil = 4
+		birth_date = 844.1.1
+		female = yes
+		religion = converted_kabunian
+		culture = filipino
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Damo"
+		dynasty = "Ugali"
+		adm = 6
+		dip = 3
+		mil = 6
+		country_of_origin = Y2V
+		birth_date = 844.1.1
+		death_date = 904.1.1
+		religion = converted_kabunian
+		culture = filipino
+	}
+	add_queen_personality = well_connected_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Awat"
+		monarch_name = "Awat"
+		dynasty = "Maligaya"
+		adm = 5
+		dip = 5
+		mil = 6
+		birth_date = 879.9.8
+		death_date = 944.9.8
+		claim = 89
+		religion = converted_kabunian
+		culture = filipino
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+910.1.30= {
+	add_prestige = 82
+	add_treasury = 42
+}

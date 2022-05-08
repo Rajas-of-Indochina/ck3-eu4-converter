@@ -1,0 +1,16 @@
+ck2_converter_generated = yes
+graphical_culture = asiangfx
+color = { 32 223 6 }
+monarch_names = {
+	"Di #0" = 0
+	"Lingbing #0" = -1
+	"Luzhen #0" = -1
+	"Panpan #0" = -1
+	"Rongji #0" = -1
+	"Sengru #0" = 0
+	"Shou #0" = 0
+	"Xiangdao #0" = 0
+	"Zhenyi #0" = -1
+	"Zhirou #0" = 0
+	"Zhizhou #0" = 0
+}

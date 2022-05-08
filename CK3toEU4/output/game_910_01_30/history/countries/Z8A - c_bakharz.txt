@@ -1,0 +1,43 @@
+government = monarchy
+add_government_reform = iqta
+government_rank = 1
+technology_group = nomad_group
+religion = sunni
+primary_culture = sogdian
+capital = 4324
+fixed_capital = 4324
+religious_school = hanafi_school
+add_accepted_culture = tajik
+910.1.30= {
+	monarch = {
+		name = "Ferdows"
+		dynasty = "Tishifan"
+		adm = 4
+		dip = 3
+		mil = 3
+		birth_date = 886.2.13
+		religion = sunni
+		culture = sogdian
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	heir = {
+		name = "Nanevante"
+		monarch_name = "Nanevante"
+		dynasty = "Tishifan"
+		adm = 4
+		dip = 4
+		mil = 4
+		birth_date = 889.5.29
+		death_date = 954.5.29
+		claim = 89
+		religion = sunni
+		culture = sogdian
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+910.1.30= {
+	add_prestige = 55
+	add_treasury = 48
+}

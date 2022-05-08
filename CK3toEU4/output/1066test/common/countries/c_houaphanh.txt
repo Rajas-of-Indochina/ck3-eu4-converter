@@ -1,0 +1,17 @@
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 29 151 120 }
+monarch_names = {
+	"Anchali #0" = -1
+	"Athinkha #0" = 0
+	"Chamroeun #0" = -1
+	"Chea #0" = -1
+	"Dara #0" = 0
+	"Mony #0" = -1
+	"Phary #0" = -1
+	"Raksmei #0" = 0
+	"Reasmey #0" = -1
+	"Thamala #0" = 0
+	"Tola #0" = -1
+	"Urunnata #0" = 0
+}

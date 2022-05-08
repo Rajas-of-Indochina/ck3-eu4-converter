@@ -1,0 +1,56 @@
+government = monarchy
+add_government_reform = nayankara_reform
+government_rank = 1
+technology_group = indian
+religion = jain
+primary_culture = kannada
+capital = 4435
+add_accepted_culture = marathi
+867.1.1= {
+	monarch = {
+		name = "Merada"
+		dynasty = "Ratta"
+		adm = 3
+		dip = 2
+		mil = 2
+		birth_date = 850.1.1
+		religion = jain
+		culture = kannada
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Sattiyavvai"
+		dynasty = "of Vaijayanti"
+		adm = 3
+		dip = 1
+		mil = 2
+		country_of_origin = Z2B
+		birth_date = 850.1.1
+		death_date = 910.1.1
+		female = yes
+		religion = jain
+		culture = kannada
+	}
+	add_queen_personality = well_connected_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Krishna"
+		monarch_name = "Krishna"
+		dynasty = "Rashtrakuta"
+		adm = 6
+		dip = 3
+		mil = 6
+		birth_date = 838.1.1
+		death_date = 903.1.1
+		claim = 89
+		religion = jain
+		culture = kannada
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+867.1.1= {
+	add_prestige = 47
+	add_treasury = 40
+}

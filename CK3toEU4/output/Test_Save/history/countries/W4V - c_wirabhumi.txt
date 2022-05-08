@@ -1,0 +1,52 @@
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+technology_group = western
+religion = hinduism
+capital = 627
+fixed_capital = 627
+867.1.1= {
+	monarch = {
+		name = "Pandu"
+		dynasty = "Batupahat"
+		adm = 4
+		dip = 4
+		mil = 2
+		birth_date = 808.1.1
+		religion = hinduism
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Larasati"
+		dynasty = "Tanah Tinggi"
+		adm = 4
+		dip = 3
+		mil = 3
+		country_of_origin = W4V
+		birth_date = 808.1.1
+		death_date = 868.1.1
+		female = yes
+		religion = hinduism
+	}
+	add_queen_personality = well_connected_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Budana"
+		monarch_name = "Budana"
+		dynasty = "Alor Setar"
+		adm = 5
+		dip = 5
+		mil = 4
+		birth_date = 845.8.14
+		death_date = 910.8.14
+		claim = 89
+		religion = hinduism
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+867.1.1= {
+	add_prestige = 47
+	add_treasury = 36
+}

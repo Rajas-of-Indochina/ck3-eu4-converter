@@ -1,0 +1,37 @@
+government = monarchy
+add_government_reform = mandala_reform
+government_rank = 1
+technology_group = western
+religion = buddhism
+910.1.30= {
+	monarch = {
+		name = "Thuzar"
+		dynasty = "Beikthano"
+		adm = 6
+		dip = 6
+		mil = 6
+		birth_date = 853.1.1
+		female = yes
+		religion = buddhism
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	heir = {
+		name = "Ananda"
+		monarch_name = "Ananda"
+		dynasty = "Thurid"
+		adm = 5
+		dip = 6
+		mil = 6
+		birth_date = 888.4.7
+		death_date = 953.4.7
+		claim = 89
+		religion = buddhism
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+910.1.30= {
+	add_prestige = 56
+	add_treasury = 43
+}

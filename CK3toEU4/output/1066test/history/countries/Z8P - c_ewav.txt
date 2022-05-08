@@ -1,0 +1,53 @@
+government = tribal
+add_government_reform = tribal_kingdom
+government_rank = 1
+technology_group = western
+religion = converted_nunusaku
+capital = 2725
+fixed_capital = 2725
+1068.6.5= {
+	monarch = {
+		name = "Bayan"
+		dynasty = "Tual"
+		adm = 4
+		dip = 5
+		mil = 3
+		birth_date = 1032.8.7
+		religion = converted_nunusaku
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Wangi"
+		dynasty = "Selub"
+		adm = 3
+		dip = 1
+		mil = 3
+		country_of_origin = Z8P
+		birth_date = 1032.8.3
+		death_date = 1092.8.3
+		female = yes
+		religion = converted_nunusaku
+	}
+	add_queen_personality = well_connected_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Urat"
+		monarch_name = "Urat"
+		dynasty = "Tual"
+		adm = 6
+		dip = 6
+		mil = 4
+		birth_date = 1049.1.18
+		death_date = 1114.1.18
+		female = yes
+		claim = 89
+		religion = converted_nunusaku
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+1068.6.5= {
+	add_prestige = 48
+	add_treasury = 38
+}

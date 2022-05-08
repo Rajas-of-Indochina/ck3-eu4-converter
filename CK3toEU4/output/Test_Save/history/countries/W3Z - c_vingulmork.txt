@@ -1,0 +1,56 @@
+government = tribal
+add_government_reform = tribal_kingdom
+government_rank = 1
+technology_group = western
+religion = norse_pagan
+primary_culture = norwegian
+capital = 4143
+fixed_capital = 4143
+867.1.1= {
+	monarch = {
+		name = "Haraldr"
+		dynasty = "Yngling"
+		adm = 3
+		dip = 4
+		mil = 4
+		birth_date = 850.1.1
+		religion = norse_pagan
+		culture = norwegian
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Rögnhildr"
+		dynasty = "Orsini"
+		adm = 0
+		dip = 5
+		mil = 3
+		country_of_origin = W3Z
+		birth_date = 850.1.1
+		death_date = 910.1.1
+		female = yes
+		religion = norse_pagan
+		culture = norse
+	}
+	add_queen_personality = well_connected_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Olafr"
+		monarch_name = "Olafr"
+		dynasty = "Yngling"
+		adm = 4
+		dip = 2
+		mil = 4
+		birth_date = 830.1.1
+		death_date = 895.1.1
+		claim = 89
+		religion = norse_pagan
+		culture = norse
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+867.1.1= {
+	add_prestige = 55
+	add_treasury = 34
+}

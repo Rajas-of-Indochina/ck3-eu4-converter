@@ -1,0 +1,27 @@
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 18 199 200 }
+monarch_names = {
+	"Anuman #0" = 0
+	"Chaiyasiri #0" = 0
+	"Kham Suk #0" = 0
+	"Ko Lan #0" = 0
+	"Lamduan #0" = -1
+	"Lamphu #0" = -1
+	"Lao Kao Kaeo Ma Mueang #1" = 10
+	"Lao Kap #1" = 10
+	"Lao Khiang #1" = 10
+	"Lao Khim #2" = 10
+	"Lao Klom #1" = 10
+	"Lao Leo #1" = 10
+	"Lao Sao #1" = 10
+	"Lao Tang #1" = 10
+	"Lawachangkarat #1" = 10
+	"Mani #1" = -1
+	"Phaeng #0" = -1
+	"Rom Ran #0" = 0
+	"Saikham #0" = 0
+	"Sakharin #0" = 0
+	"Somboon #0" = 0
+	"Thaklaew #0" = 0
+}

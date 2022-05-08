@@ -1,0 +1,39 @@
+converted_kadai = {
+	converted_kadai = {
+		color = { 99 70 39 }
+		icon =  205
+		country = {
+ 
+		land_morale = 0.1
+	
+
+		leader_land_shock = 1
+		leader_naval_shock = 1
+	
+
+		heir_chance = 1
+	
+
+		tolerance_heathen = 1
+		tolerance_heretic = 1
+	
+}
+		country_as_secondary = {
+ 
+		land_morale = 0.1
+	
+
+		leader_land_shock = 1
+	
+}
+		province = {
+ 
+		local_missionary_strength = 0.01
+	
+
+		local_missionary_strength = 0.02
+	
+}
+	}
+}
+

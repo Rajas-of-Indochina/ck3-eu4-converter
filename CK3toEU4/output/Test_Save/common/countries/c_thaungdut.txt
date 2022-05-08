@@ -1,0 +1,15 @@
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 154 47 150 }
+monarch_names = {
+	"Ayangba #1" = 10
+	"Birapala #0" = 0
+	"Gandharavati #0" = -1
+	"Kuladevi #0" = -1
+	"Kuranganayani #0" = -1
+	"Ningthoucheng #0" = 0
+	"Supratisthitavarman #0" = 0
+	"Syamadevi #0" = -1
+	"Vigrahastambha #0" = 0
+	"Vijnayavati #0" = -1
+}

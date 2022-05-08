@@ -1,0 +1,56 @@
+government = tribal
+add_government_reform = tribal_kingdom
+government_rank = 1
+technology_group = east_african
+religion = shamanism
+primary_culture = sidamo
+capital = 2756
+fixed_capital = 2756
+910.1.30= {
+	monarch = {
+		name = "Umar"
+		dynasty = "Dara"
+		adm = 4
+		dip = 2
+		mil = 4
+		birth_date = 870.9.25
+		religion = shamanism
+		culture = sidamo
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Hoodo"
+		dynasty = "Manjo"
+		adm = 3
+		dip = 3
+		mil = 3
+		country_of_origin = Z9O
+		birth_date = 859.1.1
+		death_date = 919.1.1
+		female = yes
+		religion = shamanism
+		culture = sidamo
+	}
+	add_queen_personality = well_connected_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Dwo"
+		monarch_name = "Dwo"
+		dynasty = "Dara"
+		adm = 4
+		dip = 6
+		mil = 5
+		birth_date = 887.7.18
+		death_date = 952.7.18
+		claim = 89
+		religion = shamanism
+		culture = sidamo
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+910.1.30= {
+	add_prestige = 61
+	add_treasury = 56
+}

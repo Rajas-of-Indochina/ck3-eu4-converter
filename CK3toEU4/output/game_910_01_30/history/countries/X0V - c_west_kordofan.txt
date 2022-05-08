@@ -1,0 +1,57 @@
+government = tribal
+add_government_reform = tribal_kingdom
+government_rank = 1
+technology_group = sub_saharan
+religion = kushitism_pagan
+primary_culture = tunjur
+capital = 1219
+fixed_capital = 1219
+910.1.30= {
+	monarch = {
+		name = "Ederisu"
+		dynasty = "Tunjur"
+		adm = 3
+		dip = 3
+		mil = 3
+		birth_date = 865.1.1
+		religion = kushitism_pagan
+		culture = tunjur
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Kulk"
+		dynasty = "al-Harrani"
+		adm = 5
+		dip = 4
+		mil = 2
+		country_of_origin = X0V
+		birth_date = 876.11.5
+		death_date = 936.11.5
+		female = yes
+		religion = kushitism_pagan
+		culture = daju
+	}
+	add_queen_personality = well_connected_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Kugurg"
+		monarch_name = "Kugurg"
+		dynasty = "Tunjur"
+		adm = 0
+		dip = 0
+		mil = 0
+		birth_date = 909.4.23
+		death_date = 974.4.23
+		female = yes
+		claim = 89
+		religion = kushitism_pagan
+		culture = daju
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+910.1.30= {
+	add_prestige = 69
+	add_treasury = 41
+}

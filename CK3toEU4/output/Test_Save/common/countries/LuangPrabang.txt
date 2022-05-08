@@ -1,0 +1,87 @@
+ck2_converter_generated = yes
+graphical_culture = indiangfx
+color = { 93 147 88 }
+revolutionary_colors = { 4 0 4 }
+historical_idea_groups = {
+	defensive_ideas
+	offensive_ideas
+	trade_ideas
+	spy_ideas
+	diplomatic_ideas
+	economic_ideas
+	religious_ideas
+	administrative_ideas
+}
+historical_units = {
+	asian_arquebusier
+	asian_charge_cavalry
+	asian_mass_infantry
+	asian_musketeer
+	east_asian_spearmen
+	eastern_bow
+	reformed_asian_cavalry
+	reformed_asian_musketeer
+}
+monarch_names = {
+	"Borey #0" = 0
+	"Bunroeun #0" = 0
+	"Chantou #0" = -1
+	"Charya #0" = 0
+	"Da #0" = -1
+	"Dara #0" = 0
+	"Darareaksmey #0" = -1
+	"Pich #0" = 0
+	"Samphy #0" = -1
+	"Sourkea #0" = -1
+	"Sovanara #0" = -1
+	"Vimean #0" = -1
+}
+leader_names = {
+	"Abhay"
+	"Baravon"
+	"Boupha"
+	"Champassak"
+	"Chounlamany"
+	"Chounramany"
+	"Insisiengmay"
+	"Keola"
+	"Kommadam"
+	"Luangviset"
+	"Nosavan"
+	"Pathammavong"
+	"Phetrasy"
+	"Phimmasone"
+	"Phomvihan"
+	"Phouma"
+	"Phoumsovan"
+	"Rattanasamay"
+	"Sananikoe"
+	"Sasorit"
+	"Soukbandit"
+	"Souksomboun"
+	"Sounthone"
+	"Thammavongsa"
+	"Vathanatham"
+	"Vatthana"
+	"Vichit"
+	"Vongkhamkeaw"
+	"Vongprachan"
+	"Vongsak"
+	"Vongsawat"
+	"Vongvicht"
+	"Voravong"
+}
+ship_names = {
+	"Ayutthaya"
+	"Hamsavati"
+	"Khun Borom"
+	"Khun Lo"
+	"Khun Sung"
+	"Mengrai"
+	"Muang Sua"
+	"Muang Then"
+	"Shan"
+	"Siang Khwang"
+	"Sipsong Pan Na"
+}
+special_unit_culture = south_east_asian_special

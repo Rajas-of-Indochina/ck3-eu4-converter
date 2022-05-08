@@ -1,0 +1,58 @@
+government = monarchy
+add_government_reform = iqta
+government_rank = 1
+technology_group = muslim
+religion = sunni
+primary_culture = al_suryah_arabic
+capital = 423
+fixed_capital = 423
+religious_school = hanbali_school
+add_accepted_culture = armenian
+1068.6.5= {
+	monarch = {
+		name = "Hasan"
+		dynasty = "al-Hasanid"
+		adm = 5
+		dip = 4
+		mil = 4
+		birth_date = 1019.1.1
+		religion = sunni
+		culture = al_suryah_arabic
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Muzhdah"
+		dynasty = "al-Dakhwar"
+		adm = 3
+		dip = 4
+		mil = 3
+		country_of_origin = X16
+		birth_date = 1019.4.18
+		death_date = 1079.4.18
+		female = yes
+		religion = sunni
+		culture = al_suryah_arabic
+	}
+	add_queen_personality = well_connected_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Musa"
+		monarch_name = "Musa"
+		dynasty = "al-Hasanid"
+		adm = 0
+		dip = 6
+		mil = 2
+		birth_date = 1036.4.28
+		death_date = 1101.4.28
+		claim = 89
+		religion = sunni
+		culture = al_suryah_arabic
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+1068.6.5= {
+	add_prestige = 48
+	add_treasury = 25
+}

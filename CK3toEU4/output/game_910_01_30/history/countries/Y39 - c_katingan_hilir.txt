@@ -1,0 +1,43 @@
+government = tribal
+add_government_reform = tribal_kingdom
+government_rank = 1
+technology_group = western
+religion = converted_kaharingan
+primary_culture = bornean
+capital = 2708
+fixed_capital = 2708
+910.1.30= {
+	monarch = {
+		name = "Balawa"
+		dynasty = "Teungku"
+		adm = 2
+		dip = 4
+		mil = 3
+		birth_date = 883.1.3
+		female = yes
+		religion = converted_kaharingan
+		culture = bornean
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	heir = {
+		name = "Maharati"
+		monarch_name = "Maharati"
+		dynasty = "Teungku"
+		adm = 6
+		dip = 5
+		mil = 6
+		birth_date = 885.6.22
+		death_date = 950.6.22
+		female = yes
+		claim = 89
+		religion = converted_kaharingan
+		culture = bornean
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+910.1.30= {
+	add_prestige = 52
+	add_treasury = 47
+}

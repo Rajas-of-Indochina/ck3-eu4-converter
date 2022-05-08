@@ -1,0 +1,15 @@
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 212 224 160 }
+monarch_names = {
+	"Blong #0" = 0
+	"Lapumo #0" = -1
+	"Lurshymo #0" = -1
+	"Nyijjomo #0" = -1
+	"Nyinji #0" = 0
+	"Nyipo #0" = 0
+	"Nzyshu #0" = 0
+	"Quda #0" = 0
+	"Tshaus #0" = -1
+	"Yygge #0" = 0
+}

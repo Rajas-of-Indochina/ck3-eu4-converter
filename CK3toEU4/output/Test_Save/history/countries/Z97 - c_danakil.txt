@@ -1,0 +1,57 @@
+government = tribal
+add_government_reform = tribal_kingdom
+government_rank = 1
+technology_group = east_african
+religion = shamanism
+primary_culture = afar
+capital = 2765
+fixed_capital = 2765
+867.1.1= {
+	monarch = {
+		name = "Aref"
+		dynasty = "Eddi"
+		adm = 1
+		dip = 2
+		mil = 2
+		birth_date = 845.1.1
+		religion = shamanism
+		culture = afar
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Jiinow"
+		dynasty = "Biyomaal"
+		adm = 4
+		dip = 6
+		mil = 6
+		country_of_origin = Z97
+		birth_date = 845.1.1
+		death_date = 905.1.1
+		female = yes
+		religion = shamanism
+		culture = afar
+	}
+	add_queen_personality = well_connected_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Sahra"
+		monarch_name = "Sahra"
+		dynasty = "Orsini"
+		adm = 6
+		dip = 4
+		mil = 6
+		birth_date = 846.12.28
+		death_date = 911.12.28
+		female = yes
+		claim = 89
+		religion = sunni
+		culture = afar
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+867.1.1= {
+	add_prestige = 47
+	add_treasury = 34
+}

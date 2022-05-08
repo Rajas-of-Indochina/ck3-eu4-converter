@@ -1,0 +1,57 @@
+government = tribal
+add_government_reform = tribal_federation
+government_rank = 1
+technology_group = muslim
+religion = sunni
+primary_culture = moroccan
+capital = 347
+fixed_capital = 347
+religious_school = hanbali_school
+910.1.30= {
+	monarch = {
+		name = "Keraja"
+		dynasty = "Lamta"
+		adm = 4
+		dip = 1
+		mil = 1
+		birth_date = 848.1.1
+		religion = sunni
+		culture = moroccan
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Basilie"
+		dynasty = "al-Harrani"
+		adm = 4
+		dip = 2
+		mil = 3
+		country_of_origin = Y2C
+		birth_date = 844.7.25
+		death_date = 904.7.25
+		female = yes
+		religion = sunni
+		culture = berber
+	}
+	add_queen_personality = well_connected_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Tiljad"
+		monarch_name = "Tiljad II"
+		dynasty = "Lamta"
+		adm = 5
+		dip = 3
+		mil = 3
+		birth_date = 880.8.11
+		death_date = 945.8.11
+		claim = 89
+		religion = sunni
+		culture = berber
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+910.1.30= {
+	add_prestige = 70
+	add_treasury = 48
+}

@@ -1,0 +1,41 @@
+government = tribal
+add_government_reform = siberian_tribe
+government_rank = 1
+technology_group = eastern
+religion = siberian_pagan
+primary_culture = ostyaki
+capital = 1069
+fixed_capital = 1069
+910.1.30= {
+	monarch = {
+		name = "Dondy"
+		dynasty = "Belgorojian"
+		adm = 3
+		dip = 0
+		mil = 3
+		birth_date = 845.2.12
+		religion = siberian_pagan
+		culture = ostyaki
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	heir = {
+		name = "Uchva"
+		monarch_name = "Uchva"
+		dynasty = "Belgorojian"
+		adm = 5
+		dip = 5
+		mil = 5
+		birth_date = 870.9.10
+		death_date = 935.9.10
+		claim = 89
+		religion = siberian_pagan
+		culture = ostyaki
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+910.1.30= {
+	add_prestige = 87
+	add_treasury = 51
+}

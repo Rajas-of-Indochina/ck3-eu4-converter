@@ -1,0 +1,55 @@
+government = tribal
+add_government_reform = tribal_kingdom
+government_rank = 1
+technology_group = sub_saharan
+religion = shamanism
+primary_culture = senegambian
+capital = 2238
+910.1.30= {
+	monarch = {
+		name = "Pateh"
+		dynasty = "Bainunk"
+		adm = 3
+		dip = 4
+		mil = 3
+		birth_date = 862.1.1
+		religion = shamanism
+		culture = senegambian
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Maram"
+		dynasty = "Kayor"
+		adm = 2
+		dip = 4
+		mil = 3
+		country_of_origin = Z7B
+		birth_date = 869.1.5
+		death_date = 929.1.5
+		female = yes
+		religion = shamanism
+		culture = senegambian
+	}
+	add_queen_personality = well_connected_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Maysa"
+		monarch_name = "Maysa"
+		dynasty = "Bainunk"
+		adm = 4
+		dip = 6
+		mil = 4
+		birth_date = 889.8.7
+		death_date = 954.8.7
+		claim = 89
+		religion = shamanism
+		culture = senegambian
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+910.1.30= {
+	add_prestige = 75
+	add_treasury = 47
+}

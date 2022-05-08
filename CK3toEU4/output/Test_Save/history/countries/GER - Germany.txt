@@ -1,0 +1,55 @@
+government = monarchy
+add_government_reform = english_monarchy
+government_rank = 2
+technology_group = western
+religion = catholic
+primary_culture = swabian
+capital = 4714
+867.1.1= {
+	monarch = {
+		name = "Ludwig"
+		dynasty = "Karling"
+		adm = 4
+		dip = 4
+		mil = 4
+		birth_date = 806.1.1
+		religion = catholic
+		culture = swabian
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Hemma"
+		dynasty = "Welf"
+		adm = 5
+		dip = 3
+		mil = 4
+		country_of_origin = GER
+		birth_date = 808.1.1
+		death_date = 868.1.1
+		female = yes
+		religion = catholic
+		culture = bavarian
+	}
+	add_queen_personality = well_connected_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Karlmann"
+		monarch_name = "Karlmann"
+		dynasty = "Karling"
+		adm = 6
+		dip = 4
+		mil = 6
+		birth_date = 830.1.14
+		death_date = 895.1.14
+		claim = 89
+		religion = catholic
+		culture = franconian
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+867.1.1= {
+	add_prestige = 47
+	add_treasury = 46
+}

@@ -1,0 +1,55 @@
+government = tribal
+add_government_reform = tribal_federation
+government_rank = 1
+technology_group = muslim
+religion = sunni
+primary_culture = bedouin_arabic
+capital = 2454
+religious_school = hanbali_school
+add_accepted_culture = tunisian
+1068.6.5= {
+	monarch = {
+		name = "Munis"
+		adm = 1
+		dip = 4
+		mil = 4
+		birth_date = 1030.1.1
+		religion = sunni
+		culture = bedouin_arabic
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Bahiyya"
+		dynasty = "Zirid"
+		adm = 1
+		dip = 2
+		mil = 2
+		country_of_origin = Z1N
+		birth_date = 1041.1.1
+		death_date = 1101.1.1
+		female = yes
+		religion = sunni
+		culture = berber
+	}
+	add_queen_personality = well_connected_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Ziyad"
+		monarch_name = "Ziyad"
+		adm = 3
+		dip = 2
+		mil = 1
+		birth_date = 1060.1.1
+		death_date = 1125.1.1
+		claim = 89
+		religion = sunni
+		culture = bedouin_arabic
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+1068.6.5= {
+	add_prestige = 52
+	add_treasury = 50
+}

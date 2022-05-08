@@ -1,0 +1,25 @@
+government = theocracy
+add_government_reform = papacy_reform
+government_rank = 2
+technology_group = western
+religion = catholic
+primary_culture = umbrian
+capital = 118
+910.1.30= {
+	monarch = {
+		name = "Mendo"
+		dynasty = "Gòmes"
+		adm = 5
+		dip = 6
+		mil = 5
+		birth_date = 857.5.29
+		religion = catholic
+		culture = umbrian
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+}
+910.1.30= {
+	add_prestige = 69
+	add_treasury = 76
+}

@@ -1,0 +1,56 @@
+government = tribal
+add_government_reform = tribal_kingdom
+government_rank = 1
+technology_group = sub_saharan
+religion = shamanism
+primary_culture = senegambian
+capital = 1118
+fixed_capital = 1118
+1068.6.5= {
+	monarch = {
+		name = "Gonlekpei"
+		dynasty = "Sapi"
+		adm = 3
+		dip = 3
+		mil = 1
+		birth_date = 1042.1.1
+		religion = shamanism
+		culture = senegambian
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Lurpu"
+		dynasty = "Toma"
+		adm = 6
+		dip = 2
+		mil = 6
+		country_of_origin = X0Q
+		birth_date = 1042.5.20
+		death_date = 1102.5.20
+		female = yes
+		religion = shamanism
+		culture = senegambian
+	}
+	add_queen_personality = well_connected_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Boima Konah"
+		monarch_name = "Boima Konah"
+		dynasty = "Sapi"
+		adm = 4
+		dip = 4
+		mil = 2
+		birth_date = 1059.7.10
+		death_date = 1124.7.10
+		claim = 89
+		religion = shamanism
+		culture = senegambian
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+1068.6.5= {
+	add_prestige = 48
+	add_treasury = 43
+}

@@ -1,0 +1,19 @@
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 227 132 49 }
+monarch_names = {
+	"Ao #0" = -1
+	"Fuu #0" = -1
+	"Heigo #0" = 0
+	"Hikogoro #0" = 0
+	"Hikoshiro #0" = 0
+	"Kidomaru #0" = 0
+	"Nishiki #0" = -1
+	"Nozomi #0" = -1
+	"Sen #0" = -1
+	"Senjumaru #0" = 0
+	"Shiro #0" = 0
+	"Shizuku #0" = -1
+	"Taro #0" = 0
+	"Ushio #0" = -1
+}

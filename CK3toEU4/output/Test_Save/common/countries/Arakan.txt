@@ -1,0 +1,93 @@
+ck2_converter_generated = yes
+graphical_culture = indiangfx
+color = { 212 211 151 }
+revolutionary_colors = { 0 13 5 }
+historical_idea_groups = {
+	defensive_ideas
+	offensive_ideas
+	trade_ideas
+	diplomatic_ideas
+	spy_ideas
+	quantity_ideas
+	administrative_ideas
+	religious_ideas
+}
+historical_units = {
+	asian_arquebusier
+	asian_charge_cavalry
+	asian_mass_infantry
+	asian_musketeer
+	east_asian_spearmen
+	eastern_bow
+	reformed_asian_cavalry
+	reformed_asian_musketeer
+}
+monarch_names = {
+	"Amrapali #0" = -1
+	"Kalataingchandra #0" = 0
+	"Ohmar #0" = -1
+	"Pawlataingchandra #1" = 10
+	"Tulataingchandra #0" = 0
+	"Vigrahastambha #0" = 0
+}
+leader_names = {
+	"Ashin"
+	"Banya"
+	"Binnya"
+	"Bo"
+	"Bogyoke"
+	"Daw"
+	"Duwa"
+	"Khun"
+	"Ko"
+	"Ma"
+	"Mahn"
+	"Mai"
+	"Maung"
+	"Me"
+	"Mi"
+	"Min"
+	"Minh"
+	"Nai"
+	"Nang"
+	"Naw"
+	"Sai"
+	"Salai"
+	"Sao"
+	"Saw"
+	"Sawbwa"
+	"Saya"
+	"Sayadaw"
+	"Sayama"
+	"Shin"
+	"Tekkatho"
+	"Thakin"
+	"Theippan"
+	"U"
+}
+ship_names = {
+	"Alaumaphru"
+	"Athinkhara Raza"
+	"Candasuriya"
+	"Datharaza"
+	"Foonthan"
+	"Gandakudi"
+	"Koliya"
+	"Lakkyamunnan"
+	"Mahamuni"
+	"Mahataing Candra"
+	"Mong Ba"
+	"Mong Khaki"
+	"Mong Razagree"
+	"Mong Saw Mon"
+	"Mrauk U"
+	"Ngahnaloon"
+	"Suriya"
+	"Suriya Candra"
+	"Thakyawangree"
+	"Thakyawannge"
+	"Thiharaza"
+	"Ukkabala"
+	"Waradhamma"
+}
+special_unit_culture = south_east_asian_special

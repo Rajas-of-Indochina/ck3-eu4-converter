@@ -1,0 +1,16 @@
+ck2_converter_generated = yes
+graphical_culture = africangfx
+color = { 28 93 193 }
+monarch_names = {
+	"Ada #0" = -1
+	"Adaora #0" = -1
+	"Ali-Zalil #0" = 0
+	"Bassarou #0" = 0
+	"Fumnanya #0" = -1
+	"Ismail #0" = 0
+	"Kilia #0" = -1
+	"Mariam #0" = -1
+	"Sakoura #0" = 0
+	"Zenku #0" = 0
+	"Zikenyu #1" = 10
+}

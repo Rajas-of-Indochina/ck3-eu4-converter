@@ -1,0 +1,36 @@
+government = tribal
+add_government_reform = tribal_kingdom
+government_rank = 1
+technology_group = western
+religion = converted_bathouism
+primary_culture = chin
+capital = 2091
+fixed_capital = 2091
+867.1.1= {
+	monarch = {
+		name = "(Regency Council)"
+		adm = 3
+		dip = 5
+		mil = 2
+		birth_date = 1.1.1
+		regent = yes
+		religion = converted_bathouism
+		culture = chin
+	}
+	heir = {
+		name = "Mukunda Fa II"
+		dynasty = "Hirimba"
+		adm = 5
+		dip = 6
+		mil = 4
+		birth_date = 855.1.1
+		death_date = 920.1.1
+		claim = 89
+		religion = converted_bathouism
+		culture = chin
+	}
+}
+867.1.1= {
+	add_prestige = 47
+	add_treasury = 32
+}

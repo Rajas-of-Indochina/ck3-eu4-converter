@@ -1,0 +1,57 @@
+government = monarchy
+add_government_reform = iqta
+government_rank = 1
+technology_group = western
+religion = sunni
+primary_culture = visigothic
+capital = 4557
+religious_school = maliki_school
+add_accepted_culture = basque
+910.1.30= {
+	monarch = {
+		name = "Mohamed"
+		dynasty = "Qasid"
+		adm = 4
+		dip = 2
+		mil = 3
+		birth_date = 862.1.1
+		religion = sunni
+		culture = visigothic
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Maria"
+		dynasty = "de Vidaure"
+		adm = 5
+		dip = 2
+		mil = 5
+		country_of_origin = Z4U
+		birth_date = 865.1.24
+		death_date = 925.1.24
+		female = yes
+		religion = sunni
+		culture = basque
+	}
+	add_queen_personality = well_connected_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Lupo"
+		monarch_name = "Lupo"
+		dynasty = "Qasid"
+		adm = 5
+		dip = 3
+		mil = 4
+		birth_date = 891.1.5
+		death_date = 956.1.5
+		claim = 89
+		religion = sunni
+		culture = basque
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+910.1.30= {
+	add_prestige = 50
+	add_treasury = 49
+}

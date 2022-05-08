@@ -1,0 +1,20 @@
+ck2_converter_generated = yes
+graphical_culture = easterngfx
+color = { 51 99 73 }
+monarch_names = {
+	"Alla #0" = -1
+	"Antonia #0" = -1
+	"Arhippa #0" = 0
+	"Duojá #0" = -1
+	"Everkki #1" = 10
+	"Heroi #0" = 0
+	"Hilaria #0" = -1
+	"Hilippa #0" = 0
+	"Ignoi #1" = 10
+	"Jeygi #0" = -1
+	"Jougi #0" = -1
+	"Luka #0" = 0
+	"Mirjam #0" = -1
+	"Niikko #1" = 10
+	"Sofja #0" = -1
+}

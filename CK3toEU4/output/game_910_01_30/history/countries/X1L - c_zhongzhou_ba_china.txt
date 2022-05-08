@@ -1,0 +1,56 @@
+government = monarchy
+add_government_reform = confucian_bureaucracy
+government_rank = 1
+technology_group = chinese
+religion = confucianism
+primary_culture = sichuanese
+capital = 680
+fixed_capital = 680
+910.1.30= {
+	monarch = {
+		name = "Rui"
+		dynasty = "Ge"
+		adm = 4
+		dip = 2
+		mil = 3
+		birth_date = 869.1.6
+		religion = confucianism
+		culture = sichuanese
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Wenxiu"
+		dynasty = "Gongyang"
+		adm = 3
+		dip = 4
+		mil = 3
+		country_of_origin = X1L
+		birth_date = 870.1.14
+		death_date = 930.1.14
+		female = yes
+		religion = confucianism
+		culture = chihan
+	}
+	add_queen_personality = well_connected_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Sixiao"
+		monarch_name = "Sixiao"
+		dynasty = "Ge"
+		adm = 3
+		dip = 4
+		mil = 3
+		birth_date = 901.1.24
+		death_date = 966.1.24
+		claim = 89
+		religion = confucianism
+		culture = chihan
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+910.1.30= {
+	add_prestige = 63
+	add_treasury = 45
+}

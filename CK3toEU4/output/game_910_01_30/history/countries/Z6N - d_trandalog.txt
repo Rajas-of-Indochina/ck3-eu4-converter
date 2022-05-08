@@ -1,0 +1,55 @@
+government = tribal
+add_government_reform = tribal_kingdom
+government_rank = 1
+technology_group = western
+religion = norse_pagan
+primary_culture = norwegian
+capital = 2752
+910.1.30= {
+	monarch = {
+		name = "Bótólfr"
+		dynasty = "Trönde"
+		adm = 2
+		dip = 2
+		mil = 3
+		birth_date = 882.1.27
+		religion = norse_pagan
+		culture = norwegian
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Álfrhildr"
+		dynasty = "af Lúsakaupangr"
+		adm = 4
+		dip = 2
+		mil = 4
+		country_of_origin = Z6N
+		birth_date = 877.5.20
+		death_date = 937.5.20
+		female = yes
+		religion = norse_pagan
+		culture = norse
+	}
+	add_queen_personality = well_connected_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Eiríkr"
+		monarch_name = "Eiríkr"
+		dynasty = "Trönde"
+		adm = 0
+		dip = 1
+		mil = 0
+		birth_date = 903.7.9
+		death_date = 968.7.9
+		claim = 89
+		religion = norse_pagan
+		culture = norse
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+910.1.30= {
+	add_prestige = 52
+	add_treasury = 45
+}

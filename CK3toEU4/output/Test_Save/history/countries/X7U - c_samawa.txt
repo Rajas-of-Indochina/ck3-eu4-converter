@@ -1,0 +1,52 @@
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+technology_group = western
+religion = hinduism
+capital = 632
+fixed_capital = 632
+867.1.1= {
+	monarch = {
+		name = "Dewa"
+		dynasty = "Awan Kuning"
+		adm = 3
+		dip = 3
+		mil = 5
+		birth_date = 810.1.1
+		religion = hinduism
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Tejakencana"
+		dynasty = "Telagamas"
+		adm = 4
+		dip = 3
+		mil = 4
+		country_of_origin = X7U
+		birth_date = 810.1.1
+		death_date = 870.1.1
+		female = yes
+		religion = hinduism
+	}
+	add_queen_personality = well_connected_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Grihita"
+		monarch_name = "Grihita"
+		dynasty = "Wangka"
+		adm = 6
+		dip = 2
+		mil = 6
+		birth_date = 837.9.5
+		death_date = 902.9.5
+		claim = 89
+		religion = hinduism
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+867.1.1= {
+	add_prestige = 47
+	add_treasury = 34
+}

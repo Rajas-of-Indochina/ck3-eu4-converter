@@ -1,0 +1,56 @@
+government = tribal
+add_government_reform = steppe_horde
+government_rank = 2
+technology_group = nomad_group
+religion = manichean
+primary_culture = uyghur
+capital = 4206
+add_accepted_culture = tocharian
+867.1.1= {
+	monarch = {
+		name = "Bokut"
+		dynasty = "Bilgä"
+		adm = 5
+		dip = 5
+		mil = 3
+		birth_date = 839.6.5
+		religion = manichean
+		culture = uyghur
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Chöying"
+		dynasty = "Pugyel"
+		adm = 3
+		dip = 5
+		mil = 5
+		country_of_origin = ZUN
+		birth_date = 850.1.1
+		death_date = 910.1.1
+		female = yes
+		religion = vajrayana
+		culture = tibetan
+	}
+	add_queen_personality = well_connected_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Borç"
+		monarch_name = "Borç"
+		dynasty = "Bilgä"
+		adm = 4
+		dip = 2
+		mil = 6
+		birth_date = 840.8.30
+		death_date = 905.8.30
+		claim = 89
+		religion = manichean
+		culture = uyghur
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+867.1.1= {
+	add_prestige = 47
+	add_treasury = 46
+}

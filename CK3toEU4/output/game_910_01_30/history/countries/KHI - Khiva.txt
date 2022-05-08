@@ -1,0 +1,56 @@
+government = monarchy
+add_government_reform = iqta
+government_rank = 1
+technology_group = muslim
+religion = sunni
+primary_culture = tajik
+capital = 2370
+religious_school = hanbali_school
+910.1.30= {
+	monarch = {
+		name = "Muhammad"
+		dynasty = "Afrighid"
+		adm = 2
+		dip = 4
+		mil = 3
+		birth_date = 865.1.1
+		religion = sunni
+		culture = tajik
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Mah"
+		dynasty = "Wakhushu"
+		adm = 3
+		dip = 3
+		mil = 4
+		country_of_origin = KHI
+		birth_date = 861.1.1
+		death_date = 921.1.1
+		female = yes
+		religion = sunni
+		culture = tajik
+	}
+	add_queen_personality = well_connected_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Wakhushu"
+		monarch_name = "Wakhushu"
+		dynasty = "Afrighid"
+		adm = 6
+		dip = 5
+		mil = 5
+		birth_date = 893.5.27
+		death_date = 958.5.27
+		claim = 89
+		religion = sunni
+		culture = tajik
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+910.1.30= {
+	add_prestige = 68
+	add_treasury = 41
+}

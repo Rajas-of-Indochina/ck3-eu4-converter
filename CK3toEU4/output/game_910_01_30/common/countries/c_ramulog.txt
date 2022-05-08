@@ -1,0 +1,15 @@
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 161 124 48 }
+monarch_names = {
+	"Alimpuyu #0" = 0
+	"Angay #1" = 10
+	"Binuya #0" = -1
+	"Bunguran #0" = 0
+	"Danan #0" = -1
+	"Gayak #0" = 0
+	"Ginyamat #0" = -1
+	"Gudang #1" = 10
+	"Irangin #0" = -1
+	"Morahin #0" = -1
+}

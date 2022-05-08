@@ -1,0 +1,53 @@
+government = tribal
+add_government_reform = tribal_kingdom
+government_rank = 1
+technology_group = western
+religion = converted_celebic
+capital = 633
+fixed_capital = 633
+867.1.1= {
+	monarch = {
+		name = "Boheyat"
+		dynasty = "Sipang"
+		adm = 5
+		dip = 1
+		mil = 6
+		birth_date = 835.3.14
+		religion = converted_celebic
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Senad"
+		dynasty = "Kudur"
+		adm = 3
+		dip = 1
+		mil = 3
+		country_of_origin = X3O
+		birth_date = 836.1.1
+		death_date = 896.1.1
+		female = yes
+		religion = converted_celebic
+	}
+	add_queen_personality = well_connected_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Karat"
+		monarch_name = "Karat"
+		dynasty = "Orsini"
+		adm = 2
+		dip = 3
+		mil = 2
+		birth_date = 841.5.24
+		death_date = 906.5.24
+		female = yes
+		claim = 89
+		religion = converted_celebic
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+867.1.1= {
+	add_prestige = 47
+	add_treasury = 32
+}

@@ -1,0 +1,57 @@
+government = tribal
+add_government_reform = tribal_kingdom
+government_rank = 1
+technology_group = western
+religion = converted_kadai
+primary_culture = polynesian
+capital = 2155
+fixed_capital = 2155
+1068.6.5= {
+	monarch = {
+		name = "Bazay"
+		dynasty = "Middag"
+		adm = 2
+		dip = 2
+		mil = 1
+		birth_date = 1032.8.5
+		religion = converted_kadai
+		culture = polynesian
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Lamu"
+		dynasty = "Lhkashnawanan"
+		adm = 2
+		dip = 3
+		mil = 1
+		country_of_origin = Y5N
+		birth_date = 1032.4.9
+		death_date = 1092.4.9
+		female = yes
+		religion = converted_kadai
+		culture = polynesian
+	}
+	add_queen_personality = well_connected_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Panuru"
+		monarch_name = "Panuru"
+		dynasty = "Middag"
+		adm = 3
+		dip = 1
+		mil = 5
+		birth_date = 1057.8.3
+		death_date = 1122.8.3
+		female = yes
+		claim = 89
+		religion = converted_kadai
+		culture = polynesian
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+1068.6.5= {
+	add_prestige = 55
+	add_treasury = 46
+}

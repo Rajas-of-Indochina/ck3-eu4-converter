@@ -1,0 +1,41 @@
+government = tribal
+add_government_reform = siberian_tribe
+government_rank = 1
+technology_group = eastern
+religion = siberian_pagan
+primary_culture = ostyaki
+capital = 4691
+fixed_capital = 4691
+867.1.1= {
+	monarch = {
+		name = "Ovtay"
+		dynasty = "Bardaki"
+		adm = 3
+		dip = 5
+		mil = 2
+		birth_date = 833.12.3
+		religion = siberian_pagan
+		culture = ostyaki
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	heir = {
+		name = "Kezhay"
+		monarch_name = "Kezhay"
+		dynasty = "Bardaki"
+		adm = 0
+		dip = 0
+		mil = 0
+		birth_date = 865.9.5
+		death_date = 930.9.5
+		claim = 89
+		religion = siberian_pagan
+		culture = ostyaki
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+867.1.1= {
+	add_prestige = 47
+	add_treasury = 32
+}

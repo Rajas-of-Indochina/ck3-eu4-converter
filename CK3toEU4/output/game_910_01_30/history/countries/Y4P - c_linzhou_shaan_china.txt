@@ -1,0 +1,56 @@
+government = monarchy
+add_government_reform = confucian_bureaucracy
+government_rank = 1
+technology_group = chinese
+religion = confucianism
+primary_culture = jin
+capital = 2179
+fixed_capital = 2179
+910.1.30= {
+	monarch = {
+		name = "Junji"
+		dynasty = "Li"
+		adm = 2
+		dip = 3
+		mil = 2
+		birth_date = 878.12.29
+		religion = confucianism
+		culture = jin
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Yuhua"
+		dynasty = "Sun"
+		adm = 3
+		dip = 2
+		mil = 4
+		country_of_origin = Y4P
+		birth_date = 882.6.3
+		death_date = 942.6.3
+		female = yes
+		religion = confucianism
+		culture = chihan
+	}
+	add_queen_personality = well_connected_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Shi"
+		monarch_name = "Shi"
+		dynasty = "Li"
+		adm = 1
+		dip = 1
+		mil = 2
+		birth_date = 902.3.19
+		death_date = 967.3.19
+		claim = 89
+		religion = confucianism
+		culture = chihan
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+910.1.30= {
+	add_prestige = 63
+	add_treasury = 49
+}

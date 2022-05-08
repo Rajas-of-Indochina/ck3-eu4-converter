@@ -1,0 +1,40 @@
+government = monarchy
+add_government_reform = confucian_bureaucracy
+government_rank = 2
+technology_group = chinese
+religion = confucianism
+primary_culture = chihan
+capital = 702
+910.1.30= {
+	monarch = {
+		name = "Xinfu II"
+		dynasty = "Diwu"
+		adm = 3
+		dip = 3
+		mil = 5
+		birth_date = 882.11.13
+		religion = confucianism
+		culture = chihan
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	heir = {
+		name = "Yuankui"
+		monarch_name = "Yuankui II"
+		dynasty = "Diwu"
+		adm = 3
+		dip = 2
+		mil = 1
+		birth_date = 903.10.18
+		death_date = 968.10.18
+		claim = 89
+		religion = confucianism
+		culture = chihan
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+910.1.30= {
+	add_prestige = 59
+	add_treasury = 48
+}

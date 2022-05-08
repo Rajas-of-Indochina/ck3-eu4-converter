@@ -1,0 +1,36 @@
+government = tribal
+add_government_reform = tribal_kingdom
+government_rank = 1
+technology_group = sub_saharan
+religion = shamanism
+primary_culture = mali
+capital = 2242
+fixed_capital = 2242
+1068.6.5= {
+	monarch = {
+		name = "(Regency Council)"
+		adm = 1
+		dip = 1
+		mil = 1
+		birth_date = 1.1.1
+		regent = yes
+		religion = shamanism
+		culture = mali
+	}
+	heir = {
+		name = "Gane II"
+		dynasty = "Sengbe"
+		adm = 3
+		dip = 3
+		mil = 3
+		birth_date = 1065.1.1
+		death_date = 1130.1.1
+		claim = 89
+		religion = shamanism
+		culture = mali
+	}
+}
+1068.6.5= {
+	add_prestige = 47
+	add_treasury = 40
+}

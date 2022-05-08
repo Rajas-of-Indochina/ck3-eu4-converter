@@ -1,0 +1,56 @@
+government = monarchy
+add_government_reform = mandala_reform
+government_rank = 1
+technology_group = indian
+religion = buddhism
+primary_culture = mon
+capital = 2389
+fixed_capital = 2389
+910.1.30= {
+	monarch = {
+		name = "Nisay"
+		dynasty = "Chon"
+		adm = 2
+		dip = 2
+		mil = 3
+		birth_date = 855.1.1
+		religion = buddhism
+		culture = mon
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Chantrea"
+		dynasty = "Phran Kratai"
+		adm = 3
+		dip = 6
+		mil = 3
+		country_of_origin = Z9Z
+		birth_date = 859.1.1
+		death_date = 919.1.1
+		female = yes
+		religion = buddhism
+		culture = mon
+	}
+	add_queen_personality = well_connected_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Charya"
+		monarch_name = "Charya"
+		dynasty = "Chon"
+		adm = 3
+		dip = 5
+		mil = 5
+		birth_date = 883.12.18
+		death_date = 948.12.18
+		claim = 89
+		religion = buddhism
+		culture = mon
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+910.1.30= {
+	add_prestige = 49
+	add_treasury = 41
+}

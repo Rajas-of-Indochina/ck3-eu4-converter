@@ -1,0 +1,53 @@
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+technology_group = western
+religion = converted_phat_giao
+capital = 1016
+fixed_capital = 1016
+867.1.1= {
+	monarch = {
+		name = "Dieu"
+		dynasty = "Ho"
+		adm = 2
+		dip = 2
+		mil = 3
+		birth_date = 838.1.1
+		religion = converted_phat_giao
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Phu Qui"
+		dynasty = "dynn_Qui"
+		adm = 2
+		dip = 3
+		mil = 2
+		country_of_origin = W3X
+		birth_date = 838.1.1
+		death_date = 898.1.1
+		female = yes
+		religion = converted_phat_giao
+	}
+	add_queen_personality = well_connected_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Thi Diem"
+		monarch_name = "Thi Diem"
+		dynasty = "Orsini"
+		adm = 6
+		dip = 4
+		mil = 6
+		birth_date = 843.3.6
+		death_date = 908.3.6
+		female = yes
+		claim = 89
+		religion = converted_phat_giao
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+867.1.1= {
+	add_prestige = 47
+	add_treasury = 35
+}

@@ -1,0 +1,57 @@
+government = tribal
+add_government_reform = tribal_kingdom
+government_rank = 1
+technology_group = western
+religion = converted_ban_phi
+primary_culture = lao
+capital = 2371
+fixed_capital = 2371
+910.1.30= {
+	monarch = {
+		name = "Kham Rung"
+		dynasty = "Chakrabonse"
+		adm = 3
+		dip = 3
+		mil = 4
+		birth_date = 864.1.1
+		religion = converted_ban_phi
+		culture = lao
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Fong Chan"
+		dynasty = "Hwe"
+		adm = 2
+		dip = 3
+		mil = 2
+		country_of_origin = Y8Z
+		birth_date = 886.8.2
+		death_date = 946.8.2
+		female = yes
+		religion = converted_ban_phi
+		culture = lao
+	}
+	add_queen_personality = well_connected_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Kham Mala"
+		monarch_name = "Kham Mala"
+		dynasty = "Chakrabonse"
+		adm = 5
+		dip = 4
+		mil = 6
+		birth_date = 887.2.25
+		death_date = 952.2.25
+		female = yes
+		claim = 89
+		religion = converted_ban_phi
+		culture = lao
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+910.1.30= {
+	add_prestige = 62
+	add_treasury = 45
+}

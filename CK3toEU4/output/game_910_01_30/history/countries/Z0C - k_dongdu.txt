@@ -1,0 +1,55 @@
+government = monarchy
+add_government_reform = confucian_bureaucracy
+government_rank = 2
+technology_group = chinese
+religion = confucianism
+primary_culture = zhongyuan
+capital = 1836
+910.1.30= {
+	monarch = {
+		name = "Yuanfang II"
+		dynasty = "Di"
+		adm = 4
+		dip = 5
+		mil = 3
+		birth_date = 876.9.18
+		religion = confucianism
+		culture = zhongyuan
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Lingjing"
+		dynasty = "Yue"
+		adm = 3
+		dip = 1
+		mil = 3
+		country_of_origin = Z0C
+		birth_date = 875.8.22
+		death_date = 935.8.22
+		female = yes
+		religion = confucianism
+		culture = chihan
+	}
+	add_queen_personality = well_connected_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Anqi"
+		monarch_name = "Anqi II"
+		dynasty = "Di"
+		adm = 2
+		dip = 1
+		mil = 2
+		birth_date = 905.12.26
+		death_date = 970.12.26
+		claim = 89
+		religion = confucianism
+		culture = chihan
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+910.1.30= {
+	add_prestige = 65
+	add_treasury = 54
+}

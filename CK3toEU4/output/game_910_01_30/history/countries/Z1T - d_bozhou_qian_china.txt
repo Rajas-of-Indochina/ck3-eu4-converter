@@ -1,0 +1,40 @@
+government = tribal
+add_government_reform = tribal_kingdom
+government_rank = 1
+technology_group = western
+religion = converted_bimoism
+primary_culture = yi
+capital = 2168
+910.1.30= {
+	monarch = {
+		name = "A Vi"
+		dynasty = "Luo"
+		adm = 4
+		dip = 3
+		mil = 4
+		birth_date = 856.1.1
+		religion = converted_bimoism
+		culture = yi
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	heir = {
+		name = "Ba Cha"
+		monarch_name = "Ba Cha"
+		dynasty = "Luo"
+		adm = 6
+		dip = 5
+		mil = 6
+		birth_date = 879.10.15
+		death_date = 944.10.15
+		claim = 89
+		religion = converted_bimoism
+		culture = yi
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+910.1.30= {
+	add_prestige = 65
+	add_treasury = 64
+}

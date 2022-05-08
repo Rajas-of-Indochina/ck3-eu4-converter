@@ -1,0 +1,12 @@
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+technology_group = chinese
+religion = converted_kambuja_devaraja
+primary_culture = khmer
+capital = 4827
+fixed_capital = 4827
+867.1.1= {
+	add_prestige = 47
+	add_treasury = 48
+}

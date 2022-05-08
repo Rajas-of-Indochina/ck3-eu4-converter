@@ -1,0 +1,56 @@
+government = tribal
+add_government_reform = tribal_kingdom
+government_rank = 1
+technology_group = sub_saharan
+religion = shamanism
+primary_culture = mali
+capital = 1119
+fixed_capital = 1119
+910.1.30= {
+	monarch = {
+		name = "Gao"
+		dynasty = "Kabarasana"
+		adm = 3
+		dip = 4
+		mil = 3
+		birth_date = 882.10.28
+		religion = shamanism
+		culture = mali
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Aichata"
+		dynasty = "Keita"
+		adm = 3
+		dip = 4
+		mil = 3
+		country_of_origin = Y2P
+		birth_date = 886.3.21
+		death_date = 946.3.21
+		female = yes
+		religion = shamanism
+		culture = mali
+	}
+	add_queen_personality = well_connected_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Mamadi"
+		monarch_name = "Mamadi"
+		dynasty = "Kabarasana"
+		adm = 0
+		dip = 0
+		mil = 1
+		birth_date = 908.1.23
+		death_date = 973.1.23
+		claim = 89
+		religion = shamanism
+		culture = mali
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+910.1.30= {
+	add_prestige = 56
+	add_treasury = 42
+}

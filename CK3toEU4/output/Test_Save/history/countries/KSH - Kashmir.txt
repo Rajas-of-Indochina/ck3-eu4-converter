@@ -1,0 +1,41 @@
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 2
+technology_group = indian
+religion = hinduism
+primary_culture = kashmiri
+capital = 508
+add_accepted_culture = panjabi
+867.1.1= {
+	monarch = {
+		name = "Avantivarma"
+		dynasty = "Utpala"
+		adm = 1
+		dip = 6
+		mil = 1
+		birth_date = 805.1.1
+		religion = hinduism
+		culture = kashmiri
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	heir = {
+		name = "Samkaravarman"
+		monarch_name = "Samkaravarman"
+		dynasty = "Utpala"
+		adm = 5
+		dip = 6
+		mil = 4
+		birth_date = 840.1.1
+		death_date = 905.1.1
+		claim = 89
+		religion = hinduism
+		culture = kashmiri
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+867.1.1= {
+	add_prestige = 47
+	add_treasury = 40
+}

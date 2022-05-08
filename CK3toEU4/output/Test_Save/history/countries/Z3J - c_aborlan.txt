@@ -1,0 +1,53 @@
+government = tribal
+add_government_reform = tribal_kingdom
+government_rank = 1
+technology_group = western
+religion = converted_kadai
+capital = 655
+fixed_capital = 655
+867.1.1= {
+	monarch = {
+		name = "Sapa"
+		dynasty = "Aborlan"
+		adm = 6
+		dip = 2
+		mil = 5
+		birth_date = 839.1.30
+		religion = converted_kadai
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Soloin"
+		dynasty = "Banal"
+		adm = 5
+		dip = 0
+		mil = 5
+		country_of_origin = Z3J
+		birth_date = 840.1.1
+		death_date = 900.1.1
+		female = yes
+		religion = converted_kadai
+	}
+	add_queen_personality = well_connected_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Soloin"
+		monarch_name = "Soloin"
+		dynasty = "Orsini"
+		adm = 3
+		dip = 4
+		mil = 2
+		birth_date = 842.4.24
+		death_date = 907.4.24
+		female = yes
+		claim = 89
+		religion = converted_kadai
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+867.1.1= {
+	add_prestige = 47
+	add_treasury = 32
+}

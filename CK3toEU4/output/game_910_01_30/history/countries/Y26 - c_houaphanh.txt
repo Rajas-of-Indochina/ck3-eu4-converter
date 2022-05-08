@@ -1,0 +1,52 @@
+government = tribal
+add_government_reform = tribal_kingdom
+government_rank = 1
+technology_group = western
+religion = converted_ban_phi
+capital = 4837
+fixed_capital = 4837
+910.1.30= {
+	monarch = {
+		name = "Tanao"
+		dynasty = "Muang Thaeng"
+		adm = 3
+		dip = 4
+		mil = 4
+		birth_date = 850.1.1
+		religion = converted_ban_phi
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Sovandary"
+		dynasty = "Houaphanh"
+		adm = 5
+		dip = 3
+		mil = 3
+		country_of_origin = Y26
+		birth_date = 876.5.29
+		death_date = 936.5.29
+		female = yes
+		religion = converted_ban_phi
+	}
+	add_queen_personality = well_connected_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Dej"
+		monarch_name = "Dej"
+		dynasty = "Hoontrakul"
+		adm = 4
+		dip = 6
+		mil = 4
+		birth_date = 883.3.31
+		death_date = 948.3.31
+		claim = 89
+		religion = converted_ban_phi
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+910.1.30= {
+	add_prestige = 64
+	add_treasury = 55
+}

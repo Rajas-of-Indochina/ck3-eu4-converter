@@ -1,0 +1,57 @@
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+technology_group = western
+religion = catholic
+primary_culture = bavarian
+capital = 2955
+add_accepted_culture = sudeten
+1068.6.5= {
+	monarch = {
+		name = "Berengar"
+		dynasty = "von Sulzbach"
+		adm = 3
+		dip = 5
+		mil = 3
+		birth_date = 1005.1.1
+		religion = catholic
+		culture = bavarian
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Berthe"
+		dynasty = "d'Ivrea"
+		adm = 4
+		dip = 3
+		mil = 5
+		country_of_origin = Z2H
+		birth_date = 1052.1.2
+		death_date = 1112.1.2
+		female = yes
+		religion = catholic
+		culture = cosmopolitan_french
+	}
+	add_queen_personality = well_connected_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Adelheid"
+		monarch_name = "Adelheid"
+		dynasty = "von Sulzbach"
+		adm = 6
+		dip = 6
+		mil = 6
+		birth_date = 1035.1.1
+		death_date = 1100.1.1
+		female = yes
+		claim = 89
+		religion = catholic
+		culture = bavarian
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+1068.6.5= {
+	add_prestige = 58
+	add_treasury = 52
+}

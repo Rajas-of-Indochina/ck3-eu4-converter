@@ -1,0 +1,18 @@
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 140 100 40 }
+monarch_names = {
+	"Aamu #0" = -1
+	"Hintsa #0" = 0
+	"Ilta #0" = -1
+	"Kaleva #1" = 10
+	"Kristiina #0" = -1
+	"Kuuti #0" = 0
+	"Lemmikki #0" = -1
+	"Liekko #0" = -1
+	"Mielikki #0" = -1
+	"Sohvi #0" = -1
+	"Suoma #0" = -1
+	"Velmayka #0" = 0
+	"Voitto #0" = 0
+}

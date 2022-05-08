@@ -1,0 +1,56 @@
+government = tribal
+add_government_reform = steppe_horde
+government_rank = 1
+technology_group = nomad_group
+religion = tengri_pagan
+primary_culture = chuvash
+capital = 303
+add_accepted_culture = mordvin
+1068.6.5= {
+	monarch = {
+		name = "Tolun"
+		dynasty = "Burtasid"
+		adm = 3
+		dip = 3
+		mil = 2
+		birth_date = 1042.1.2
+		religion = tengri_pagan
+		culture = chuvash
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Vartilet"
+		dynasty = "Abash"
+		adm = 0
+		dip = 4
+		mil = 2
+		country_of_origin = Z12
+		birth_date = 1042.8.7
+		death_date = 1102.8.7
+		female = yes
+		religion = tengri_pagan
+		culture = chuvash
+	}
+	add_queen_personality = well_connected_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Ilmus"
+		monarch_name = "Ilmus"
+		dynasty = "Burtasid"
+		adm = 4
+		dip = 3
+		mil = 3
+		birth_date = 1059.2.19
+		death_date = 1124.2.19
+		claim = 89
+		religion = tengri_pagan
+		culture = chuvash
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+1068.6.5= {
+	add_prestige = 47
+	add_treasury = 26
+}

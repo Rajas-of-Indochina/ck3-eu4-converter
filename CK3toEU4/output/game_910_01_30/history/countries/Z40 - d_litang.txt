@@ -1,0 +1,55 @@
+government = monarchy
+add_government_reform = mandala_reform
+government_rank = 1
+technology_group = chinese
+religion = vajrayana
+primary_culture = tibetan
+capital = 678
+910.1.30= {
+	monarch = {
+		name = "Ögyen"
+		dynasty = "Litang"
+		adm = 3
+		dip = 1
+		mil = 5
+		birth_date = 840.1.1
+		religion = vajrayana
+		culture = tibetan
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Lhamu"
+		dynasty = "Tongkorpa"
+		adm = 2
+		dip = 1
+		mil = 2
+		country_of_origin = Z40
+		birth_date = 874.11.15
+		death_date = 934.11.15
+		female = yes
+		religion = vajrayana
+		culture = tibetan
+	}
+	add_queen_personality = well_connected_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Trinley"
+		monarch_name = "Trinley"
+		dynasty = "Litang"
+		adm = 6
+		dip = 3
+		mil = 4
+		birth_date = 860.1.1
+		death_date = 925.1.1
+		claim = 89
+		religion = vajrayana
+		culture = tibetan
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+910.1.30= {
+	add_prestige = 66
+	add_treasury = 51
+}

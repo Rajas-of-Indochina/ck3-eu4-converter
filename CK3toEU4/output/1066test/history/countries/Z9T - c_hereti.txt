@@ -1,0 +1,13 @@
+government = monarchy
+add_government_reform = iqta
+government_rank = 1
+technology_group = muslim
+religion = sunni
+primary_culture = azerbaijani
+capital = 4305
+fixed_capital = 4305
+religious_school = hanbali_school
+1068.6.5= {
+	add_prestige = 50
+	add_treasury = 50
+}

@@ -1,0 +1,53 @@
+government = tribal
+add_government_reform = tribal_kingdom
+government_rank = 1
+technology_group = western
+religion = converted_celebic
+capital = 643
+fixed_capital = 643
+867.1.1= {
+	monarch = {
+		name = "Parabung"
+		dynasty = "Ampana"
+		adm = 6
+		dip = 4
+		mil = 3
+		birth_date = 840.11.24
+		religion = converted_celebic
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Vaiata"
+		dynasty = "Senad"
+		adm = 6
+		dip = 4
+		mil = 3
+		country_of_origin = Z41
+		birth_date = 841.1.1
+		death_date = 901.1.1
+		female = yes
+		religion = converted_celebic
+	}
+	add_queen_personality = well_connected_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Tautiare"
+		monarch_name = "Tautiare"
+		dynasty = "Orsini"
+		adm = 5
+		dip = 6
+		mil = 0
+		birth_date = 839.9.30
+		death_date = 904.9.30
+		female = yes
+		claim = 89
+		religion = converted_celebic
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+867.1.1= {
+	add_prestige = 47
+	add_treasury = 32
+}

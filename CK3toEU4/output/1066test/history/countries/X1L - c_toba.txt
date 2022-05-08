@@ -1,0 +1,56 @@
+government = tribal
+add_government_reform = tribal_kingdom
+government_rank = 1
+technology_group = western
+religion = converted_batak_animism
+primary_culture = sumatran
+capital = 619
+fixed_capital = 619
+1068.6.5= {
+	monarch = {
+		name = "Sorisohaliapan"
+		dynasty = "Sorimangaraja"
+		adm = 2
+		dip = 1
+		mil = 2
+		birth_date = 1039.1.1
+		religion = converted_batak_animism
+		culture = sumatran
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Damayanti"
+		dynasty = "Mangkuto"
+		adm = 5
+		dip = 3
+		mil = 3
+		country_of_origin = X1L
+		birth_date = 1039.1.14
+		death_date = 1099.1.14
+		female = yes
+		religion = converted_batak_animism
+		culture = sumatran
+	}
+	add_queen_personality = well_connected_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Wiryawawahan"
+		monarch_name = "Wiryawawahan"
+		dynasty = "Sorimangaraja"
+		adm = 1
+		dip = 1
+		mil = 1
+		birth_date = 1064.5.23
+		death_date = 1129.5.23
+		claim = 89
+		religion = converted_batak_animism
+		culture = sumatran
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+1068.6.5= {
+	add_prestige = 48
+	add_treasury = 39
+}

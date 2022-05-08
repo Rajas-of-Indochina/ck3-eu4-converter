@@ -1,0 +1,57 @@
+government = tribal
+add_government_reform = tribal_kingdom
+government_rank = 1
+technology_group = western
+religion = norse_pagan
+primary_culture = swedish
+capital = 5
+fixed_capital = 5
+867.1.1= {
+	monarch = {
+		name = "Þorfinn"
+		dynasty = "Väse"
+		adm = 3
+		dip = 2
+		mil = 0
+		birth_date = 840.1.1
+		religion = norse_pagan
+		culture = swedish
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Bodil"
+		dynasty = "Snjalli"
+		adm = 5
+		dip = 4
+		mil = 4
+		country_of_origin = X3W
+		birth_date = 840.1.1
+		death_date = 900.1.1
+		female = yes
+		religion = norse_pagan
+		culture = norse
+	}
+	add_queen_personality = well_connected_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Hlaðgerðr"
+		monarch_name = "Hlaðgerðr"
+		dynasty = "Orsini"
+		adm = 4
+		dip = 3
+		mil = 6
+		birth_date = 795.6.6
+		death_date = 860.6.6
+		female = yes
+		claim = 89
+		religion = norse_pagan
+		culture = norse
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+867.1.1= {
+	add_prestige = 47
+	add_treasury = 34
+}

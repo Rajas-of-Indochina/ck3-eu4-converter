@@ -1,0 +1,42 @@
+converted_ryukyu_animism = {
+	converted_ryukyu_animism = {
+		color = { 170 180 193 }
+		icon =  208
+		country = {
+ 
+		leader_land_shock = 1
+		leader_naval_shock = 1
+	
+
+		diplomatic_reputation = 1
+	
+
+		build_cost = 0.1
+		war_exhaustion = -0.1
+	
+
+		female_advisor_chance = 0.9
+	
+}
+		country_as_secondary = {
+ 
+		leader_land_shock = 1
+	
+
+		diplomatic_reputation = 1
+	
+}
+		province = {
+ 
+		local_manpower_modifier = 0.1
+	
+
+		local_missionary_strength = 0.01
+	
+
+		local_missionary_strength = 0.02
+	
+}
+	}
+}
+

@@ -1,0 +1,56 @@
+government = tribal
+add_government_reform = tribal_kingdom
+government_rank = 1
+technology_group = chinese
+religion = vajrayana
+primary_culture = nepali
+capital = 4481
+910.1.30= {
+	monarch = {
+		name = "Tsenang II"
+		dynasty = "Paro"
+		adm = 5
+		dip = 2
+		mil = 3
+		birth_date = 875.8.14
+		religion = vajrayana
+		culture = nepali
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Jinfeng"
+		dynasty = "Yuan"
+		adm = 3
+		dip = 4
+		mil = 3
+		country_of_origin = BHU
+		birth_date = 891.6.24
+		death_date = 951.6.24
+		female = yes
+		religion = confucianism
+		culture = chihan
+	}
+	add_queen_personality = well_connected_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Sangay"
+		monarch_name = "Sangay"
+		dynasty = "Paro"
+		adm = 5
+		dip = 3
+		mil = 5
+		birth_date = 896.9.18
+		death_date = 961.9.18
+		female = yes
+		claim = 89
+		religion = vajrayana
+		culture = nepali
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+910.1.30= {
+	add_prestige = 57
+	add_treasury = 50
+}

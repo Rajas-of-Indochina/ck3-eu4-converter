@@ -1,0 +1,55 @@
+government = tribal
+add_government_reform = steppe_horde
+government_rank = 1
+technology_group = eastern
+religion = finnish_pagan
+primary_culture = mordvin
+capital = 2423
+1068.6.5= {
+	monarch = {
+		name = "Varaka II"
+		dynasty = "of Voronezh"
+		adm = 3
+		dip = 5
+		mil = 3
+		birth_date = 1039.1.1
+		religion = finnish_pagan
+		culture = mordvin
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Putyayka"
+		dynasty = "Varakid"
+		adm = 5
+		dip = 5
+		mil = 4
+		country_of_origin = MDV
+		birth_date = 1039.3.21
+		death_date = 1099.3.21
+		female = yes
+		religion = finnish_pagan
+		culture = mordvin
+	}
+	add_queen_personality = well_connected_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Varaka"
+		monarch_name = "Varaka III"
+		dynasty = "of Voronezh"
+		adm = 0
+		dip = 1
+		mil = 1
+		birth_date = 1064.4.14
+		death_date = 1129.4.14
+		claim = 89
+		religion = finnish_pagan
+		culture = mordvin
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+1068.6.5= {
+	add_prestige = 48
+	add_treasury = 42
+}

@@ -1,0 +1,53 @@
+government = tribal
+add_government_reform = tribal_kingdom
+government_rank = 1
+technology_group = western
+religion = converted_kaharingan
+capital = 638
+fixed_capital = 638
+910.1.30= {
+	monarch = {
+		name = "Laki Bo"
+		dynasty = "Bonjol"
+		adm = 0
+		dip = 3
+		mil = 3
+		birth_date = 849.1.1
+		religion = converted_kaharingan
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Nara"
+		dynasty = "Kelay"
+		adm = 4
+		dip = 3
+		mil = 5
+		country_of_origin = Z7O
+		birth_date = 865.1.1
+		death_date = 925.1.1
+		female = yes
+		religion = converted_kaharingan
+	}
+	add_queen_personality = well_connected_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Maharati"
+		monarch_name = "Maharati"
+		dynasty = "Bonjol"
+		adm = 4
+		dip = 6
+		mil = 6
+		birth_date = 866.1.1
+		death_date = 931.1.1
+		female = yes
+		claim = 89
+		religion = converted_kaharingan
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+910.1.30= {
+	add_prestige = 67
+	add_treasury = 43
+}

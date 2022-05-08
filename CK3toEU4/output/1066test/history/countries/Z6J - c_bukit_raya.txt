@@ -1,0 +1,50 @@
+government = tribal
+add_government_reform = tribal_kingdom
+government_rank = 1
+technology_group = western
+religion = converted_kaharingan
+1068.6.5= {
+	monarch = {
+		name = "Balawa"
+		dynasty = "Raden"
+		adm = 5
+		dip = 3
+		mil = 3
+		birth_date = 1034.6.7
+		religion = converted_kaharingan
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Hante"
+		dynasty = "Kusnasosro"
+		adm = 6
+		dip = 1
+		mil = 6
+		country_of_origin = Z6J
+		birth_date = 1034.6.18
+		death_date = 1094.6.18
+		female = yes
+		religion = converted_kaharingan
+	}
+	add_queen_personality = well_connected_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Keling"
+		monarch_name = "Keling"
+		dynasty = "Raden"
+		adm = 6
+		dip = 6
+		mil = 4
+		birth_date = 1051.7.5
+		death_date = 1116.7.5
+		claim = 89
+		religion = converted_kaharingan
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+1068.6.5= {
+	add_prestige = 50
+	add_treasury = 46
+}

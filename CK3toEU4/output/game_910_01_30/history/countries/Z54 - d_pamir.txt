@@ -1,0 +1,56 @@
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+technology_group = indian
+religion = animism
+primary_culture = kashmiri
+capital = 2073
+910.1.30= {
+	monarch = {
+		name = "Garg"
+		dynasty = "Kayani"
+		adm = 2
+		dip = 3
+		mil = 2
+		birth_date = 865.12.3
+		religion = animism
+		culture = kashmiri
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Ardil"
+		dynasty = "Shahi"
+		adm = 4
+		dip = 2
+		mil = 3
+		country_of_origin = Z54
+		birth_date = 879.5.29
+		death_date = 939.5.29
+		female = yes
+		religion = animism
+		culture = afghani
+	}
+	add_queen_personality = well_connected_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Saraswati"
+		monarch_name = "Saraswati"
+		dynasty = "Kayani"
+		adm = 4
+		dip = 3
+		mil = 2
+		birth_date = 899.9.29
+		death_date = 964.9.29
+		female = yes
+		claim = 89
+		religion = hinduism
+		culture = kashmiri
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+910.1.30= {
+	add_prestige = 62
+	add_treasury = 0
+}

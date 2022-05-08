@@ -1,0 +1,57 @@
+government = tribal
+add_government_reform = tribal_kingdom
+government_rank = 1
+technology_group = western
+religion = converted_penunggu
+primary_culture = papuan
+capital = 2718
+fixed_capital = 2718
+1068.6.5= {
+	monarch = {
+		name = "Desu"
+		dynasty = "Buruwai"
+		adm = 3
+		dip = 2
+		mil = 0
+		birth_date = 1039.6.19
+		religion = converted_penunggu
+		culture = papuan
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Telip"
+		dynasty = "Biagel"
+		adm = 2
+		dip = 4
+		mil = 1
+		country_of_origin = Z6W
+		birth_date = 1039.3.2
+		death_date = 1099.3.2
+		female = yes
+		religion = converted_penunggu
+		culture = papuan
+	}
+	add_queen_personality = well_connected_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Silit"
+		monarch_name = "Silit"
+		dynasty = "Buruwai"
+		adm = 2
+		dip = 4
+		mil = 3
+		birth_date = 1056.7.13
+		death_date = 1121.7.13
+		female = yes
+		claim = 89
+		religion = converted_penunggu
+		culture = papuan
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+1068.6.5= {
+	add_prestige = 49
+	add_treasury = 43
+}

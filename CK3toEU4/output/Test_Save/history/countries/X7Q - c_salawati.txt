@@ -1,0 +1,53 @@
+government = tribal
+add_government_reform = tribal_kingdom
+government_rank = 1
+technology_group = western
+religion = converted_penunggu
+capital = 1245
+fixed_capital = 1245
+867.1.1= {
+	monarch = {
+		name = "Katlub"
+		dynasty = "Samate"
+		adm = 2
+		dip = 3
+		mil = 4
+		birth_date = 834.8.11
+		religion = converted_penunggu
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Lapsay"
+		dynasty = "Lapsay"
+		adm = 4
+		dip = 0
+		mil = 4
+		country_of_origin = X7Q
+		birth_date = 835.1.1
+		death_date = 895.1.1
+		female = yes
+		religion = converted_penunggu
+	}
+	add_queen_personality = well_connected_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Ganda"
+		monarch_name = "Ganda"
+		dynasty = "Orsini"
+		adm = 6
+		dip = 1
+		mil = 6
+		birth_date = 841.12.26
+		death_date = 906.12.26
+		female = yes
+		claim = 89
+		religion = converted_penunggu
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+867.1.1= {
+	add_prestige = 47
+	add_treasury = 31
+}

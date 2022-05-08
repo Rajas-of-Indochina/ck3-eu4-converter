@@ -1,0 +1,55 @@
+government = monarchy
+add_government_reform = mandala_reform
+government_rank = 1
+technology_group = chinese
+religion = bon
+primary_culture = sumpa
+capital = 4519
+1068.6.5= {
+	monarch = {
+		name = "Meka"
+		dynasty = "Sumpa"
+		adm = 2
+		dip = 3
+		mil = 3
+		birth_date = 1020.1.1
+		religion = bon
+		culture = sumpa
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Miaozhen"
+		dynasty = "Peng"
+		adm = 2
+		dip = 1
+		mil = 2
+		country_of_origin = Z0I
+		birth_date = 1052.4.27
+		death_date = 1112.4.27
+		female = yes
+		religion = confucianism
+		culture = chihan
+	}
+	add_queen_personality = well_connected_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Kyipo"
+		monarch_name = "Kyipo"
+		dynasty = "Sumpa"
+		adm = 2
+		dip = 6
+		mil = 2
+		birth_date = 1040.1.1
+		death_date = 1105.1.1
+		claim = 89
+		religion = bon_reformed
+		culture = sumpa
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+1068.6.5= {
+	add_prestige = 54
+	add_treasury = 40
+}

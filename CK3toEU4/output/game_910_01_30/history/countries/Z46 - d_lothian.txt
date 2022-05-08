@@ -1,0 +1,53 @@
+government = tribal
+add_government_reform = tribal_kingdom
+government_rank = 1
+technology_group = western
+religion = norse_pagan
+primary_culture = norse
+capital = 248
+add_accepted_culture = northumbrian
+910.1.30= {
+	monarch = {
+		name = "Sigtrygg"
+		adm = 5
+		dip = 3
+		mil = 3
+		birth_date = 864.1.1
+		religion = norse_pagan
+		culture = norse
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Hafríðr"
+		adm = 4
+		dip = 4
+		mil = 4
+		country_of_origin = Z46
+		birth_date = 881.2.9
+		death_date = 941.2.9
+		female = yes
+		religion = norse_pagan
+		culture = dynamic-anglo_saxon-norse-culture-num1
+	}
+	add_queen_personality = well_connected_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Ivar"
+		monarch_name = "Ivar"
+		adm = 6
+		dip = 6
+		mil = 6
+		birth_date = 889.10.26
+		death_date = 954.10.26
+		claim = 89
+		religion = norse_pagan
+		culture = norse
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+910.1.30= {
+	add_prestige = 60
+	add_treasury = 53
+}

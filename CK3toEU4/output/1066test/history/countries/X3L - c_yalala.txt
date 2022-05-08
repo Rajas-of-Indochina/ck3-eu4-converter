@@ -1,0 +1,57 @@
+government = monarchy
+add_government_reform = iqta
+government_rank = 1
+technology_group = muslim
+religion = sunni
+primary_culture = algerian
+capital = 2462
+fixed_capital = 2462
+religious_school = hanbali_school
+1068.6.5= {
+	monarch = {
+		name = "Abdul-Razzaq"
+		dynasty = "Lemdiyyid"
+		adm = 4
+		dip = 3
+		mil = 5
+		birth_date = 1030.1.1
+		religion = sunni
+		culture = algerian
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Sekkura"
+		dynasty = "Anwarid"
+		adm = 2
+		dip = 4
+		mil = 4
+		country_of_origin = X3L
+		birth_date = 1030.3.28
+		death_date = 1090.3.28
+		female = yes
+		religion = sunni
+		culture = berber
+	}
+	add_queen_personality = well_connected_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Ahmad"
+		monarch_name = "Ahmad"
+		dynasty = "Lemdiyyid"
+		adm = 1
+		dip = 6
+		mil = 1
+		birth_date = 1047.3.20
+		death_date = 1112.3.20
+		claim = 89
+		religion = sunni
+		culture = berber
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+1068.6.5= {
+	add_prestige = 48
+	add_treasury = 33
+}

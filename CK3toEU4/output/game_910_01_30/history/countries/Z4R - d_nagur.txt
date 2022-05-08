@@ -1,0 +1,56 @@
+government = tribal
+add_government_reform = tribal_kingdom
+government_rank = 1
+technology_group = western
+religion = converted_batak_animism
+primary_culture = sumatran
+capital = 4810
+add_accepted_culture = acehnese
+910.1.30= {
+	monarch = {
+		name = "Narama"
+		dynasty = "Damanik"
+		adm = 1
+		dip = 2
+		mil = 3
+		birth_date = 849.1.1
+		religion = converted_batak_animism
+		culture = sumatran
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Gitarja"
+		dynasty = "al-Harrani"
+		adm = 0
+		dip = 3
+		mil = 2
+		country_of_origin = Z4R
+		birth_date = 875.8.6
+		death_date = 935.8.6
+		female = yes
+		religion = converted_batak_animism
+		culture = sumatran
+	}
+	add_queen_personality = well_connected_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Jayawarsa"
+		monarch_name = "Jayawarsa"
+		dynasty = "Damanik"
+		adm = 5
+		dip = 2
+		mil = 6
+		birth_date = 866.1.1
+		death_date = 931.1.1
+		claim = 89
+		religion = converted_batak_animism
+		culture = sumatran
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+910.1.30= {
+	add_prestige = 77
+	add_treasury = 71
+}

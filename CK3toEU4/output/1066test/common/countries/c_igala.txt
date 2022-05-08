@@ -1,0 +1,19 @@
+ck2_converter_generated = yes
+graphical_culture = africangfx
+color = { 60 23 178 }
+monarch_names = {
+	"Adaugo #0" = -1
+	"Afamefuna #1" = 10
+	"Akuabata #1" = 10
+	"Amadi #1" = 10
+	"Azuka #0" = 0
+	"Chidimma #0" = -1
+	"Chielo #0" = -1
+	"Chinedu #0" = 0
+	"Chizoba #0" = -1
+	"Enyinnaya #0" = 0
+	"Funanya #0" = -1
+	"Ifediaso #0" = 0
+	"Ndoye #0" = -1
+	"Okonkwo #0" = 0
+}

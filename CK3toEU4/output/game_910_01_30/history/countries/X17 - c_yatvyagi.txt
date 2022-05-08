@@ -1,0 +1,57 @@
+government = tribal
+add_government_reform = tribal_kingdom
+government_rank = 1
+technology_group = eastern
+religion = baltic_pagan
+primary_culture = lithuanian
+capital = 1936
+fixed_capital = 1936
+add_accepted_culture = polish
+910.1.30= {
+	monarch = {
+		name = "Visvaldis"
+		dynasty = "Suvalkija"
+		adm = 5
+		dip = 4
+		mil = 5
+		birth_date = 882.8.8
+		religion = baltic_pagan
+		culture = lithuanian
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Veliuona"
+		dynasty = "of Žemaiteje"
+		adm = 3
+		dip = 3
+		mil = 4
+		country_of_origin = X17
+		birth_date = 861.1.1
+		death_date = 921.1.1
+		female = yes
+		religion = baltic_pagan
+		culture = lithuanian
+	}
+	add_queen_personality = well_connected_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Gintaras"
+		monarch_name = "Gintaras"
+		dynasty = "Suvalkija"
+		adm = 4
+		dip = 3
+		mil = 5
+		birth_date = 900.10.27
+		death_date = 965.10.27
+		claim = 89
+		religion = baltic_pagan
+		culture = lithuanian
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+910.1.30= {
+	add_prestige = 60
+	add_treasury = 50
+}

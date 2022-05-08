@@ -1,0 +1,45 @@
+converted_tungusic_shamanism = {
+	converted_tungusic_shamanism = {
+		color = { 140 206 255 }
+		icon =  186
+		country = {
+ 
+		legitimacy = 1
+		horde_unity = 1
+		devotion = 1
+		meritocracy = 0.5
+		republican_tradition = 0.5
+	
+
+		diplomatic_reputation = 1
+	
+
+		build_cost = 0.1
+		war_exhaustion = -0.1
+	
+
+		heir_chance = 0.5
+	
+}
+		country_as_secondary = {
+ 
+		raze_power_gain = 0.15
+	
+
+		diplomatic_reputation = 1
+	
+}
+		province = {
+ 
+		local_manpower_modifier = 0.1
+	
+
+		local_missionary_strength = 0.01
+	
+
+		local_missionary_strength = 0.02
+	
+}
+	}
+}
+

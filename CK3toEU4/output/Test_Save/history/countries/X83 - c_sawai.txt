@@ -1,0 +1,53 @@
+government = tribal
+add_government_reform = tribal_kingdom
+government_rank = 1
+technology_group = western
+religion = converted_nunusaku
+capital = 648
+fixed_capital = 648
+867.1.1= {
+	monarch = {
+		name = "Kilat"
+		dynasty = "Weda"
+		adm = 1
+		dip = 1
+		mil = 4
+		birth_date = 833.9.11
+		religion = converted_nunusaku
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Lumlum"
+		dynasty = "Karat"
+		adm = 3
+		dip = 6
+		mil = 1
+		country_of_origin = X83
+		birth_date = 834.1.1
+		death_date = 894.1.1
+		female = yes
+		religion = converted_nunusaku
+	}
+	add_queen_personality = well_connected_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Tani"
+		monarch_name = "Tani"
+		dynasty = "Orsini"
+		adm = 6
+		dip = 5
+		mil = 5
+		birth_date = 850.2.27
+		death_date = 915.2.27
+		female = yes
+		claim = 89
+		religion = converted_nunusaku
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+867.1.1= {
+	add_prestige = 47
+	add_treasury = 29
+}

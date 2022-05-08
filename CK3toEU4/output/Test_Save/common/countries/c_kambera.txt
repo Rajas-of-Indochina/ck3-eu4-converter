@@ -1,0 +1,14 @@
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 120 198 52 }
+monarch_names = {
+	"Baringaw #0" = 0
+	"Lapsay #0" = -1
+	"Poit #0" = 0
+	"Putput #0" = -1
+	"Ramut #0" = 0
+	"Selub #0" = -1
+	"Silit #0" = -1
+	"Tolu-ma-lamo #0" = 0
+	"Wangi #0" = -1
+}

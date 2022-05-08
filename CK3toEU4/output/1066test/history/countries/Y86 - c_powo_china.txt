@@ -1,0 +1,57 @@
+government = monarchy
+add_government_reform = english_monarchy
+government_rank = 1
+technology_group = nomad_group
+religion = tengri_pagan
+primary_culture = kirgiz
+capital = 1053
+fixed_capital = 1053
+add_accepted_culture = evenk
+1068.6.5= {
+	monarch = {
+		name = "Bachman"
+		dynasty = "Powo"
+		adm = 1
+		dip = 5
+		mil = 2
+		birth_date = 1032.8.19
+		religion = tengri_pagan
+		culture = kirgiz
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Tura"
+		dynasty = "Tarlak"
+		adm = 3
+		dip = 3
+		mil = 3
+		country_of_origin = Y86
+		birth_date = 1032.7.31
+		death_date = 1092.7.31
+		female = yes
+		religion = tengri_pagan
+		culture = kirgiz
+	}
+	add_queen_personality = well_connected_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Ituk"
+		monarch_name = "Ituk"
+		dynasty = "Powo"
+		adm = 4
+		dip = 3
+		mil = 5
+		birth_date = 1049.5.7
+		death_date = 1114.5.7
+		claim = 89
+		religion = tengri_pagan
+		culture = kirgiz
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+1068.6.5= {
+	add_prestige = 48
+	add_treasury = 30
+}

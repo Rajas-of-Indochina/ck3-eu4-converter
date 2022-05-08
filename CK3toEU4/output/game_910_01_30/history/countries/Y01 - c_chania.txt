@@ -1,0 +1,13 @@
+government = monarchy
+add_government_reform = iqta
+government_rank = 1
+technology_group = muslim
+religion = shiite
+primary_culture = berber
+capital = 356
+fixed_capital = 356
+religious_school = ismaili_school
+910.1.30= {
+	add_prestige = 59
+	add_treasury = 45
+}

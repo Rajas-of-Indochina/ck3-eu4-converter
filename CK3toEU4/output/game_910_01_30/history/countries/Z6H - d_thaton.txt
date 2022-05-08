@@ -1,0 +1,55 @@
+government = monarchy
+add_government_reform = mandala_reform
+government_rank = 1
+technology_group = indian
+religion = buddhism
+primary_culture = mon
+capital = 590
+910.1.30= {
+	monarch = {
+		name = "Ganda"
+		dynasty = "Thaton"
+		adm = 2
+		dip = 2
+		mil = 2
+		birth_date = 840.1.1
+		religion = buddhism
+		culture = mon
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Chamekamba"
+		dynasty = "al-Harrani"
+		adm = 5
+		dip = 4
+		mil = 6
+		country_of_origin = Z6H
+		birth_date = 849.7.26
+		death_date = 909.7.26
+		female = yes
+		religion = hinduism
+		culture = telegu
+	}
+	add_queen_personality = well_connected_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Ganda"
+		monarch_name = "Ganda II"
+		dynasty = "Thaton"
+		adm = 5
+		dip = 6
+		mil = 4
+		birth_date = 879.1.18
+		death_date = 944.1.18
+		claim = 89
+		religion = buddhism
+		culture = mon
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+910.1.30= {
+	add_prestige = 76
+	add_treasury = 54
+}

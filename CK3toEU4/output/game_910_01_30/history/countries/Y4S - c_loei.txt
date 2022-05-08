@@ -1,0 +1,36 @@
+government = monarchy
+add_government_reform = mandala_reform
+government_rank = 1
+technology_group = indian
+religion = buddhism
+primary_culture = mon
+capital = 2385
+fixed_capital = 2385
+910.1.30= {
+	monarch = {
+		name = "(Regency Council)"
+		adm = 1
+		dip = 2
+		mil = 3
+		birth_date = 1.1.1
+		regent = yes
+		religion = buddhism
+		culture = mon
+	}
+	heir = {
+		name = "Anuyama"
+		dynasty = "Leng"
+		adm = 3
+		dip = 4
+		mil = 5
+		birth_date = 899.2.19
+		death_date = 964.2.19
+		claim = 89
+		religion = buddhism
+		culture = mon
+	}
+}
+910.1.30= {
+	add_prestige = 50
+	add_treasury = 39
+}

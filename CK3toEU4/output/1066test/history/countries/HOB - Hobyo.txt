@@ -1,0 +1,57 @@
+government = tribal
+add_government_reform = tribal_kingdom
+government_rank = 1
+technology_group = east_african
+religion = shamanism
+primary_culture = somali
+capital = 2783
+fixed_capital = 2783
+1068.6.5= {
+	monarch = {
+		name = "Balad"
+		dynasty = "Abgal"
+		adm = 5
+		dip = 2
+		mil = 5
+		birth_date = 1048.1.1
+		religion = shamanism
+		culture = somali
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Awrala"
+		dynasty = "Dir"
+		adm = 5
+		dip = 3
+		mil = 3
+		country_of_origin = HOB
+		birth_date = 1048.2.26
+		death_date = 1108.2.26
+		female = yes
+		religion = shamanism
+		culture = somali
+	}
+	add_queen_personality = well_connected_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Libin"
+		monarch_name = "Libin"
+		dynasty = "Abgal"
+		adm = 1
+		dip = 2
+		mil = 1
+		birth_date = 1065.3.8
+		death_date = 1130.3.8
+		female = yes
+		claim = 89
+		religion = shamanism
+		culture = somali
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+1068.6.5= {
+	add_prestige = 48
+	add_treasury = 33
+}

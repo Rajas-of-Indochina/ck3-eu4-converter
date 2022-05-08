@@ -1,0 +1,19 @@
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 66 79 58 }
+monarch_names = {
+	"Dai #0" = -1
+	"Duc #0" = 0
+	"Duy Hien #0" = 0
+	"Khiem #0" = -1
+	"Lien #0" = -1
+	"Thanh #0" = -1
+	"The #0" = -1
+	"Thuc Nga #0" = -1
+	"Trai #0" = 0
+	"Tron #0" = -1
+	"Tu Quyen #0" = -1
+	"Tuy #0" = 0
+	"Tuyet #0" = -1
+	"Van #1" = 10
+}

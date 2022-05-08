@@ -1,0 +1,54 @@
+government = monarchy
+add_government_reform = iqta
+government_rank = 1
+technology_group = nomad_group
+religion = sunni
+primary_culture = sogdian
+religious_school = hanbali_school
+910.1.30= {
+	monarch = {
+		name = "Khwasawch"
+		dynasty = "Afshin"
+		adm = 1
+		dip = 2
+		mil = 1
+		birth_date = 858.1.1
+		religion = sunni
+		culture = sogdian
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Makh"
+		adm = 5
+		dip = 2
+		mil = 5
+		country_of_origin = Y9S
+		birth_date = 884.2.28
+		death_date = 944.2.28
+		female = yes
+		religion = sunni
+		culture = sogdian
+	}
+	add_queen_personality = well_connected_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Al-Kawus"
+		monarch_name = "Al-Kawus"
+		dynasty = "Afshin"
+		adm = 4
+		dip = 4
+		mil = 5
+		birth_date = 875.3.22
+		death_date = 940.3.22
+		claim = 89
+		religion = sunni
+		culture = sogdian
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+910.1.30= {
+	add_prestige = 51
+	add_treasury = 51
+}

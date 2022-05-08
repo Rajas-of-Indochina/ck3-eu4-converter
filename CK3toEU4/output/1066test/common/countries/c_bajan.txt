@@ -1,0 +1,16 @@
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 235 44 22 }
+monarch_names = {
+	"Arif-ma-lamo #0" = 0
+	"Baguna #0" = 0
+	"Bayan #0" = 0
+	"Cico #0" = 0
+	"Gapi-ma-lamo #1" = 10
+	"Kunam #0" = 0
+	"Limlim #0" = -1
+	"Ma-dideg #0" = 0
+	"Pamalak #0" = 0
+	"Sidang #0" = 0
+	"Silit #0" = -1
+}

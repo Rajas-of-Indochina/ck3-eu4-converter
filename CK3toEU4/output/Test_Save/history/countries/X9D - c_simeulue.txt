@@ -1,0 +1,53 @@
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+technology_group = western
+religion = vajrayana
+capital = 2684
+fixed_capital = 2684
+867.1.1= {
+	monarch = {
+		name = "Sibayak"
+		dynasty = "Ariga"
+		adm = 3
+		dip = 2
+		mil = 5
+		birth_date = 849.1.1
+		religion = vajrayana
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Sudewi"
+		dynasty = "Wampu"
+		adm = 5
+		dip = 2
+		mil = 5
+		country_of_origin = X9D
+		birth_date = 849.1.1
+		death_date = 909.1.1
+		female = yes
+		religion = vajrayana
+	}
+	add_queen_personality = well_connected_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Sinta"
+		monarch_name = "Sinta"
+		dynasty = "Orsini"
+		adm = 4
+		dip = 6
+		mil = 6
+		birth_date = 840.7.15
+		death_date = 905.7.15
+		female = yes
+		claim = 89
+		religion = converted_batak_animism
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+867.1.1= {
+	add_prestige = 47
+	add_treasury = 32
+}

@@ -1,0 +1,56 @@
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+technology_group = western
+religion = vajrayana
+primary_culture = bornean
+capital = 639
+867.1.1= {
+	monarch = {
+		name = "Surya"
+		dynasty = "Katingan Kuala"
+		adm = 5
+		dip = 3
+		mil = 6
+		birth_date = 849.1.1
+		religion = vajrayana
+		culture = bornean
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Prajni"
+		dynasty = "Palimbang"
+		adm = 4
+		dip = 3
+		mil = 2
+		country_of_origin = Z1N
+		birth_date = 849.1.1
+		death_date = 909.1.1
+		female = yes
+		religion = vajrayana
+		culture = bornean
+	}
+	add_queen_personality = well_connected_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Sinta"
+		monarch_name = "Sinta"
+		dynasty = "Hujung Langit"
+		adm = 3
+		dip = 3
+		mil = 2
+		birth_date = 839.6.9
+		death_date = 904.6.9
+		female = yes
+		claim = 89
+		religion = vajrayana
+		culture = bornean
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+867.1.1= {
+	add_prestige = 47
+	add_treasury = 22
+}

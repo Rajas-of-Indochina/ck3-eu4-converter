@@ -1,0 +1,17 @@
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 83 53 34 }
+monarch_names = {
+	"Aditi #0" = -1
+	"Bhiswari #0" = -1
+	"Kidul #0" = -1
+	"Kunti #0" = -1
+	"Pancapana #0" = 0
+	"Prameswari #0" = -1
+	"Shima #0" = -1
+	"Sudewi #0" = -1
+	"Vediarasan #0" = 0
+	"Wariga #0" = 0
+	"Widyawati #0" = -1
+	"Yudhayana #1" = 10
+}

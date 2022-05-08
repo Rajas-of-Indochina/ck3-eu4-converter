@@ -1,0 +1,17 @@
+ck2_converter_generated = yes
+graphical_culture = indiangfx
+color = { 35 98 32 }
+monarch_names = {
+	"Adara #0" = 0
+	"Rachana #0" = 0
+	"Razadarit #0" = 0
+	"Sikha #0" = -1
+	"Sonisay #0" = -1
+	"Sopheaktra #0" = 0
+	"Sotear #0" = -1
+	"Sotheara #0" = -1
+	"Sovanna #0" = -1
+	"Sreypich #0" = -1
+	"Veata #0" = -1
+	"Vimean #0" = -1
+}

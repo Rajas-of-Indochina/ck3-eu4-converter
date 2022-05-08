@@ -1,0 +1,40 @@
+government = tribal
+add_government_reform = tribal_kingdom
+government_rank = 1
+technology_group = chinese
+religion = vajrayana
+primary_culture = filipino
+capital = 2697
+867.1.1= {
+	monarch = {
+		name = "Suvarna"
+		dynasty = "Galúrâ"
+		adm = 3
+		dip = 2
+		mil = 2
+		birth_date = 843.1.1
+		religion = vajrayana
+		culture = filipino
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	heir = {
+		name = "Jayadewa"
+		monarch_name = "Jayadewa"
+		dynasty = "Galúrâ"
+		adm = 1
+		dip = 1
+		mil = 0
+		birth_date = 865.1.1
+		death_date = 930.1.1
+		claim = 89
+		religion = vajrayana
+		culture = filipino
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+867.1.1= {
+	add_prestige = 47
+	add_treasury = 32
+}

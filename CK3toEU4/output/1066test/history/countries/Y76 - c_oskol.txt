@@ -1,0 +1,57 @@
+government = tribal
+add_government_reform = steppe_horde
+government_rank = 1
+technology_group = eastern
+religion = finnish_pagan
+primary_culture = mordvin
+capital = 291
+fixed_capital = 291
+1068.6.5= {
+	monarch = {
+		name = "Tuhan"
+		dynasty = "of Oskol"
+		adm = 4
+		dip = 5
+		mil = 5
+		birth_date = 1039.1.1
+		religion = finnish_pagan
+		culture = mordvin
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Unzhutka"
+		dynasty = "Shkay"
+		adm = 2
+		dip = 4
+		mil = 1
+		country_of_origin = Y76
+		birth_date = 1039.9.14
+		death_date = 1099.9.14
+		female = yes
+		religion = finnish_pagan
+		culture = mordvin
+	}
+	add_queen_personality = well_connected_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Kunyavka"
+		monarch_name = "Kunyavka"
+		dynasty = "of Oskol"
+		adm = 1
+		dip = 2
+		mil = 1
+		birth_date = 1064.5.31
+		death_date = 1129.5.31
+		female = yes
+		claim = 89
+		religion = finnish_pagan
+		culture = mordvin
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+1068.6.5= {
+	add_prestige = 47
+	add_treasury = 41
+}

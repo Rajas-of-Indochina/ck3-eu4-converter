@@ -1,0 +1,10 @@
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 63 117 138 }
+monarch_names = {
+	"Batik #0" = 0
+	"Ilig #0" = -1
+	"Padaw #1" = 10
+	"Pantuk #0" = 0
+	"Soloin #0" = -1
+}

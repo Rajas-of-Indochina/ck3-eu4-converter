@@ -1,0 +1,42 @@
+government = tribal
+add_government_reform = tribal_kingdom
+government_rank = 1
+technology_group = western
+religion = norse_pagan
+primary_culture = norwegian
+capital = 23
+fixed_capital = 23
+867.1.1= {
+	monarch = {
+		name = "Eirikr"
+		dynasty = "Horðalandi"
+		adm = 3
+		dip = 3
+		mil = 2
+		birth_date = 819.1.1
+		religion = norse_pagan
+		culture = norwegian
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	heir = {
+		name = "Gyda"
+		monarch_name = "Gyda"
+		dynasty = "Horðalandi"
+		adm = 5
+		dip = 4
+		mil = 2
+		birth_date = 854.1.1
+		death_date = 919.1.1
+		female = yes
+		claim = 89
+		religion = norse_pagan
+		culture = norwegian
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+867.1.1= {
+	add_prestige = 47
+	add_treasury = 31
+}

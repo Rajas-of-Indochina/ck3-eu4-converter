@@ -1,0 +1,19 @@
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 57 120 205 }
+monarch_names = {
+	"Bunroeun #0" = 0
+	"Gadu #1" = 10
+	"Mi Pakahtaw #0" = -1
+	"Munny #0" = 0
+	"Nary #0" = -1
+	"Peou #0" = -1
+	"Phhoung #0" = -1
+	"Pisey #0" = 0
+	"Ponlok #0" = -1
+	"Sotheara #0" = -1
+	"Than-Bon #0" = 0
+	"Veata #0" = -1
+	"Vithu #0" = 0
+	"Zein #0" = 0
+}

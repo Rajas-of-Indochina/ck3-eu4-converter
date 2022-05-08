@@ -1,0 +1,57 @@
+government = tribal
+add_government_reform = tribal_kingdom
+government_rank = 1
+technology_group = sub_saharan
+religion = shamanism
+primary_culture = mali
+capital = 2267
+fixed_capital = 2267
+910.1.30= {
+	monarch = {
+		name = "Yenkuaga"
+		dynasty = "Kupela"
+		adm = 4
+		dip = 2
+		mil = 4
+		birth_date = 862.1.1
+		religion = shamanism
+		culture = mali
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Doye"
+		dynasty = "al-Harrani"
+		adm = 2
+		dip = 3
+		mil = 3
+		country_of_origin = TEN
+		birth_date = 869.6.12
+		death_date = 929.6.12
+		female = yes
+		religion = shamanism
+		culture = fon
+	}
+	add_queen_personality = well_connected_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Rasmata"
+		monarch_name = "Rasmata"
+		dynasty = "Kupela"
+		adm = 5
+		dip = 6
+		mil = 4
+		birth_date = 895.1.30
+		death_date = 960.1.30
+		female = yes
+		claim = 89
+		religion = shamanism
+		culture = mali
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+910.1.30= {
+	add_prestige = 52
+	add_treasury = 47
+}

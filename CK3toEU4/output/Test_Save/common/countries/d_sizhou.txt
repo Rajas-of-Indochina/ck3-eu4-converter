@@ -1,0 +1,16 @@
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 90 161 182 }
+monarch_names = {
+	"Farong #0" = -1
+	"Jingze #0" = 0
+	"Maoying #0" = -1
+	"Na #0" = -1
+	"Shifeng #1" = 10
+	"Shuda #0" = 0
+	"Wei #0" = 0
+	"Wo #0" = 0
+	"Xianzi #0" = -1
+	"Zhonghua #0" = -1
+	"Zuoyu #0" = 0
+}

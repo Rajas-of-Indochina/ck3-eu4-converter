@@ -1,0 +1,57 @@
+government = tribal
+add_government_reform = tribal_kingdom
+government_rank = 1
+technology_group = sub_saharan
+religion = shamanism
+primary_culture = fulani
+capital = 1112
+fixed_capital = 1112
+910.1.30= {
+	monarch = {
+		name = "Fatoumata"
+		dynasty = "Silla"
+		adm = 3
+		dip = 3
+		mil = 3
+		birth_date = 866.1.1
+		female = yes
+		religion = shamanism
+		culture = fulani
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Maysa"
+		dynasty = "Kayor"
+		adm = 3
+		dip = 3
+		mil = 3
+		country_of_origin = Y8Q
+		birth_date = 873.4.15
+		death_date = 933.4.15
+		religion = shamanism
+		culture = senegambian
+	}
+	add_queen_personality = well_connected_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Ndieumbeutt"
+		monarch_name = "Ndieumbeutt"
+		dynasty = "Ndyabe"
+		adm = 5
+		dip = 5
+		mil = 6
+		birth_date = 883.11.2
+		death_date = 948.11.2
+		female = yes
+		claim = 89
+		religion = shamanism
+		culture = fulani
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+910.1.30= {
+	add_prestige = 69
+	add_treasury = 60
+}

@@ -1,0 +1,54 @@
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+technology_group = western
+religion = catholic
+primary_culture = prussian
+capital = 1759
+add_accepted_culture = sorbian
+1068.6.5= {
+	monarch = {
+		name = "Dedo"
+		adm = 4
+		dip = 4
+		mil = 4
+		birth_date = 1010.1.1
+		religion = catholic
+		culture = prussian
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Oda"
+		dynasty = "Geronen"
+		adm = 5
+		dip = 4
+		mil = 4
+		country_of_origin = SOR
+		birth_date = 1008.1.1
+		death_date = 1068.1.1
+		female = yes
+		religion = catholic
+		culture = saxon
+	}
+	add_queen_personality = well_connected_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Konrad"
+		monarch_name = "Konrad"
+		adm = 6
+		dip = 5
+		mil = 2
+		birth_date = 1038.1.1
+		death_date = 1103.1.1
+		claim = 89
+		religion = catholic
+		culture = saxon
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+1068.6.5= {
+	add_prestige = 49
+	add_treasury = 58
+}

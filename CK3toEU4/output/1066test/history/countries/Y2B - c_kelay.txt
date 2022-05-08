@@ -1,0 +1,52 @@
+government = tribal
+add_government_reform = tribal_kingdom
+government_rank = 1
+technology_group = western
+religion = converted_kaharingan
+capital = 2710
+fixed_capital = 2710
+1068.6.5= {
+	monarch = {
+		name = "Maharati"
+		dynasty = "Kasumenagara"
+		adm = 1
+		dip = 0
+		mil = 3
+		birth_date = 1030.9.9
+		religion = converted_kaharingan
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Sulin"
+		dynasty = "Hiawang"
+		adm = 1
+		dip = 5
+		mil = 3
+		country_of_origin = Y2B
+		birth_date = 1030.3.10
+		death_date = 1090.3.10
+		female = yes
+		religion = converted_kaharingan
+	}
+	add_queen_personality = well_connected_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Menteng"
+		monarch_name = "Menteng"
+		dynasty = "Kasumenagara"
+		adm = 5
+		dip = 6
+		mil = 6
+		birth_date = 1047.8.7
+		death_date = 1112.8.7
+		claim = 89
+		religion = converted_kaharingan
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+1068.6.5= {
+	add_prestige = 49
+	add_treasury = 36
+}

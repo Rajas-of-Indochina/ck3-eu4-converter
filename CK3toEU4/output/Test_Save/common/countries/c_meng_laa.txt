@@ -1,0 +1,17 @@
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 237 110 97 }
+monarch_names = {
+	"Ai #0" = 0
+	"Bua Kham #0" = -1
+	"Fa Ngum #0" = 0
+	"Kamnan #0" = 0
+	"Kham Fong #0" = -1
+	"Lithai #0" = 0
+	"Pandao #0" = -1
+	"Piangkwan #0" = -1
+	"Sam Fangkaen #0" = 0
+	"Sao Kyi #1" = 10
+	"Somchair #0" = 0
+	"Vidura #0" = 0
+}

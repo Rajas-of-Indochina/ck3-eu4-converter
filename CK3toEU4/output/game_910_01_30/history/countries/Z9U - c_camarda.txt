@@ -1,0 +1,58 @@
+government = monarchy
+add_government_reform = iqta
+government_rank = 1
+technology_group = western
+religion = sunni
+primary_culture = salernian
+capital = 1934
+fixed_capital = 1934
+religious_school = hanbali_school
+add_accepted_culture = neapolitan
+910.1.30= {
+	monarch = {
+		name = "Muzaffaraddin"
+		dynasty = "Sawdanid"
+		adm = 2
+		dip = 3
+		mil = 2
+		birth_date = 871.8.20
+		religion = sunni
+		culture = salernian
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Sacmis"
+		dynasty = "Yaqubid"
+		adm = 3
+		dip = 3
+		mil = 4
+		country_of_origin = Z9U
+		birth_date = 890.8.20
+		death_date = 950.8.20
+		female = yes
+		religion = sunni
+		culture = berber
+	}
+	add_queen_personality = well_connected_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Rodgand"
+		monarch_name = "Rodgand"
+		dynasty = "Sawdanid"
+		adm = 5
+		dip = 6
+		mil = 4
+		birth_date = 881.2.1
+		death_date = 946.2.1
+		claim = 89
+		religion = sunni
+		culture = old_lombard
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+910.1.30= {
+	add_prestige = 52
+	add_treasury = 36
+}

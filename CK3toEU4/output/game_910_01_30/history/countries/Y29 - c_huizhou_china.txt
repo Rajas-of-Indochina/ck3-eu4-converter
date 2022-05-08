@@ -1,0 +1,57 @@
+government = tribal
+add_government_reform = tribal_kingdom
+government_rank = 1
+technology_group = chinese
+religion = vajrayana
+primary_culture = xibei
+capital = 699
+fixed_capital = 699
+910.1.30= {
+	monarch = {
+		name = "Shiping"
+		dynasty = "Shilian"
+		adm = 0
+		dip = 3
+		mil = 1
+		birth_date = 844.1.1
+		female = yes
+		religion = vajrayana
+		culture = xibei
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Chun"
+		dynasty = "al-Harrani"
+		adm = 4
+		dip = 5
+		mil = 5
+		country_of_origin = Y29
+		birth_date = 876.1.26
+		death_date = 936.1.26
+		religion = vajrayana
+		culture = chihan
+	}
+	add_queen_personality = well_connected_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Yi'an"
+		monarch_name = "Yi'an"
+		dynasty = "Shilian"
+		adm = 1
+		dip = 0
+		mil = 1
+		birth_date = 904.6.18
+		death_date = 969.6.18
+		female = yes
+		claim = 89
+		religion = vajrayana
+		culture = chihan
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+910.1.30= {
+	add_prestige = 53
+	add_treasury = 30
+}

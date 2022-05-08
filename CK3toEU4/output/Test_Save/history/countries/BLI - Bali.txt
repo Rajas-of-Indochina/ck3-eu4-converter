@@ -1,0 +1,56 @@
+government = monarchy
+add_government_reform = mandala_reform
+government_rank = 1
+technology_group = chinese
+religion = hinduism
+primary_culture = nusa_tenggara
+capital = 631
+fixed_capital = 631
+867.1.1= {
+	monarch = {
+		name = "Ki Kayu Selem"
+		dynasty = "Kayu Selem"
+		adm = 0
+		dip = 3
+		mil = 0
+		birth_date = 797.1.1
+		religion = hinduism
+		culture = nusa_tenggara
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Kirana"
+		dynasty = "Wampu"
+		adm = 3
+		dip = 4
+		mil = 4
+		country_of_origin = BLI
+		birth_date = 797.1.1
+		death_date = 857.1.1
+		female = yes
+		religion = hinduism
+		culture = nusa_tenggara
+	}
+	add_queen_personality = well_connected_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Wana"
+		monarch_name = "Wana"
+		dynasty = "Kampar"
+		adm = 5
+		dip = 6
+		mil = 3
+		birth_date = 835.3.12
+		death_date = 900.3.12
+		claim = 89
+		religion = hinduism
+		culture = nusa_tenggara
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+867.1.1= {
+	add_prestige = 47
+	add_treasury = 34
+}

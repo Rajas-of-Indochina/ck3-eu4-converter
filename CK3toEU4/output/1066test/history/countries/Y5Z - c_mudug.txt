@@ -1,0 +1,57 @@
+government = tribal
+add_government_reform = tribal_kingdom
+government_rank = 1
+technology_group = east_african
+religion = shamanism
+primary_culture = somali
+capital = 2784
+fixed_capital = 2784
+1068.6.5= {
+	monarch = {
+		name = "Haqq"
+		dynasty = "Marehan"
+		adm = 3
+		dip = 2
+		mil = 6
+		birth_date = 1045.1.1
+		religion = shamanism
+		culture = somali
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Ubax"
+		dynasty = "Deshishie"
+		adm = 0
+		dip = 1
+		mil = 1
+		country_of_origin = Y5Z
+		birth_date = 1045.7.10
+		death_date = 1105.7.10
+		female = yes
+		religion = shamanism
+		culture = somali
+	}
+	add_queen_personality = well_connected_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Luula"
+		monarch_name = "Luula"
+		dynasty = "Marehan"
+		adm = 2
+		dip = 2
+		mil = 3
+		birth_date = 1062.2.19
+		death_date = 1127.2.19
+		female = yes
+		claim = 89
+		religion = shamanism
+		culture = somali
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+1068.6.5= {
+	add_prestige = 48
+	add_treasury = 35
+}

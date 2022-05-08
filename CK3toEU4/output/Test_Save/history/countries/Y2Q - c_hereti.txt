@@ -1,0 +1,13 @@
+government = monarchy
+add_government_reform = english_monarchy
+government_rank = 1
+technology_group = eastern
+religion = coptic
+primary_culture = armenian
+capital = 4305
+fixed_capital = 4305
+add_accepted_culture = georgian
+867.1.1= {
+	add_prestige = 47
+	add_treasury = 40
+}

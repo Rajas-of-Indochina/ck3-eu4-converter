@@ -1,0 +1,57 @@
+government = tribal
+add_government_reform = tribal_kingdom
+government_rank = 1
+technology_group = sub_saharan
+religion = shamanism
+primary_culture = mali
+capital = 1119
+fixed_capital = 1119
+910.1.30= {
+	monarch = {
+		name = "Soumaoro"
+		dynasty = "Konyan"
+		adm = 2
+		dip = 2
+		mil = 4
+		birth_date = 869.5.21
+		religion = shamanism
+		culture = mali
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Lorane"
+		dynasty = "Lobi"
+		adm = 4
+		dip = 4
+		mil = 4
+		country_of_origin = Y3X
+		birth_date = 872.2.12
+		death_date = 932.2.12
+		female = yes
+		religion = shamanism
+		culture = mali
+	}
+	add_queen_personality = well_connected_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Salimata"
+		monarch_name = "Salimata"
+		dynasty = "Konyan"
+		adm = 3
+		dip = 5
+		mil = 5
+		birth_date = 891.7.25
+		death_date = 956.7.25
+		female = yes
+		claim = 89
+		religion = shamanism
+		culture = mali
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+910.1.30= {
+	add_prestige = 59
+	add_treasury = 48
+}

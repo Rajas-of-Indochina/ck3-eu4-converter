@@ -1,0 +1,56 @@
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+technology_group = western
+religion = catholic
+primary_culture = frisian
+capital = 4382
+fixed_capital = 4382
+1068.6.5= {
+	monarch = {
+		name = "Douwe"
+		dynasty = "van Dokkum"
+		adm = 3
+		dip = 2
+		mil = 3
+		birth_date = 1034.1.1
+		religion = catholic
+		culture = frisian
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Willemine"
+		dynasty = "van Brederode"
+		adm = 4
+		dip = 3
+		mil = 4
+		country_of_origin = Z8B
+		birth_date = 1034.5.24
+		death_date = 1094.5.24
+		female = yes
+		religion = catholic
+		culture = dutch
+	}
+	add_queen_personality = well_connected_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Douwe"
+		monarch_name = "Douwe II"
+		dynasty = "van Dokkum"
+		adm = 0
+		dip = 0
+		mil = 0
+		birth_date = 1068.5.18
+		death_date = 1133.5.18
+		claim = 89
+		religion = catholic
+		culture = dutch
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+1068.6.5= {
+	add_prestige = 48
+	add_treasury = 43
+}

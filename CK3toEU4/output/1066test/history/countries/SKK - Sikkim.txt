@@ -1,0 +1,57 @@
+government = tribal
+add_government_reform = tribal_kingdom
+government_rank = 1
+technology_group = chinese
+religion = animism
+primary_culture = nepali
+capital = 4482
+fixed_capital = 4482
+1068.6.5= {
+	monarch = {
+		name = "Ap Hang"
+		dynasty = "Daramdin"
+		adm = 2
+		dip = 2
+		mil = 3
+		birth_date = 1030.1.1
+		religion = animism
+		culture = nepali
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Khama"
+		dynasty = "Orsini"
+		adm = 3
+		dip = 1
+		mil = 4
+		country_of_origin = SKK
+		birth_date = 1041.3.10
+		death_date = 1101.3.10
+		female = yes
+		religion = animism
+		culture = nepali
+	}
+	add_queen_personality = well_connected_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Khambek"
+		monarch_name = "Khambek"
+		dynasty = "Orsini"
+		adm = 6
+		dip = 4
+		mil = 6
+		birth_date = 1043.6.11
+		death_date = 1108.6.11
+		female = yes
+		claim = 89
+		religion = animism
+		culture = nepali
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+1068.6.5= {
+	add_prestige = 48
+	add_treasury = 37
+}

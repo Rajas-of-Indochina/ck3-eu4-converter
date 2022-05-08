@@ -1,0 +1,7 @@
+ck2_converter_generated = yes
+graphical_culture = indiangfx
+color = { 219 105 103 }
+monarch_names = {
+	"Reach #1" = -1
+	"Samphy #0" = 0
+}

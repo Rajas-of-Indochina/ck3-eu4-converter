@@ -1,0 +1,57 @@
+government = tribal
+add_government_reform = tribal_kingdom
+government_rank = 1
+technology_group = western
+religion = converted_nunusaku
+primary_culture = moluccan
+capital = 646
+fixed_capital = 646
+1068.6.5= {
+	monarch = {
+		name = "Baguna"
+		dynasty = "Ambon"
+		adm = 3
+		dip = 4
+		mil = 4
+		birth_date = 1042.3.5
+		religion = converted_nunusaku
+		culture = moluccan
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Gerey"
+		dynasty = "Senad"
+		adm = 5
+		dip = 4
+		mil = 3
+		country_of_origin = Y7Z
+		birth_date = 1042.5.10
+		death_date = 1102.5.10
+		female = yes
+		religion = converted_nunusaku
+		culture = moluccan
+	}
+	add_queen_personality = well_connected_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Gerey"
+		monarch_name = "Gerey"
+		dynasty = "Ambon"
+		adm = 2
+		dip = 2
+		mil = 1
+		birth_date = 1059.7.6
+		death_date = 1124.7.6
+		female = yes
+		claim = 89
+		religion = converted_nunusaku
+		culture = moluccan
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+1068.6.5= {
+	add_prestige = 51
+	add_treasury = 49
+}

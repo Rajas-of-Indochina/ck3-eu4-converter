@@ -1,0 +1,41 @@
+government = monarchy
+add_government_reform = english_monarchy
+government_rank = 2
+technology_group = western
+religion = catholic
+primary_culture = swabian
+capital = 4714
+add_accepted_culture = bavarian
+910.1.30= {
+	monarch = {
+		name = "Hans"
+		dynasty = "von Daun"
+		adm = 3
+		dip = 4
+		mil = 4
+		birth_date = 868.12.28
+		religion = catholic
+		culture = swabian
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	heir = {
+		name = "Karlmann"
+		monarch_name = "Karlmann II"
+		dynasty = "von Daun"
+		adm = 6
+		dip = 6
+		mil = 6
+		birth_date = 888.5.12
+		death_date = 953.5.12
+		claim = 89
+		religion = catholic
+		culture = franconian
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+910.1.30= {
+	add_prestige = 52
+	add_treasury = 0
+}

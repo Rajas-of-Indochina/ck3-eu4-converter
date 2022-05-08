@@ -1,0 +1,18 @@
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 240 121 83 }
+monarch_names = {
+	"Abagha #0" = 0
+	"Babur #0" = 0
+	"Bukha #0" = 0
+	"Bukha Khatagi #0" = 0
+	"Checheyigen #0" = -1
+	"Ghazan #0" = 0
+	"Gurbesu #0" = -1
+	"Hoelun #0" = -1
+	"Khadagan #0" = -1
+	"Temulun #0" = -1
+	"Todogen #0" = 0
+	"Uighurtai #0" = 0
+	"Yokhunan #0" = 0
+}

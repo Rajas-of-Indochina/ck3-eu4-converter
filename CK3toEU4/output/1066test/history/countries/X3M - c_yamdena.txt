@@ -1,0 +1,56 @@
+government = tribal
+add_government_reform = tribal_kingdom
+government_rank = 1
+technology_group = western
+religion = converted_nunusaku
+primary_culture = moluccan
+capital = 2696
+fixed_capital = 2696
+1068.6.5= {
+	monarch = {
+		name = "Mamole"
+		dynasty = "Saumlaki"
+		adm = 4
+		dip = 1
+		mil = 6
+		birth_date = 1039.7.14
+		religion = converted_nunusaku
+		culture = moluccan
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Telip"
+		dynasty = "Silit"
+		adm = 2
+		dip = 2
+		mil = 2
+		country_of_origin = X3M
+		birth_date = 1039.2.7
+		death_date = 1099.2.7
+		female = yes
+		religion = converted_nunusaku
+		culture = moluccan
+	}
+	add_queen_personality = well_connected_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Kalabata"
+		monarch_name = "Kalabata"
+		dynasty = "Saumlaki"
+		adm = 5
+		dip = 3
+		mil = 3
+		birth_date = 1056.5.4
+		death_date = 1121.5.4
+		claim = 89
+		religion = converted_nunusaku
+		culture = moluccan
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+1068.6.5= {
+	add_prestige = 47
+	add_treasury = 41
+}

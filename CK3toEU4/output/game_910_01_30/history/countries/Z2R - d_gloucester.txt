@@ -1,0 +1,12 @@
+government = monarchy
+add_government_reform = english_monarchy
+government_rank = 1
+technology_group = western
+religion = catholic
+primary_culture = wessexian
+capital = 239
+add_accepted_culture = mercian
+910.1.30= {
+	add_prestige = 83
+	add_treasury = 57
+}

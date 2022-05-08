@@ -1,0 +1,55 @@
+government = monarchy
+add_government_reform = mandala_reform
+government_rank = 1
+technology_group = chinese
+religion = converted_chamic_shaivism
+primary_culture = cham
+capital = 606
+1068.6.5= {
+	monarch = {
+		name = "Rudravarman"
+		dynasty = "Lokman"
+		adm = 4
+		dip = 5
+		mil = 4
+		birth_date = 1034.6.7
+		religion = converted_chamic_shaivism
+		culture = cham
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Nu'utea"
+		dynasty = "Orsini"
+		adm = 4
+		dip = 3
+		mil = 5
+		country_of_origin = Z2M
+		birth_date = 1046.7.16
+		death_date = 1106.7.16
+		female = yes
+		religion = converted_chamic_shaivism
+		culture = cham
+	}
+	add_queen_personality = well_connected_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Rudravarman"
+		monarch_name = "Rudravarman"
+		dynasty = "Vijaya"
+		adm = 1
+		dip = 2
+		mil = 2
+		birth_date = 1038.1.1
+		death_date = 1103.1.1
+		claim = 89
+		religion = converted_chamic_shaivism
+		culture = cham
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+1068.6.5= {
+	add_prestige = 47
+	add_treasury = 46
+}

@@ -1,0 +1,56 @@
+government = monarchy
+add_government_reform = english_monarchy
+government_rank = 1
+technology_group = western
+religion = converted_sarnaism
+primary_culture = gondi
+capital = 547
+fixed_capital = 547
+1068.6.5= {
+	monarch = {
+		name = "Jagannath"
+		dynasty = "Bhanja"
+		adm = 6
+		dip = 6
+		mil = 5
+		birth_date = 1017.1.1
+		religion = converted_sarnaism
+		culture = gondi
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Dattadevi"
+		dynasty = "Gangabansi"
+		adm = 5
+		dip = 3
+		mil = 3
+		country_of_origin = Z58
+		birth_date = 1017.3.31
+		death_date = 1077.3.31
+		female = yes
+		religion = converted_sarnaism
+		culture = gondi
+	}
+	add_queen_personality = well_connected_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Khadag Rai"
+		monarch_name = "Khadag Rai"
+		dynasty = "Bhanja"
+		adm = 1
+		dip = 0
+		mil = 0
+		birth_date = 1034.6.10
+		death_date = 1099.6.10
+		claim = 89
+		religion = converted_sarnaism
+		culture = gondi
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+1068.6.5= {
+	add_prestige = 48
+	add_treasury = 34
+}

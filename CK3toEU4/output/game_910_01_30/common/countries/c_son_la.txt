@@ -1,0 +1,11 @@
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 23 100 133 }
+monarch_names = {
+	"Aawut #1" = 10
+	"Fong Chan #0" = -1
+	"Ketsara #0" = -1
+	"Kham Rung #1" = 10
+	"Khun Seuk #0" = 0
+	"Yod Fa #0" = 0
+}

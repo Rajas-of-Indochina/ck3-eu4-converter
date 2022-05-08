@@ -1,0 +1,52 @@
+government = tribal
+add_government_reform = tribal_kingdom
+government_rank = 2
+technology_group = western
+religion = catholic
+primary_culture = highland_scottish
+capital = 248
+910.1.30= {
+	monarch = {
+		name = "Diarmait"
+		adm = 4
+		dip = 4
+		mil = 4
+		birth_date = 865.1.1
+		religion = catholic
+		culture = highland_scottish
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Ingjerðr"
+		adm = 3
+		dip = 5
+		mil = 2
+		country_of_origin = SCO
+		birth_date = 882.8.26
+		death_date = 942.8.26
+		female = yes
+		religion = norse_pagan
+		culture = norse
+	}
+	add_queen_personality = well_connected_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Doélgus"
+		monarch_name = "Doélgus"
+		adm = 5
+		dip = 5
+		mil = 5
+		birth_date = 876.4.6
+		death_date = 941.4.6
+		claim = 89
+		religion = catholic
+		culture = highland_scottish
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+910.1.30= {
+	add_prestige = 61
+	add_treasury = 23
+}

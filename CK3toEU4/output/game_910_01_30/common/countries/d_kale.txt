@@ -1,0 +1,17 @@
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 214 87 150 }
+monarch_names = {
+	"Ganapativarman #0" = 0
+	"Gandharavati #0" = -1
+	"Hsinlauk #1" = 10
+	"Kalyanavarman #0" = 0
+	"Kunhsaw #0" = 0
+	"Kyansittha #0" = 0
+	"Nant-tha #0" = -1
+	"Ningthoucheng #1" = 10
+	"Pralambha #0" = 0
+	"Seda #0" = -1
+	"Supratisthitavarman #0" = 0
+	"Zeya #0" = 0
+}

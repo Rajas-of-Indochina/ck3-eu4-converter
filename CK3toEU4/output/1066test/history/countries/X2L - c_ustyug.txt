@@ -1,0 +1,57 @@
+government = tribal
+add_government_reform = tribal_kingdom
+government_rank = 1
+technology_group = eastern
+religion = finnish_pagan
+primary_culture = karelian
+capital = 4256
+fixed_capital = 4256
+1068.6.5= {
+	monarch = {
+		name = "Jelisei"
+		dynasty = "Ustyi"
+		adm = 4
+		dip = 5
+		mil = 3
+		birth_date = 1042.12.16
+		religion = finnish_pagan
+		culture = karelian
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Kapitolina"
+		dynasty = "Velva"
+		adm = 3
+		dip = 2
+		mil = 3
+		country_of_origin = X2L
+		birth_date = 1043.1.5
+		death_date = 1103.1.5
+		female = yes
+		religion = finnish_pagan
+		culture = karelian
+	}
+	add_queen_personality = well_connected_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Sofia"
+		monarch_name = "Sofia"
+		dynasty = "Ustyi"
+		adm = 2
+		dip = 1
+		mil = 0
+		birth_date = 1060.8.10
+		death_date = 1125.8.10
+		female = yes
+		claim = 89
+		religion = finnish_pagan
+		culture = karelian
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+1068.6.5= {
+	add_prestige = 48
+	add_treasury = 44
+}

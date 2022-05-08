@@ -1,0 +1,23 @@
+ck2_converter_generated = yes
+graphical_culture = asiangfx
+color = { 90 90 255 }
+monarch_names = {
+	"Chengqing #0" = 0
+	"Lang #1" = 10
+	"Liang #0" = 0
+	"Long #0" = 0
+	"Pusuwan #0" = -1
+	"Qidou #0" = 0
+	"Renfu #0" = 0
+	"Renxiao #0" = 0
+	"Renyan #0" = 0
+	"Renyou #0" = 0
+	"Sigong #0" = 0
+	"Sijian #0" = 0
+	"Sixiao #0" = 0
+	"Siyao #0" = 0
+	"Sizhong #0" = 0
+	"Xiang #0" = 0
+	"Xueying #0" = -1
+	"Yiyang #0" = -1
+}

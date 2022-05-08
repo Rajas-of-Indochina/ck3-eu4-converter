@@ -1,0 +1,56 @@
+government = monarchy
+add_government_reform = mandala_reform
+government_rank = 1
+technology_group = indian
+religion = hinduism
+primary_culture = saurashtri
+capital = 2052
+fixed_capital = 2052
+1068.6.5= {
+	monarch = {
+		name = "Khengar"
+		dynasty = "Chudasama"
+		adm = 6
+		dip = 3
+		mil = 6
+		birth_date = 1026.1.1
+		religion = hinduism
+		culture = saurashtri
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Desaladevi"
+		dynasty = "Orsini"
+		adm = 1
+		dip = 4
+		mil = 2
+		country_of_origin = NVR
+		birth_date = 1034.4.17
+		death_date = 1094.4.17
+		female = yes
+		religion = converted_suryaism
+		culture = gujarati
+	}
+	add_queen_personality = well_connected_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Navghan"
+		monarch_name = "Navghan II"
+		dynasty = "Chudasama"
+		adm = 6
+		dip = 5
+		mil = 6
+		birth_date = 1046.1.1
+		death_date = 1111.1.1
+		claim = 89
+		religion = hinduism
+		culture = gujarati
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+1068.6.5= {
+	add_prestige = 47
+	add_treasury = 50
+}

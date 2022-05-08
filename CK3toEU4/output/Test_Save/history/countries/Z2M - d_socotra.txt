@@ -1,0 +1,40 @@
+government = monarchy
+add_government_reform = english_monarchy
+government_rank = 1
+technology_group = muslim
+religion = nestorian
+primary_culture = yemeni_culture
+capital = 1099
+867.1.1= {
+	monarch = {
+		name = "Denha"
+		dynasty = "Yahballaha"
+		adm = 1
+		dip = 2
+		mil = 1
+		birth_date = 825.1.1
+		religion = nestorian
+		culture = yemeni_culture
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	heir = {
+		name = "Abraham"
+		monarch_name = "Abraham"
+		dynasty = "Yahballaha"
+		adm = 0
+		dip = 6
+		mil = 3
+		birth_date = 845.1.1
+		death_date = 910.1.1
+		claim = 89
+		religion = nestorian
+		culture = yemeni_culture
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+867.1.1= {
+	add_prestige = 47
+	add_treasury = 34
+}

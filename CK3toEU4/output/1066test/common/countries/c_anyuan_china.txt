@@ -1,0 +1,16 @@
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 154 214 146 }
+monarch_names = {
+	"Bage #0" = -1
+	"Changshou #0" = -1
+	"Cuiba #0" = -1
+	"Deguang #0" = 0
+	"Pusuwan #0" = -1
+	"Taige #0" = -1
+	"Wenshunu #0" = 0
+	"Xian #0" = 0
+	"Xingge #0" = -1
+	"Xiuge #0" = 0
+	"Yilie #0" = 0
+}

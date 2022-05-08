@@ -1,0 +1,56 @@
+government = tribal
+add_government_reform = tribal_kingdom
+government_rank = 1
+technology_group = sub_saharan
+religion = shamanism
+primary_culture = senegambian
+capital = 2241
+fixed_capital = 2241
+1068.6.5= {
+	monarch = {
+		name = "Fabule II"
+		dynasty = "Nalu"
+		adm = 3
+		dip = 4
+		mil = 4
+		birth_date = 1033.1.1
+		religion = shamanism
+		culture = senegambian
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Nyamen"
+		dynasty = "Toma"
+		adm = 0
+		dip = 4
+		mil = 3
+		country_of_origin = Y6C
+		birth_date = 1033.4.19
+		death_date = 1093.4.19
+		female = yes
+		religion = shamanism
+		culture = senegambian
+	}
+	add_queen_personality = well_connected_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Toimu"
+		monarch_name = "Toimu"
+		dynasty = "Nalu"
+		adm = 3
+		dip = 6
+		mil = 0
+		birth_date = 1050.9.7
+		death_date = 1115.9.7
+		claim = 89
+		religion = shamanism
+		culture = senegambian
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+1068.6.5= {
+	add_prestige = 48
+	add_treasury = 37
+}

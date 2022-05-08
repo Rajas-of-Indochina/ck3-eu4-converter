@@ -1,0 +1,55 @@
+government = tribal
+add_government_reform = tribal_kingdom
+government_rank = 1
+technology_group = eastern
+religion = slavic_pagan
+primary_culture = estonian
+capital = 273
+910.1.30= {
+	monarch = {
+		name = "Kaido"
+		dynasty = "L‰‰nemaa"
+		adm = 2
+		dip = 4
+		mil = 3
+		birth_date = 873.9.23
+		religion = slavic_pagan
+		culture = estonian
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Premyslava"
+		dynasty = "Krivichi"
+		adm = 3
+		dip = 2
+		mil = 3
+		country_of_origin = LVA
+		birth_date = 879.8.13
+		death_date = 939.8.13
+		female = yes
+		religion = slavic_pagan
+		culture = russian_culture
+	}
+	add_queen_personality = well_connected_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Raho"
+		monarch_name = "Raho"
+		dynasty = "L‰‰nemaa"
+		adm = 3
+		dip = 6
+		mil = 3
+		birth_date = 899.3.31
+		death_date = 964.3.31
+		claim = 89
+		religion = slavic_pagan
+		culture = estonian
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+910.1.30= {
+	add_prestige = 69
+	add_treasury = 50
+}

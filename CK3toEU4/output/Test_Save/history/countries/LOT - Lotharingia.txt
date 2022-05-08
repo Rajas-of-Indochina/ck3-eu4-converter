@@ -1,0 +1,55 @@
+government = monarchy
+add_government_reform = english_monarchy
+government_rank = 2
+technology_group = western
+religion = catholic
+primary_culture = cosmopolitan_french
+capital = 4766
+867.1.1= {
+	monarch = {
+		name = "Lothaire"
+		dynasty = "Karling"
+		adm = 4
+		dip = 3
+		mil = 4
+		birth_date = 836.1.1
+		religion = catholic
+		culture = cosmopolitan_french
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Teutberga"
+		dynasty = "Bosonid"
+		adm = 3
+		dip = 2
+		mil = 4
+		country_of_origin = LOT
+		birth_date = 831.1.1
+		death_date = 891.1.1
+		female = yes
+		religion = catholic
+		culture = cosmopolitan_french
+	}
+	add_queen_personality = well_connected_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Louis"
+		monarch_name = "Louis"
+		dynasty = "Karling"
+		adm = 6
+		dip = 3
+		mil = 6
+		birth_date = 835.1.1
+		death_date = 900.1.1
+		claim = 89
+		religion = catholic
+		culture = cosmopolitan_french
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+867.1.1= {
+	add_prestige = 47
+	add_treasury = 51
+}

@@ -1,0 +1,8 @@
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 264 229 134 }
+monarch_names = {
+	"Kagit #0" = -1
+	"Ma-ia #0" = -1
+	"Paigitan #0" = -1
+}

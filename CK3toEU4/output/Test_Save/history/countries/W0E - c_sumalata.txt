@@ -1,0 +1,53 @@
+government = tribal
+add_government_reform = tribal_kingdom
+government_rank = 1
+technology_group = western
+religion = converted_malesung
+capital = 2714
+fixed_capital = 2714
+867.1.1= {
+	monarch = {
+		name = "Kaitlog"
+		dynasty = "Patacsil"
+		adm = 3
+		dip = 2
+		mil = 1
+		birth_date = 824.1.1
+		religion = converted_malesung
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Paigitan"
+		dynasty = "Tagalicod"
+		adm = 3
+		dip = 4
+		mil = 3
+		country_of_origin = W0E
+		birth_date = 824.1.1
+		death_date = 884.1.1
+		female = yes
+		religion = converted_malesung
+	}
+	add_queen_personality = well_connected_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Tahilan"
+		monarch_name = "Tahilan"
+		dynasty = "Orsini"
+		adm = 6
+		dip = 3
+		mil = 3
+		birth_date = 835.7.6
+		death_date = 900.7.6
+		female = yes
+		claim = 89
+		religion = converted_malesung
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+867.1.1= {
+	add_prestige = 47
+	add_treasury = 35
+}

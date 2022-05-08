@@ -1,0 +1,41 @@
+government = tribal
+add_government_reform = tribal_kingdom
+government_rank = 1
+technology_group = chinese
+religion = vajrayana
+primary_culture = tibetan
+capital = 705
+fixed_capital = 705
+1068.6.5= {
+	monarch = {
+		name = "Ögyel"
+		dynasty = "Chumarlep"
+		adm = 3
+		dip = 4
+		mil = 3
+		birth_date = 1020.1.1
+		religion = vajrayana
+		culture = tibetan
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	heir = {
+		name = "Löntsen"
+		monarch_name = "Löntsen"
+		dynasty = "Chumarlep"
+		adm = 3
+		dip = 4
+		mil = 4
+		birth_date = 1040.1.1
+		death_date = 1105.1.1
+		claim = 89
+		religion = vajrayana
+		culture = tibetan
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+1068.6.5= {
+	add_prestige = 51
+	add_treasury = 42
+}

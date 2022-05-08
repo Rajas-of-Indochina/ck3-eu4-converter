@@ -1,0 +1,57 @@
+government = tribal
+add_government_reform = steppe_horde
+government_rank = 1
+technology_group = eastern
+religion = siberian_pagan
+primary_culture = ostyaki
+capital = 1080
+fixed_capital = 1080
+1068.6.5= {
+	monarch = {
+		name = "Sarin"
+		dynasty = "Tabaryan"
+		adm = 2
+		dip = 3
+		mil = 4
+		birth_date = 1045.3.16
+		religion = siberian_pagan
+		culture = ostyaki
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Inyava"
+		dynasty = "Orsini"
+		adm = 4
+		dip = 2
+		mil = 3
+		country_of_origin = X0G
+		birth_date = 1047.5.21
+		death_date = 1107.5.21
+		female = yes
+		religion = siberian_pagan
+		culture = ostyaki
+	}
+	add_queen_personality = well_connected_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Valdava"
+		monarch_name = "Valdava"
+		dynasty = "Tabaryan"
+		adm = 1
+		dip = 1
+		mil = 1
+		birth_date = 1064.8.11
+		death_date = 1129.8.11
+		female = yes
+		claim = 89
+		religion = siberian_pagan
+		culture = ostyaki
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+1068.6.5= {
+	add_prestige = 47
+	add_treasury = 40
+}

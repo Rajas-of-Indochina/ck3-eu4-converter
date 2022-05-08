@@ -1,0 +1,53 @@
+government = monarchy
+add_government_reform = mandala_reform
+government_rank = 1
+technology_group = western
+religion = vajrayana
+capital = 4804
+fixed_capital = 4804
+1068.6.5= {
+	monarch = {
+		name = "Ananta"
+		dynasty = "Santubong"
+		adm = 6
+		dip = 2
+		mil = 5
+		birth_date = 1031.1.22
+		religion = vajrayana
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Isyana"
+		dynasty = "Bendahara"
+		adm = 3
+		dip = 6
+		mil = 6
+		country_of_origin = Y8V
+		birth_date = 1031.7.5
+		death_date = 1091.7.5
+		female = yes
+		religion = vajrayana
+	}
+	add_queen_personality = well_connected_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Dharmeswari"
+		monarch_name = "Dharmeswari"
+		dynasty = "Santubong"
+		adm = 4
+		dip = 6
+		mil = 4
+		birth_date = 1048.6.3
+		death_date = 1113.6.3
+		female = yes
+		claim = 89
+		religion = vajrayana
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+1068.6.5= {
+	add_prestige = 48
+	add_treasury = 0
+}

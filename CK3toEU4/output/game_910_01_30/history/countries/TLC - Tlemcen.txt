@@ -1,0 +1,11 @@
+government = monarchy
+add_government_reform = iqta
+government_rank = 1
+technology_group = muslim
+religion = ibadi
+primary_culture = algerian
+capital = 337
+910.1.30= {
+	add_prestige = 71
+	add_treasury = 53
+}

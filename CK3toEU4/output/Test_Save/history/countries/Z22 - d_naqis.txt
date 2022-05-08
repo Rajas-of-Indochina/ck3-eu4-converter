@@ -1,0 +1,41 @@
+government = tribal
+add_government_reform = tribal_federation
+government_rank = 1
+technology_group = east_african
+religion = sunni
+primary_culture = beja
+capital = 2324
+religious_school = hanbali_school
+867.1.1= {
+	monarch = {
+		name = "Ali Baba"
+		dynasty = "Hadariba"
+		adm = 0
+		dip = 0
+		mil = 3
+		birth_date = 830.1.1
+		religion = sunni
+		culture = beja
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	heir = {
+		name = "Kanun"
+		monarch_name = "Kanun"
+		dynasty = "Kanunid"
+		adm = 0
+		dip = 0
+		mil = 0
+		birth_date = 865.1.1
+		death_date = 930.1.1
+		claim = 89
+		religion = coptic
+		culture = beja
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+867.1.1= {
+	add_prestige = 47
+	add_treasury = 35
+}

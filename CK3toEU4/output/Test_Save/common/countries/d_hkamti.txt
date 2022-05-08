@@ -1,0 +1,14 @@
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 144 39 144 }
+monarch_names = {
+	"Gadau #0" = -1
+	"Harshapala #0" = 0
+	"Hkyairi #0" = -1
+	"Kywe #0" = 0
+	"Narathihapate #0" = 0
+	"Narathu #0" = 0
+	"Narn #1" = 10
+	"Thinzar #0" = -1
+	"Yajnavati #0" = -1
+}

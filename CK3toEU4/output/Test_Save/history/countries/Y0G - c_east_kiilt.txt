@@ -1,0 +1,57 @@
+government = tribal
+add_government_reform = tribal_kingdom
+government_rank = 1
+technology_group = eastern
+religion = finnish_pagan
+primary_culture = sapmi
+capital = 1777
+fixed_capital = 1777
+867.1.1= {
+	monarch = {
+		name = "Baeivi"
+		dynasty = "Guoládat"
+		adm = 2
+		dip = 1
+		mil = 4
+		birth_date = 848.1.1
+		religion = finnish_pagan
+		culture = sapmi
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Njáves"
+		dynasty = "Suenekelle"
+		adm = 3
+		dip = 2
+		mil = 5
+		country_of_origin = Y0G
+		birth_date = 848.1.1
+		death_date = 908.1.1
+		female = yes
+		religion = finnish_pagan
+		culture = sapmi
+	}
+	add_queen_personality = well_connected_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Sáráhkká"
+		monarch_name = "Sáráhkká"
+		dynasty = "Orsini"
+		adm = 5
+		dip = 6
+		mil = 6
+		birth_date = 840.3.17
+		death_date = 905.3.17
+		female = yes
+		claim = 89
+		religion = finnish_pagan
+		culture = sapmi
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+867.1.1= {
+	add_prestige = 47
+	add_treasury = 32
+}

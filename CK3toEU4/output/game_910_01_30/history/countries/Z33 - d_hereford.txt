@@ -1,0 +1,55 @@
+government = monarchy
+add_government_reform = english_monarchy
+government_rank = 1
+technology_group = western
+religion = catholic
+primary_culture = mercian
+capital = 4372
+910.1.30= {
+	monarch = {
+		name = "Eastmund"
+		dynasty = "of Mercia"
+		adm = 3
+		dip = 3
+		mil = 4
+		birth_date = 881.1.14
+		religion = catholic
+		culture = mercian
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Aeronwen"
+		adm = 3
+		dip = 3
+		mil = 4
+		country_of_origin = Z33
+		birth_date = 869.8.23
+		death_date = 929.8.23
+		female = yes
+		religion = catholic
+		culture = welsh
+	}
+	add_queen_personality = well_connected_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Osburh"
+		monarch_name = "Osburh"
+		dynasty = "of Mercia"
+		adm = 5
+		dip = 6
+		mil = 3
+		birth_date = 868.5.19
+		death_date = 933.5.19
+		female = yes
+		claim = 89
+		religion = catholic
+		culture = anglo_saxon
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+910.1.30= {
+	add_prestige = 75
+	add_treasury = 58
+}

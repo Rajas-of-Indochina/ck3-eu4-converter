@@ -1,0 +1,56 @@
+government = tribal
+add_government_reform = tribal_kingdom
+government_rank = 1
+technology_group = chinese
+religion = converted_celebic
+primary_culture = moluccan
+capital = 642
+add_accepted_culture = sulawesi
+910.1.30= {
+	monarch = {
+		name = "Moerani"
+		dynasty = "Malili"
+		adm = 2
+		dip = 4
+		mil = 3
+		birth_date = 876.3.6
+		female = yes
+		religion = converted_celebic
+		culture = moluccan
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Tunibatta"
+		dynasty = "Salakan"
+		adm = 4
+		dip = 3
+		mil = 4
+		country_of_origin = TER
+		birth_date = 873.1.1
+		death_date = 933.1.1
+		religion = converted_celebic
+		culture = moluccan
+	}
+	add_queen_personality = well_connected_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Tunibatta"
+		monarch_name = "Tunibatta"
+		dynasty = "Malili"
+		adm = 5
+		dip = 6
+		mil = 3
+		birth_date = 894.2.25
+		death_date = 959.2.25
+		claim = 89
+		religion = converted_celebic
+		culture = moluccan
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+910.1.30= {
+	add_prestige = 66
+	add_treasury = 68
+}

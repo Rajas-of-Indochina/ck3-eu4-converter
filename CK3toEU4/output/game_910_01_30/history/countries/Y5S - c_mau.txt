@@ -1,0 +1,56 @@
+government = tribal
+add_government_reform = tribal_kingdom
+government_rank = 1
+technology_group = sub_saharan
+religion = shamanism
+primary_culture = mali
+capital = 1119
+fixed_capital = 1119
+910.1.30= {
+	monarch = {
+		name = "M'Bali"
+		dynasty = "Mau"
+		adm = 5
+		dip = 3
+		mil = 6
+		birth_date = 886.2.12
+		religion = shamanism
+		culture = mali
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Ina"
+		dynasty = "Sengbe"
+		adm = 2
+		dip = 3
+		mil = 4
+		country_of_origin = Y5S
+		birth_date = 882.3.18
+		death_date = 942.3.18
+		female = yes
+		religion = shamanism
+		culture = mali
+	}
+	add_queen_personality = well_connected_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Bassi"
+		monarch_name = "Bassi"
+		dynasty = "Mau"
+		adm = 0
+		dip = 0
+		mil = 0
+		birth_date = 909.10.3
+		death_date = 974.10.3
+		claim = 89
+		religion = shamanism
+		culture = mali
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+910.1.30= {
+	add_prestige = 60
+	add_treasury = 47
+}

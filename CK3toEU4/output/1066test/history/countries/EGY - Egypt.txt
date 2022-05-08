@@ -1,0 +1,56 @@
+government = monarchy
+add_government_reform = iqta
+government_rank = 2
+technology_group = muslim
+religion = shiite
+primary_culture = al_misr_arabic
+capital = 361
+religious_school = ismaili_school
+1068.6.5= {
+	monarch = {
+		name = "al-Mustansir"
+		dynasty = "Fatimid"
+		adm = 3
+		dip = 4
+		mil = 4
+		birth_date = 1029.7.5
+		religion = shiite
+		culture = al_misr_arabic
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Asanet"
+		dynasty = "Orsini"
+		adm = 2
+		dip = 5
+		mil = 3
+		country_of_origin = EGY
+		birth_date = 1043.1.30
+		death_date = 1103.1.30
+		female = yes
+		religion = shiite
+		culture = al_misr_arabic
+	}
+	add_queen_personality = well_connected_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Abu Mansur al-Nizar"
+		monarch_name = "Abu Mansur al-Nizar"
+		dynasty = "Fatimid"
+		adm = 5
+		dip = 4
+		mil = 5
+		birth_date = 1045.1.1
+		death_date = 1110.1.1
+		claim = 89
+		religion = shiite
+		culture = al_misr_arabic
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+1068.6.5= {
+	add_prestige = 52
+	add_treasury = 0
+}

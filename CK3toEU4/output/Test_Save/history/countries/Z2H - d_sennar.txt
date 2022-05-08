@@ -1,0 +1,55 @@
+government = tribal
+add_government_reform = tribal_kingdom
+government_rank = 1
+technology_group = east_african
+religion = coptic
+primary_culture = nubian
+capital = 2799
+867.1.1= {
+	monarch = {
+		name = "Dauid"
+		dynasty = "Alwa"
+		adm = 1
+		dip = 5
+		mil = 3
+		birth_date = 815.1.1
+		religion = coptic
+		culture = nubian
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Sousanna"
+		dynasty = "Warsangali"
+		adm = 6
+		dip = 2
+		mil = 6
+		country_of_origin = Z2H
+		birth_date = 815.1.1
+		death_date = 875.1.1
+		female = yes
+		religion = coptic
+		culture = nubian
+	}
+	add_queen_personality = well_connected_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Faro"
+		monarch_name = "Faro"
+		dynasty = "Gumuz"
+		adm = 6
+		dip = 0
+		mil = 5
+		birth_date = 815.1.1
+		death_date = 880.1.1
+		claim = 89
+		religion = kushitism_pagan
+		culture = sidamo
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+867.1.1= {
+	add_prestige = 47
+	add_treasury = 31
+}

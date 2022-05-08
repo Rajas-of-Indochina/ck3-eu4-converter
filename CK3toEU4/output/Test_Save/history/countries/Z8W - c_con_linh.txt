@@ -1,0 +1,53 @@
+government = tribal
+add_government_reform = tribal_kingdom
+government_rank = 1
+technology_group = western
+religion = converted_ban_phi
+capital = 4820
+fixed_capital = 4820
+867.1.1= {
+	monarch = {
+		name = "Runrot"
+		dynasty = "Vi Xuyen"
+		adm = 5
+		dip = 3
+		mil = 3
+		birth_date = 844.1.1
+		religion = converted_ban_phi
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Dao Rung"
+		dynasty = "Apichart"
+		adm = 2
+		dip = 2
+		mil = 2
+		country_of_origin = Z8W
+		birth_date = 844.1.1
+		death_date = 904.1.1
+		female = yes
+		religion = converted_ban_phi
+	}
+	add_queen_personality = well_connected_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Amphan"
+		monarch_name = "Amphan"
+		dynasty = "Orsini"
+		adm = 1
+		dip = 3
+		mil = 6
+		birth_date = 836.2.6
+		death_date = 901.2.6
+		female = yes
+		claim = 89
+		religion = converted_ban_phi
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+867.1.1= {
+	add_prestige = 47
+	add_treasury = 31
+}

@@ -1,0 +1,56 @@
+government = tribal
+add_government_reform = tribal_kingdom
+government_rank = 1
+technology_group = chinese
+religion = converted_celebic
+primary_culture = sulawesi
+capital = 2716
+fixed_capital = 2716
+1068.6.5= {
+	monarch = {
+		name = "Palonga"
+		dynasty = "Baubau"
+		adm = 3
+		dip = 3
+		mil = 2
+		birth_date = 1035.7.12
+		religion = converted_celebic
+		culture = sulawesi
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Tumata"
+		dynasty = "Aka"
+		adm = 3
+		dip = 4
+		mil = 4
+		country_of_origin = BTN
+		birth_date = 1035.4.25
+		death_date = 1095.4.25
+		female = yes
+		religion = converted_celebic
+		culture = sulawesi
+	}
+	add_queen_personality = well_connected_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Gowa"
+		monarch_name = "Gowa"
+		dynasty = "Baubau"
+		adm = 6
+		dip = 5
+		mil = 4
+		birth_date = 1052.9.15
+		death_date = 1117.9.15
+		claim = 89
+		religion = converted_celebic
+		culture = sulawesi
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+1068.6.5= {
+	add_prestige = 48
+	add_treasury = 33
+}

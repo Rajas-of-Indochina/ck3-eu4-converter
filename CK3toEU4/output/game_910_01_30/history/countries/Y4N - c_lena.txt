@@ -1,0 +1,40 @@
+government = tribal
+add_government_reform = tribal_kingdom
+government_rank = 1
+technology_group = nomad_group
+religion = siberian_pagan
+primary_culture = buryat
+910.1.30= {
+	monarch = {
+		name = "Eljigidei"
+		dynasty = "Ilkinat"
+		adm = 5
+		dip = 1
+		mil = 6
+		birth_date = 864.6.8
+		religion = siberian_pagan
+		culture = buryat
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	heir = {
+		name = "Saran"
+		monarch_name = "Saran"
+		dynasty = "al-Harrani"
+		adm = 6
+		dip = 4
+		mil = 5
+		birth_date = 865.7.5
+		death_date = 930.7.5
+		female = yes
+		claim = 89
+		religion = siberian_pagan
+		culture = buryat
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+910.1.30= {
+	add_prestige = 54
+	add_treasury = 38
+}

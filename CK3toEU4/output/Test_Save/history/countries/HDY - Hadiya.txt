@@ -1,0 +1,57 @@
+government = tribal
+add_government_reform = tribal_kingdom
+government_rank = 1
+technology_group = east_african
+religion = coptic
+primary_culture = sidamo
+capital = 2760
+fixed_capital = 2760
+867.1.1= {
+	monarch = {
+		name = "Hakym"
+		dynasty = "Shamumun"
+		adm = 4
+		dip = 2
+		mil = 4
+		birth_date = 835.1.1
+		religion = coptic
+		culture = sidamo
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Berta"
+		dynasty = "Bekeleid"
+		adm = 2
+		dip = 3
+		mil = 5
+		country_of_origin = HDY
+		birth_date = 835.1.1
+		death_date = 895.1.1
+		female = yes
+		religion = coptic
+		culture = amhara
+	}
+	add_queen_personality = well_connected_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Kayla"
+		monarch_name = "Kayla"
+		dynasty = "Orsini"
+		adm = 6
+		dip = 6
+		mil = 4
+		birth_date = 841.6.27
+		death_date = 906.6.27
+		female = yes
+		claim = 89
+		religion = shamanism
+		culture = amhara
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+867.1.1= {
+	add_prestige = 47
+	add_treasury = 34
+}

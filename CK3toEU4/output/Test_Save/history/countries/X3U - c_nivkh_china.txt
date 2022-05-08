@@ -1,0 +1,57 @@
+government = tribal
+add_government_reform = tribal_kingdom
+government_rank = 1
+technology_group = eastern
+religion = converted_yzng
+primary_culture = nivkh
+capital = 1050
+fixed_capital = 1050
+867.1.1= {
+	monarch = {
+		name = "Deguang"
+		dynasty = "Deguangid"
+		adm = 4
+		dip = 2
+		mil = 4
+		birth_date = 847.9.25
+		religion = converted_yzng
+		culture = nivkh
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Shulü-Ping"
+		dynasty = "Suni"
+		adm = 2
+		dip = 5
+		mil = 2
+		country_of_origin = X3U
+		birth_date = 848.1.1
+		death_date = 908.1.1
+		female = yes
+		religion = converted_yzng
+		culture = nivkh
+	}
+	add_queen_personality = well_connected_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Xingge"
+		monarch_name = "Xingge"
+		dynasty = "Orsini"
+		adm = 1
+		dip = 5
+		mil = 1
+		birth_date = 841.7.28
+		death_date = 906.7.28
+		female = yes
+		claim = 89
+		religion = converted_yzng
+		culture = nivkh
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+867.1.1= {
+	add_prestige = 47
+	add_treasury = 32
+}

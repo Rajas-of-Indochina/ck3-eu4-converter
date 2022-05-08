@@ -1,0 +1,24 @@
+government = theocracy
+add_government_reform = papacy_reform
+government_rank = 2
+technology_group = western
+religion = catholic
+primary_culture = umbrian
+capital = 118
+867.1.1= {
+	monarch = {
+		name = "Martin"
+		adm = 2
+		dip = 5
+		mil = 2
+		birth_date = 800.1.1
+		religion = catholic
+		culture = umbrian
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+}
+867.1.1= {
+	add_prestige = 47
+	add_treasury = 59
+}

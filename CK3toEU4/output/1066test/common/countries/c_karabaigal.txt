@@ -1,0 +1,20 @@
+ck2_converter_generated = yes
+graphical_culture = inuitgfx
+color = { 70 95 120 }
+monarch_names = {
+	"Adai #0" = 0
+	"Adyan #0" = 0
+	"Bavasan #0" = 0
+	"Darayisung #0" = 0
+	"Dashinima #0" = 0
+	"Erdeni #0" = -1
+	"Geleg #1" = 10
+	"Khanda #0" = -1
+	"Khermen #0" = 0
+	"Mandukhai #0" = -1
+	"Mergen #0" = 0
+	"Namzil #1" = 10
+	"Osor #1" = 10
+	"Samar #0" = -1
+	"Sambuu #0" = 0
+}

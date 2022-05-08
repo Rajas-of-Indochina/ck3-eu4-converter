@@ -1,0 +1,111 @@
+ck2_converter_generated = yes
+graphical_culture = indiangfx
+color = { 29 124 255 }
+revolutionary_colors = { 10 4 10 }
+historical_idea_groups = {
+	defensive_ideas
+	religious_ideas
+	offensive_ideas
+	trade_ideas
+	quality_ideas
+	spy_ideas
+	economic_ideas
+	diplomatic_ideas
+}
+historical_units = {
+	bhonsle_cavalry
+	indian_arquebusier
+	indian_footsoldier
+	indian_rifle
+	mughal_musketeer
+	rajput_hill_fighters
+	rajput_musketeer
+	sikh_hit_and_run
+	tipu_sultan_rocket
+}
+monarch_names = {
+	"Abhay Chandra #1" = 10
+	"Adam Chandra #1" = 10
+	"Ajmal #0" = 0
+	"Amodini #0" = -1
+	"Arjun Chandra #1" = 10
+	"Ashoka Chandra #1" = 10
+	"Balbhadar Chandra #1" = 10
+	"Baraha Chandra #1" = 10
+	"Bhagvan Chandra #0" = 0
+	"Bhagvat Chandra #1" = 10
+	"Bhimsen Chandra #1" = 10
+	"Dattar Chandra #1" = 10
+	"Govind Chandra #2" = 10
+	"Gyan Chandra #1" = 10
+	"Halghar Chandra #1" = 10
+	"Harish Chandra #1" = 10
+	"Harit Chandra #1" = 10
+	"Hartal Chandra #1" = 10
+	"Hemaadri #0" = -1
+	"Indu Chandra #2" = 10
+	"Jagdish Chandra #2" = 10
+	"Jaimal Chandra #1" = 10
+	"Jaya Chandra #1" = 10
+	"Karuna Chandra #1" = 10
+	"Kehari Chandra #1" = 10
+	"Keshav Chandra #1" = 10
+	"Kharak #0" = 0
+	"Krishan Chandra #1" = 10
+	"Kuber Chandra #1" = 10
+	"Madan Chandra #1" = 10
+	"Madhav Chandra #1" = 10
+	"Mahesh Chandra #1" = 10
+	"Manorath Chandra #1" = 10
+	"Mubarak Chandra #1" = 10
+	"Parshuram Chandra #1" = 10
+	"Prithvi Chandra #1" = 10
+	"Ratan Chandra #1" = 10
+	"Rup Chandra #2" = 10
+	"Shaktiran Chandra #1" = 10
+	"Siddhi #0" = 0
+	"Suratran Chandra #1" = 10
+	"Surya Chandra #1" = 10
+	"Sweta #0" = -1
+	"Tattar Chandra #1" = 10
+	"Vidhuvishnu Chandra #1" = 10
+	"Vikram Chandra #1" = 10
+	"Viram Chandra #1" = 10
+	"Vishambhar Chandra #1" = 10
+}
+leader_names = {
+	"Bais"
+	"Bhaal"
+	"Bhangalia"
+	"Chattar"
+	"Chudasama"
+	"Jadeja"
+	"Katoch"
+	"Minha"
+	"Pahore"
+	"Pakhral"
+	"Pundir"
+	"Saran"
+	"Singh"
+}
+ship_names = {
+	"Beas"
+	"Chenab"
+	"Devi"
+	"Gayatri"
+	"Guru"
+	"Indus"
+	"Jalsena"
+	"Jhelum"
+	"Lakshmi"
+	"Nausena"
+	"Nav ka Yudh"
+	"Parvati"
+	"Radha"
+	"Ratri"
+	"Ravi"
+	"Sagar"
+	"Sarasvati"
+	"Sita"
+	"Sutlej"
+}

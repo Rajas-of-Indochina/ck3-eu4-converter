@@ -1,0 +1,57 @@
+government = tribal
+add_government_reform = tribal_kingdom
+government_rank = 1
+technology_group = east_african
+religion = coptic
+primary_culture = amhara
+capital = 2762
+add_accepted_culture = dynamic-sidamo-culture-num1
+910.1.30= {
+	monarch = {
+		name = "Ogbae"
+		dynasty = "Na'akuelo"
+		adm = 3
+		dip = 4
+		mil = 3
+		birth_date = 883.12.7
+		religion = coptic
+		culture = amhara
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Makeda"
+		dynasty = "Desta"
+		adm = 3
+		dip = 2
+		mil = 3
+		country_of_origin = DAM
+		birth_date = 882.12.16
+		death_date = 942.12.16
+		female = yes
+		religion = coptic
+		culture = amhara
+	}
+	add_queen_personality = well_connected_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Abeba"
+		monarch_name = "Abeba"
+		dynasty = "Na'akuelo"
+		adm = 2
+		dip = 1
+		mil = 3
+		birth_date = 902.9.7
+		death_date = 967.9.7
+		female = yes
+		claim = 89
+		religion = coptic
+		culture = amhara
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+910.1.30= {
+	add_prestige = 62
+	add_treasury = 49
+}

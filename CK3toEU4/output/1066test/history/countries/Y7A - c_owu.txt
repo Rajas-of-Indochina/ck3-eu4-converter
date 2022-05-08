@@ -1,0 +1,56 @@
+government = tribal
+add_government_reform = tribal_kingdom
+government_rank = 1
+technology_group = sub_saharan
+religion = shamanism
+primary_culture = yorumba
+capital = 2290
+fixed_capital = 2290
+1068.6.5= {
+	monarch = {
+		name = "Oloyede"
+		dynasty = "Owu"
+		adm = 1
+		dip = 2
+		mil = 2
+		birth_date = 1038.1.1
+		religion = shamanism
+		culture = yorumba
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Olayinka"
+		dynasty = "Ifon"
+		adm = 1
+		dip = 3
+		mil = 1
+		country_of_origin = Y7A
+		birth_date = 1038.3.10
+		death_date = 1098.3.10
+		female = yes
+		religion = shamanism
+		culture = yorumba
+	}
+	add_queen_personality = well_connected_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Bamidele"
+		monarch_name = "Bamidele"
+		dynasty = "Owu"
+		adm = 3
+		dip = 6
+		mil = 2
+		birth_date = 1055.3.4
+		death_date = 1120.3.4
+		claim = 89
+		religion = shamanism
+		culture = yorumba
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+1068.6.5= {
+	add_prestige = 48
+	add_treasury = 40
+}

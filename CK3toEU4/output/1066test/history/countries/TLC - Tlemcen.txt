@@ -1,0 +1,41 @@
+government = monarchy
+add_government_reform = iqta
+government_rank = 1
+technology_group = muslim
+religion = sunni
+primary_culture = algerian
+capital = 336
+religious_school = hanbali_school
+1068.6.5= {
+	monarch = {
+		name = "al-'Abbas"
+		dynasty = "Maghrawavid"
+		adm = 4
+		dip = 3
+		mil = 4
+		birth_date = 1040.1.1
+		religion = sunni
+		culture = algerian
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	heir = {
+		name = "Mali"
+		monarch_name = "Mali"
+		dynasty = "Maghrawavid"
+		adm = 4
+		dip = 2
+		mil = 4
+		birth_date = 1060.1.1
+		death_date = 1125.1.1
+		claim = 89
+		religion = sunni
+		culture = berber
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+1068.6.5= {
+	add_prestige = 50
+	add_treasury = 48
+}

@@ -1,0 +1,42 @@
+government = tribal
+add_government_reform = tribal_kingdom
+government_rank = 1
+technology_group = east_african
+religion = shamanism
+primary_culture = afar
+capital = 1215
+fixed_capital = 1215
+867.1.1= {
+	monarch = {
+		name = "Rahad"
+		dynasty = "Assabi"
+		adm = 3
+		dip = 1
+		mil = 6
+		birth_date = 851.1.1
+		religion = shamanism
+		culture = afar
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	heir = {
+		name = "Hoodo"
+		monarch_name = "Hoodo"
+		dynasty = "Orsini"
+		adm = 2
+		dip = 6
+		mil = 3
+		birth_date = 840.4.5
+		death_date = 905.4.5
+		female = yes
+		claim = 89
+		religion = shamanism
+		culture = afar
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+867.1.1= {
+	add_prestige = 47
+	add_treasury = 33
+}

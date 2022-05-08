@@ -1,0 +1,55 @@
+government = monarchy
+add_government_reform = mandala_reform
+government_rank = 1
+technology_group = chinese
+religion = hinduism
+primary_culture = nepali
+capital = 554
+1068.6.5= {
+	monarch = {
+		name = "Sonpal"
+		dynasty = "Khasiya"
+		adm = 6
+		dip = 2
+		mil = 6
+		birth_date = 1035.1.1
+		religion = hinduism
+		culture = nepali
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Prashanti"
+		dynasty = "Orsini"
+		adm = 3
+		dip = 3
+		mil = 3
+		country_of_origin = Z1R
+		birth_date = 1034.4.16
+		death_date = 1094.4.16
+		female = yes
+		religion = hinduism
+		culture = nepali
+	}
+	add_queen_personality = well_connected_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Indrapal"
+		monarch_name = "Indrapal"
+		dynasty = "Khasiya"
+		adm = 5
+		dip = 5
+		mil = 4
+		birth_date = 1051.1.1
+		death_date = 1116.1.1
+		claim = 89
+		religion = hinduism
+		culture = nepali
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+1068.6.5= {
+	add_prestige = 48
+	add_treasury = 49
+}

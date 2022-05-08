@@ -1,0 +1,79 @@
+ck2_converter_generated = yes
+graphical_culture = africangfx
+color = { 166 161 139 }
+revolutionary_colors = { 8 4 14 }
+historical_idea_groups = {
+	trade_ideas
+	defensive_ideas
+	offensive_ideas
+	spy_ideas
+	diplomatic_ideas
+	economic_ideas
+	religious_ideas
+	innovativeness_ideas
+}
+historical_units = {
+	african_dragoon
+	african_hill_warfare
+	african_hussar
+	african_mandelaku
+	african_mossi_horsemen
+	african_spearmen
+	african_tuareg_cavalry
+	african_western_franchise_warfare
+	mali_tribal_warfare
+	niger_kongolese_gunpowder_warfare
+	westernized_niger_kongolese
+}
+monarch_names = {
+	"Alooma #1" = 10
+	"Arku #0" = 0
+	"Kadiga #0" = -1
+	"Kaltum #0" = -1
+	"Mariam #0" = -1
+	"Mounah #0" = -1
+	"Oki #0" = 0
+	"Sora #0" = 0
+	"Ter #0" = -1
+	"Tugule #0" = 0
+	"Udure #0" = 0
+	"Yaqub #0" = 0
+}
+leader_names = {
+	"Argumba"
+	"Batoa"
+	"Burwa"
+	"Dalmawa"
+	"Djulwa"
+	"Fadwa"
+	"Gaswa"
+	"Kassawa"
+	"Kiliti"
+	"Madawa"
+	"N'guidjim"
+	"Tchalmawa"
+	"Wadawa"
+}
+ship_names = {
+	"Abd al-Djel Selma"
+	"Aritso"
+	"Arki"
+	"Ayoma"
+	"Bad al-Djel"
+	"Biri"
+	"Birkoru"
+	"Bulu"
+	"Dari"
+	"Djil"
+	"Dugu"
+	"Dunama"
+	"Dunama Dibbalem"
+	"Fune"
+	"Hume"
+	"Kachim Biri"
+	"Kade"
+	"Kature"
+	"Kure Gana"
+	"Kure Kura"
+	"Shu"
+}

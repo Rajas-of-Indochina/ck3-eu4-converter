@@ -1,0 +1,53 @@
+government = tribal
+add_government_reform = tribal_kingdom
+government_rank = 1
+technology_group = western
+religion = converted_kadai
+capital = 2154
+fixed_capital = 2154
+1068.6.5= {
+	monarch = {
+		name = "Mayaw"
+		dynasty = "Malavuyan"
+		adm = 5
+		dip = 4
+		mil = 2
+		birth_date = 1044.4.25
+		religion = converted_kadai
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Usin"
+		dynasty = "Wai-a-wai"
+		adm = 5
+		dip = 3
+		mil = 6
+		country_of_origin = Y6G
+		birth_date = 1044.2.17
+		death_date = 1104.2.17
+		female = yes
+		religion = converted_kadai
+	}
+	add_queen_personality = well_connected_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Zinai"
+		monarch_name = "Zinai"
+		dynasty = "Malavuyan"
+		adm = 2
+		dip = 3
+		mil = 3
+		birth_date = 1061.5.15
+		death_date = 1126.5.15
+		female = yes
+		claim = 89
+		religion = converted_kadai
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+1068.6.5= {
+	add_prestige = 48
+	add_treasury = 38
+}

@@ -1,0 +1,56 @@
+government = monarchy
+add_government_reform = english_monarchy
+government_rank = 2
+technology_group = western
+religion = catholic
+primary_culture = scottish
+capital = 250
+add_accepted_culture = highland_scottish
+1068.6.5= {
+	monarch = {
+		name = "Malcolm"
+		dynasty = "Dunkeld"
+		adm = 3
+		dip = 5
+		mil = 3
+		birth_date = 1031.1.2
+		religion = catholic
+		culture = scottish
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Ingebjørg"
+		dynasty = "Alfing"
+		adm = 3
+		dip = 3
+		mil = 3
+		country_of_origin = SCO
+		birth_date = 1027.1.2
+		death_date = 1087.1.2
+		female = yes
+		religion = catholic
+		culture = norwegian
+	}
+	add_queen_personality = well_connected_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Duncan"
+		monarch_name = "Duncan"
+		dynasty = "Dunkeld"
+		adm = 3
+		dip = 3
+		mil = 3
+		birth_date = 1060.1.1
+		death_date = 1125.1.1
+		claim = 89
+		religion = catholic
+		culture = scottish
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+1068.6.5= {
+	add_prestige = 52
+	add_treasury = 52
+}

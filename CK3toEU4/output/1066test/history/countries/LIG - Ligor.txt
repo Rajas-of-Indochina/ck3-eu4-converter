@@ -1,0 +1,56 @@
+government = monarchy
+add_government_reform = mandala_reform
+government_rank = 1
+technology_group = indian
+religion = hinduism
+primary_culture = mon
+capital = 593
+1068.6.5= {
+	monarch = {
+		name = "Ottama II"
+		dynasty = "Tambralinga"
+		adm = 3
+		dip = 6
+		mil = 3
+		birth_date = 1025.1.1
+		religion = hinduism
+		culture = mon
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Puthykol"
+		dynasty = "Krapan"
+		adm = 1
+		dip = 6
+		mil = 2
+		country_of_origin = LIG
+		birth_date = 1025.5.30
+		death_date = 1085.5.30
+		female = yes
+		religion = hinduism
+		culture = mon
+	}
+	add_queen_personality = well_connected_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Sovandary"
+		monarch_name = "Sovandary"
+		dynasty = "Tambralinga"
+		adm = 6
+		dip = 4
+		mil = 6
+		birth_date = 1042.8.30
+		death_date = 1107.8.30
+		female = yes
+		claim = 89
+		religion = hinduism
+		culture = mon
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+1068.6.5= {
+	add_prestige = 56
+	add_treasury = 44
+}

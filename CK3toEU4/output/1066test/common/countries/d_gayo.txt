@@ -1,0 +1,18 @@
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 40 134 240 }
+monarch_names = {
+	"Adi Genali #1" = 10
+	"Aditi #0" = -1
+	"Gitarja #0" = -1
+	"Lewih #0" = 0
+	"Meurah Linge #0" = 0
+	"Mitta #0" = -1
+	"Mpu Beru #0" = 0
+	"Nila #0" = 0
+	"Salaka #0" = -1
+	"Shurapala #0" = 0
+	"Sibayak Linge #0" = 0
+	"Silu #1" = 10
+	"Sita #0" = -1
+}

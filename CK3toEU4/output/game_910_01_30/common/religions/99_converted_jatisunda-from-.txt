@@ -1,0 +1,42 @@
+converted_jatisunda = {
+	converted_jatisunda = {
+		color = { 211 71 63 }
+		icon =  192
+		country = {
+ 
+		stability_cost_to_declare_war = 1
+		diplomatic_reputation = 3
+	
+
+		diplomatic_reputation = 1
+	
+
+		build_cost = 0.1
+		war_exhaustion = -0.1
+	
+
+		heir_chance = 1
+	
+}
+		country_as_secondary = {
+ 
+		diplomatic_reputation = 1
+	
+
+		diplomatic_reputation = 1
+	
+}
+		province = {
+ 
+		local_manpower_modifier = 0.1
+	
+
+		local_missionary_strength = 0.01
+	
+
+		local_missionary_strength = 0.02
+	
+}
+	}
+}
+

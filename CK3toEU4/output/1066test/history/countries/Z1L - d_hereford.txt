@@ -1,0 +1,40 @@
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+technology_group = western
+religion = catholic
+primary_culture = mercian
+capital = 4376
+1068.6.5= {
+	monarch = {
+		name = "Eadwin"
+		dynasty = "of Hwicce"
+		adm = 5
+		dip = 4
+		mil = 5
+		birth_date = 1044.1.1
+		religion = catholic
+		culture = mercian
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	heir = {
+		name = "Morcar"
+		monarch_name = "Morcar"
+		dynasty = "of Hwicce"
+		adm = 5
+		dip = 5
+		mil = 6
+		birth_date = 1046.1.1
+		death_date = 1111.1.1
+		claim = 89
+		religion = catholic
+		culture = anglo_saxon
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+1068.6.5= {
+	add_prestige = 51
+	add_treasury = 55
+}

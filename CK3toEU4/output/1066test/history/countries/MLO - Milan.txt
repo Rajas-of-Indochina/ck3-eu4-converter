@@ -1,0 +1,55 @@
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+technology_group = western
+religion = catholic
+primary_culture = lombard
+capital = 4740
+elector = yes
+1068.6.5= {
+	monarch = {
+		name = "Alberto Azzo II"
+		adm = 5
+		dip = 4
+		mil = 5
+		birth_date = 1009.7.10
+		religion = catholic
+		culture = lombard
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Garsende"
+		dynasty = "de Maine"
+		adm = 5
+		dip = 4
+		mil = 6
+		country_of_origin = MLO
+		birth_date = 1021.1.1
+		death_date = 1081.1.1
+		female = yes
+		religion = catholic
+		culture = cosmopolitan_french
+	}
+	add_queen_personality = well_connected_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Welf"
+		monarch_name = "Welf"
+		dynasty = "Welf"
+		adm = 6
+		dip = 6
+		mil = 6
+		birth_date = 1035.1.1
+		death_date = 1100.1.1
+		claim = 89
+		religion = catholic
+		culture = bavarian
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+1068.6.5= {
+	add_prestige = 55
+	add_treasury = 0
+}

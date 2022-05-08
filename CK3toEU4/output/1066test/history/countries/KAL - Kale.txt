@@ -1,0 +1,57 @@
+government = tribal
+add_government_reform = tribal_kingdom
+government_rank = 1
+technology_group = chinese
+religion = converted_sanamahi_pagan
+primary_culture = chin
+capital = 580
+fixed_capital = 580
+1068.6.5= {
+	monarch = {
+		name = "Brahmapala"
+		dynasty = "Kale"
+		adm = 4
+		dip = 2
+		mil = 1
+		birth_date = 1043.5.11
+		religion = converted_sanamahi_pagan
+		culture = chin
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Yajiyavati"
+		dynasty = "Raikat"
+		adm = 4
+		dip = 4
+		mil = 2
+		country_of_origin = KAL
+		birth_date = 1043.6.24
+		death_date = 1103.6.24
+		female = yes
+		religion = converted_sanamahi_pagan
+		culture = chin
+	}
+	add_queen_personality = well_connected_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Yajiyavati"
+		monarch_name = "Yajiyavati"
+		dynasty = "Kale"
+		adm = 3
+		dip = 3
+		mil = 3
+		birth_date = 1060.9.9
+		death_date = 1125.9.9
+		female = yes
+		claim = 89
+		religion = converted_sanamahi_pagan
+		culture = chin
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+1068.6.5= {
+	add_prestige = 49
+	add_treasury = 42
+}

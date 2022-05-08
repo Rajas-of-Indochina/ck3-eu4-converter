@@ -1,0 +1,12 @@
+government = monarchy
+add_government_reform = mandala_reform
+government_rank = 1
+technology_group = chinese
+religion = vajrayana
+primary_culture = tibetan
+capital = 2184
+fixed_capital = 2184
+867.1.1= {
+	add_prestige = 47
+	add_treasury = 40
+}

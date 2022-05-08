@@ -1,0 +1,14 @@
+ck2_converter_generated = yes
+graphical_culture = indiangfx
+color = { 144 114 219 }
+monarch_names = {
+	"Akra #0" = 0
+	"Charya #0" = 0
+	"Einkura #0" = 0
+	"Kannareth #0" = -1
+	"Nisay #1" = 10
+	"Puthyrith #1" = 10
+	"Rachana #0" = -1
+	"Sokun #0" = 0
+	"Sreykeo #0" = -1
+}

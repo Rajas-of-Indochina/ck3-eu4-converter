@@ -1,0 +1,54 @@
+government = monarchy
+add_government_reform = english_monarchy
+government_rank = 1
+technology_group = western
+religion = catholic
+primary_culture = sardinian
+capital = 4735
+fixed_capital = 4735
+1068.6.5= {
+	monarch = {
+		name = "Andria"
+		adm = 3
+		dip = 0
+		mil = 4
+		birth_date = 1020.1.1
+		religion = catholic
+		culture = sardinian
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Beneita"
+		dynasty = "Orsini"
+		adm = 2
+		dip = 3
+		mil = 2
+		country_of_origin = Y47
+		birth_date = 1022.1.1
+		death_date = 1082.1.1
+		female = yes
+		religion = catholic
+		culture = sardinian
+	}
+	add_queen_personality = well_connected_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Marianu"
+		monarch_name = "Marianu"
+		adm = 0
+		dip = 2
+		mil = 5
+		birth_date = 1042.1.1
+		death_date = 1107.1.1
+		claim = 89
+		religion = catholic
+		culture = sardinian
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+1068.6.5= {
+	add_prestige = 47
+	add_treasury = 41
+}

@@ -1,0 +1,57 @@
+government = monarchy
+add_government_reform = mandala_reform
+government_rank = 1
+technology_group = indian
+religion = buddhism
+primary_culture = mon
+capital = 2404
+fixed_capital = 2404
+910.1.30= {
+	monarch = {
+		name = "Jhaan"
+		dynasty = "Dho"
+		adm = 3
+		dip = 3
+		mil = 3
+		birth_date = 850.1.1
+		religion = buddhism
+		culture = mon
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Manggalawardhani"
+		dynasty = "Prameswara"
+		adm = 3
+		dip = 4
+		mil = 3
+		country_of_origin = Y6B
+		birth_date = 891.4.29
+		death_date = 951.4.29
+		female = yes
+		religion = converted_umboh
+		culture = mon
+	}
+	add_queen_personality = well_connected_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Sreymau"
+		monarch_name = "Sreymau"
+		dynasty = "Dho"
+		adm = 6
+		dip = 6
+		mil = 5
+		birth_date = 869.5.1
+		death_date = 934.5.1
+		female = yes
+		claim = 89
+		religion = buddhism
+		culture = mon
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+910.1.30= {
+	add_prestige = 67
+	add_treasury = 42
+}

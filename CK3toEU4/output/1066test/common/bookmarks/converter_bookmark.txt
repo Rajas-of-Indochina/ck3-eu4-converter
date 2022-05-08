@@ -1,0 +1,6 @@
+bookmark =
+{
+	name = CK3_NAME
+	desc = CK3_DESC
+	date = 1068.6.5
+}

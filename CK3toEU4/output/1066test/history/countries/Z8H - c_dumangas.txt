@@ -1,0 +1,39 @@
+government = tribal
+add_government_reform = tribal_kingdom
+government_rank = 1
+technology_group = western
+religion = converted_kadai
+capital = 2700
+fixed_capital = 2700
+1068.6.5= {
+	monarch = {
+		name = "Sarapang"
+		dynasty = "Bamban"
+		adm = 4
+		dip = 5
+		mil = 6
+		birth_date = 1049.10.9
+		religion = converted_kadai
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	heir = {
+		name = "Makiling"
+		monarch_name = "Makiling"
+		dynasty = "Orsini"
+		adm = 5
+		dip = 6
+		mil = 6
+		birth_date = 1044.5.7
+		death_date = 1109.5.7
+		female = yes
+		claim = 89
+		religion = converted_kadai
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+1068.6.5= {
+	add_prestige = 47
+	add_treasury = 41
+}

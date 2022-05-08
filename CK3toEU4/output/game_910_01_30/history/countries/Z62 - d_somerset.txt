@@ -1,0 +1,53 @@
+government = monarchy
+add_government_reform = english_monarchy
+government_rank = 1
+technology_group = western
+religion = catholic
+primary_culture = wessexian
+capital = 234
+910.1.30= {
+	monarch = {
+		name = "Æthelred II"
+		adm = 4
+		dip = 4
+		mil = 4
+		birth_date = 869.3.24
+		religion = catholic
+		culture = wessexian
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Mathilde"
+		dynasty = "Rorgonides"
+		adm = 2
+		dip = 2
+		mil = 3
+		country_of_origin = Z62
+		birth_date = 868.10.29
+		death_date = 928.10.29
+		female = yes
+		religion = catholic
+		culture = cosmopolitan_french
+	}
+	add_queen_personality = well_connected_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Petre"
+		monarch_name = "Petre"
+		adm = 5
+		dip = 5
+		mil = 5
+		birth_date = 889.11.11
+		death_date = 954.11.11
+		claim = 89
+		religion = catholic
+		culture = welsh
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+910.1.30= {
+	add_prestige = 83
+	add_treasury = 57
+}

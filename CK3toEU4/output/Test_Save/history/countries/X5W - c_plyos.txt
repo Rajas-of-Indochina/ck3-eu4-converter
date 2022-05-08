@@ -1,0 +1,41 @@
+government = tribal
+add_government_reform = steppe_horde
+government_rank = 1
+technology_group = eastern
+religion = finnish_pagan
+primary_culture = uralic
+capital = 4254
+fixed_capital = 4254
+867.1.1= {
+	monarch = {
+		name = "Kezhevat"
+		dynasty = "Meryavid"
+		adm = 0
+		dip = 6
+		mil = 1
+		birth_date = 838.1.1
+		religion = finnish_pagan
+		culture = uralic
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	heir = {
+		name = "Tyueykezhut"
+		monarch_name = "Tyueykezhut"
+		dynasty = "Meryavid"
+		adm = 6
+		dip = 6
+		mil = 6
+		birth_date = 839.1.1
+		death_date = 904.1.1
+		claim = 89
+		religion = finnish_pagan
+		culture = uralic
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+867.1.1= {
+	add_prestige = 47
+	add_treasury = 31
+}

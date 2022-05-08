@@ -1,0 +1,53 @@
+government = tribal
+add_government_reform = tribal_kingdom
+government_rank = 1
+technology_group = western
+religion = converted_celebic
+capital = 633
+fixed_capital = 633
+910.1.30= {
+	monarch = {
+		name = "Taras"
+		dynasty = "Kalabahi"
+		adm = 3
+		dip = 4
+		mil = 2
+		birth_date = 881.12.10
+		religion = converted_celebic
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Tribuanadewi"
+		dynasty = "Bima"
+		adm = 2
+		dip = 2
+		mil = 2
+		country_of_origin = Z7R
+		birth_date = 880.11.6
+		death_date = 940.11.6
+		female = yes
+		religion = hinduism
+	}
+	add_queen_personality = well_connected_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Aramemb"
+		monarch_name = "Aramemb"
+		dynasty = "Kalabahi"
+		adm = 3
+		dip = 3
+		mil = 3
+		birth_date = 901.1.23
+		death_date = 966.1.23
+		female = yes
+		claim = 89
+		religion = converted_celebic
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+910.1.30= {
+	add_prestige = 58
+	add_treasury = 52
+}

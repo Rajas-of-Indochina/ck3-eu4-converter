@@ -1,0 +1,39 @@
+government = monarchy
+add_government_reform = english_monarchy
+government_rank = 1
+technology_group = western
+religion = catholic
+primary_culture = welsh
+capital = 240
+fixed_capital = 240
+867.1.1= {
+	monarch = {
+		name = "Meurig"
+		adm = 1
+		dip = 4
+		mil = 3
+		birth_date = 800.1.1
+		religion = catholic
+		culture = welsh
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	heir = {
+		name = "Brochfael"
+		monarch_name = "Brochfael"
+		adm = 6
+		dip = 6
+		mil = 6
+		birth_date = 835.1.1
+		death_date = 900.1.1
+		claim = 89
+		religion = catholic
+		culture = welsh
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+867.1.1= {
+	add_prestige = 47
+	add_treasury = 35
+}

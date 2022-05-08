@@ -1,0 +1,56 @@
+government = tribal
+add_government_reform = siberian_tribe
+government_rank = 1
+technology_group = nomad_group
+religion = tengri_pagan
+primary_culture = kirgiz
+capital = 4686
+fixed_capital = 4686
+867.1.1= {
+	monarch = {
+		name = "Sotan"
+		dynasty = "Karasorkaliq"
+		adm = 4
+		dip = 2
+		mil = 2
+		birth_date = 839.3.28
+		religion = tengri_pagan
+		culture = kirgiz
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Songul"
+		dynasty = "Orsini"
+		adm = 1
+		dip = 6
+		mil = 4
+		country_of_origin = X42
+		birth_date = 841.6.19
+		death_date = 901.6.19
+		female = yes
+		religion = tengri_pagan
+		culture = kirgiz
+	}
+	add_queen_personality = well_connected_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Kozel"
+		monarch_name = "Kozel"
+		dynasty = "Karasorkaliq"
+		adm = 2
+		dip = 4
+		mil = 3
+		birth_date = 859.6.17
+		death_date = 924.6.17
+		claim = 89
+		religion = tengri_pagan
+		culture = kirgiz
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+867.1.1= {
+	add_prestige = 47
+	add_treasury = 35
+}

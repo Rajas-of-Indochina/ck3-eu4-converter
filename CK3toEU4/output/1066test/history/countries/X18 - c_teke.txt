@@ -1,0 +1,56 @@
+government = tribal
+add_government_reform = siberian_tribe
+government_rank = 1
+technology_group = eastern
+religion = tengri_pagan
+primary_culture = ostyaki
+capital = 4689
+fixed_capital = 4689
+1068.6.5= {
+	monarch = {
+		name = "Pulad"
+		dynasty = "Taiket"
+		adm = 3
+		dip = 2
+		mil = 5
+		birth_date = 1042.8.13
+		religion = tengri_pagan
+		culture = ostyaki
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Samur"
+		dynasty = "Orsini"
+		adm = 2
+		dip = 5
+		mil = 1
+		country_of_origin = X18
+		birth_date = 1046.4.24
+		death_date = 1106.4.24
+		female = yes
+		religion = tengri_pagan
+		culture = ostyaki
+	}
+	add_queen_personality = well_connected_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Koza"
+		monarch_name = "Koza II"
+		dynasty = "Taiket"
+		adm = 1
+		dip = 0
+		mil = 1
+		birth_date = 1066.3.25
+		death_date = 1131.3.25
+		claim = 89
+		religion = tengri_pagan
+		culture = ostyaki
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+1068.6.5= {
+	add_prestige = 47
+	add_treasury = 32
+}

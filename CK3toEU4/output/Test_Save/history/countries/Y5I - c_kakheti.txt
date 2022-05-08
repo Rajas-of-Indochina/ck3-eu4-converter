@@ -1,0 +1,54 @@
+government = monarchy
+add_government_reform = english_monarchy
+government_rank = 1
+technology_group = eastern
+religion = orthodox
+primary_culture = georgian
+capital = 2203
+fixed_capital = 2203
+867.1.1= {
+	monarch = {
+		name = "Bagrat"
+		adm = 2
+		dip = 5
+		mil = 2
+		birth_date = 815.1.1
+		religion = orthodox
+		culture = georgian
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Mara"
+		dynasty = "Bagratuni"
+		adm = 2
+		dip = 4
+		mil = 2
+		country_of_origin = Y5I
+		birth_date = 824.1.1
+		death_date = 884.1.1
+		female = yes
+		religion = coptic
+		culture = armenian
+	}
+	add_queen_personality = well_connected_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Davit"
+		monarch_name = "Davit"
+		adm = 5
+		dip = 6
+		mil = 5
+		birth_date = 854.1.1
+		death_date = 919.1.1
+		claim = 89
+		religion = orthodox
+		culture = georgian
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+867.1.1= {
+	add_prestige = 47
+	add_treasury = 35
+}

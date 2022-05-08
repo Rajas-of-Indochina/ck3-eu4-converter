@@ -1,0 +1,41 @@
+government = monarchy
+add_government_reform = confucian_bureaucracy
+government_rank = 1
+technology_group = chinese
+religion = confucianism
+primary_culture = chihan
+capital = 2173
+fixed_capital = 2173
+910.1.30= {
+	monarch = {
+		name = "Jinqin"
+		dynasty = "Duan"
+		adm = 4
+		dip = 2
+		mil = 5
+		birth_date = 883.3.4
+		religion = confucianism
+		culture = chihan
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	heir = {
+		name = "Renshi"
+		monarch_name = "Renshi II"
+		dynasty = "Gongyang"
+		adm = 6
+		dip = 6
+		mil = 6
+		birth_date = 840.1.1
+		death_date = 905.1.1
+		claim = 89
+		religion = converted_hmongism
+		culture = chihan
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+910.1.30= {
+	add_prestige = 58
+	add_treasury = 48
+}

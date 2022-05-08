@@ -1,0 +1,52 @@
+government = tribal
+add_government_reform = tribal_kingdom
+government_rank = 1
+technology_group = western
+religion = converted_ban_phi
+capital = 2371
+fixed_capital = 2371
+1068.6.5= {
+	monarch = {
+		name = "Nao Numtum"
+		dynasty = "Muang Lo"
+		adm = 5
+		dip = 6
+		mil = 3
+		birth_date = 1036.11.3
+		religion = converted_ban_phi
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Dao"
+		dynasty = "Boonma"
+		adm = 3
+		dip = 3
+		mil = 3
+		country_of_origin = Y9Y
+		birth_date = 1037.6.30
+		death_date = 1097.6.30
+		female = yes
+		religion = converted_ban_phi
+	}
+	add_queen_personality = well_connected_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Pha Mueang"
+		monarch_name = "Pha Mueang"
+		dynasty = "Muang Lo"
+		adm = 0
+		dip = 2
+		mil = 1
+		birth_date = 1062.3.3
+		death_date = 1127.3.3
+		claim = 89
+		religion = converted_ban_phi
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+1068.6.5= {
+	add_prestige = 48
+	add_treasury = 42
+}

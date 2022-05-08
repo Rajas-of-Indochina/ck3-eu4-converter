@@ -1,0 +1,52 @@
+government = tribal
+add_government_reform = tribal_kingdom
+government_rank = 1
+technology_group = western
+religion = converted_kuy_animism
+capital = 4823
+fixed_capital = 4823
+1068.6.5= {
+	monarch = {
+		name = "Rathanak"
+		dynasty = "Bun"
+		adm = 3
+		dip = 2
+		mil = 6
+		birth_date = 1041.1.1
+		religion = converted_kuy_animism
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Putrea"
+		dynasty = "San"
+		adm = 1
+		dip = 5
+		mil = 1
+		country_of_origin = Z4V
+		birth_date = 1041.2.26
+		death_date = 1101.2.26
+		female = yes
+		religion = converted_kuy_animism
+	}
+	add_queen_personality = well_connected_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Reasmey"
+		monarch_name = "Reasmey"
+		dynasty = "Bun"
+		adm = 1
+		dip = 1
+		mil = 1
+		birth_date = 1066.3.27
+		death_date = 1131.3.27
+		claim = 89
+		religion = converted_kuy_animism
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+1068.6.5= {
+	add_prestige = 48
+	add_treasury = 42
+}

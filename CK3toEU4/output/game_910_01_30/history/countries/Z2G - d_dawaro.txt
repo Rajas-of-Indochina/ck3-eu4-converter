@@ -1,0 +1,57 @@
+government = tribal
+add_government_reform = tribal_federation
+government_rank = 1
+technology_group = east_african
+religion = sunni
+primary_culture = harari
+capital = 2761
+religious_school = hanbali_school
+add_accepted_culture = somali
+910.1.30= {
+	monarch = {
+		name = "Yonas"
+		dynasty = "Dahnay"
+		adm = 4
+		dip = 3
+		mil = 3
+		birth_date = 876.12.16
+		religion = sunni
+		culture = harari
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Tamrust"
+		dynasty = "Sawdanid"
+		adm = 2
+		dip = 4
+		mil = 3
+		country_of_origin = Z2G
+		birth_date = 863.1.1
+		death_date = 923.1.1
+		female = yes
+		religion = sunni
+		culture = greek
+	}
+	add_queen_personality = well_connected_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Demissie"
+		monarch_name = "Demissie"
+		dynasty = "Dahnay"
+		adm = 6
+		dip = 5
+		mil = 4
+		birth_date = 896.2.3
+		death_date = 961.2.3
+		claim = 89
+		religion = sunni
+		culture = amhara
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+910.1.30= {
+	add_prestige = 56
+	add_treasury = 46
+}

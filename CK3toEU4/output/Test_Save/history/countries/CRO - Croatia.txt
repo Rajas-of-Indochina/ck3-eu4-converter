@@ -1,0 +1,41 @@
+government = monarchy
+add_government_reform = english_monarchy
+government_rank = 1
+technology_group = eastern
+religion = catholic
+primary_culture = croatian
+capital = 1826
+add_accepted_culture = bosnian
+867.1.1= {
+	monarch = {
+		name = "Domagoj"
+		dynasty = "Domagojevic"
+		adm = 1
+		dip = 3
+		mil = 2
+		birth_date = 820.1.1
+		religion = catholic
+		culture = croatian
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	heir = {
+		name = "Iljko"
+		monarch_name = "Iljko"
+		dynasty = "Domagojevic"
+		adm = 3
+		dip = 5
+		mil = 3
+		birth_date = 845.1.1
+		death_date = 910.1.1
+		claim = 89
+		religion = catholic
+		culture = croatian
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+867.1.1= {
+	add_prestige = 47
+	add_treasury = 41
+}

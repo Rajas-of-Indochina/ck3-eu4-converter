@@ -1,0 +1,55 @@
+government = monarchy
+add_government_reform = mandala_reform
+government_rank = 1
+technology_group = indian
+religion = hinduism
+primary_culture = oriya
+capital = 2080
+910.1.30= {
+	monarch = {
+		name = "Jayavarmadeva"
+		dynasty = "Kalinga Ganga"
+		adm = 2
+		dip = 3
+		mil = 4
+		birth_date = 878.8.4
+		religion = hinduism
+		culture = oriya
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Rudramadevi"
+		dynasty = "al-Harrani"
+		adm = 2
+		dip = 1
+		mil = 2
+		country_of_origin = Z3E
+		birth_date = 884.3.29
+		death_date = 944.3.29
+		female = yes
+		religion = converted_shrautism
+		culture = telegu
+	}
+	add_queen_personality = well_connected_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Santikaradeva"
+		monarch_name = "Santikaradeva"
+		dynasty = "Kalinga Ganga"
+		adm = 1
+		dip = 1
+		mil = 3
+		birth_date = 903.11.5
+		death_date = 968.11.5
+		claim = 89
+		religion = hinduism
+		culture = oriya
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+910.1.30= {
+	add_prestige = 65
+	add_treasury = 49
+}

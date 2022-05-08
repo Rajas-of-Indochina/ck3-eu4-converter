@@ -1,0 +1,42 @@
+government = tribal
+add_government_reform = siberian_tribe
+government_rank = 1
+technology_group = eastern
+religion = siberian_pagan
+primary_culture = ostyaki
+capital = 4691
+fixed_capital = 4691
+910.1.30= {
+	monarch = {
+		name = "Uchva"
+		dynasty = "Belgorojian"
+		adm = 3
+		dip = 3
+		mil = 3
+		birth_date = 870.9.10
+		religion = siberian_pagan
+		culture = ostyaki
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	heir = {
+		name = "Tekay"
+		monarch_name = "Tekay"
+		dynasty = "Belgorojian"
+		adm = 6
+		dip = 4
+		mil = 6
+		birth_date = 886.8.21
+		death_date = 951.8.21
+		female = yes
+		claim = 89
+		religion = siberian_pagan
+		culture = ostyaki
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+910.1.30= {
+	add_prestige = 60
+	add_treasury = 52
+}

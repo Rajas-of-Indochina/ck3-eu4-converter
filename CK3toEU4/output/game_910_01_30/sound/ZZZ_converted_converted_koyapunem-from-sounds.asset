@@ -1,0 +1,8 @@
+sound = {
+	name = religion_converted_koyapunem
+	file = "tab_religion_pagan.wav"
+}
+sound = {
+	name = start_convert_converted_koyapunem
+	file = "start_conversion_pagan_animism.wav"
+}

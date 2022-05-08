@@ -1,0 +1,57 @@
+government = monarchy
+add_government_reform = mandala_reform
+government_rank = 1
+technology_group = western
+religion = vajrayana
+primary_culture = bornean
+capital = 4800
+fixed_capital = 4800
+1068.6.5= {
+	monarch = {
+		name = "Lewih"
+		dynasty = "Tabalong"
+		adm = 4
+		dip = 4
+		mil = 1
+		birth_date = 1044.8.11
+		religion = vajrayana
+		culture = bornean
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Daksayani"
+		dynasty = "Kota Kapur"
+		adm = 1
+		dip = 4
+		mil = 1
+		country_of_origin = Y7N
+		birth_date = 1044.8.5
+		death_date = 1104.8.5
+		female = yes
+		religion = vajrayana
+		culture = bornean
+	}
+	add_queen_personality = well_connected_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Sri"
+		monarch_name = "Sri"
+		dynasty = "Tabalong"
+		adm = 3
+		dip = 3
+		mil = 2
+		birth_date = 1061.3.11
+		death_date = 1126.3.11
+		female = yes
+		claim = 89
+		religion = vajrayana
+		culture = bornean
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+1068.6.5= {
+	add_prestige = 48
+	add_treasury = 38
+}

@@ -1,0 +1,57 @@
+government = tribal
+add_government_reform = tribal_kingdom
+government_rank = 1
+technology_group = sub_saharan
+religion = shamanism
+primary_culture = mali
+capital = 1122
+fixed_capital = 1122
+867.1.1= {
+	monarch = {
+		name = "Konsa"
+		dynasty = "Bwa"
+		adm = 1
+		dip = 0
+		mil = 2
+		birth_date = 835.1.1
+		religion = shamanism
+		culture = mali
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Namiss"
+		dynasty = "Jula"
+		adm = 5
+		dip = 5
+		mil = 3
+		country_of_origin = W33
+		birth_date = 835.1.1
+		death_date = 895.1.1
+		female = yes
+		religion = shamanism
+		culture = mali
+	}
+	add_queen_personality = well_connected_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Sassouma"
+		monarch_name = "Sassouma"
+		dynasty = "Orsini"
+		adm = 3
+		dip = 6
+		mil = 3
+		birth_date = 835.3.17
+		death_date = 900.3.17
+		female = yes
+		claim = 89
+		religion = shamanism
+		culture = mali
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+867.1.1= {
+	add_prestige = 47
+	add_treasury = 31
+}

@@ -1,0 +1,57 @@
+government = tribal
+add_government_reform = tribal_kingdom
+government_rank = 1
+technology_group = western
+religion = slavic_pagan
+primary_culture = sorbian
+capital = 1763
+fixed_capital = 1763
+867.1.1= {
+	monarch = {
+		name = "Jaromir"
+		dynasty = "Lusici"
+		adm = 2
+		dip = 4
+		mil = 1
+		birth_date = 839.1.1
+		religion = slavic_pagan
+		culture = sorbian
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Václava"
+		dynasty = "z Roztoki"
+		adm = 3
+		dip = 1
+		mil = 3
+		country_of_origin = W02
+		birth_date = 839.1.1
+		death_date = 899.1.1
+		female = yes
+		religion = slavic_pagan
+		culture = sorbian
+	}
+	add_queen_personality = well_connected_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Anastazja"
+		monarch_name = "Anastazja"
+		dynasty = "Orsini"
+		adm = 6
+		dip = 3
+		mil = 6
+		birth_date = 839.2.21
+		death_date = 904.2.21
+		female = yes
+		claim = 89
+		religion = slavic_pagan
+		culture = polish
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+867.1.1= {
+	add_prestige = 47
+	add_treasury = 33
+}

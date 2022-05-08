@@ -1,0 +1,55 @@
+government = monarchy
+add_government_reform = english_monarchy
+government_rank = 2
+technology_group = western
+religion = catholic
+primary_culture = cosmopolitan_french
+capital = 4766
+910.1.30= {
+	monarch = {
+		name = "Lothaire III"
+		dynasty = "de Champagne"
+		adm = 4
+		dip = 5
+		mil = 5
+		birth_date = 876.8.1
+		religion = catholic
+		culture = cosmopolitan_french
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Christine"
+		dynasty = "Krajnc"
+		adm = 3
+		dip = 3
+		mil = 4
+		country_of_origin = LOT
+		birth_date = 880.5.19
+		death_date = 940.5.19
+		female = yes
+		religion = catholic
+		culture = slovene
+	}
+	add_queen_personality = well_connected_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Guy"
+		monarch_name = "Guy"
+		dynasty = "de Champagne"
+		adm = 2
+		dip = 2
+		mil = 2
+		birth_date = 904.10.27
+		death_date = 969.10.27
+		claim = 89
+		religion = catholic
+		culture = cosmopolitan_french
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+910.1.30= {
+	add_prestige = 77
+	add_treasury = 62
+}

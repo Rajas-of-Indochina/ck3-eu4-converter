@@ -1,0 +1,53 @@
+government = tribal
+add_government_reform = tribal_kingdom
+government_rank = 1
+technology_group = western
+religion = converted_kaharingan
+capital = 638
+fixed_capital = 638
+910.1.30= {
+	monarch = {
+		name = "Long"
+		dynasty = "Tabang"
+		adm = 4
+		dip = 3
+		mil = 3
+		birth_date = 876.4.1
+		female = yes
+		religion = converted_kaharingan
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Wuryyawiryya"
+		dynasty = "Seputih"
+		adm = 4
+		dip = 5
+		mil = 5
+		country_of_origin = Y66
+		birth_date = 870.9.28
+		death_date = 930.9.28
+		religion = converted_kaharingan
+	}
+	add_queen_personality = well_connected_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Sulin"
+		monarch_name = "Sulin"
+		dynasty = "Tabang"
+		adm = 3
+		dip = 4
+		mil = 4
+		birth_date = 900.5.22
+		death_date = 965.5.22
+		female = yes
+		claim = 89
+		religion = converted_kaharingan
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+910.1.30= {
+	add_prestige = 53
+	add_treasury = 0
+}

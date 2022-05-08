@@ -1,0 +1,12 @@
+government = monarchy
+add_government_reform = iqta
+government_rank = 1
+technology_group = muslim
+religion = kharijite
+primary_culture = moroccan
+capital = 345
+fixed_capital = 345
+867.1.1= {
+	add_prestige = 47
+	add_treasury = 41
+}

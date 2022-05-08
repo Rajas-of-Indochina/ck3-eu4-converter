@@ -1,0 +1,34 @@
+converted_kambuja_devaraja = {
+	converted_kambuja_devaraja = {
+		color = { 242 245 66 }
+		icon =  177
+		country = {
+ 
+		state_maintenance_modifier = -0.25
+	
+
+		global_unrest = -1
+	
+
+		yearly_absolutism = 0.5
+	
+
+		heir_chance = 1
+	
+}
+		country_as_secondary = {
+ 
+		state_maintenance_modifier = -0.25
+	
+
+		global_unrest = -1
+	
+}
+		province = {
+ 
+		local_missionary_strength = 0.01
+	
+}
+	}
+}
+

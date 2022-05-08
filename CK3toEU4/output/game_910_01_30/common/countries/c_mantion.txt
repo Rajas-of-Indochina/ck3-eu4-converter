@@ -1,0 +1,14 @@
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 252 76 13 }
+monarch_names = {
+	"Akali #0" = 0
+	"Bapak #0" = 0
+	"Ewago #0" = 0
+	"Lakeame #0" = -1
+	"Popaya #0" = 0
+	"Ribeka #0" = -1
+	"Rukas #0" = 0
+	"Teweraot #0" = -1
+	"Yanti #0" = -1
+}

@@ -1,0 +1,15 @@
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 128 237 80 }
+monarch_names = {
+	"Arai #0" = -1
+	"Balawa #0" = 0
+	"Binti #0" = 0
+	"Djata #0" = 0
+	"Hante #0" = -1
+	"Keling #0" = 0
+	"Long #0" = -1
+	"Puynag #0" = -1
+	"Sanja #0" = -1
+	"Ullok #0" = 0
+}

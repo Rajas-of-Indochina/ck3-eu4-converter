@@ -1,0 +1,41 @@
+government = tribal
+add_government_reform = tribal_kingdom
+government_rank = 1
+technology_group = eastern
+religion = mahayana
+primary_culture = nivkh
+capital = 1050
+fixed_capital = 1050
+910.1.30= {
+	monarch = {
+		name = "Yilie"
+		dynasty = "Nurgan"
+		adm = 5
+		dip = 2
+		mil = 3
+		birth_date = 868.4.13
+		religion = mahayana
+		culture = nivkh
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	heir = {
+		name = "Yilie"
+		monarch_name = "Yilie II"
+		dynasty = "Nurgan"
+		adm = 5
+		dip = 4
+		mil = 4
+		birth_date = 889.8.2
+		death_date = 954.8.2
+		claim = 89
+		religion = mahayana
+		culture = nivkh
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+910.1.30= {
+	add_prestige = 58
+	add_treasury = 48
+}

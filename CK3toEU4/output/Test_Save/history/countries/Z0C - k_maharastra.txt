@@ -1,0 +1,11 @@
+government = monarchy
+add_government_reform = nayankara_reform
+government_rank = 2
+technology_group = indian
+religion = jain
+primary_culture = kannada
+capital = 530
+867.1.1= {
+	add_prestige = 47
+	add_treasury = 48
+}

@@ -1,0 +1,53 @@
+government = tribal
+add_government_reform = tribal_kingdom
+government_rank = 1
+technology_group = western
+religion = converted_celebic
+capital = 635
+fixed_capital = 635
+867.1.1= {
+	monarch = {
+		name = "Komalo"
+		dynasty = "Amfo'an"
+		adm = 2
+		dip = 4
+		mil = 3
+		birth_date = 834.4.5
+		religion = converted_celebic
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Lullu"
+		dynasty = "Karat"
+		adm = 5
+		dip = 3
+		mil = 3
+		country_of_origin = Z3Y
+		birth_date = 835.1.1
+		death_date = 895.1.1
+		female = yes
+		religion = converted_celebic
+	}
+	add_queen_personality = well_connected_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Cinta"
+		monarch_name = "Cinta"
+		dynasty = "Orsini"
+		adm = 6
+		dip = 5
+		mil = 2
+		birth_date = 846.8.18
+		death_date = 911.8.18
+		female = yes
+		claim = 89
+		religion = converted_celebic
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+867.1.1= {
+	add_prestige = 47
+	add_treasury = 30
+}

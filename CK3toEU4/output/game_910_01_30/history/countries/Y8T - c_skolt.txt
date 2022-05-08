@@ -1,0 +1,56 @@
+government = tribal
+add_government_reform = tribal_kingdom
+government_rank = 1
+technology_group = eastern
+religion = finnish_pagan
+primary_culture = sapmi
+capital = 4151
+fixed_capital = 4151
+910.1.30= {
+	monarch = {
+		name = "Viggu"
+		dynasty = "Skolti"
+		adm = 0
+		dip = 2
+		mil = 1
+		birth_date = 850.4.12
+		religion = finnish_pagan
+		culture = sapmi
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Juoksáhkká"
+		dynasty = "Ubmeje"
+		adm = 6
+		dip = 3
+		mil = 5
+		country_of_origin = Y8T
+		birth_date = 892.3.13
+		death_date = 952.3.13
+		female = yes
+		religion = finnish_pagan
+		culture = sapmi
+	}
+	add_queen_personality = well_connected_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Áigesárri"
+		monarch_name = "Áigesárri"
+		dynasty = "Skolti"
+		adm = 5
+		dip = 4
+		mil = 4
+		birth_date = 878.12.19
+		death_date = 943.12.19
+		claim = 89
+		religion = finnish_pagan
+		culture = sapmi
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+910.1.30= {
+	add_prestige = 69
+	add_treasury = 44
+}

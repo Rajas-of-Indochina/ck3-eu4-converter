@@ -1,0 +1,13 @@
+government = monarchy
+add_government_reform = english_monarchy
+government_rank = 2
+technology_group = western
+religion = catholic
+primary_culture = cosmopolitan_french
+capital = 96
+add_accepted_culture = dutch
+add_accepted_culture = frisian
+910.1.30= {
+	add_prestige = 77
+	add_treasury = 62
+}

@@ -1,0 +1,53 @@
+government = tribal
+add_government_reform = tribal_kingdom
+government_rank = 1
+technology_group = western
+religion = converted_ban_phi
+capital = 616
+fixed_capital = 616
+867.1.1= {
+	monarch = {
+		name = "Kwanchai"
+		dynasty = "Bhokhasathit"
+		adm = 4
+		dip = 5
+		mil = 2
+		birth_date = 827.1.1
+		religion = converted_ban_phi
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Wong Kaew"
+		dynasty = "Jotikasthira"
+		adm = 2
+		dip = 2
+		mil = 3
+		country_of_origin = W68
+		birth_date = 827.1.1
+		death_date = 887.1.1
+		female = yes
+		religion = converted_ban_phi
+	}
+	add_queen_personality = well_connected_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Kham Kaew"
+		monarch_name = "Kham Kaew"
+		dynasty = "Orsini"
+		adm = 5
+		dip = 1
+		mil = 6
+		birth_date = 846.8.13
+		death_date = 911.8.13
+		female = yes
+		claim = 89
+		religion = converted_ban_phi
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+867.1.1= {
+	add_prestige = 47
+	add_treasury = 34
+}

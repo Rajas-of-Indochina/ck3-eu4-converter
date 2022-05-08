@@ -1,0 +1,19 @@
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 160 110 60 }
+monarch_names = {
+	"Govindachandra #0" = 0
+	"Harasimhadeva #0" = 0
+	"Jayaditya #1" = 10
+	"Kailaspala #0" = 0
+	"Kanchuka #0" = -1
+	"Karnpal #0" = 0
+	"Lakshman #0" = -1
+	"Mahipala #0" = 0
+	"Nayanadevi #0" = -1
+	"Pratapnarayanroy #0" = 0
+	"Puppadevi #0" = -1
+	"Surajpal #0" = 0
+	"Vijaysingha #0" = 0
+	"Viramdeva #0" = 0
+}

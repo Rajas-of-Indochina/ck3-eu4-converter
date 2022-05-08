@@ -1,0 +1,53 @@
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+technology_group = western
+religion = catholic
+primary_culture = cornish
+capital = 4373
+910.1.30= {
+	monarch = {
+		name = "Ricat"
+		adm = 5
+		dip = 3
+		mil = 4
+		birth_date = 866.1.1
+		religion = catholic
+		culture = cornish
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Þurid"
+		dynasty = "af Gautaland"
+		adm = 3
+		dip = 0
+		mil = 2
+		country_of_origin = CRN
+		birth_date = 849.1.1
+		death_date = 909.1.1
+		female = yes
+		religion = catholic
+		culture = norse
+	}
+	add_queen_personality = well_connected_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Dumnarth"
+		monarch_name = "Dumnarth III"
+		adm = 6
+		dip = 3
+		mil = 6
+		birth_date = 883.7.11
+		death_date = 948.7.11
+		claim = 89
+		religion = catholic
+		culture = cornish
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+910.1.30= {
+	add_prestige = 56
+	add_treasury = 55
+}

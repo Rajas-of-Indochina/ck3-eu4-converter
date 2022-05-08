@@ -1,0 +1,12 @@
+government = monarchy
+add_government_reform = iqta
+government_rank = 1
+technology_group = muslim
+religion = sunni
+primary_culture = bedouin_arabic
+capital = 2209
+religious_school = hanbali_school
+867.1.1= {
+	add_prestige = 47
+	add_treasury = 43
+}

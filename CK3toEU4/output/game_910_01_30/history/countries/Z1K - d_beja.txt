@@ -1,0 +1,57 @@
+government = monarchy
+add_government_reform = iqta
+government_rank = 1
+technology_group = muslim
+religion = sunni
+primary_culture = andalucian
+capital = 227
+religious_school = maliki_school
+add_accepted_culture = galician
+910.1.30= {
+	monarch = {
+		name = "Mahmud"
+		dynasty = "Aslamid"
+		adm = 4
+		dip = 4
+		mil = 5
+		birth_date = 867.10.29
+		religion = sunni
+		culture = andalucian
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Baria"
+		dynasty = "al-Harrani"
+		adm = 3
+		dip = 0
+		mil = 2
+		country_of_origin = Z1K
+		birth_date = 859.11.22
+		death_date = 919.11.22
+		female = yes
+		religion = sunni
+		culture = berber
+	}
+	add_queen_personality = well_connected_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Ya'qub"
+		monarch_name = "Ya'qub"
+		dynasty = "Aslamid"
+		adm = 3
+		dip = 4
+		mil = 3
+		birth_date = 898.11.20
+		death_date = 963.11.20
+		claim = 89
+		religion = sunni
+		culture = bedouin_arabic
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+910.1.30= {
+	add_prestige = 52
+	add_treasury = 44
+}

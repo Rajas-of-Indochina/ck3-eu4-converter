@@ -1,0 +1,53 @@
+government = tribal
+add_government_reform = tribal_kingdom
+government_rank = 1
+technology_group = western
+religion = norse_pagan
+primary_culture = norse
+capital = 4118
+910.1.30= {
+	monarch = {
+		name = "Bersi"
+		adm = 3
+		dip = 4
+		mil = 2
+		birth_date = 873.8.28
+		religion = norse_pagan
+		culture = norse
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Crístina"
+		dynasty = "ua Meiscill"
+		adm = 4
+		dip = 1
+		mil = 4
+		country_of_origin = MCM
+		birth_date = 873.5.31
+		death_date = 933.5.31
+		female = yes
+		religion = catholic
+		culture = irish
+	}
+	add_queen_personality = well_connected_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Buðli"
+		monarch_name = "Buðli"
+		adm = 3
+		dip = 3
+		mil = 3
+		birth_date = 898.7.26
+		death_date = 963.7.26
+		claim = 89
+		religion = norse_pagan
+		culture = norse
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+910.1.30= {
+	add_prestige = 67
+	add_treasury = 51
+}

@@ -1,0 +1,15 @@
+ck2_converter_generated = yes
+graphical_culture = inuitgfx
+color = { 69 165 117 }
+monarch_names = {
+	"Bei #0" = 0
+	"Deguang #0" = 0
+	"Hongji #0" = 0
+	"Hougu #0" = 0
+	"Ketuyu #0" = 0
+	"Wolila #0" = 0
+	"Wuge #0" = 0
+	"Xiao #0" = -1
+	"Xingge #0" = -1
+	"Yanxi #0" = 0
+}

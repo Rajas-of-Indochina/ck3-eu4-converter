@@ -1,0 +1,53 @@
+government = tribal
+add_government_reform = tribal_kingdom
+government_rank = 1
+technology_group = western
+religion = converted_alukta
+capital = 2715
+fixed_capital = 2715
+867.1.1= {
+	monarch = {
+		name = "Gowa"
+		dynasty = "Biagel"
+		adm = 5
+		dip = 3
+		mil = 3
+		birth_date = 836.1.27
+		religion = converted_alukta
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Tevai"
+		dynasty = "Gerey"
+		adm = 1
+		dip = 3
+		mil = 3
+		country_of_origin = W2L
+		birth_date = 837.1.1
+		death_date = 897.1.1
+		female = yes
+		religion = converted_alukta
+	}
+	add_queen_personality = well_connected_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Taurua"
+		monarch_name = "Taurua"
+		dynasty = "Orsini"
+		adm = 6
+		dip = 6
+		mil = 6
+		birth_date = 848.12.26
+		death_date = 913.12.26
+		female = yes
+		claim = 89
+		religion = converted_alukta
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+867.1.1= {
+	add_prestige = 47
+	add_treasury = 33
+}

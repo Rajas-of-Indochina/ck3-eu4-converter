@@ -1,0 +1,56 @@
+government = tribal
+add_government_reform = steppe_horde
+government_rank = 1
+technology_group = eastern
+religion = siberian_pagan
+primary_culture = uralic
+capital = 1963
+867.1.1= {
+	monarch = {
+		name = "Onika"
+		dynasty = "of Kerken"
+		adm = 0
+		dip = 3
+		mil = 0
+		birth_date = 840.1.2
+		religion = siberian_pagan
+		culture = uralic
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Toyaksha"
+		dynasty = "Lunegid"
+		adm = 2
+		dip = 1
+		mil = 4
+		country_of_origin = Z35
+		birth_date = 841.1.1
+		death_date = 901.1.1
+		female = yes
+		religion = siberian_pagan
+		culture = uralic
+	}
+	add_queen_personality = well_connected_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Anava"
+		monarch_name = "Anava"
+		dynasty = "Lysvvel"
+		adm = 5
+		dip = 2
+		mil = 4
+		birth_date = 850.1.2
+		death_date = 915.1.2
+		female = yes
+		claim = 89
+		religion = siberian_pagan
+		culture = uralic
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+867.1.1= {
+	add_prestige = 47
+	add_treasury = 32
+}

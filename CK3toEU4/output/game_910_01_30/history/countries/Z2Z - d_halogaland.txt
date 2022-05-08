@@ -1,0 +1,56 @@
+government = tribal
+add_government_reform = tribal_kingdom
+government_rank = 1
+technology_group = western
+religion = norse_pagan
+primary_culture = norwegian
+capital = 294
+add_accepted_culture = uralic
+910.1.30= {
+	monarch = {
+		name = "Härek"
+		dynasty = "af Torgar"
+		adm = 0
+		dip = 1
+		mil = 2
+		birth_date = 851.1.1
+		religion = norse_pagan
+		culture = norwegian
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Rögnfríðr"
+		dynasty = "Hæsteining"
+		adm = 2
+		dip = 3
+		mil = 3
+		country_of_origin = Z2Z
+		birth_date = 868.4.11
+		death_date = 928.4.11
+		female = yes
+		religion = norse_pagan
+		culture = dynamic-highland_scottish-norse-culture-num1
+	}
+	add_queen_personality = well_connected_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Björgolf"
+		monarch_name = "Björgolf"
+		dynasty = "af Torgar"
+		adm = 2
+		dip = 4
+		mil = 5
+		birth_date = 878.1.27
+		death_date = 943.1.27
+		claim = 89
+		religion = norse_pagan
+		culture = norse
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+910.1.30= {
+	add_prestige = 64
+	add_treasury = 61
+}

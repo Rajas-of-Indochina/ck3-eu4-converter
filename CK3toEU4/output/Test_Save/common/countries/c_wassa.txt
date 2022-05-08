@@ -1,0 +1,15 @@
+ck2_converter_generated = yes
+graphical_culture = africangfx
+color = { 195 45 15 }
+monarch_names = {
+	"Abena #0" = -1
+	"Abina #0" = -1
+	"Brempong #0" = 0
+	"Komlan #0" = 0
+	"Kwandoh #1" = 10
+	"Kwodwo #0" = 0
+	"Maanu #0" = -1
+	"Minkah #0" = 0
+	"Nsia #0" = 0
+	"Yaba #0" = 0
+}

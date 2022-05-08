@@ -1,0 +1,56 @@
+government = tribal
+add_government_reform = tribal_kingdom
+government_rank = 1
+technology_group = western
+religion = slavic_pagan
+primary_culture = sorbian
+capital = 4748
+867.1.1= {
+	monarch = {
+		name = "Mscislav"
+		dynasty = "Hevelli"
+		adm = 2
+		dip = 4
+		mil = 2
+		birth_date = 848.1.1
+		religion = slavic_pagan
+		culture = sorbian
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Milena"
+		dynasty = "Swieca"
+		adm = 3
+		dip = 2
+		mil = 1
+		country_of_origin = BRA
+		birth_date = 848.1.1
+		death_date = 908.1.1
+		female = yes
+		religion = slavic_pagan
+		culture = sorbian
+	}
+	add_queen_personality = well_connected_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Dobrava"
+		monarch_name = "Dobrava"
+		dynasty = "Orsini"
+		adm = 4
+		dip = 3
+		mil = 5
+		birth_date = 834.7.14
+		death_date = 899.7.14
+		female = yes
+		claim = 89
+		religion = slavic_pagan
+		culture = sorbian
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+867.1.1= {
+	add_prestige = 47
+	add_treasury = 35
+}

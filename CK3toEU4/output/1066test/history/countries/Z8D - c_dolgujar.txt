@@ -1,0 +1,56 @@
+government = tribal
+add_government_reform = siberian_tribe
+government_rank = 1
+technology_group = eastern
+religion = siberian_pagan
+primary_culture = ostyaki
+capital = 4690
+fixed_capital = 4690
+1068.6.5= {
+	monarch = {
+		name = "Oshama"
+		dynasty = "Ishimir"
+		adm = 3
+		dip = 4
+		mil = 3
+		birth_date = 1018.3.22
+		religion = siberian_pagan
+		culture = ostyaki
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Uchva"
+		dynasty = "Orsini"
+		adm = 3
+		dip = 2
+		mil = 1
+		country_of_origin = Z8D
+		birth_date = 1021.12.15
+		death_date = 1081.12.15
+		female = yes
+		religion = siberian_pagan
+		culture = ostyaki
+	}
+	add_queen_personality = well_connected_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Turush"
+		monarch_name = "Turush"
+		dynasty = "Ishimir"
+		adm = 1
+		dip = 5
+		mil = 4
+		birth_date = 1045.10.9
+		death_date = 1110.10.9
+		claim = 89
+		religion = siberian_pagan
+		culture = ostyaki
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+1068.6.5= {
+	add_prestige = 51
+	add_treasury = 49
+}

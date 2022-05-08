@@ -1,0 +1,38 @@
+government = tribal
+add_government_reform = tribal_kingdom
+government_rank = 1
+technology_group = western
+religion = converted_malyari
+capital = 656
+fixed_capital = 656
+910.1.30= {
+	monarch = {
+		name = "Padaw"
+		dynasty = "Balayan"
+		adm = 4
+		dip = 3
+		mil = 3
+		birth_date = 880.7.2
+		religion = converted_malyari
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	heir = {
+		name = "Pantuk"
+		monarch_name = "Pantuk"
+		dynasty = "Balayan"
+		adm = 6
+		dip = 3
+		mil = 5
+		birth_date = 888.2.4
+		death_date = 953.2.4
+		claim = 89
+		religion = converted_malyari
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+910.1.30= {
+	add_prestige = 60
+	add_treasury = 55
+}

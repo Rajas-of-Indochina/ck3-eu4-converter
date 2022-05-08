@@ -1,0 +1,56 @@
+government = tribal
+add_government_reform = tribal_kingdom
+government_rank = 1
+technology_group = western
+religion = converted_batak_animism
+primary_culture = acehnese
+capital = 4810
+add_accepted_culture = sumatran
+867.1.1= {
+	monarch = {
+		name = "Narama"
+		dynasty = "Damanik"
+		adm = 6
+		dip = 3
+		mil = 6
+		birth_date = 849.1.1
+		religion = converted_batak_animism
+		culture = acehnese
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Kunti"
+		dynasty = "Muar"
+		adm = 2
+		dip = 4
+		mil = 1
+		country_of_origin = Z1Z
+		birth_date = 849.1.1
+		death_date = 909.1.1
+		female = yes
+		religion = converted_batak_animism
+		culture = acehnese
+	}
+	add_queen_personality = well_connected_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Palar"
+		monarch_name = "Palar"
+		dynasty = "Benteng Putri Hijau"
+		adm = 0
+		dip = 6
+		mil = 3
+		birth_date = 834.6.16
+		death_date = 899.6.16
+		claim = 89
+		religion = converted_batak_animism
+		culture = acehnese
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+867.1.1= {
+	add_prestige = 47
+	add_treasury = 33
+}

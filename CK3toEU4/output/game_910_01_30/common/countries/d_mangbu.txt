@@ -1,0 +1,16 @@
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 123 23 43 }
+monarch_names = {
+	"Bbu Xi #0" = 0
+	"Jo Ddur #0" = 0
+	"Ke Njy #0" = -1
+	"La Huo #1" = 10
+	"Longji #0" = 0
+	"Qu Vie #0" = -1
+	"Shu Huo #1" = 10
+	"Shy Da #0" = -1
+	"Va Hxe #0" = -1
+	"Wo Mo #0" = -1
+	"Yo Si #0" = 0
+}

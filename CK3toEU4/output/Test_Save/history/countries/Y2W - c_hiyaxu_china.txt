@@ -1,0 +1,41 @@
+government = tribal
+add_government_reform = steppe_horde
+government_rank = 1
+technology_group = nomad_group
+religion = tengri_pagan
+primary_culture = kirgiz
+capital = 1065
+fixed_capital = 1065
+867.1.1= {
+	monarch = {
+		name = "Uzur"
+		dynasty = "Enisey Kyrgyz"
+		adm = 2
+		dip = 1
+		mil = 2
+		birth_date = 808.4.3
+		religion = tengri_pagan
+		culture = kirgiz
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	heir = {
+		name = "Ituk"
+		monarch_name = "Ituk"
+		dynasty = "Enisey Kyrgyz"
+		adm = 6
+		dip = 6
+		mil = 6
+		birth_date = 833.6.17
+		death_date = 898.6.17
+		claim = 89
+		religion = tengri_pagan
+		culture = kirgiz
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+867.1.1= {
+	add_prestige = 47
+	add_treasury = 42
+}

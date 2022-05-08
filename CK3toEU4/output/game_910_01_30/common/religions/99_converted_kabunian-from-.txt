@@ -1,0 +1,43 @@
+converted_kabunian = {
+	converted_kabunian = {
+		color = { 51 32 110 }
+		icon =  206
+		country = {
+ 
+		leader_land_shock = 1
+		leader_naval_shock = 1
+	
+
+		build_cost = 0.1
+		war_exhaustion = -0.1
+	
+
+		heir_chance = 1
+	
+
+		tolerance_heathen = 1
+		tolerance_heretic = 1
+	
+}
+		country_as_secondary = {
+ 
+		leader_land_shock = 1
+	
+
+		war_exhaustion = -0.1
+	
+}
+		province = {
+ 
+		local_manpower_modifier = 0.1
+	
+
+		local_missionary_strength = 0.01
+	
+
+		local_missionary_strength = 0.02
+	
+}
+	}
+}
+

@@ -1,0 +1,56 @@
+government = tribal
+add_government_reform = tribal_kingdom
+government_rank = 1
+technology_group = sub_saharan
+religion = shamanism
+primary_culture = hausa
+capital = 2279
+fixed_capital = 2279
+867.1.1= {
+	monarch = {
+		name = "Daurama"
+		dynasty = "Daura"
+		adm = 6
+		dip = 6
+		mil = 6
+		birth_date = 842.1.1
+		female = yes
+		religion = shamanism
+		culture = hausa
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Bayajidda"
+		dynasty = "Durbawa"
+		adm = 5
+		dip = 6
+		mil = 6
+		country_of_origin = Z9I
+		birth_date = 834.1.1
+		death_date = 894.1.1
+		religion = shamanism
+		culture = al_suryah_arabic
+	}
+	add_queen_personality = well_connected_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Bawo"
+		monarch_name = "Bawo"
+		dynasty = "Durbawa"
+		adm = 0
+		dip = 0
+		mil = 0
+		birth_date = 867.1.1
+		death_date = 932.1.1
+		claim = 89
+		religion = shamanism
+		culture = hausa
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+867.1.1= {
+	add_prestige = 47
+	add_treasury = 34
+}

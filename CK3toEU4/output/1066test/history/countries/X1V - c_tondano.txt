@@ -1,0 +1,53 @@
+government = tribal
+add_government_reform = tribal_kingdom
+government_rank = 1
+technology_group = western
+religion = converted_malesung
+capital = 644
+fixed_capital = 644
+1068.6.5= {
+	monarch = {
+		name = "Atang"
+		dynasty = "Domagas"
+		adm = 4
+		dip = 2
+		mil = 1
+		birth_date = 1045.6.12
+		religion = converted_malesung
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Alangkasalat"
+		dynasty = "Yacapin"
+		adm = 3
+		dip = 2
+		mil = 0
+		country_of_origin = X1V
+		birth_date = 1045.5.18
+		death_date = 1105.5.18
+		female = yes
+		religion = converted_malesung
+	}
+	add_queen_personality = well_connected_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Sinakumanglugod"
+		monarch_name = "Sinakumanglugod"
+		dynasty = "Domagas"
+		adm = 1
+		dip = 1
+		mil = 2
+		birth_date = 1062.4.24
+		death_date = 1127.4.24
+		female = yes
+		claim = 89
+		religion = converted_malesung
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+1068.6.5= {
+	add_prestige = 50
+	add_treasury = 40
+}

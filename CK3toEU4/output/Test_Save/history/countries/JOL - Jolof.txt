@@ -1,0 +1,57 @@
+government = tribal
+add_government_reform = tribal_kingdom
+government_rank = 1
+technology_group = sub_saharan
+religion = shamanism
+primary_culture = senegambian
+capital = 1116
+fixed_capital = 1116
+867.1.1= {
+	monarch = {
+		name = "Ndyay"
+		dynasty = "Jolof"
+		adm = 5
+		dip = 3
+		mil = 5
+		birth_date = 846.1.1
+		religion = shamanism
+		culture = senegambian
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Ndoye"
+		dynasty = "Silla"
+		adm = 4
+		dip = 2
+		mil = 5
+		country_of_origin = JOL
+		birth_date = 846.1.1
+		death_date = 906.1.1
+		female = yes
+		religion = shamanism
+		culture = senegambian
+	}
+	add_queen_personality = well_connected_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Maram"
+		monarch_name = "Maram"
+		dynasty = "Orsini"
+		adm = 6
+		dip = 3
+		mil = 4
+		birth_date = 848.3.12
+		death_date = 913.3.12
+		female = yes
+		claim = 89
+		religion = shamanism
+		culture = senegambian
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+867.1.1= {
+	add_prestige = 47
+	add_treasury = 36
+}

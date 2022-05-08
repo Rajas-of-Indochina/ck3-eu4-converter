@@ -1,0 +1,16 @@
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 204 90 37 }
+monarch_names = {
+	"Anak Moneang Krachap #0" = -1
+	"Chhean #0" = -1
+	"Chivy #0" = -1
+	"Kosal #0" = 0
+	"Outey Reachea #0" = 0
+	"Ponleu #0" = 0
+	"Prak #0" = 0
+	"Pros #0" = 0
+	"Sovannaroth #0" = -1
+	"Srey #0" = -1
+	"Vireak #0" = 0
+}

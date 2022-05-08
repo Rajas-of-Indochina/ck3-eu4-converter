@@ -1,0 +1,23 @@
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 119 138 11 }
+monarch_names = {
+	"Abo #1" = 10
+	"Bapu #1" = 10
+	"Chimi #1" = 10
+	"Chukpo #0" = -1
+	"Jimi #1" = 10
+	"Khelma #0" = -1
+	"Lham #0" = -1
+	"Nim #0" = 0
+	"Pelri #1" = 10
+	"Rukbo #0" = 0
+	"Sanje #1" = 10
+	"Sedi #1" = 10
+	"Talom #1" = 10
+	"Thinley #1" = 10
+	"Tsechup #1" = 10
+	"Tsewang #0" = -1
+	"Tshomo #0" = -1
+	"Ugyen #0" = -1
+}

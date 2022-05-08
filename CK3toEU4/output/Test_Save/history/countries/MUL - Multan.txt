@@ -1,0 +1,56 @@
+government = monarchy
+add_government_reform = iqta
+government_rank = 1
+technology_group = indian
+religion = sunni
+primary_culture = panjabi
+capital = 506
+religious_school = hanbali_school
+867.1.1= {
+	monarch = {
+		name = "Muhammad"
+		dynasty = "Banu Sama"
+		adm = 2
+		dip = 0
+		mil = 1
+		birth_date = 837.1.1
+		religion = sunni
+		culture = panjabi
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Sabhirai"
+		dynasty = "Cheema"
+		adm = 1
+		dip = 3
+		mil = 3
+		country_of_origin = MUL
+		birth_date = 837.1.1
+		death_date = 897.1.1
+		female = yes
+		religion = sunni
+		culture = panjabi
+	}
+	add_queen_personality = well_connected_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Mahmud"
+		monarch_name = "Mahmud"
+		dynasty = "Bhambhani"
+		adm = 5
+		dip = 4
+		mil = 5
+		birth_date = 833.1.1
+		death_date = 898.1.1
+		claim = 89
+		religion = sunni
+		culture = sindhi
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+867.1.1= {
+	add_prestige = 47
+	add_treasury = 41
+}

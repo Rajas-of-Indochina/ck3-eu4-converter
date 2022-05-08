@@ -1,0 +1,26 @@
+government = tribal
+add_government_reform = tribal_kingdom
+government_rank = 1
+technology_group = western
+religion = catholic
+primary_culture = pictish
+capital = 250
+fixed_capital = 250
+910.1.30= {
+	monarch = {
+		name = "Briog"
+		dynasty = "Bili"
+		adm = 2
+		dip = 5
+		mil = 5
+		birth_date = 868.4.8
+		religion = catholic
+		culture = pictish
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+}
+910.1.30= {
+	add_prestige = 47
+	add_treasury = 0
+}

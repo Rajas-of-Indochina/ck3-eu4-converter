@@ -1,0 +1,19 @@
+ck2_converter_generated = yes
+graphical_culture = africangfx
+color = { 233 107 3 }
+monarch_names = {
+	"Barakissa #0" = -1
+	"Bawo #0" = 0
+	"Dala #3" = 10
+	"Garin #1" = 10
+	"Garin Gabas #1" = 10
+	"Karbo #1" = 10
+	"Kinkin #0" = 0
+	"Kolonkan #0" = -1
+	"Maÿroumfa #0" = 0
+	"Sogolon #0" = -1
+	"Soundiata #0" = 0
+	"Tib #0" = 0
+	"Tunka #0" = 0
+	"Youma #0" = -1
+}

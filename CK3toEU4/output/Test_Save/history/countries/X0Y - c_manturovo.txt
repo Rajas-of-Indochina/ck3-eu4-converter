@@ -1,0 +1,41 @@
+government = tribal
+add_government_reform = steppe_horde
+government_rank = 1
+technology_group = eastern
+religion = finnish_pagan
+primary_culture = uralic
+capital = 1957
+fixed_capital = 1957
+867.1.1= {
+	monarch = {
+		name = "Ovtay"
+		dynasty = "Roavve"
+		adm = 1
+		dip = 4
+		mil = 1
+		birth_date = 832.7.23
+		religion = finnish_pagan
+		culture = uralic
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	heir = {
+		name = "Obran"
+		monarch_name = "Obran"
+		dynasty = "Roavve"
+		adm = 4
+		dip = 2
+		mil = 1
+		birth_date = 857.11.15
+		death_date = 922.11.15
+		claim = 89
+		religion = finnish_pagan
+		culture = uralic
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+867.1.1= {
+	add_prestige = 47
+	add_treasury = 31
+}

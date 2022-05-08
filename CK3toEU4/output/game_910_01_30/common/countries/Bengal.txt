@@ -1,0 +1,126 @@
+ck2_converter_generated = yes
+graphical_culture = indiangfx
+color = { 36 109 194 }
+revolutionary_colors = { 9 5 9 }
+historical_idea_groups = {
+	trade_ideas
+	maritime_ideas
+	humanist_ideas
+	quantity_ideas
+	economic_ideas
+	defensive_ideas
+	diplomatic_ideas
+	quality_ideas
+}
+historical_units = {
+	bhonsle_cavalry
+	indian_arquebusier
+	indian_elephant
+	indian_footsoldier
+	indian_rifle
+	mughal_mansabdar
+	mughal_musketeer
+	rajput_hill_fighters
+	rajput_musketeer
+	sikh_hit_and_run
+	tipu_sultan_rocket
+}
+monarch_names = {
+	"Amritakala #0" = -1
+	"Asima #0" = -1
+	"Bhimsingha #0" = 0
+	"Bibibai #0" = -1
+	"Birnayaran #0" = 0
+	"Chilarai #0" = 0
+	"Dattadevi #0" = -1
+	"Devabhuti #0" = 0
+	"Devapala #1" = 10
+	"Dharmapala #1" = 10
+	"Durlabha #0" = -1
+	"Gopala #1" = 10
+	"Govindapal #0" = 0
+	"Hastivarman #0" = 0
+	"Kanchani #0" = -1
+	"Khadgodyama #0" = 0
+	"Kumudnarayan #0" = 0
+	"Lakshminarayan #0" = 0
+	"Laxminath Singh Dev #0" = 0
+	"Leik Munhtaw #0" = 0
+	"Mahendrapala #1" = 10
+	"Moea #0" = -1
+	"Narayanapala #1" = 10
+	"Rajyapala #1" = 10
+	"Syamadevi #0" = -1
+	"Thidar #0" = -1
+	"Udirnakhadga #0" = 0
+	"Vallal Sen #0" = 0
+	"Vasumitra #0" = 0
+	"Vigrahapala #1" = 10
+	"Yajnavati #0" = -1
+}
+leader_names = {
+	"Azad"
+	"Bose"
+	"Chodhury"
+	"Das"
+	"Debshikdar"
+	"Ganesha"
+	"Ganguly"
+	"Ghosh"
+	"Karani"
+	"Khan"
+	"Majumdar"
+	"Mukerjhee"
+	"Pal"
+	"Roy"
+	"Saraswoti"
+	"Sarkar"
+	"Sen"
+	"Shahi"
+	"Shaikh"
+	"Suri"
+	"Thakur"
+	"Waddedar"
+	"Zamindar"
+	"ad-Daula"
+}
+ship_names = {
+	"Abu Bakr"
+	"Ali Khan"
+	"Bhagirathi"
+	"Brahmaputra"
+	"Chingri Mach"
+	"Chittagong"
+	"Durbar"
+	"Durdasha"
+	"Fatima"
+	"Ganga"
+	"Hilsa Mach"
+	"Hooghly"
+	"Ilish Mach"
+	"Jalangi"
+	"Jasmine"
+	"Kali Meghana"
+	"Kali Nauk"
+	"Kolkata"
+	"Lal Nauk"
+	"Machli"
+	"Malda"
+	"Meghna"
+	"Mongla"
+	"Murshidabad"
+	"Nauk-i-Islam"
+	"Nawaber Nauk"
+	"Nil Nauk"
+	"Nil Sagor"
+	"Osman"
+	"Padma"
+	"Rui Mach"
+	"Sagorer Bahini"
+	"Shaheed"
+	"Sheikher Nauk"
+	"Sonar Bangladesh"
+	"Sunderboner Bahini"
+	"Sunderboner Nauk"
+	"Tasleema"
+}

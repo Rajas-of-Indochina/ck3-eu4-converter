@@ -1,0 +1,56 @@
+government = tribal
+add_government_reform = tribal_federation
+government_rank = 1
+technology_group = muslim
+religion = ibadi
+primary_culture = berber
+capital = 4567
+fixed_capital = 4567
+867.1.1= {
+	monarch = {
+		name = "Al-Khattab"
+		dynasty = "Banu Khattab"
+		adm = 4
+		dip = 4
+		mil = 1
+		birth_date = 850.1.1
+		religion = ibadi
+		culture = berber
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Zaghwa"
+		dynasty = "Hamdanid"
+		adm = 3
+		dip = 2
+		mil = 3
+		country_of_origin = Y1N
+		birth_date = 850.1.1
+		death_date = 910.1.1
+		female = yes
+		religion = ibadi
+		culture = berber
+	}
+	add_queen_personality = well_connected_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Salomon"
+		monarch_name = "Salomon"
+		dynasty = "Orsini"
+		adm = 6
+		dip = 2
+		mil = 6
+		birth_date = 810.1.1
+		death_date = 875.1.1
+		claim = 89
+		religion = ibadi
+		culture = berber
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+867.1.1= {
+	add_prestige = 47
+	add_treasury = 38
+}

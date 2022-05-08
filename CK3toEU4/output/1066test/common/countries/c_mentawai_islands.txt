@@ -1,0 +1,21 @@
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 41 42 46 }
+monarch_names = {
+	"Arum #0" = -1
+	"Arya #0" = 0
+	"Dhaneswari #0" = -1
+	"Gayatri #0" = -1
+	"Godog #0" = 0
+	"Kalula #0" = 0
+	"Palar #0" = 0
+	"Panuluh #0" = 0
+	"Pertiwi #0" = -1
+	"Rara #0" = -1
+	"Sagulu #1" = 10
+	"Sampula #0" = -1
+	"Saroro #1" = 10
+	"Sobakencana #0" = -1
+	"Uma #0" = -1
+	"Wikrama #0" = 0
+}

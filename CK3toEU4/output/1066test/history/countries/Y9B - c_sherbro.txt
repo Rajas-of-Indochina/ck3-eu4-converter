@@ -1,0 +1,41 @@
+government = tribal
+add_government_reform = tribal_kingdom
+government_rank = 1
+technology_group = sub_saharan
+religion = shamanism
+primary_culture = senegambian
+capital = 2242
+fixed_capital = 2242
+1068.6.5= {
+	monarch = {
+		name = "Kaijaah"
+		dynasty = "Krim"
+		adm = 2
+		dip = 6
+		mil = 3
+		birth_date = 1038.1.1
+		religion = shamanism
+		culture = senegambian
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	heir = {
+		name = "Armah"
+		monarch_name = "Armah"
+		dynasty = "Krim"
+		adm = 2
+		dip = 0
+		mil = 1
+		birth_date = 1065.1.1
+		death_date = 1130.1.1
+		claim = 89
+		religion = shamanism
+		culture = senegambian
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+1068.6.5= {
+	add_prestige = 49
+	add_treasury = 36
+}

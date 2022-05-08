@@ -1,0 +1,52 @@
+government = tribal
+add_government_reform = tribal_kingdom
+government_rank = 1
+technology_group = western
+religion = converted_makassaric
+capital = 641
+fixed_capital = 641
+1068.6.5= {
+	monarch = {
+		name = "Parisi"
+		dynasty = "Bulukumba"
+		adm = 1
+		dip = 2
+		mil = 2
+		birth_date = 1035.3.18
+		religion = converted_makassaric
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Vaianu"
+		dynasty = "Gilang"
+		adm = 2
+		dip = 2
+		mil = 1
+		country_of_origin = Z6L
+		birth_date = 1035.5.22
+		death_date = 1095.5.22
+		female = yes
+		religion = converted_makassaric
+	}
+	add_queen_personality = well_connected_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Palonga"
+		monarch_name = "Palonga"
+		dynasty = "Bulukumba"
+		adm = 4
+		dip = 6
+		mil = 6
+		birth_date = 1052.4.10
+		death_date = 1117.4.10
+		claim = 89
+		religion = converted_makassaric
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+1068.6.5= {
+	add_prestige = 51
+	add_treasury = 41
+}

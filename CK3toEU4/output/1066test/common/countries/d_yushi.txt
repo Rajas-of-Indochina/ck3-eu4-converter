@@ -1,0 +1,19 @@
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 152 129 200 }
+monarch_names = {
+	"Choochai #0" = 0
+	"Jomo #1" = 10
+	"Lurnji #0" = 0
+	"Lurshymo #0" = -1
+	"Mulhe #1" = 10
+	"Nyipo #0" = 0
+	"Quji #0" = 0
+	"Shuqi #0" = 0
+	"Shuqimo #0" = -1
+	"Ssyda #0" = 0
+	"Ssyhxa #0" = 0
+	"Vada #0" = 0
+	"Vihxamo #0" = -1
+	"Waen #0" = 0
+}

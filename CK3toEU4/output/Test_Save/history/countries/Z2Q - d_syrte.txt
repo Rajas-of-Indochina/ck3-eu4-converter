@@ -1,0 +1,55 @@
+government = monarchy
+add_government_reform = iqta
+government_rank = 1
+technology_group = muslim
+religion = ibadi
+primary_culture = berber
+capital = 355
+867.1.1= {
+	monarch = {
+		name = "Al-Khayr"
+		dynasty = "al-Mazâtî"
+		adm = 3
+		dip = 5
+		mil = 3
+		birth_date = 847.1.1
+		religion = ibadi
+		culture = berber
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Mamma"
+		dynasty = "Sedkid"
+		adm = 0
+		dip = 3
+		mil = 3
+		country_of_origin = Z2Q
+		birth_date = 847.1.1
+		death_date = 907.1.1
+		female = yes
+		religion = ibadi
+		culture = berber
+	}
+	add_queen_personality = well_connected_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Badis"
+		monarch_name = "Badis"
+		dynasty = "Orsini"
+		adm = 5
+		dip = 2
+		mil = 5
+		birth_date = 843.7.9
+		death_date = 908.7.9
+		claim = 89
+		religion = ibadi
+		culture = berber
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+867.1.1= {
+	add_prestige = 47
+	add_treasury = 35
+}

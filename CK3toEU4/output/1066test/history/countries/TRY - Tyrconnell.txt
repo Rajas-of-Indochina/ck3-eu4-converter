@@ -1,0 +1,54 @@
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+technology_group = western
+religion = catholic
+primary_culture = irish
+capital = 4380
+fixed_capital = 4380
+1068.6.5= {
+	monarch = {
+		name = "Áed VI"
+		adm = 3
+		dip = 4
+		mil = 2
+		birth_date = 1030.1.2
+		religion = catholic
+		culture = irish
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Barrdub"
+		dynasty = "Orsini"
+		adm = 3
+		dip = 2
+		mil = 4
+		country_of_origin = TRY
+		birth_date = 1033.11.23
+		death_date = 1093.11.23
+		female = yes
+		religion = catholic
+		culture = irish
+	}
+	add_queen_personality = well_connected_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Magnus"
+		monarch_name = "Magnus"
+		adm = 4
+		dip = 4
+		mil = 4
+		birth_date = 1052.1.2
+		death_date = 1117.1.2
+		claim = 89
+		religion = catholic
+		culture = irish
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+1068.6.5= {
+	add_prestige = 51
+	add_treasury = 46
+}

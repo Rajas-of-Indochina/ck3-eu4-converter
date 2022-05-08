@@ -1,0 +1,36 @@
+government = tribal
+add_government_reform = tribal_kingdom
+government_rank = 1
+technology_group = western
+religion = norse_pagan
+primary_culture = norwegian
+capital = 20
+fixed_capital = 20
+867.1.1= {
+	monarch = {
+		name = "(Regency Council)"
+		adm = 4
+		dip = 5
+		mil = 2
+		birth_date = 1.1.1
+		regent = yes
+		religion = norse_pagan
+		culture = norwegian
+	}
+	heir = {
+		name = "Ulfr"
+		dynasty = "af Gauldalr"
+		adm = 6
+		dip = 6
+		mil = 4
+		birth_date = 853.1.1
+		death_date = 918.1.1
+		claim = 89
+		religion = norse_pagan
+		culture = norwegian
+	}
+}
+867.1.1= {
+	add_prestige = 47
+	add_treasury = 32
+}

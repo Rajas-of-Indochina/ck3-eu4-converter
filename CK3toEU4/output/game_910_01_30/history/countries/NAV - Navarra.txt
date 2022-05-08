@@ -1,0 +1,53 @@
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 2
+technology_group = western
+religion = catholic
+primary_culture = basque
+capital = 210
+910.1.30= {
+	monarch = {
+		name = "Fortun"
+		adm = 5
+		dip = 3
+		mil = 4
+		birth_date = 890.10.10
+		religion = catholic
+		culture = basque
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Matilda"
+		adm = 4
+		dip = 3
+		mil = 4
+		country_of_origin = NAV
+		birth_date = 887.11.22
+		death_date = 947.11.22
+		female = yes
+		religion = catholic
+		culture = basque
+	}
+	add_queen_personality = well_connected_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Munia"
+		monarch_name = "Munia"
+		adm = 3
+		dip = 2
+		mil = 3
+		birth_date = 903.3.9
+		death_date = 968.3.9
+		female = yes
+		claim = 89
+		religion = catholic
+		culture = basque
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+910.1.30= {
+	add_prestige = 65
+	add_treasury = 20
+}

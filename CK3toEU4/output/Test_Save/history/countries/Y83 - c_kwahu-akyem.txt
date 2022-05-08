@@ -1,0 +1,57 @@
+government = tribal
+add_government_reform = tribal_kingdom
+government_rank = 1
+technology_group = sub_saharan
+religion = shamanism
+primary_culture = aka
+capital = 1139
+fixed_capital = 1139
+867.1.1= {
+	monarch = {
+		name = "Esapo"
+		dynasty = "Kwahu"
+		adm = 3
+		dip = 5
+		mil = 2
+		birth_date = 843.1.1
+		religion = shamanism
+		culture = aka
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Mbodj"
+		dynasty = "Ahanta"
+		adm = 5
+		dip = 4
+		mil = 5
+		country_of_origin = Y83
+		birth_date = 843.1.1
+		death_date = 903.1.1
+		female = yes
+		religion = shamanism
+		culture = aka
+	}
+	add_queen_personality = well_connected_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Sall"
+		monarch_name = "Sall"
+		dynasty = "Orsini"
+		adm = 6
+		dip = 4
+		mil = 5
+		birth_date = 843.4.17
+		death_date = 908.4.17
+		female = yes
+		claim = 89
+		religion = shamanism
+		culture = aka
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+867.1.1= {
+	add_prestige = 47
+	add_treasury = 32
+}

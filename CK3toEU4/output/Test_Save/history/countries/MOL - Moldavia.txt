@@ -1,0 +1,55 @@
+government = tribal
+add_government_reform = tribal_kingdom
+government_rank = 1
+technology_group = eastern
+religion = slavic_pagan
+primary_culture = kishinyov
+capital = 4530
+867.1.1= {
+	monarch = {
+		name = "Mstislav"
+		dynasty = "Dniprich"
+		adm = 2
+		dip = 4
+		mil = 3
+		birth_date = 840.1.1
+		religion = slavic_pagan
+		culture = kishinyov
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Yelizaveta"
+		dynasty = "Nerevinich"
+		adm = 2
+		dip = 3
+		mil = 4
+		country_of_origin = MOL
+		birth_date = 840.1.1
+		death_date = 900.1.1
+		female = yes
+		religion = slavic_pagan
+		culture = russian_culture
+	}
+	add_queen_personality = well_connected_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Bajan"
+		monarch_name = "Bajan"
+		dynasty = "Dridu0i"
+		adm = 6
+		dip = 6
+		mil = 6
+		birth_date = 843.8.19
+		death_date = 908.8.19
+		claim = 89
+		religion = orthodox
+		culture = romanian
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+867.1.1= {
+	add_prestige = 47
+	add_treasury = 37
+}

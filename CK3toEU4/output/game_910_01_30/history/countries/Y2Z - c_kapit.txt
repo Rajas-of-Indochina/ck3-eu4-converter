@@ -1,0 +1,52 @@
+government = tribal
+add_government_reform = tribal_kingdom
+government_rank = 1
+technology_group = western
+religion = converted_kaharingan
+capital = 2704
+fixed_capital = 2704
+910.1.30= {
+	monarch = {
+		name = "Tugau"
+		dynasty = "Song"
+		adm = 2
+		dip = 1
+		mil = 4
+		birth_date = 849.1.1
+		religion = converted_kaharingan
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Puynag"
+		dynasty = "Teungku"
+		adm = 3
+		dip = 4
+		mil = 3
+		country_of_origin = Y2Z
+		birth_date = 886.8.30
+		death_date = 946.8.30
+		female = yes
+		religion = converted_kaharingan
+	}
+	add_queen_personality = well_connected_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Sanja"
+		monarch_name = "Sanja"
+		dynasty = "Song"
+		adm = 4
+		dip = 4
+		mil = 5
+		birth_date = 875.7.9
+		death_date = 940.7.9
+		claim = 89
+		religion = converted_kaharingan
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+910.1.30= {
+	add_prestige = 72
+	add_treasury = 41
+}

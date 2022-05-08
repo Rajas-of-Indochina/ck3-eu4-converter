@@ -1,0 +1,20 @@
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 115 229 78 }
+monarch_names = {
+	"Aiqin #0" = -1
+	"Chamroeun #0" = -1
+	"Kanha #0" = -1
+	"Khadroma #0" = 0
+	"Mingda #0" = -1
+	"Photisarat #0" = 0
+	"Qiongxian #0" = -1
+	"Renshi #1" = 10
+	"Shenyou #0" = 0
+	"Tan #0" = 0
+	"Wenlong #0" = 0
+	"Xianhui #0" = -1
+	"Xianqing #1" = 10
+	"Yod Khamthip #0" = -1
+	"Zhanlong #0" = 0
+}

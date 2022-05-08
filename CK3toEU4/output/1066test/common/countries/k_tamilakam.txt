@@ -1,0 +1,20 @@
+ck2_converter_generated = yes
+graphical_culture = indiangfx
+color = { 200 25 65 }
+monarch_names = {
+	"Ariñcaya #1" = 10
+	"Arulmolinangai #0" = -1
+	"Arulmolivarman #1" = 10
+	"Atirâjêntira #0" = 0
+	"Butadata #0" = -1
+	"Cuntara #1" = 10
+	"Irâcâtirâca #1" = 10
+	"Irâcêntira #2" = 10
+	"Kantarâtitta #1" = 10
+	"Kaucalaiyâr #0" = -1
+	"Parântaka #1" = 10
+	"Sarini #0" = -1
+	"Uttama #1" = 10
+	"Virâcakecaripanmar #0" = 0
+	"Vîrarâcêntira #1" = 10
+}

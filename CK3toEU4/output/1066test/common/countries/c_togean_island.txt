@@ -1,0 +1,17 @@
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 123 206 24 }
+monarch_names = {
+	"Batara #0" = 0
+	"Butta #0" = 0
+	"Limbangparang #0" = 0
+	"Palonga #0" = 0
+	"Puaiti #0" = -1
+	"Ra'inui #0" = -1
+	"Ranitea #0" = -1
+	"Raurii #0" = -1
+	"Tuni #0" = 0
+	"Tunibatta #0" = 0
+	"Vaiata #0" = -1
+	"Vaihere #0" = -1
+}

@@ -1,0 +1,57 @@
+government = tribal
+add_government_reform = tribal_despotism
+government_rank = 1
+technology_group = indian
+religion = converted_sarnaism
+primary_culture = gondi
+capital = 547
+fixed_capital = 547
+910.1.30= {
+	monarch = {
+		name = "Vakula"
+		dynasty = "Bhanja"
+		adm = 5
+		dip = 4
+		mil = 4
+		birth_date = 869.8.11
+		female = yes
+		religion = converted_sarnaism
+		culture = gondi
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Narayana"
+		dynasty = "Karan"
+		adm = 5
+		dip = 3
+		mil = 3
+		country_of_origin = BST
+		birth_date = 878.11.7
+		death_date = 938.11.7
+		religion = converted_sarnaism
+		culture = gondi
+	}
+	add_queen_personality = well_connected_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Kalyanavati"
+		monarch_name = "Kalyanavati"
+		dynasty = "Karan"
+		adm = 0
+		dip = 1
+		mil = 1
+		birth_date = 907.8.15
+		death_date = 972.8.15
+		female = yes
+		claim = 89
+		religion = converted_sarnaism
+		culture = gondi
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+910.1.30= {
+	add_prestige = 53
+	add_treasury = 50
+}

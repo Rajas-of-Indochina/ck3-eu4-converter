@@ -1,0 +1,42 @@
+government = monarchy
+add_government_reform = iqta
+government_rank = 1
+technology_group = nomad_group
+religion = sunni
+primary_culture = sogdian
+capital = 453
+fixed_capital = 453
+religious_school = hanbali_school
+910.1.30= {
+	monarch = {
+		name = "Nijat"
+		dynasty = "Paykendid"
+		adm = 2
+		dip = 5
+		mil = 1
+		birth_date = 887.1.7
+		religion = sunni
+		culture = sogdian
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	heir = {
+		name = "Rastin"
+		monarch_name = "Rastin"
+		dynasty = "Rastin"
+		adm = 6
+		dip = 2
+		mil = 6
+		birth_date = 842.1.1
+		death_date = 907.1.1
+		claim = 89
+		religion = sunni
+		culture = tajik
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+910.1.30= {
+	add_prestige = 47
+	add_treasury = 56
+}

@@ -1,0 +1,24 @@
+ck2_converter_generated = yes
+graphical_culture = asiangfx
+color = { 255 20 20 }
+monarch_names = {
+	"Anantpal #0" = 0
+	"Bhagu #1" = 10
+	"Bijor #1" = 10
+	"Guna #1" = 10
+	"Harshapala #0" = 0
+	"Jahal #1" = 10
+	"Jajar #1" = 10
+	"Jar #1" = 10
+	"Jayapal #1" = 10
+	"Jijar #1" = 10
+	"Jiuge #0" = -1
+	"Kalau #1" = 10
+	"Kalu #1" = 10
+	"Mul #1" = 10
+	"Nagu #1" = 10
+	"Pida #1" = 10
+	"Prashanti #0" = -1
+	"Shruti #0" = -1
+	"Sonpal #1" = 10
+}

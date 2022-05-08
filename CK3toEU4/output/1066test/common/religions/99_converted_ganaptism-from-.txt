@@ -1,0 +1,37 @@
+converted_ganaptism = {
+	converted_ganaptism = {
+		color = { 215 40 30 }
+		icon =  180
+		country = {
+ 
+		discipline = 0.05
+	
+
+		stability_cost_modifier = -0.1
+	
+
+		global_unrest = -1
+	
+
+		heir_chance = 1
+	
+}
+		country_as_secondary = {
+ 
+		discipline = 0.025
+	
+
+		stability_cost_modifier = -0.1
+	
+}
+		province = {
+ 
+		local_missionary_strength = -0.02
+	
+
+		local_missionary_strength = 0.01
+	
+}
+	}
+}
+

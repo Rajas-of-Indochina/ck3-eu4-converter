@@ -1,0 +1,55 @@
+government = monarchy
+add_government_reform = mandala_reform
+government_rank = 1
+technology_group = indian
+religion = buddhism
+primary_culture = mon
+capital = 1815
+910.1.30= {
+	monarch = {
+		name = "Visna"
+		dynasty = "Kusima"
+		adm = 4
+		dip = 2
+		mil = 5
+		birth_date = 871.12.7
+		religion = buddhism
+		culture = mon
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Ssu Qi"
+		dynasty = "Bo Le"
+		adm = 2
+		dip = 2
+		mil = 3
+		country_of_origin = Z3R
+		birth_date = 874.8.11
+		death_date = 934.8.11
+		female = yes
+		religion = buddhism
+		culture = mon
+	}
+	add_queen_personality = well_connected_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Visna"
+		monarch_name = "Visna II"
+		dynasty = "Kusima"
+		adm = 2
+		dip = 2
+		mil = 3
+		birth_date = 902.7.24
+		death_date = 967.7.24
+		claim = 89
+		religion = buddhism
+		culture = mon
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+910.1.30= {
+	add_prestige = 62
+	add_treasury = 51
+}

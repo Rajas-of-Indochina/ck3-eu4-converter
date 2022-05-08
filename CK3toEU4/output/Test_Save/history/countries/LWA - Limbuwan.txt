@@ -1,0 +1,40 @@
+government = tribal
+add_government_reform = tribal_kingdom
+government_rank = 1
+technology_group = chinese
+religion = animism
+primary_culture = nepali
+capital = 4486
+867.1.1= {
+	monarch = {
+		name = "Mabo Hang"
+		dynasty = "Lasahang"
+		adm = 4
+		dip = 2
+		mil = 4
+		birth_date = 828.1.1
+		religion = animism
+		culture = nepali
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	heir = {
+		name = "Muda Hang"
+		monarch_name = "Muda Hang"
+		dynasty = "Lasahang"
+		adm = 6
+		dip = 2
+		mil = 4
+		birth_date = 845.1.1
+		death_date = 910.1.1
+		claim = 89
+		religion = animism
+		culture = nepali
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+867.1.1= {
+	add_prestige = 47
+	add_treasury = 33
+}

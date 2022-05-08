@@ -1,0 +1,56 @@
+government = tribal
+add_government_reform = steppe_horde
+government_rank = 1
+technology_group = eastern
+religion = siberian_pagan
+primary_culture = uralic
+capital = 1079
+867.1.1= {
+	monarch = {
+		name = "Nylog"
+		dynasty = "Udmurt"
+		adm = 5
+		dip = 1
+		mil = 2
+		birth_date = 843.1.2
+		religion = siberian_pagan
+		culture = uralic
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Sanal'ka"
+		dynasty = "Irtegid"
+		adm = 5
+		dip = 5
+		mil = 2
+		country_of_origin = Z33
+		birth_date = 844.1.1
+		death_date = 904.1.1
+		female = yes
+		religion = siberian_pagan
+		culture = uralic
+	}
+	add_queen_personality = well_connected_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Sinyava"
+		monarch_name = "Sinyava"
+		dynasty = "Orsini"
+		adm = 3
+		dip = 5
+		mil = 6
+		birth_date = 848.5.27
+		death_date = 913.5.27
+		female = yes
+		claim = 89
+		religion = siberian_pagan
+		culture = uralic
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+867.1.1= {
+	add_prestige = 47
+	add_treasury = 33
+}

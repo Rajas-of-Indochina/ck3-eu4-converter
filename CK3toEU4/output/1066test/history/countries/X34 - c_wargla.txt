@@ -1,0 +1,41 @@
+government = tribal
+add_government_reform = tribal_federation
+government_rank = 1
+technology_group = muslim
+religion = ibadi
+primary_culture = berber
+capital = 2472
+fixed_capital = 2472
+1068.6.5= {
+	monarch = {
+		name = "'Isa"
+		dynasty = "Sidiabid"
+		adm = 3
+		dip = 4
+		mil = 1
+		birth_date = 1050.8.5
+		religion = ibadi
+		culture = berber
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	heir = {
+		name = "Yahla Abd al-Haq"
+		monarch_name = "Yahla Abd al-Haq"
+		dynasty = "Sidiabid"
+		adm = 6
+		dip = 2
+		mil = 6
+		birth_date = 1046.8.5
+		death_date = 1111.8.5
+		claim = 89
+		religion = ibadi
+		culture = berber
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+1068.6.5= {
+	add_prestige = 47
+	add_treasury = 0
+}

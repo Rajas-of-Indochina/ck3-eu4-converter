@@ -1,0 +1,53 @@
+government = tribal
+add_government_reform = tribal_kingdom
+government_rank = 1
+technology_group = western
+religion = converted_celebic
+capital = 2714
+fixed_capital = 2714
+867.1.1= {
+	monarch = {
+		name = "Biyunget"
+		dynasty = "Sojol"
+		adm = 4
+		dip = 2
+		mil = 4
+		birth_date = 839.1.1
+		religion = converted_celebic
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Nanihi"
+		dynasty = "Gilang"
+		adm = 4
+		dip = 2
+		mil = 5
+		country_of_origin = X9N
+		birth_date = 839.1.1
+		death_date = 899.1.1
+		female = yes
+		religion = converted_celebic
+	}
+	add_queen_personality = well_connected_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Moea"
+		monarch_name = "Moea"
+		dynasty = "Orsini"
+		adm = 6
+		dip = 4
+		mil = 6
+		birth_date = 839.4.16
+		death_date = 904.4.16
+		female = yes
+		claim = 89
+		religion = converted_celebic
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+867.1.1= {
+	add_prestige = 47
+	add_treasury = 35
+}

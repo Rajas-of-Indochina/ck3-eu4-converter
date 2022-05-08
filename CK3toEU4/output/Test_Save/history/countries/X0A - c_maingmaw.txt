@@ -1,0 +1,56 @@
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+technology_group = western
+religion = buddhism
+primary_culture = burmese
+capital = 584
+fixed_capital = 584
+867.1.1= {
+	monarch = {
+		name = "Beizza"
+		dynasty = "Maingmaw"
+		adm = 3
+		dip = 4
+		mil = 3
+		birth_date = 845.1.1
+		religion = buddhism
+		culture = burmese
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Thitkwa"
+		dynasty = "Yamethin"
+		adm = 3
+		dip = 2
+		mil = 4
+		country_of_origin = X0A
+		birth_date = 845.1.1
+		death_date = 905.1.1
+		female = yes
+		religion = buddhism
+		culture = burmese
+	}
+	add_queen_personality = well_connected_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Narathu"
+		monarch_name = "Narathu"
+		dynasty = "Narathu"
+		adm = 6
+		dip = 5
+		mil = 6
+		birth_date = 835.9.3
+		death_date = 900.9.3
+		claim = 89
+		religion = buddhism
+		culture = burmese
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+867.1.1= {
+	add_prestige = 47
+	add_treasury = 40
+}

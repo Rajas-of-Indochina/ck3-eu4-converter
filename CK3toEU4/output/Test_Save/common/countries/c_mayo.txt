@@ -1,0 +1,19 @@
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 15 190 70 }
+monarch_names = {
+	"Adomnán #0" = 0
+	"Ben-Muman #0" = -1
+	"Cathal #0" = 0
+	"Conchobar #0" = 0
+	"Eithne #0" = -1
+	"Findlaích #0" = 0
+	"Gilla-Íosa #0" = 0
+	"Mugrón #1" = 10
+	"Muiredach #0" = 0
+	"Máel-Cluiche #0" = 0
+	"Tadg #0" = 0
+	"Tighearnach #0" = 0
+	"Áed #0" = 0
+	"Úamnachán #0" = 0
+}

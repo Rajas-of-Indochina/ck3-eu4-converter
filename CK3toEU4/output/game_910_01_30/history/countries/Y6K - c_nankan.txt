@@ -1,0 +1,56 @@
+government = tribal
+add_government_reform = tribal_kingdom
+government_rank = 1
+technology_group = western
+religion = converted_kadai
+primary_culture = polynesian
+capital = 2154
+fixed_capital = 2154
+910.1.30= {
+	monarch = {
+		name = "Panai"
+		dynasty = "Nankan"
+		adm = 3
+		dip = 5
+		mil = 2
+		birth_date = 849.1.1
+		female = yes
+		religion = converted_kadai
+		culture = polynesian
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Kushu"
+		dynasty = "Kahihian"
+		adm = 4
+		dip = 5
+		mil = 4
+		country_of_origin = Y6K
+		birth_date = 868.5.16
+		death_date = 928.5.16
+		religion = converted_kadai
+		culture = polynesian
+	}
+	add_queen_personality = well_connected_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Kalo"
+		monarch_name = "Kalo"
+		dynasty = "Nankan"
+		adm = 6
+		dip = 5
+		mil = 5
+		birth_date = 880.1.25
+		death_date = 945.1.25
+		claim = 89
+		religion = converted_kadai
+		culture = polynesian
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+910.1.30= {
+	add_prestige = 50
+	add_treasury = 44
+}

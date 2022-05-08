@@ -1,0 +1,57 @@
+government = tribal
+add_government_reform = tribal_despotism
+government_rank = 1
+technology_group = western
+religion = hinduism
+primary_culture = munda
+capital = 560
+fixed_capital = 560
+867.1.1= {
+	monarch = {
+		name = "Dharnidhara"
+		dynasty = "Nagavamsi"
+		adm = 3
+		dip = 4
+		mil = 4
+		birth_date = 840.1.1
+		religion = hinduism
+		culture = munda
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Yajiyavati"
+		dynasty = "Porohat"
+		adm = 4
+		dip = 1
+		mil = 5
+		country_of_origin = X2P
+		birth_date = 840.1.1
+		death_date = 900.1.1
+		female = yes
+		religion = hinduism
+		culture = munda
+	}
+	add_queen_personality = well_connected_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Ponnampalattatikalâr"
+		monarch_name = "Ponnampalattatikalâr"
+		dynasty = "Orsini"
+		adm = 4
+		dip = 6
+		mil = 6
+		birth_date = 848.7.8
+		death_date = 913.7.8
+		female = yes
+		claim = 89
+		religion = converted_sarnaism
+		culture = munda
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+867.1.1= {
+	add_prestige = 47
+	add_treasury = 31
+}

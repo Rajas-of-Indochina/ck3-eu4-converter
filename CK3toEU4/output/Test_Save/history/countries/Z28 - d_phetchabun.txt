@@ -1,0 +1,51 @@
+government = tribal
+add_government_reform = tribal_kingdom
+government_rank = 1
+technology_group = western
+religion = converted_wa_animism
+867.1.1= {
+	monarch = {
+		name = "Dhammazedi"
+		dynasty = "Phetchabun"
+		adm = 0
+		dip = 2
+		mil = 0
+		birth_date = 836.1.1
+		religion = converted_wa_animism
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Chenda"
+		dynasty = "Chon"
+		adm = 2
+		dip = 5
+		mil = 3
+		country_of_origin = Z28
+		birth_date = 836.1.1
+		death_date = 896.1.1
+		female = yes
+		religion = converted_wa_animism
+	}
+	add_queen_personality = well_connected_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Sreykeo"
+		monarch_name = "Sreykeo"
+		dynasty = "Khao Kho"
+		adm = 3
+		dip = 5
+		mil = 6
+		birth_date = 850.10.26
+		death_date = 915.10.26
+		female = yes
+		claim = 89
+		religion = converted_wa_animism
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+867.1.1= {
+	add_prestige = 47
+	add_treasury = 34
+}

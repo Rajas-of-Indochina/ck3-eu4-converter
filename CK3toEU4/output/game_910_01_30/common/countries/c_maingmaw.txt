@@ -1,0 +1,10 @@
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 96 20 164 }
+monarch_names = {
+	"Beizza #1" = 10
+	"Jigyel #0" = 0
+	"Kodawgyi #0" = -1
+	"Pabawadi #1" = -1
+	"Sanda #0" = -1
+}

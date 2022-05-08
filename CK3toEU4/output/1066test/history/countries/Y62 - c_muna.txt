@@ -1,0 +1,53 @@
+government = tribal
+add_government_reform = tribal_kingdom
+government_rank = 1
+technology_group = western
+religion = converted_celebic
+capital = 2716
+fixed_capital = 2716
+1068.6.5= {
+	monarch = {
+		name = "Djallo"
+		dynasty = "Dupu"
+		adm = 3
+		dip = 5
+		mil = 4
+		birth_date = 1044.11.16
+		religion = converted_celebic
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Tania"
+		dynasty = "Biadut"
+		adm = 0
+		dip = 6
+		mil = 2
+		country_of_origin = Y62
+		birth_date = 1045.5.8
+		death_date = 1105.5.8
+		female = yes
+		religion = converted_celebic
+	}
+	add_queen_personality = well_connected_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Taiana"
+		monarch_name = "Taiana"
+		dynasty = "Dupu"
+		adm = 1
+		dip = 2
+		mil = 1
+		birth_date = 1062.2.7
+		death_date = 1127.2.7
+		female = yes
+		claim = 89
+		religion = converted_celebic
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+1068.6.5= {
+	add_prestige = 49
+	add_treasury = 38
+}

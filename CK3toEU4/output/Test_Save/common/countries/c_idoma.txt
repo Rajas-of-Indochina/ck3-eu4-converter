@@ -1,0 +1,16 @@
+ck2_converter_generated = yes
+graphical_culture = africangfx
+color = { 40 33 163 }
+monarch_names = {
+	"Adanna #0" = -1
+	"Chidi #0" = 0
+	"Chisom #0" = -1
+	"Ezinma #0" = 0
+	"Nkiruka #0" = -1
+	"Nnamdi #0" = 0
+	"Onyeka #0" = 0
+	"Taabansi #1" = 10
+	"Uchechukwu #0" = -1
+	"Udene #0" = 0
+	"Unoka #0" = 0
+}

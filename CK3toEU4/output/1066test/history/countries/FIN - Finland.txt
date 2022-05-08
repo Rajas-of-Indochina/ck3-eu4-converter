@@ -1,0 +1,39 @@
+government = tribal
+add_government_reform = tribal_kingdom
+government_rank = 1
+technology_group = eastern
+religion = finnish_pagan
+primary_culture = finnish
+capital = 27
+1068.6.5= {
+	monarch = {
+		name = "Otso III"
+		dynasty = "Virtanen"
+		adm = 4
+		dip = 5
+		mil = 5
+		birth_date = 1050.1.1
+		religion = finnish_pagan
+		culture = finnish
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	heir = {
+		name = "Satajalka"
+		monarch_name = "Satajalka"
+		adm = 3
+		dip = 6
+		mil = 3
+		birth_date = 1050.1.1
+		death_date = 1115.1.1
+		claim = 89
+		religion = finnish_pagan
+		culture = finnish
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+1068.6.5= {
+	add_prestige = 48
+	add_treasury = 42
+}

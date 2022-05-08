@@ -1,0 +1,12 @@
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 3 208 169 }
+monarch_names = {
+	"Chee #0" = -1
+	"Foom #0" = 0
+	"Shuqimo #0" = -1
+	"Shydu #0" = 0
+	"Tub #0" = 0
+	"Yeej #0" = 0
+	"Yygge #0" = 0
+}

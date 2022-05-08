@@ -1,0 +1,40 @@
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 2
+technology_group = indian
+religion = mahayana
+primary_culture = bengali
+capital = 4479
+867.1.1= {
+	monarch = {
+		name = "Narayanapala"
+		dynasty = "Pala"
+		adm = 6
+		dip = 5
+		mil = 4
+		birth_date = 839.1.1
+		religion = mahayana
+		culture = bengali
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	heir = {
+		name = "Rajyapala"
+		monarch_name = "Rajyapala"
+		dynasty = "Pala"
+		adm = 0
+		dip = 0
+		mil = 0
+		birth_date = 865.1.1
+		death_date = 930.1.1
+		claim = 89
+		religion = mahayana
+		culture = bengali
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+867.1.1= {
+	add_prestige = 47
+	add_treasury = 53
+}

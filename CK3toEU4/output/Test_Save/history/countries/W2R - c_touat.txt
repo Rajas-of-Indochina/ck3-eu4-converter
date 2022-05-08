@@ -1,0 +1,42 @@
+government = tribal
+add_government_reform = tribal_federation
+government_rank = 1
+technology_group = muslim
+religion = sunni
+primary_culture = moroccan
+capital = 2460
+fixed_capital = 2460
+religious_school = hanbali_school
+867.1.1= {
+	monarch = {
+		name = "Abdallah"
+		dynasty = "Lamta"
+		adm = 2
+		dip = 3
+		mil = 0
+		birth_date = 851.1.1
+		religion = sunni
+		culture = moroccan
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	heir = {
+		name = "Keraja"
+		monarch_name = "Keraja"
+		dynasty = "Lamta"
+		adm = 6
+		dip = 3
+		mil = 3
+		birth_date = 848.1.1
+		death_date = 913.1.1
+		claim = 89
+		religion = ibadi
+		culture = berber
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+867.1.1= {
+	add_prestige = 47
+	add_treasury = 33
+}

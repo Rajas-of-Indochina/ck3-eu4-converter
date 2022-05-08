@@ -1,0 +1,56 @@
+government = monarchy
+add_government_reform = confucian_bureaucracy
+government_rank = 1
+technology_group = western
+religion = confucianism
+primary_culture = zhuang
+capital = 2163
+fixed_capital = 2163
+910.1.30= {
+	monarch = {
+		name = "Zhaodu"
+		dynasty = "Gongyang"
+		adm = 4
+		dip = 4
+		mil = 6
+		birth_date = 857.1.1
+		religion = confucianism
+		culture = zhuang
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Luzhen"
+		dynasty = "Gao"
+		adm = 3
+		dip = 2
+		mil = 3
+		country_of_origin = Y4Z
+		birth_date = 869.4.18
+		death_date = 929.4.18
+		female = yes
+		religion = confucianism
+		culture = zhuang
+	}
+	add_queen_personality = well_connected_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Renshi"
+		monarch_name = "Renshi II"
+		dynasty = "Gongyang"
+		adm = 6
+		dip = 6
+		mil = 6
+		birth_date = 889.2.11
+		death_date = 954.2.11
+		claim = 89
+		religion = confucianism
+		culture = zhuang
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+910.1.30= {
+	add_prestige = 71
+	add_treasury = 44
+}

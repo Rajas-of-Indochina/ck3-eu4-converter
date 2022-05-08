@@ -1,0 +1,57 @@
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+technology_group = indian
+religion = buddhism
+primary_culture = mon
+capital = 2382
+fixed_capital = 2382
+867.1.1= {
+	monarch = {
+		name = "Nimith"
+		dynasty = "Mukdahan"
+		adm = 1
+		dip = 2
+		mil = 3
+		birth_date = 818.1.1
+		religion = buddhism
+		culture = mon
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Samnang"
+		dynasty = "Chan"
+		adm = 6
+		dip = 5
+		mil = 4
+		country_of_origin = Y6M
+		birth_date = 818.1.1
+		death_date = 878.1.1
+		female = yes
+		religion = buddhism
+		culture = mon
+	}
+	add_queen_personality = well_connected_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Nearidei"
+		monarch_name = "Nearidei"
+		dynasty = "Orsini"
+		adm = 5
+		dip = 5
+		mil = 6
+		birth_date = 835.10.7
+		death_date = 900.10.7
+		female = yes
+		claim = 89
+		religion = buddhism
+		culture = mon
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+867.1.1= {
+	add_prestige = 47
+	add_treasury = 34
+}

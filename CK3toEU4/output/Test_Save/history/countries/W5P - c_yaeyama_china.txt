@@ -1,0 +1,57 @@
+government = tribal
+add_government_reform = tribal_kingdom
+government_rank = 1
+technology_group = western
+religion = converted_kadai
+primary_culture = kyushuan
+capital = 1015
+fixed_capital = 1015
+867.1.1= {
+	monarch = {
+		name = "Ushiwakamaru"
+		dynasty = "Sagoshi"
+		adm = 4
+		dip = 1
+		mil = 2
+		birth_date = 834.3.20
+		religion = converted_kadai
+		culture = kyushuan
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Tama"
+		dynasty = "Hienuki"
+		adm = 4
+		dip = 2
+		mil = 4
+		country_of_origin = W5P
+		birth_date = 835.1.1
+		death_date = 895.1.1
+		female = yes
+		religion = converted_kadai
+		culture = kyushuan
+	}
+	add_queen_personality = well_connected_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Kiri"
+		monarch_name = "Kiri"
+		dynasty = "Orsini"
+		adm = 6
+		dip = 5
+		mil = 3
+		birth_date = 844.12.7
+		death_date = 909.12.7
+		female = yes
+		claim = 89
+		religion = converted_kadai
+		culture = kyushuan
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+867.1.1= {
+	add_prestige = 47
+	add_treasury = 32
+}

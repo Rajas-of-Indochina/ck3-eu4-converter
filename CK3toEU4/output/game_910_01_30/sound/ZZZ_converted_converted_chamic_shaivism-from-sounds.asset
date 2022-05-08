@@ -1,0 +1,8 @@
+sound = {
+	name = religion_converted_chamic_shaivism
+	file = "tab_religion_pagan.wav"
+}
+sound = {
+	name = start_convert_converted_chamic_shaivism
+	file = "start_conversion_pagan_animism.wav"
+}

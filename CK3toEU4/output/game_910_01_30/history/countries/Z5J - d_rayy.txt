@@ -1,0 +1,57 @@
+government = monarchy
+add_government_reform = iqta
+government_rank = 1
+technology_group = muslim
+religion = sunni
+primary_culture = bedouin_arabic
+capital = 428
+religious_school = hanbali_school
+add_accepted_culture = persian
+910.1.30= {
+	monarch = {
+		name = "Muzaffaraddin"
+		dynasty = "Dulafid"
+		adm = 3
+		dip = 4
+		mil = 4
+		birth_date = 868.3.14
+		religion = sunni
+		culture = bedouin_arabic
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Sheeva"
+		dynasty = "Hasan"
+		adm = 3
+		dip = 4
+		mil = 4
+		country_of_origin = Z5J
+		birth_date = 879.2.5
+		death_date = 939.2.5
+		female = yes
+		religion = sunni
+		culture = bedouin_arabic
+	}
+	add_queen_personality = well_connected_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Hasan"
+		monarch_name = "Hasan"
+		dynasty = "Dulafid"
+		adm = 3
+		dip = 5
+		mil = 2
+		birth_date = 900.7.28
+		death_date = 965.7.28
+		claim = 89
+		religion = sunni
+		culture = bedouin_arabic
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+910.1.30= {
+	add_prestige = 63
+	add_treasury = 51
+}

@@ -1,0 +1,39 @@
+government = tribal
+add_government_reform = tribal_kingdom
+government_rank = 1
+technology_group = western
+religion = converted_kaharingan
+capital = 2703
+fixed_capital = 2703
+910.1.30= {
+	monarch = {
+		name = "Mawinei"
+		dynasty = "Awang"
+		adm = 2
+		dip = 1
+		mil = 2
+		birth_date = 860.1.1
+		female = yes
+		religion = converted_kaharingan
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	heir = {
+		name = "Ampong"
+		monarch_name = "Ampong"
+		dynasty = "Awang"
+		adm = 4
+		dip = 1
+		mil = 3
+		birth_date = 890.12.2
+		death_date = 955.12.2
+		claim = 89
+		religion = converted_kaharingan
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+910.1.30= {
+	add_prestige = 54
+	add_treasury = 48
+}

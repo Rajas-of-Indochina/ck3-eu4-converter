@@ -1,0 +1,57 @@
+government = tribal
+add_government_reform = tribal_kingdom
+government_rank = 1
+technology_group = east_african
+religion = shamanism
+primary_culture = somali
+capital = 2780
+fixed_capital = 2780
+867.1.1= {
+	monarch = {
+		name = "Aul"
+		dynasty = "Helai"
+		adm = 3
+		dip = 6
+		mil = 2
+		birth_date = 844.1.1
+		religion = shamanism
+		culture = somali
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Faadumo"
+		dynasty = "Deshishie"
+		adm = 2
+		dip = 3
+		mil = 1
+		country_of_origin = Z5T
+		birth_date = 844.1.1
+		death_date = 904.1.1
+		female = yes
+		religion = shamanism
+		culture = somali
+	}
+	add_queen_personality = well_connected_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Billan"
+		monarch_name = "Billan"
+		dynasty = "Orsini"
+		adm = 6
+		dip = 1
+		mil = 5
+		birth_date = 835.10.31
+		death_date = 900.10.31
+		female = yes
+		claim = 89
+		religion = shamanism
+		culture = somali
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+867.1.1= {
+	add_prestige = 47
+	add_treasury = 33
+}

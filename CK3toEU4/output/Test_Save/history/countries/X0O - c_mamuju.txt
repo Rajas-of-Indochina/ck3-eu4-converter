@@ -1,0 +1,53 @@
+government = tribal
+add_government_reform = tribal_kingdom
+government_rank = 1
+technology_group = western
+religion = converted_alukta
+capital = 4845
+fixed_capital = 4845
+867.1.1= {
+	monarch = {
+		name = "Parabung"
+		dynasty = "Mamuju"
+		adm = 0
+		dip = 3
+		mil = 1
+		birth_date = 841.5.11
+		religion = converted_alukta
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Puatea"
+		dynasty = "Kabuan"
+		adm = 5
+		dip = 4
+		mil = 5
+		country_of_origin = X0O
+		birth_date = 842.1.1
+		death_date = 902.1.1
+		female = yes
+		religion = converted_alukta
+	}
+	add_queen_personality = well_connected_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Taina"
+		monarch_name = "Taina"
+		dynasty = "Orsini"
+		adm = 1
+		dip = 2
+		mil = 4
+		birth_date = 838.8.11
+		death_date = 903.8.11
+		female = yes
+		claim = 89
+		religion = converted_alukta
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+867.1.1= {
+	add_prestige = 47
+	add_treasury = 31
+}

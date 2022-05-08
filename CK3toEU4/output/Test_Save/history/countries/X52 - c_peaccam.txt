@@ -1,0 +1,57 @@
+government = tribal
+add_government_reform = tribal_kingdom
+government_rank = 1
+technology_group = eastern
+religion = finnish_pagan
+primary_culture = sapmi
+capital = 4113
+fixed_capital = 4113
+867.1.1= {
+	monarch = {
+		name = "Riibma"
+		dynasty = "Sombio"
+		adm = 2
+		dip = 2
+		mil = 2
+		birth_date = 835.1.1
+		religion = finnish_pagan
+		culture = sapmi
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Giste"
+		dynasty = "Kuni"
+		adm = 0
+		dip = 0
+		mil = 0
+		country_of_origin = X52
+		birth_date = 835.1.1
+		death_date = 895.1.1
+		female = yes
+		religion = finnish_pagan
+		culture = sapmi
+	}
+	add_queen_personality = well_connected_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Giste"
+		monarch_name = "Giste"
+		dynasty = "Orsini"
+		adm = 6
+		dip = 6
+		mil = 6
+		birth_date = 843.4.21
+		death_date = 908.4.21
+		female = yes
+		claim = 89
+		religion = finnish_pagan
+		culture = sapmi
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+867.1.1= {
+	add_prestige = 47
+	add_treasury = 33
+}

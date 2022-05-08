@@ -1,0 +1,17 @@
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 213 58 203 }
+monarch_names = {
+	"Arkar #0" = 0
+	"Ban #1" = 10
+	"Bayinnaung #0" = 0
+	"Hnin #0" = -1
+	"Htin #0" = 0
+	"Khame Mi #0" = -1
+	"Linlun #0" = -1
+	"Myo Myat #0" = -1
+	"Sanda #0" = -1
+	"Sauta #0" = -1
+	"Thang #0" = 0
+	"Theingi #0" = -1
+}

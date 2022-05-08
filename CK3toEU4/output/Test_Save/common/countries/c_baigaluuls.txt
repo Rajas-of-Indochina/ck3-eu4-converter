@@ -1,0 +1,14 @@
+ck2_converter_generated = yes
+graphical_culture = inuitgfx
+color = { 80 130 160 }
+monarch_names = {
+	"Agvan #0" = 0
+	"Aldar #1" = 10
+	"Arigaba #0" = 0
+	"Bilduu #0" = -1
+	"Buda #0" = 0
+	"Damba #0" = 0
+	"Eshi #0" = 0
+	"Mandukhai #0" = -1
+	"Tsyrma #0" = -1
+}

@@ -1,0 +1,53 @@
+government = tribal
+add_government_reform = tribal_kingdom
+government_rank = 1
+technology_group = western
+religion = converted_tulumanon
+capital = 4354
+fixed_capital = 4354
+867.1.1= {
+	monarch = {
+		name = "Imbing"
+		dynasty = "Patacsil"
+		adm = 3
+		dip = 6
+		mil = 1
+		birth_date = 847.1.1
+		religion = converted_tulumanon
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Irangin"
+		dynasty = "Carag"
+		adm = 0
+		dip = 3
+		mil = 2
+		country_of_origin = X7V
+		birth_date = 847.1.1
+		death_date = 907.1.1
+		female = yes
+		religion = converted_tulumanon
+	}
+	add_queen_personality = well_connected_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Malay"
+		monarch_name = "Malay"
+		dynasty = "Orsini"
+		adm = 3
+		dip = 6
+		mil = 1
+		birth_date = 841.2.10
+		death_date = 906.2.10
+		female = yes
+		claim = 89
+		religion = converted_tulumanon
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+867.1.1= {
+	add_prestige = 47
+	add_treasury = 31
+}

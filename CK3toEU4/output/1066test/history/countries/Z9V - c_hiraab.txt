@@ -1,0 +1,12 @@
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+technology_group = east_african
+religion = shamanism
+primary_culture = somali
+capital = 2782
+fixed_capital = 2782
+1068.6.5= {
+	add_prestige = 48
+	add_treasury = 53
+}

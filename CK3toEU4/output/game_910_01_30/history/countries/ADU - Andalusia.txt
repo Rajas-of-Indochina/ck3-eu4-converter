@@ -1,0 +1,56 @@
+government = monarchy
+add_government_reform = iqta
+government_rank = 2
+technology_group = muslim
+religion = sunni
+primary_culture = andalucian
+capital = 225
+religious_school = maliki_school
+910.1.30= {
+	monarch = {
+		name = "Abdullah"
+		dynasty = "Umayyad"
+		adm = 3
+		dip = 2
+		mil = 3
+		birth_date = 869.3.18
+		religion = sunni
+		culture = andalucian
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Sajida"
+		dynasty = "Aslamid"
+		adm = 4
+		dip = 4
+		mil = 3
+		country_of_origin = ADU
+		birth_date = 879.3.16
+		death_date = 939.3.16
+		female = yes
+		religion = sunni
+		culture = galician
+	}
+	add_queen_personality = well_connected_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Isa"
+		monarch_name = "Isa"
+		dynasty = "Umayyad"
+		adm = 4
+		dip = 5
+		mil = 5
+		birth_date = 875.3.18
+		death_date = 940.3.18
+		claim = 89
+		religion = sunni
+		culture = andalucian
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+910.1.30= {
+	add_prestige = 76
+	add_treasury = 55
+}

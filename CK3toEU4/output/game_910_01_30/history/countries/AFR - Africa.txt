@@ -1,0 +1,56 @@
+government = monarchy
+add_government_reform = iqta
+government_rank = 2
+technology_group = muslim
+religion = sunni
+primary_culture = tunisian
+capital = 4566
+religious_school = hanbali_school
+910.1.30= {
+	monarch = {
+		name = "Arsenios"
+		dynasty = "Aghlabid"
+		adm = 6
+		dip = 2
+		mil = 5
+		birth_date = 878.5.29
+		religion = sunni
+		culture = tunisian
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Durra"
+		dynasty = "al-Harrani"
+		adm = 5
+		dip = 2
+		mil = 3
+		country_of_origin = AFR
+		birth_date = 870.1.28
+		death_date = 930.1.28
+		female = yes
+		religion = sunni
+		culture = berber
+	}
+	add_queen_personality = well_connected_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Abdul-Salaam"
+		monarch_name = "Abdul-Salaam"
+		dynasty = "Aghlabid"
+		adm = 6
+		dip = 6
+		mil = 6
+		birth_date = 879.1.29
+		death_date = 944.1.29
+		claim = 89
+		religion = sunni
+		culture = berber
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+910.1.30= {
+	add_prestige = 78
+	add_treasury = 56
+}

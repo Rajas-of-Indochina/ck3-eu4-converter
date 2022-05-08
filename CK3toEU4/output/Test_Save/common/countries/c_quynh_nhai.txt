@@ -1,0 +1,15 @@
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 46 99 15 }
+monarch_names = {
+	"Chamriang #0" = -1
+	"Dao Jai #0" = -1
+	"Ha #0" = 0
+	"Khantoke #0" = 0
+	"Lithai #0" = 0
+	"Nao Numtum #0" = 0
+	"Panjai #0" = -1
+	"Sai Mong #0" = 0
+	"Wao #0" = 0
+	"Xuan #1" = 10
+}

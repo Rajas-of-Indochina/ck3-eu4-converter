@@ -1,0 +1,17 @@
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 20 110 145 }
+monarch_names = {
+	"Chuan #0" = 0
+	"Danum #0" = -1
+	"Djata #0" = 0
+	"Hamen #0" = -1
+	"Labih #0" = 0
+	"Long #0" = -1
+	"Maharati #0" = -1
+	"Menteng #0" = 0
+	"Nanjan #0" = 0
+	"Nara #0" = -1
+	"Purok #0" = 0
+	"Ullok #0" = 0
+}

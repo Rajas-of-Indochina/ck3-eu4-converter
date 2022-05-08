@@ -1,0 +1,41 @@
+government = monarchy
+add_government_reform = english_monarchy
+government_rank = 1
+technology_group = eastern
+religion = coptic
+primary_culture = armenian
+capital = 2205
+fixed_capital = 2205
+867.1.1= {
+	monarch = {
+		name = "Vasak"
+		dynasty = "Siwnik"
+		adm = 3
+		dip = 3
+		mil = 1
+		birth_date = 825.1.1
+		religion = coptic
+		culture = armenian
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	heir = {
+		name = "Philipo"
+		monarch_name = "Philipo"
+		dynasty = "Siwnik"
+		adm = 3
+		dip = 6
+		mil = 1
+		birth_date = 850.1.1
+		death_date = 915.1.1
+		claim = 89
+		religion = coptic
+		culture = armenian
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+867.1.1= {
+	add_prestige = 47
+	add_treasury = 34
+}

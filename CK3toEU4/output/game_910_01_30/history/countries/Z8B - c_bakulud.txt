@@ -1,0 +1,52 @@
+government = tribal
+add_government_reform = tribal_kingdom
+government_rank = 1
+technology_group = western
+religion = converted_malyari
+capital = 2697
+fixed_capital = 2697
+910.1.30= {
+	monarch = {
+		name = "Kabeling"
+		dynasty = "Kandaba"
+		adm = 3
+		dip = 4
+		mil = 3
+		birth_date = 869.11.25
+		religion = converted_malyari
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Malay"
+		dynasty = "Lubang"
+		adm = 3
+		dip = 5
+		mil = 4
+		country_of_origin = Z8B
+		birth_date = 869.3.12
+		death_date = 929.3.12
+		female = yes
+		religion = converted_malyari
+	}
+	add_queen_personality = well_connected_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Padaw"
+		monarch_name = "Padaw"
+		dynasty = "Kandaba"
+		adm = 3
+		dip = 3
+		mil = 2
+		birth_date = 899.4.15
+		death_date = 964.4.15
+		claim = 89
+		religion = converted_malyari
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+910.1.30= {
+	add_prestige = 59
+	add_treasury = 45
+}

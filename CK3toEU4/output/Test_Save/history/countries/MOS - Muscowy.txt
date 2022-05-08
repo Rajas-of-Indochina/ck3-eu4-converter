@@ -1,0 +1,41 @@
+government = tribal
+add_government_reform = tribal_kingdom
+government_rank = 1
+technology_group = eastern
+religion = finnish_pagan
+primary_culture = meshchera
+capital = 295
+fixed_capital = 295
+867.1.1= {
+	monarch = {
+		name = "Koshel"
+		dynasty = "Meshchersky"
+		adm = 4
+		dip = 5
+		mil = 4
+		birth_date = 824.2.9
+		religion = finnish_pagan
+		culture = meshchera
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	heir = {
+		name = "Kvilyo"
+		monarch_name = "Kvilyo"
+		dynasty = "Meshchersky"
+		adm = 5
+		dip = 4
+		mil = 5
+		birth_date = 846.4.12
+		death_date = 911.4.12
+		claim = 89
+		religion = finnish_pagan
+		culture = meshchera
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+867.1.1= {
+	add_prestige = 47
+	add_treasury = 35
+}

@@ -1,0 +1,12 @@
+government = monarchy
+add_government_reform = mandala_reform
+government_rank = 1
+technology_group = chinese
+religion = confucianism
+primary_culture = xibei
+capital = 4198
+fixed_capital = 4198
+867.1.1= {
+	add_prestige = 47
+	add_treasury = 41
+}

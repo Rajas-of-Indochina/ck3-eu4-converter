@@ -1,0 +1,56 @@
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+technology_group = western
+religion = norse_pagan
+primary_culture = dynamic-highland_scottish-norse-culture-num1
+capital = 249
+add_accepted_culture = scottish
+910.1.30= {
+	monarch = {
+		name = "Gunnhildr"
+		dynasty = "Hæsteining"
+		adm = 4
+		dip = 4
+		mil = 4
+		birth_date = 881.6.18
+		female = yes
+		religion = norse_pagan
+		culture = dynamic-highland_scottish-norse-culture-num1
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Frírekr"
+		dynasty = "af Hjálmundalr"
+		adm = 3
+		dip = 2
+		mil = 3
+		country_of_origin = Z2M
+		birth_date = 876.1.16
+		death_date = 936.1.16
+		religion = norse_pagan
+		culture = norse
+	}
+	add_queen_personality = well_connected_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Flosi"
+		monarch_name = "Flosi"
+		dynasty = "af Hjálmundalr"
+		adm = 4
+		dip = 3
+		mil = 5
+		birth_date = 899.2.5
+		death_date = 964.2.5
+		claim = 89
+		religion = norse_pagan
+		culture = norse
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+910.1.30= {
+	add_prestige = 59
+	add_treasury = 39
+}

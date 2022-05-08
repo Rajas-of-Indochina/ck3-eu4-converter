@@ -1,0 +1,41 @@
+government = tribal
+add_government_reform = tribal_kingdom
+government_rank = 1
+technology_group = eastern
+religion = finnish_pagan
+primary_culture = karelian
+capital = 4263
+fixed_capital = 4263
+867.1.1= {
+	monarch = {
+		name = "Valassi"
+		dynasty = "Volan"
+		adm = 2
+		dip = 1
+		mil = 5
+		birth_date = 823.6.13
+		religion = finnish_pagan
+		culture = karelian
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	heir = {
+		name = "Kirilä"
+		monarch_name = "Kirilä"
+		dynasty = "Volan"
+		adm = 4
+		dip = 1
+		mil = 4
+		birth_date = 854.9.14
+		death_date = 919.9.14
+		claim = 89
+		religion = finnish_pagan
+		culture = karelian
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+867.1.1= {
+	add_prestige = 47
+	add_treasury = 33
+}

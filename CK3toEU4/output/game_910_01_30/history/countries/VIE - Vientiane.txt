@@ -1,0 +1,57 @@
+government = monarchy
+add_government_reform = mandala_reform
+government_rank = 1
+technology_group = indian
+religion = buddhism
+primary_culture = mon
+capital = 2385
+fixed_capital = 2385
+910.1.30= {
+	monarch = {
+		name = "Darany"
+		dynasty = "Loei"
+		adm = 3
+		dip = 1
+		mil = 4
+		birth_date = 858.1.1
+		religion = buddhism
+		culture = mon
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Chhean"
+		dynasty = "Phra Lap"
+		adm = 4
+		dip = 3
+		mil = 4
+		country_of_origin = VIE
+		birth_date = 858.1.1
+		death_date = 918.1.1
+		female = yes
+		religion = buddhism
+		culture = mon
+	}
+	add_queen_personality = well_connected_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Rangsei"
+		monarch_name = "Rangsei II"
+		dynasty = "Loei"
+		adm = 6
+		dip = 4
+		mil = 6
+		birth_date = 874.11.28
+		death_date = 939.11.28
+		female = yes
+		claim = 89
+		religion = buddhism
+		culture = mon
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+910.1.30= {
+	add_prestige = 59
+	add_treasury = 49
+}

@@ -1,0 +1,40 @@
+government = tribal
+add_government_reform = steppe_horde
+government_rank = 1
+technology_group = nomad_group
+religion = tengri_pagan
+primary_culture = dynamic-buryat-culture-num1
+capital = 716
+910.1.30= {
+	monarch = {
+		name = "Uskhal"
+		dynasty = "Khori-Tumed"
+		adm = 4
+		dip = 3
+		mil = 4
+		birth_date = 887.6.28
+		religion = tengri_pagan
+		culture = dynamic-buryat-culture-num1
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	heir = {
+		name = "Dondok"
+		monarch_name = "Dondok"
+		dynasty = "Khori-Tumed"
+		adm = 3
+		dip = 5
+		mil = 3
+		birth_date = 900.4.24
+		death_date = 965.4.24
+		claim = 89
+		religion = tengri_pagan
+		culture = dynamic-buryat-culture-num1
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+910.1.30= {
+	add_prestige = 52
+	add_treasury = 33
+}

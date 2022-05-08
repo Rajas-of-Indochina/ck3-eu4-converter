@@ -1,0 +1,18 @@
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 117 190 56 }
+monarch_names = {
+	"Damayanti #0" = -1
+	"Dharmapatni #0" = -1
+	"Kanaka #0" = 0
+	"Kencana #0" = -1
+	"Panjaluan #0" = 0
+	"Ratih #0" = -1
+	"Samahita #0" = 0
+	"Sarini #0" = -1
+	"Soripada #1" = 10
+	"Sorisohaliapan #1" = 10
+	"Wariga #0" = 0
+	"Wijaya #0" = 0
+	"Wiryawawahan #0" = 0
+}

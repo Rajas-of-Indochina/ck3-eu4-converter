@@ -1,0 +1,41 @@
+government = tribal
+add_government_reform = steppe_horde
+government_rank = 1
+technology_group = nomad_group
+religion = tengri_pagan
+primary_culture = kirgiz
+capital = 1969
+fixed_capital = 1969
+1068.6.5= {
+	monarch = {
+		name = "Kubasar"
+		dynasty = "Beldet"
+		adm = 4
+		dip = 0
+		mil = 4
+		birth_date = 1039.6.5
+		religion = tengri_pagan
+		culture = kirgiz
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	heir = {
+		name = "Sirçan"
+		monarch_name = "Sirçan"
+		dynasty = "Beldet"
+		adm = 3
+		dip = 2
+		mil = 2
+		birth_date = 1061.9.21
+		death_date = 1126.9.21
+		claim = 89
+		religion = tengri_pagan
+		culture = kirgiz
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+1068.6.5= {
+	add_prestige = 47
+	add_treasury = 37
+}

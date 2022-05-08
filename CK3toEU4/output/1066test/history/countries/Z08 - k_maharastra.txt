@@ -1,0 +1,11 @@
+government = monarchy
+add_government_reform = mandala_reform
+government_rank = 2
+technology_group = indian
+religion = hinduism
+primary_culture = kannada
+capital = 529
+1068.6.5= {
+	add_prestige = 49
+	add_treasury = 49
+}

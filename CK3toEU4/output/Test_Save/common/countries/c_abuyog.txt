@@ -1,0 +1,13 @@
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 217 221 33 }
+monarch_names = {
+	"Abuwang #0" = 0
+	"Alem #0" = 0
+	"Banaag #0" = 0
+	"Bu-aw #0" = 0
+	"Daga #0" = -1
+	"Daha #0" = -1
+	"Dahitim #0" = -1
+	"Kabli #0" = 0
+}

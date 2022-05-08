@@ -1,0 +1,37 @@
+government = tribal
+add_government_reform = tribal_kingdom
+government_rank = 1
+technology_group = western
+religion = converted_kaharingan
+primary_culture = bornean
+capital = 2711
+fixed_capital = 2711
+910.1.30= {
+	monarch = {
+		name = "(Regency Council)"
+		adm = 3
+		dip = 4
+		mil = 3
+		birth_date = 1.1.1
+		regent = yes
+		religion = converted_kaharingan
+		culture = bornean
+	}
+	heir = {
+		name = "Danum"
+		dynasty = "Ahnani"
+		adm = 5
+		dip = 6
+		mil = 5
+		birth_date = 897.11.30
+		death_date = 962.11.30
+		female = yes
+		claim = 89
+		religion = converted_kaharingan
+		culture = bornean
+	}
+}
+910.1.30= {
+	add_prestige = 50
+	add_treasury = 43
+}

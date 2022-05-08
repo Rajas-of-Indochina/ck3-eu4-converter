@@ -1,0 +1,40 @@
+government = monarchy
+add_government_reform = indian_sultanate_reform
+government_rank = 2
+technology_group = muslim
+religion = sunni
+primary_culture = tajik
+capital = 454
+religious_school = hanafi_school
+add_accepted_culture = sogdian
+867.1.1= {
+	monarch = {
+		name = "Nasr"
+		adm = 3
+		dip = 3
+		mil = 1
+		birth_date = 830.1.1
+		religion = sunni
+		culture = tajik
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	heir = {
+		name = "Isma'il"
+		monarch_name = "Isma'il"
+		adm = 6
+		dip = 3
+		mil = 5
+		birth_date = 820.1.1
+		death_date = 885.1.1
+		claim = 89
+		religion = sunni
+		culture = tajik
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+867.1.1= {
+	add_prestige = 47
+	add_treasury = 53
+}

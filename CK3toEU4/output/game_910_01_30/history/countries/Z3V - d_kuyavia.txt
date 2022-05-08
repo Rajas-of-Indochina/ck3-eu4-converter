@@ -1,0 +1,36 @@
+government = tribal
+add_government_reform = tribal_kingdom
+government_rank = 1
+technology_group = eastern
+religion = slavic_pagan
+primary_culture = kishinyov
+capital = 1939
+add_accepted_culture = polish
+910.1.30= {
+	monarch = {
+		name = "(Regency Council)"
+		adm = 2
+		dip = 2
+		mil = 4
+		birth_date = 1.1.1
+		regent = yes
+		religion = slavic_pagan
+		culture = kishinyov
+	}
+	heir = {
+		name = "Waclaw"
+		dynasty = "z Leczycan"
+		adm = 4
+		dip = 4
+		mil = 6
+		birth_date = 894.3.1
+		death_date = 959.3.1
+		claim = 89
+		religion = slavic_pagan
+		culture = kishinyov
+	}
+}
+910.1.30= {
+	add_prestige = 52
+	add_treasury = 39
+}

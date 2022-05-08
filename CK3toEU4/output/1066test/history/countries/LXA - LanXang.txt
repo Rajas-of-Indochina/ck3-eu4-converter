@@ -1,0 +1,56 @@
+government = monarchy
+add_government_reform = english_monarchy
+government_rank = 1
+technology_group = chinese
+religion = converted_ban_phi
+primary_culture = lao
+capital = 615
+fixed_capital = 615
+1068.6.5= {
+	monarch = {
+		name = "Sao Win"
+		dynasty = "Luang Prabang"
+		adm = 4
+		dip = 4
+		mil = 2
+		birth_date = 1034.8.24
+		religion = converted_ban_phi
+		culture = lao
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Thapthim"
+		dynasty = "Chakkaphak"
+		adm = 3
+		dip = 4
+		mil = 5
+		country_of_origin = LXA
+		birth_date = 1034.7.2
+		death_date = 1094.7.2
+		female = yes
+		religion = converted_ban_phi
+		culture = lao
+	}
+	add_queen_personality = well_connected_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Sam Fangkaen"
+		monarch_name = "Sam Fangkaen"
+		dynasty = "Luang Prabang"
+		adm = 5
+		dip = 6
+		mil = 6
+		birth_date = 1051.9.6
+		death_date = 1116.9.6
+		claim = 89
+		religion = converted_ban_phi
+		culture = lao
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+1068.6.5= {
+	add_prestige = 49
+	add_treasury = 46
+}

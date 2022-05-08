@@ -1,0 +1,56 @@
+government = monarchy
+add_government_reform = mandala_reform
+government_rank = 1
+technology_group = western
+religion = vajrayana
+primary_culture = sumatran
+capital = 618
+910.1.30= {
+	monarch = {
+		name = "Rasuk"
+		dynasty = "Siak"
+		adm = 3
+		dip = 1
+		mil = 3
+		birth_date = 849.1.1
+		religion = vajrayana
+		culture = sumatran
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Tukinem"
+		dynasty = "Prameswara"
+		adm = 5
+		dip = 5
+		mil = 5
+		country_of_origin = Z55
+		birth_date = 874.9.14
+		death_date = 934.9.14
+		female = yes
+		religion = vajrayana
+		culture = sumatran
+	}
+	add_queen_personality = well_connected_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Mentari"
+		monarch_name = "Mentari"
+		dynasty = "Siak"
+		adm = 4
+		dip = 4
+		mil = 6
+		birth_date = 866.1.1
+		death_date = 931.1.1
+		female = yes
+		claim = 89
+		religion = vajrayana
+		culture = sumatran
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+910.1.30= {
+	add_prestige = 72
+	add_treasury = 50
+}

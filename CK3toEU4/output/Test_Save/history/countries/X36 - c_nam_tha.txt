@@ -1,0 +1,53 @@
+government = tribal
+add_government_reform = tribal_kingdom
+government_rank = 1
+technology_group = western
+religion = converted_kuy_animism
+capital = 2381
+fixed_capital = 2381
+867.1.1= {
+	monarch = {
+		name = "Law"
+		dynasty = "Nam Tha"
+		adm = 2
+		dip = 3
+		mil = 2
+		birth_date = 836.9.1
+		religion = converted_kuy_animism
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Champey"
+		dynasty = "Pegu"
+		adm = 2
+		dip = 3
+		mil = 5
+		country_of_origin = X36
+		birth_date = 837.1.1
+		death_date = 897.1.1
+		female = yes
+		religion = converted_kuy_animism
+	}
+	add_queen_personality = well_connected_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Leakena"
+		monarch_name = "Leakena"
+		dynasty = "Orsini"
+		adm = 5
+		dip = 6
+		mil = 5
+		birth_date = 846.4.17
+		death_date = 911.4.17
+		female = yes
+		claim = 89
+		religion = converted_kuy_animism
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+867.1.1= {
+	add_prestige = 47
+	add_treasury = 32
+}

@@ -1,0 +1,55 @@
+government = tribal
+add_government_reform = tribal_kingdom
+government_rank = 1
+technology_group = eastern
+religion = finnish_pagan
+primary_culture = samoyed
+capital = 1955
+1068.6.5= {
+	monarch = {
+		name = "Sarak"
+		dynasty = "Dvinok"
+		adm = 5
+		dip = 5
+		mil = 3
+		birth_date = 1042.4.27
+		religion = finnish_pagan
+		culture = samoyed
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Ilme"
+		dynasty = "Kudmi"
+		adm = 3
+		dip = 1
+		mil = 4
+		country_of_origin = Z0Q
+		birth_date = 1042.5.7
+		death_date = 1102.5.7
+		female = yes
+		religion = finnish_pagan
+		culture = samoyed
+	}
+	add_queen_personality = well_connected_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Mandak"
+		monarch_name = "Mandak"
+		dynasty = "Dvinok"
+		adm = 0
+		dip = 0
+		mil = 0
+		birth_date = 1068.4.29
+		death_date = 1133.4.29
+		claim = 89
+		religion = finnish_pagan
+		culture = samoyed
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+1068.6.5= {
+	add_prestige = 49
+	add_treasury = 50
+}

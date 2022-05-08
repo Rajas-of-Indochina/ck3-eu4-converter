@@ -1,0 +1,36 @@
+government = monarchy
+add_government_reform = iqta
+government_rank = 1
+technology_group = indian
+religion = sunni
+primary_culture = panjabi
+capital = 506
+religious_school = hanbali_school
+910.1.30= {
+	monarch = {
+		name = "(Regency Council)"
+		adm = 2
+		dip = 2
+		mil = 2
+		birth_date = 1.1.1
+		regent = yes
+		religion = sunni
+		culture = panjabi
+	}
+	heir = {
+		name = "Genhra"
+		dynasty = "Banu Sama"
+		adm = 4
+		dip = 4
+		mil = 4
+		birth_date = 897.4.29
+		death_date = 962.4.29
+		claim = 89
+		religion = sunni
+		culture = panjabi
+	}
+}
+910.1.30= {
+	add_prestige = 56
+	add_treasury = 58
+}

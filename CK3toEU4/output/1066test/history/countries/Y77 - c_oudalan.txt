@@ -1,0 +1,43 @@
+government = tribal
+add_government_reform = tribal_kingdom
+government_rank = 1
+technology_group = sub_saharan
+religion = shamanism
+primary_culture = bozo
+capital = 2264
+fixed_capital = 2264
+add_accepted_culture = mali
+1068.6.5= {
+	monarch = {
+		name = "Kwiimba II"
+		dynasty = "Liptako"
+		adm = 3
+		dip = 1
+		mil = 2
+		birth_date = 1051.1.1
+		religion = shamanism
+		culture = bozo
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	heir = {
+		name = "Kilia"
+		monarch_name = "Kilia"
+		dynasty = "Orsini"
+		adm = 6
+		dip = 6
+		mil = 5
+		birth_date = 1037.3.12
+		death_date = 1102.3.12
+		female = yes
+		claim = 89
+		religion = shamanism
+		culture = mali
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+1068.6.5= {
+	add_prestige = 48
+	add_treasury = 43
+}

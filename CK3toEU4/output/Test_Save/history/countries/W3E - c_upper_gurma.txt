@@ -1,0 +1,58 @@
+government = tribal
+add_government_reform = tribal_kingdom
+government_rank = 1
+technology_group = sub_saharan
+religion = shamanism
+primary_culture = mali
+capital = 2262
+fixed_capital = 2262
+add_accepted_culture = bozo
+867.1.1= {
+	monarch = {
+		name = "Iwunliin"
+		dynasty = "Jelgoji"
+		adm = 4
+		dip = 4
+		mil = 4
+		birth_date = 848.1.1
+		religion = shamanism
+		culture = mali
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Wenkouni"
+		dynasty = "Yungur"
+		adm = 3
+		dip = 1
+		mil = 4
+		country_of_origin = W3E
+		birth_date = 848.1.1
+		death_date = 908.1.1
+		female = yes
+		religion = shamanism
+		culture = mali
+	}
+	add_queen_personality = well_connected_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Ina"
+		monarch_name = "Ina"
+		dynasty = "Orsini"
+		adm = 4
+		dip = 6
+		mil = 4
+		birth_date = 835.7.23
+		death_date = 900.7.23
+		female = yes
+		claim = 89
+		religion = shamanism
+		culture = mali
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+867.1.1= {
+	add_prestige = 47
+	add_treasury = 33
+}

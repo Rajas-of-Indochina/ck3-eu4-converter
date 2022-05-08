@@ -1,0 +1,56 @@
+government = tribal
+add_government_reform = tribal_kingdom
+government_rank = 1
+technology_group = western
+religion = slavic_pagan
+primary_culture = sorbian
+capital = 47
+fixed_capital = 47
+867.1.1= {
+	monarch = {
+		name = "Oldrich"
+		dynasty = "Rani"
+		adm = 2
+		dip = 4
+		mil = 3
+		birth_date = 834.8.30
+		religion = slavic_pagan
+		culture = sorbian
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Maria"
+		dynasty = "Swieca"
+		adm = 4
+		dip = 3
+		mil = 3
+		country_of_origin = X7B
+		birth_date = 835.1.1
+		death_date = 895.1.1
+		female = yes
+		religion = slavic_pagan
+		culture = sorbian
+	}
+	add_queen_personality = well_connected_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Kruto"
+		monarch_name = "Kruto"
+		dynasty = "Ukria"
+		adm = 5
+		dip = 6
+		mil = 6
+		birth_date = 832.1.1
+		death_date = 897.1.1
+		claim = 89
+		religion = slavic_pagan
+		culture = sorbian
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+867.1.1= {
+	add_prestige = 47
+	add_treasury = 33
+}

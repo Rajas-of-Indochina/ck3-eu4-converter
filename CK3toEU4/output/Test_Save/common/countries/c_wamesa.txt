@@ -1,0 +1,15 @@
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 252 56 13 }
+monarch_names = {
+	"Ganda #0" = -1
+	"Gerey #0" = -1
+	"Gitgit #0" = 0
+	"Kanak #0" = 0
+	"Lapsay #0" = -1
+	"Lapul #0" = 0
+	"Limlim #0" = -1
+	"Senad #0" = -1
+	"Seweng #0" = 0
+	"Sipang #0" = 0
+}

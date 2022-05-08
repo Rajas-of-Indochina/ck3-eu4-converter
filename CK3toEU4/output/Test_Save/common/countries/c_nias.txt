@@ -1,0 +1,15 @@
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 254 160 51 }
+monarch_names = {
+	"Idanoi #1" = 10
+	"Kirana #0" = -1
+	"Lewih #0" = 0
+	"Mudita #0" = 0
+	"Parwati #0" = -1
+	"Saraswati #0" = -1
+	"Sarini #0" = -1
+	"Shima #0" = -1
+	"Umang #0" = -1
+	"Wiryawawahan #0" = 0
+}

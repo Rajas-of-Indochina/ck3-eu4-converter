@@ -1,0 +1,40 @@
+government = tribal
+add_government_reform = tribal_kingdom
+government_rank = 1
+technology_group = chinese
+religion = bon_reformed
+primary_culture = zhangzhung
+capital = 4518
+1068.6.5= {
+	monarch = {
+		name = "Tridé"
+		dynasty = "Jétanak"
+		adm = 2
+		dip = 4
+		mil = 2
+		birth_date = 1020.1.1
+		religion = bon_reformed
+		culture = zhangzhung
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	heir = {
+		name = "Namdé"
+		monarch_name = "Namdé"
+		dynasty = "Jétanak"
+		adm = 3
+		dip = 6
+		mil = 1
+		birth_date = 1040.1.1
+		death_date = 1105.1.1
+		claim = 89
+		religion = bon_reformed
+		culture = zhangzhung
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+1068.6.5= {
+	add_prestige = 48
+	add_treasury = 42
+}

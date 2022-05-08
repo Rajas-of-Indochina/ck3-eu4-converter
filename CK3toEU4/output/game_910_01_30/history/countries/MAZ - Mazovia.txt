@@ -1,0 +1,43 @@
+government = tribal
+add_government_reform = tribal_kingdom
+government_rank = 1
+technology_group = eastern
+religion = slavic_pagan
+primary_culture = kishinyov
+capital = 256
+add_accepted_culture = polish
+add_accepted_culture = ruthenian
+910.1.30= {
+	monarch = {
+		name = "Ulita"
+		dynasty = "Betula"
+		adm = 3
+		dip = 2
+		mil = 5
+		birth_date = 877.3.2
+		female = yes
+		religion = slavic_pagan
+		culture = kishinyov
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	heir = {
+		name = "Waclaw"
+		monarch_name = "Waclaw"
+		dynasty = "z Leczycan"
+		adm = 4
+		dip = 4
+		mil = 6
+		birth_date = 894.3.1
+		death_date = 959.3.1
+		claim = 89
+		religion = slavic_pagan
+		culture = russian_culture
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+910.1.30= {
+	add_prestige = 68
+	add_treasury = 51
+}

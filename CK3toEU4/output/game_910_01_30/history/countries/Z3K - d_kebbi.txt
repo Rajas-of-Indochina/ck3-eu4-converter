@@ -1,0 +1,42 @@
+government = tribal
+add_government_reform = tribal_kingdom
+government_rank = 1
+technology_group = sub_saharan
+religion = shamanism
+primary_culture = hausa
+capital = 2278
+910.1.30= {
+	monarch = {
+		name = "Namiss"
+		dynasty = "Karbo"
+		adm = 4
+		dip = 2
+		mil = 5
+		birth_date = 887.4.16
+		female = yes
+		religion = shamanism
+		culture = hausa
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	heir = {
+		name = "Aoua"
+		monarch_name = "Aoua"
+		dynasty = "Karbo"
+		adm = 3
+		dip = 4
+		mil = 4
+		birth_date = 888.5.11
+		death_date = 953.5.11
+		female = yes
+		claim = 89
+		religion = shamanism
+		culture = hausa
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+910.1.30= {
+	add_prestige = 50
+	add_treasury = 54
+}

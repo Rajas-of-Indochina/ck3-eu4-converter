@@ -1,0 +1,57 @@
+government = tribal
+add_government_reform = tribal_kingdom
+government_rank = 1
+technology_group = western
+religion = converted_kuy_animism
+primary_culture = lao
+capital = 1844
+fixed_capital = 1844
+1068.6.5= {
+	monarch = {
+		name = "Migadeippa"
+		dynasty = "Seang"
+		adm = 1
+		dip = 6
+		mil = 0
+		birth_date = 1039.11.15
+		religion = converted_kuy_animism
+		culture = lao
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Rangsei"
+		dynasty = "Chon"
+		adm = 3
+		dip = 4
+		mil = 5
+		country_of_origin = X3H
+		birth_date = 1040.5.27
+		death_date = 1100.5.27
+		female = yes
+		religion = converted_kuy_animism
+		culture = lao
+	}
+	add_queen_personality = well_connected_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Peou"
+		monarch_name = "Peou"
+		dynasty = "Seang"
+		adm = 4
+		dip = 4
+		mil = 4
+		birth_date = 1057.9.13
+		death_date = 1122.9.13
+		female = yes
+		claim = 89
+		religion = converted_kuy_animism
+		culture = lao
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+1068.6.5= {
+	add_prestige = 47
+	add_treasury = 35
+}

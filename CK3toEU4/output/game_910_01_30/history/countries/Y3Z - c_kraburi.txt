@@ -1,0 +1,57 @@
+government = tribal
+add_government_reform = tribal_kingdom
+government_rank = 1
+technology_group = western
+religion = converted_umboh
+primary_culture = central_thai
+capital = 2390
+fixed_capital = 2390
+910.1.30= {
+	monarch = {
+		name = "Darmaraksa"
+		dynasty = "Prameswara"
+		adm = 3
+		dip = 3
+		mil = 2
+		birth_date = 871.3.2
+		religion = converted_umboh
+		culture = central_thai
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Damayanti"
+		dynasty = "Sakean"
+		adm = 4
+		dip = 2
+		mil = 6
+		country_of_origin = Y3Z
+		birth_date = 870.12.22
+		death_date = 930.12.22
+		female = yes
+		religion = converted_umboh
+		culture = central_thai
+	}
+	add_queen_personality = well_connected_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Candrawati"
+		monarch_name = "Candrawati"
+		dynasty = "Prameswara"
+		adm = 1
+		dip = 1
+		mil = 1
+		birth_date = 905.12.2
+		death_date = 970.12.2
+		female = yes
+		claim = 89
+		religion = converted_umboh
+		culture = central_thai
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+910.1.30= {
+	add_prestige = 58
+	add_treasury = 71
+}

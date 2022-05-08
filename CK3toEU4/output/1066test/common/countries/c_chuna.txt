@@ -1,0 +1,17 @@
+ck2_converter_generated = yes
+graphical_culture = inuitgfx
+color = { 15 30 20 }
+monarch_names = {
+	"Aldar #0" = 0
+	"Bair #1" = 10
+	"Batu #1" = 10
+	"Bolot #0" = 0
+	"Dashinima #0" = 0
+	"Erdenebal #0" = 0
+	"Geleg #0" = 0
+	"Gerelma #0" = -1
+	"Jorightu #0" = 0
+	"Toq #0" = 0
+	"Tsyren #1" = 10
+	"Zamso #0" = 0
+}

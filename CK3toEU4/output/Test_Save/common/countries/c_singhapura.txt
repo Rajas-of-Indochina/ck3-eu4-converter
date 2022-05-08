@@ -1,0 +1,13 @@
+ck2_converter_generated = yes
+graphical_culture = indiangfx
+color = { 153 118 206 }
+monarch_names = {
+	"Hnin An Po #0" = -1
+	"Leap #0" = -1
+	"Leik Munhtaw #0" = 0
+	"Rom #0" = -1
+	"Seda #0" = -1
+	"Sov #0" = 0
+	"Sovanna #0" = -1
+	"Viseth #0" = 0
+}

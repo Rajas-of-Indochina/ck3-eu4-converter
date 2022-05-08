@@ -1,0 +1,12 @@
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+technology_group = western
+religion = buddhism
+primary_culture = burmese
+capital = 4393
+fixed_capital = 4393
+867.1.1= {
+	add_prestige = 47
+	add_treasury = 41
+}

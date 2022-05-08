@@ -1,0 +1,42 @@
+government = monarchy
+add_government_reform = iqta
+government_rank = 1
+technology_group = muslim
+religion = sunni
+primary_culture = moroccan
+capital = 4561
+fixed_capital = 4561
+religious_school = hanbali_school
+910.1.30= {
+	monarch = {
+		name = "Awzal"
+		dynasty = "Ghomara"
+		adm = 1
+		dip = 6
+		mil = 2
+		birth_date = 856.1.1
+		religion = sunni
+		culture = moroccan
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	heir = {
+		name = "Khalid"
+		monarch_name = "Khalid"
+		dynasty = "Ghomara"
+		adm = 5
+		dip = 6
+		mil = 3
+		birth_date = 864.1.1
+		death_date = 929.1.1
+		claim = 89
+		religion = sunni
+		culture = berber
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+910.1.30= {
+	add_prestige = 53
+	add_treasury = 0
+}

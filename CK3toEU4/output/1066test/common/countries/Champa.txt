@@ -1,0 +1,83 @@
+ck2_converter_generated = yes
+graphical_culture = asiangfx
+color = { 53 151 151 }
+revolutionary_colors = { 8 4 8 }
+historical_idea_groups = {
+	defensive_ideas
+	offensive_ideas
+	spy_ideas
+	trade_ideas
+	economic_ideas
+	diplomatic_ideas
+	innovativeness_ideas
+	religious_ideas
+}
+historical_units = {
+	asian_arquebusier
+	asian_charge_cavalry
+	asian_mass_infantry
+	asian_musketeer
+	east_asian_spearmen
+	eastern_bow
+	reformed_asian_cavalry
+	reformed_asian_musketeer
+}
+monarch_names = {
+	"Bhadravarman #1" = 10
+	"Bhadresvaravarman #1" = 10
+	"Bhasadharmavarman #1" = 10
+	"Bhavavarman #1" = 10
+	"Dewantara #0" = 0
+	"Harivarman #3" = 10
+	"Indravarman #4" = 10
+	"Jaya Indravarman #1" = 10
+	"Jaya Paramesvaravarman #1" = 10
+	"Jaya Simhavarman #2" = 10
+	"Kandarpadharmavarman #1" = 10
+	"Kiri #0" = 0
+	"Luu K0 Tông #1" = 10
+	"Merenui #0" = -1
+	"Orama #0" = -1
+	"Paramesvaravarman #2" = 10
+	"Pear #0" = -1
+	"Poe #0" = -1
+	"Poenui #0" = -1
+	"Prithindravarman #1" = 10
+	"Rudravarman #2" = 10
+	"Sambhuvarman #1" = 10
+	"Satyavarman #1" = 10
+	"Sri Vijayavarman #1" = 10
+	"Vikrantavarman #4" = 10
+}
+leader_names = {
+	"Che"
+	"Dang"
+	"Duong"
+	"Lang"
+	"Le"
+	"Minh"
+	"Nguyen"
+	"Ong"
+	"Pham"
+	"Sam"
+	"Tra"
+}
+ship_names = {
+	"Amaravati"
+	"Bhadravarman"
+	"Bichai"
+	"Bo-de"
+	"Che Bong-nga"
+	"Harivarman"
+	"Indrapura"
+	"Indravarman"
+	"Jayasimhavarman"
+	"Kauthara"
+	"Mahendravarman"
+	"Panduranga"
+	"Paramabodhisattva"
+	"Parameshvaravarman"
+	"Rudravarman"
+	"Vijayq"
+}
+special_unit_culture = south_east_asian_special

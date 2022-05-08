@@ -1,0 +1,42 @@
+government = tribal
+add_government_reform = tribal_kingdom
+government_rank = 1
+technology_group = sub_saharan
+religion = shamanism
+primary_culture = kanuri
+capital = 2280
+fixed_capital = 2280
+add_accepted_culture = hausa
+910.1.30= {
+	monarch = {
+		name = "Aritso"
+		dynasty = "Duguwa"
+		adm = 2
+		dip = 4
+		mil = 2
+		birth_date = 877.12.18
+		religion = shamanism
+		culture = kanuri
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	heir = {
+		name = "Fune"
+		monarch_name = "Fune"
+		dynasty = "Duguwa"
+		adm = 5
+		dip = 5
+		mil = 4
+		birth_date = 865.1.1
+		death_date = 930.1.1
+		claim = 89
+		religion = shamanism
+		culture = kanuri
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+910.1.30= {
+	add_prestige = 62
+	add_treasury = 58
+}

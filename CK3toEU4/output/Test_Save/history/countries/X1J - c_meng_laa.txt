@@ -1,0 +1,52 @@
+government = tribal
+add_government_reform = tribal_kingdom
+government_rank = 1
+technology_group = western
+religion = converted_ban_phi
+capital = 660
+fixed_capital = 660
+867.1.1= {
+	monarch = {
+		name = "Sao Kyi"
+		dynasty = "Nga"
+		adm = 3
+		dip = 5
+		mil = 3
+		birth_date = 839.1.1
+		religion = converted_ban_phi
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Bua Kham"
+		dynasty = "Futrakul"
+		adm = 2
+		dip = 4
+		mil = 4
+		country_of_origin = X1J
+		birth_date = 839.1.1
+		death_date = 899.1.1
+		female = yes
+		religion = converted_ban_phi
+	}
+	add_queen_personality = well_connected_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Phao"
+		monarch_name = "Phao"
+		dynasty = "Orsini"
+		adm = 4
+		dip = 2
+		mil = 4
+		birth_date = 848.5.18
+		death_date = 913.5.18
+		claim = 89
+		religion = converted_ban_phi
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+867.1.1= {
+	add_prestige = 47
+	add_treasury = 31
+}

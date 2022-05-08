@@ -1,0 +1,9 @@
+ck2_converter_generated = yes
+graphical_culture = asiangfx
+color = { 192 130 138 }
+monarch_names = {
+	"Jayadevi #0" = -1
+	"Phirun #0" = 0
+	"Samang #0" = 0
+	"Sokha #0" = 0
+}

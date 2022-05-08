@@ -1,0 +1,56 @@
+government = tribal
+add_government_reform = tribal_kingdom
+government_rank = 1
+technology_group = western
+religion = converted_kaharingan
+primary_culture = bornean
+capital = 4805
+fixed_capital = 4805
+1068.6.5= {
+	monarch = {
+		name = "Sanja"
+		dynasty = "Marturak"
+		adm = 3
+		dip = 3
+		mil = 5
+		birth_date = 1041.4.2
+		religion = converted_kaharingan
+		culture = bornean
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Long"
+		dynasty = "Tahmid"
+		adm = 2
+		dip = 3
+		mil = 4
+		country_of_origin = Y5P
+		birth_date = 1041.4.30
+		death_date = 1101.4.30
+		female = yes
+		religion = converted_kaharingan
+		culture = bornean
+	}
+	add_queen_personality = well_connected_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Hamen"
+		monarch_name = "Hamen"
+		dynasty = "Marturak"
+		adm = 0
+		dip = 4
+		mil = 3
+		birth_date = 1058.2.1
+		death_date = 1123.2.1
+		claim = 89
+		religion = converted_kaharingan
+		culture = bornean
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+1068.6.5= {
+	add_prestige = 48
+	add_treasury = 40
+}

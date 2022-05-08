@@ -1,0 +1,14 @@
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 236 102 0 }
+monarch_names = {
+	"Chakara #0" = 0
+	"Kalliyan #0" = -1
+	"Karawika #0" = 0
+	"Mau #0" = -1
+	"Peou #0" = -1
+	"Rangsei #0" = -1
+	"Sonisay #0" = -1
+	"Sothiya #0" = 0
+	"Visoth #0" = 0
+}

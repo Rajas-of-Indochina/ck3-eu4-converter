@@ -1,0 +1,56 @@
+government = tribal
+add_government_reform = tribal_federation
+government_rank = 1
+technology_group = muslim
+religion = sunni
+primary_culture = bedouin_arabic
+capital = 393
+religious_school = hanbali_school
+1068.6.5= {
+	monarch = {
+		name = "Zubayd"
+		dynasty = "Tayyi"
+		adm = 6
+		dip = 2
+		mil = 5
+		birth_date = 1042.1.1
+		religion = sunni
+		culture = bedouin_arabic
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Sahba"
+		dynasty = "Suleimid"
+		adm = 2
+		dip = 2
+		mil = 2
+		country_of_origin = NAJ
+		birth_date = 1042.4.7
+		death_date = 1102.4.7
+		female = yes
+		religion = sunni
+		culture = bedouin_arabic
+	}
+	add_queen_personality = well_connected_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Ya'qub"
+		monarch_name = "Ya'qub"
+		dynasty = "Tayyi"
+		adm = 2
+		dip = 0
+		mil = 2
+		birth_date = 1059.1.26
+		death_date = 1124.1.26
+		claim = 89
+		religion = sunni
+		culture = bedouin_arabic
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+1068.6.5= {
+	add_prestige = 48
+	add_treasury = 39
+}

@@ -1,0 +1,41 @@
+government = tribal
+add_government_reform = siberian_tribe
+government_rank = 1
+technology_group = eastern
+religion = siberian_pagan
+primary_culture = ostyaki
+capital = 1073
+fixed_capital = 1073
+867.1.1= {
+	monarch = {
+		name = "Deryab"
+		dynasty = "Kodaar"
+		adm = 2
+		dip = 4
+		mil = 1
+		birth_date = 838.5.14
+		religion = siberian_pagan
+		culture = ostyaki
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	heir = {
+		name = "Biur"
+		monarch_name = "Biur"
+		dynasty = "Kodaar"
+		adm = 0
+		dip = 1
+		mil = 1
+		birth_date = 864.1.16
+		death_date = 929.1.16
+		claim = 89
+		religion = siberian_pagan
+		culture = ostyaki
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+867.1.1= {
+	add_prestige = 47
+	add_treasury = 32
+}

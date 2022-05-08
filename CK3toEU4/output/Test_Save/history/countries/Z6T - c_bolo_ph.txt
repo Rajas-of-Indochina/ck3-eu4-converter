@@ -1,0 +1,52 @@
+government = tribal
+add_government_reform = tribal_kingdom
+government_rank = 1
+technology_group = western
+religion = converted_kabunian
+capital = 4348
+fixed_capital = 4348
+867.1.1= {
+	monarch = {
+		name = "Lukneng"
+		dynasty = "Tabuk"
+		adm = 2
+		dip = 2
+		mil = 2
+		birth_date = 844.1.1
+		female = yes
+		religion = converted_kabunian
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Pudun"
+		dynasty = "Macatulad"
+		adm = 2
+		dip = 5
+		mil = 3
+		country_of_origin = Z6T
+		birth_date = 844.1.1
+		death_date = 904.1.1
+		religion = converted_kabunian
+	}
+	add_queen_personality = well_connected_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Ingas"
+		monarch_name = "Ingas"
+		dynasty = "Orsini"
+		adm = 6
+		dip = 5
+		mil = 6
+		birth_date = 849.4.26
+		death_date = 914.4.26
+		claim = 89
+		religion = converted_kabunian
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+867.1.1= {
+	add_prestige = 47
+	add_treasury = 33
+}

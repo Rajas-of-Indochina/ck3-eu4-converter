@@ -1,0 +1,53 @@
+government = tribal
+add_government_reform = tribal_kingdom
+government_rank = 1
+technology_group = western
+religion = converted_penunggu
+capital = 1245
+fixed_capital = 1245
+910.1.30= {
+	monarch = {
+		name = "Phuba"
+		dynasty = "Biagel"
+		adm = 3
+		dip = 2
+		mil = 5
+		birth_date = 845.10.26
+		religion = converted_penunggu
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Korikuku"
+		dynasty = "Dupu"
+		adm = 4
+		dip = 2
+		mil = 2
+		country_of_origin = Y9E
+		birth_date = 867.1.1
+		death_date = 927.1.1
+		female = yes
+		religion = converted_penunggu
+	}
+	add_queen_personality = well_connected_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Gunduba"
+		monarch_name = "Gunduba"
+		dynasty = "Biagel"
+		adm = 6
+		dip = 6
+		mil = 6
+		birth_date = 863.1.1
+		death_date = 928.1.1
+		female = yes
+		claim = 89
+		religion = converted_penunggu
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+910.1.30= {
+	add_prestige = 71
+	add_treasury = 60
+}

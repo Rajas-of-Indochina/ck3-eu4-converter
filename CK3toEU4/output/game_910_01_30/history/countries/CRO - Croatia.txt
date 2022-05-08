@@ -1,0 +1,36 @@
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+technology_group = eastern
+religion = catholic
+primary_culture = croatian
+capital = 4752
+add_accepted_culture = bosnian
+910.1.30= {
+	monarch = {
+		name = "(Regency Council)"
+		adm = 3
+		dip = 2
+		mil = 3
+		birth_date = 1.1.1
+		regent = yes
+		religion = catholic
+		culture = croatian
+	}
+	heir = {
+		name = "Iljko II"
+		dynasty = "Domagojevic"
+		adm = 5
+		dip = 4
+		mil = 5
+		birth_date = 898.5.18
+		death_date = 963.5.18
+		claim = 89
+		religion = catholic
+		culture = croatian
+	}
+}
+910.1.30= {
+	add_prestige = 52
+	add_treasury = 49
+}

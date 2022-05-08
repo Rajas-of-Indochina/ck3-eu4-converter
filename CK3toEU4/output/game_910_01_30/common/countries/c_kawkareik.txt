@@ -1,0 +1,13 @@
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 162 100 214 }
+monarch_names = {
+	"Bopha #0" = -1
+	"Chanlina #0" = -1
+	"Haymar #0" = -1
+	"Hkyam #0" = -1
+	"Khant #0" = 0
+	"Maung #0" = 0
+	"Mee #1" = 10
+	"Thawka #0" = -1
+}

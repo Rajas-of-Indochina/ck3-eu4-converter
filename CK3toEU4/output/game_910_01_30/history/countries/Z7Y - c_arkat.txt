@@ -1,0 +1,56 @@
+government = tribal
+add_government_reform = steppe_horde
+government_rank = 1
+technology_group = nomad_group
+religion = tengri_pagan
+primary_culture = uzbehk
+capital = 478
+fixed_capital = 478
+910.1.30= {
+	monarch = {
+		name = "Etrek"
+		dynasty = "Jetöris"
+		adm = 4
+		dip = 3
+		mil = 5
+		birth_date = 883.9.17
+		religion = tengri_pagan
+		culture = uzbehk
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Esin"
+		dynasty = "al-Harrani"
+		adm = 3
+		dip = 4
+		mil = 5
+		country_of_origin = Z7Y
+		birth_date = 878.2.27
+		death_date = 938.2.27
+		female = yes
+		religion = tengri_pagan
+		culture = kirgiz
+	}
+	add_queen_personality = well_connected_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Kutan"
+		monarch_name = "Kutan"
+		dynasty = "Jetöris"
+		adm = 3
+		dip = 1
+		mil = 2
+		birth_date = 904.7.21
+		death_date = 969.7.21
+		claim = 89
+		religion = tengri_pagan
+		culture = uzbehk
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+910.1.30= {
+	add_prestige = 60
+	add_treasury = 41
+}

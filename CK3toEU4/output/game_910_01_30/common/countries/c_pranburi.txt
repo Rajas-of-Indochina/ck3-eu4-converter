@@ -1,0 +1,14 @@
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+monarch_names = {
+	"Atha #0" = 0
+	"Bourey #0" = 0
+	"Champey #0" = -1
+	"Mealea #0" = -1
+	"Napet #1" = 10
+	"Narith #0" = 0
+	"Nhean #0" = 0
+	"Purnama #0" = -1
+	"Sudiwara #0" = -1
+	"“Arya_Damar” #1" = 10
+}

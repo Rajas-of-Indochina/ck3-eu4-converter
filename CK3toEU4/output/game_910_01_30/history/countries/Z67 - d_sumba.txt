@@ -1,0 +1,40 @@
+government = tribal
+add_government_reform = tribal_kingdom
+government_rank = 1
+technology_group = western
+religion = converted_celebic
+primary_culture = nusa_tenggara
+capital = 634
+910.1.30= {
+	monarch = {
+		name = "Siale"
+		dynasty = "Ganda"
+		adm = 2
+		dip = 4
+		mil = 4
+		birth_date = 891.6.10
+		religion = converted_celebic
+		culture = nusa_tenggara
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	heir = {
+		name = "Gapi"
+		monarch_name = "Gapi"
+		dynasty = "Ganda"
+		adm = 6
+		dip = 4
+		mil = 6
+		birth_date = 893.4.1
+		death_date = 958.4.1
+		claim = 89
+		religion = converted_celebic
+		culture = nusa_tenggara
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+910.1.30= {
+	add_prestige = 55
+	add_treasury = 37
+}

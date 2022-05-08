@@ -1,0 +1,43 @@
+government = monarchy
+add_government_reform = iqta
+government_rank = 1
+technology_group = nomad_group
+religion = sunni
+primary_culture = sogdian
+capital = 430
+fixed_capital = 430
+religious_school = hanafi_school
+add_accepted_culture = persian
+910.1.30= {
+	monarch = {
+		name = "Sagharak"
+		dynasty = "Pendarid"
+		adm = 3
+		dip = 3
+		mil = 3
+		birth_date = 878.1.14
+		religion = sunni
+		culture = sogdian
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	heir = {
+		name = "Omaid"
+		monarch_name = "Omaid"
+		dynasty = "Pendarid"
+		adm = 5
+		dip = 6
+		mil = 5
+		birth_date = 874.9.30
+		death_date = 939.9.30
+		claim = 89
+		religion = khurmazta
+		culture = tajik
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+910.1.30= {
+	add_prestige = 55
+	add_treasury = 61
+}

@@ -1,0 +1,56 @@
+government = tribal
+add_government_reform = steppe_horde
+government_rank = 1
+technology_group = nomad_group
+religion = jewish
+primary_culture = kazani
+capital = 4267
+fixed_capital = 4267
+910.1.30= {
+	monarch = {
+		name = "Puyantay"
+		dynasty = "Samarid"
+		adm = 3
+		dip = 3
+		mil = 5
+		birth_date = 861.1.1
+		female = yes
+		religion = jewish
+		culture = kazani
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Ephraim"
+		dynasty = "Bulçir"
+		adm = 4
+		dip = 3
+		mil = 4
+		country_of_origin = Y81
+		birth_date = 865.1.2
+		death_date = 925.1.2
+		religion = jewish
+		culture = khazar
+	}
+	add_queen_personality = well_connected_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Kayghalagh"
+		monarch_name = "Kayghalagh"
+		dynasty = "Bulçir"
+		adm = 4
+		dip = 6
+		mil = 6
+		birth_date = 883.2.25
+		death_date = 948.2.25
+		claim = 89
+		religion = jewish
+		culture = khazar
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+910.1.30= {
+	add_prestige = 62
+	add_treasury = 36
+}

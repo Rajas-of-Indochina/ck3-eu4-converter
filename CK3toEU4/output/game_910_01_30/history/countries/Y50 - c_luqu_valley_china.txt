@@ -1,0 +1,42 @@
+government = tribal
+add_government_reform = steppe_horde
+government_rank = 1
+technology_group = western
+religion = tengri_pagan
+primary_culture = khalkha
+capital = 717
+fixed_capital = 717
+910.1.30= {
+	monarch = {
+		name = "Doquz"
+		dynasty = "Bargujin"
+		adm = 3
+		dip = 4
+		mil = 3
+		birth_date = 876.6.2
+		female = yes
+		religion = tengri_pagan
+		culture = khalkha
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	heir = {
+		name = "Iturgen"
+		monarch_name = "Iturgen"
+		dynasty = "al-Harrani"
+		adm = 6
+		dip = 4
+		mil = 6
+		birth_date = 873.6.28
+		death_date = 938.6.28
+		claim = 89
+		religion = tengri_pagan
+		culture = khalkha
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+910.1.30= {
+	add_prestige = 47
+	add_treasury = 62
+}

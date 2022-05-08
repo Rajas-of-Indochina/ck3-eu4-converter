@@ -1,0 +1,53 @@
+government = tribal
+add_government_reform = tribal_kingdom
+government_rank = 1
+technology_group = western
+religion = converted_celebic
+capital = 643
+fixed_capital = 643
+1068.6.5= {
+	monarch = {
+		name = "Karaeng"
+		dynasty = "Salakan"
+		adm = 2
+		dip = 5
+		mil = 2
+		birth_date = 1045.11.28
+		religion = converted_celebic
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Vaiana"
+		dynasty = "Agid"
+		adm = 0
+		dip = 2
+		mil = 0
+		country_of_origin = Z55
+		birth_date = 1046.1.9
+		death_date = 1106.1.9
+		female = yes
+		religion = converted_celebic
+	}
+	add_queen_personality = well_connected_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Raunui"
+		monarch_name = "Raunui"
+		dynasty = "Salakan"
+		adm = 1
+		dip = 3
+		mil = 1
+		birth_date = 1063.4.16
+		death_date = 1128.4.16
+		female = yes
+		claim = 89
+		religion = converted_celebic
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+1068.6.5= {
+	add_prestige = 48
+	add_treasury = 39
+}

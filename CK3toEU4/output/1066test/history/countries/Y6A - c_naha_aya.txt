@@ -1,0 +1,56 @@
+government = tribal
+add_government_reform = tribal_kingdom
+government_rank = 1
+technology_group = western
+religion = converted_kaharingan
+primary_culture = bornean
+capital = 2711
+fixed_capital = 2711
+1068.6.5= {
+	monarch = {
+		name = "Keling"
+		dynasty = "Naha Aya"
+		adm = 2
+		dip = 6
+		mil = 2
+		birth_date = 1034.1.17
+		religion = converted_kaharingan
+		culture = bornean
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Arai"
+		dynasty = "Hamengku"
+		adm = 2
+		dip = 4
+		mil = 2
+		country_of_origin = Y6A
+		birth_date = 1034.3.19
+		death_date = 1094.3.19
+		female = yes
+		religion = converted_kaharingan
+		culture = bornean
+	}
+	add_queen_personality = well_connected_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Wan"
+		monarch_name = "Wan"
+		dynasty = "Naha Aya"
+		adm = 0
+		dip = 5
+		mil = 3
+		birth_date = 1051.5.22
+		death_date = 1116.5.22
+		claim = 89
+		religion = converted_kaharingan
+		culture = bornean
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+1068.6.5= {
+	add_prestige = 48
+	add_treasury = 39
+}

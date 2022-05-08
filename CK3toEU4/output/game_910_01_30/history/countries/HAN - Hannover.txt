@@ -1,0 +1,41 @@
+government = monarchy
+add_government_reform = english_monarchy
+government_rank = 1
+technology_group = western
+religion = catholic
+primary_culture = lower_saxon
+capital = 4771
+910.1.30= {
+	monarch = {
+		name = "Oda"
+		dynasty = "Ludolfinger"
+		adm = 4
+		dip = 2
+		mil = 5
+		birth_date = 883.8.27
+		female = yes
+		religion = catholic
+		culture = lower_saxon
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	heir = {
+		name = "Ljutomisl"
+		monarch_name = "Ljutomisl"
+		dynasty = "Bijelahrvatskic"
+		adm = 3
+		dip = 2
+		mil = 1
+		birth_date = 905.1.19
+		death_date = 970.1.19
+		claim = 89
+		religion = catholic
+		culture = croatian
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+910.1.30= {
+	add_prestige = 70
+	add_treasury = 24
+}

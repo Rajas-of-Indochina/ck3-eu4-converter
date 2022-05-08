@@ -1,0 +1,57 @@
+government = tribal
+add_government_reform = tribal_federation
+government_rank = 1
+technology_group = muslim
+religion = sunni
+primary_culture = soqotri
+capital = 401
+fixed_capital = 401
+religious_school = hanbali_school
+910.1.30= {
+	monarch = {
+		name = "Burhanaddin II"
+		dynasty = "Dofharid"
+		adm = 4
+		dip = 4
+		mil = 4
+		birth_date = 867.1.1
+		religion = sunni
+		culture = soqotri
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Rasa"
+		dynasty = "Mahrid"
+		adm = 3
+		dip = 3
+		mil = 2
+		country_of_origin = Y0K
+		birth_date = 870.6.5
+		death_date = 930.6.5
+		female = yes
+		religion = sunni
+		culture = soqotri
+	}
+	add_queen_personality = well_connected_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Samir"
+		monarch_name = "Samir"
+		dynasty = "Dofharid"
+		adm = 5
+		dip = 4
+		mil = 4
+		birth_date = 897.6.21
+		death_date = 962.6.21
+		claim = 89
+		religion = sunni
+		culture = soqotri
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+910.1.30= {
+	add_prestige = 69
+	add_treasury = 48
+}

@@ -1,0 +1,41 @@
+government = monarchy
+add_government_reform = mandala_reform
+government_rank = 3
+technology_group = chinese
+religion = confucianism
+primary_culture = xibei
+capital = 2163
+add_accepted_culture = chihan
+867.1.1= {
+	monarch = {
+		name = "Yizong"
+		dynasty = "Li"
+		adm = 3
+		dip = 0
+		mil = 6
+		birth_date = 833.1.1
+		religion = confucianism
+		culture = xibei
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	heir = {
+		name = "Xizong"
+		monarch_name = "Xizong"
+		dynasty = "Li"
+		adm = 1
+		dip = 0
+		mil = 2
+		birth_date = 862.1.1
+		death_date = 927.1.1
+		claim = 89
+		religion = confucianism
+		culture = chihan
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+867.1.1= {
+	add_prestige = 47
+	add_treasury = 61
+}

@@ -1,0 +1,56 @@
+government = tribal
+add_government_reform = tribal_federation
+government_rank = 1
+technology_group = muslim
+religion = sunni
+primary_culture = bedouin_arabic
+capital = 2335
+religious_school = hanbali_school
+910.1.30= {
+	monarch = {
+		name = "Hussayn"
+		dynasty = "Qays"
+		adm = 3
+		dip = 4
+		mil = 5
+		birth_date = 869.7.21
+		religion = sunni
+		culture = bedouin_arabic
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Zaynab"
+		dynasty = "Yufirid"
+		adm = 5
+		dip = 4
+		mil = 4
+		country_of_origin = DAW
+		birth_date = 872.11.22
+		death_date = 932.11.22
+		female = yes
+		religion = sunni
+		culture = yemeni_culture
+	}
+	add_queen_personality = well_connected_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Mahmud"
+		monarch_name = "Mahmud"
+		dynasty = "Qays"
+		adm = 5
+		dip = 6
+		mil = 5
+		birth_date = 892.4.1
+		death_date = 957.4.1
+		claim = 89
+		religion = sunni
+		culture = bedouin_arabic
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+910.1.30= {
+	add_prestige = 61
+	add_treasury = 42
+}

@@ -1,0 +1,14 @@
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 130 65 223 }
+monarch_names = {
+	"Abimanyu #0" = 0
+	"Bakena #0" = -1
+	"Bulan #0" = -1
+	"Madhusudanawatara #0" = 0
+	"Pundut #1" = 10
+	"Ragam #1" = 10
+	"Sayawasanatunggadewa #0" = 0
+	"Sigit #0" = 0
+	"Ullok #0" = 0
+}

@@ -1,0 +1,41 @@
+government = tribal
+add_government_reform = tribal_kingdom
+government_rank = 1
+technology_group = eastern
+religion = slavic_pagan
+primary_culture = kishinyov
+capital = 2961
+fixed_capital = 2961
+910.1.30= {
+	monarch = {
+		name = "Mikhail"
+		dynasty = "Chrobatiovsky"
+		adm = 4
+		dip = 6
+		mil = 4
+		birth_date = 885.9.24
+		religion = slavic_pagan
+		culture = kishinyov
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	heir = {
+		name = "Alexei"
+		monarch_name = "Alexei II"
+		dynasty = "Chrobatiovsky"
+		adm = 5
+		dip = 4
+		mil = 3
+		birth_date = 881.8.6
+		death_date = 946.8.6
+		claim = 89
+		religion = slavic_pagan
+		culture = polish
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+910.1.30= {
+	add_prestige = 50
+	add_treasury = 18
+}

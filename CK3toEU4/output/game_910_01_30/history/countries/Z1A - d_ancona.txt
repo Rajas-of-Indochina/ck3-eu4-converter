@@ -1,0 +1,40 @@
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+technology_group = western
+religion = catholic
+primary_culture = umbrian
+capital = 119
+910.1.30= {
+	monarch = {
+		name = "Davide"
+		dynasty = "Colonna"
+		adm = 3
+		dip = 3
+		mil = 3
+		birth_date = 889.7.21
+		religion = catholic
+		culture = umbrian
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	heir = {
+		name = "Gianfranco"
+		monarch_name = "Gianfranco"
+		dynasty = "Colonna"
+		adm = 5
+		dip = 6
+		mil = 6
+		birth_date = 892.5.7
+		death_date = 957.5.7
+		claim = 89
+		religion = catholic
+		culture = italian
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+910.1.30= {
+	add_prestige = 54
+	add_treasury = 52
+}

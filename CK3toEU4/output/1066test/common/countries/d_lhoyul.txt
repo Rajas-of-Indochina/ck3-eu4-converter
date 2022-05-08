@@ -1,0 +1,26 @@
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 146 255 92 }
+monarch_names = {
+	"Aum #1" = 10
+	"Chime #1" = 10
+	"Dema #0" = -1
+	"Dorji #0" = 0
+	"Druk #1" = 10
+	"Khedrup #1" = 10
+	"Khelma #0" = -1
+	"Kuengzang #1" = 10
+	"Künjom #1" = 10
+	"Lam #1" = 10
+	"Naku #0" = 0
+	"Namlungpa #1" = 10
+	"Nidup #1" = 10
+	"Ongmo #0" = -1
+	"Pema #0" = -1
+	"Penjore #0" = 0
+	"Roopsundari #0" = -1
+	"Sanje #1" = 10
+	"Tashigang #0" = 0
+	"Yangki #0" = -1
+	"Yum #0" = -1
+}

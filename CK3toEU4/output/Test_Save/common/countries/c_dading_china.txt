@@ -1,0 +1,16 @@
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 163 251 134 }
+monarch_names = {
+	"Altani #0" = -1
+	"Ebegei #0" = -1
+	"Gughlug #0" = 0
+	"Gurbesu #0" = -1
+	"Harghasun #0" = 0
+	"Horkhudagh #0" = 0
+	"Khachi #0" = 0
+	"Koksegu #0" = 0
+	"Sorkhaghatani #0" = -1
+	"Tekine #0" = -1
+	"Töregene #0" = -1
+}

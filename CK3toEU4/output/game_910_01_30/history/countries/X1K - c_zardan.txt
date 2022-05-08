@@ -1,0 +1,52 @@
+government = tribal
+add_government_reform = tribal_kingdom
+government_rank = 1
+technology_group = western
+religion = converted_umboh
+capital = 2404
+fixed_capital = 2404
+910.1.30= {
+	monarch = {
+		name = "Daksa"
+		dynasty = "Prameswara"
+		adm = 3
+		dip = 3
+		mil = 3
+		birth_date = 873.9.18
+		religion = converted_umboh
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Nagini"
+		dynasty = "Khao Ka"
+		adm = 2
+		dip = 5
+		mil = 3
+		country_of_origin = X1K
+		birth_date = 873.10.12
+		death_date = 933.10.12
+		female = yes
+		religion = converted_umboh
+	}
+	add_queen_personality = well_connected_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Linggabhumi"
+		monarch_name = "Linggabhumi"
+		dynasty = "Prameswara"
+		adm = 3
+		dip = 3
+		mil = 3
+		birth_date = 896.2.3
+		death_date = 961.2.3
+		claim = 89
+		religion = converted_umboh
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+910.1.30= {
+	add_prestige = 55
+	add_treasury = 28
+}

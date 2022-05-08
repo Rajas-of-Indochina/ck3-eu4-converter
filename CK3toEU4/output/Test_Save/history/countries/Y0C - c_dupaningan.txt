@@ -1,0 +1,51 @@
+government = tribal
+add_government_reform = tribal_kingdom
+government_rank = 1
+technology_group = western
+religion = converted_kadai
+867.1.1= {
+	monarch = {
+		name = "Labuyu"
+		dynasty = "Dupaningan"
+		adm = 5
+		dip = 4
+		mil = 6
+		birth_date = 837.5.15
+		religion = converted_kadai
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Balanuin"
+		dynasty = "Macaranas"
+		adm = 5
+		dip = 3
+		mil = 5
+		country_of_origin = Y0C
+		birth_date = 838.1.1
+		death_date = 898.1.1
+		female = yes
+		religion = converted_kadai
+	}
+	add_queen_personality = well_connected_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Bingi"
+		monarch_name = "Bingi"
+		dynasty = "Orsini"
+		adm = 6
+		dip = 5
+		mil = 6
+		birth_date = 841.12.26
+		death_date = 906.12.26
+		female = yes
+		claim = 89
+		religion = converted_kadai
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+867.1.1= {
+	add_prestige = 47
+	add_treasury = 33
+}

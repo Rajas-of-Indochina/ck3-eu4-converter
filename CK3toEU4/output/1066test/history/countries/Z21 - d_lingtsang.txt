@@ -1,0 +1,40 @@
+government = monarchy
+add_government_reform = mandala_reform
+government_rank = 1
+technology_group = chinese
+religion = vajrayana
+primary_culture = tibetan
+capital = 2131
+1068.6.5= {
+	monarch = {
+		name = "Shang"
+		dynasty = "Ling"
+		adm = 3
+		dip = 3
+		mil = 2
+		birth_date = 1050.1.1
+		religion = vajrayana
+		culture = tibetan
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	heir = {
+		name = "Sung"
+		monarch_name = "Sung"
+		dynasty = "Orsini"
+		adm = 5
+		dip = 6
+		mil = 3
+		birth_date = 1041.3.2
+		death_date = 1106.3.2
+		claim = 89
+		religion = vajrayana
+		culture = tibetan
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+1068.6.5= {
+	add_prestige = 48
+	add_treasury = 43
+}

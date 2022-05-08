@@ -1,0 +1,40 @@
+government = tribal
+add_government_reform = steppe_horde
+government_rank = 1
+technology_group = nomad_group
+religion = tengri_pagan
+primary_culture = nogaybak
+capital = 2366
+910.1.30= {
+	monarch = {
+		name = "Tolun"
+		dynasty = "Yimaek"
+		adm = 4
+		dip = 5
+		mil = 4
+		birth_date = 869.10.29
+		religion = tengri_pagan
+		culture = nogaybak
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	heir = {
+		name = "Toks"
+		monarch_name = "Toks"
+		dynasty = "Yimaek"
+		adm = 5
+		dip = 6
+		mil = 4
+		birth_date = 896.9.14
+		death_date = 961.9.14
+		claim = 89
+		religion = tengri_pagan
+		culture = nogaybak
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+910.1.30= {
+	add_prestige = 62
+	add_treasury = 57
+}

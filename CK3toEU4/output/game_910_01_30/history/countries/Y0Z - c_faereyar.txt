@@ -1,0 +1,56 @@
+government = tribal
+add_government_reform = tribal_kingdom
+government_rank = 1
+technology_group = western
+religion = norse_pagan
+primary_culture = icelandic
+capital = 1979
+fixed_capital = 1979
+910.1.30= {
+	monarch = {
+		name = "Helga"
+		dynasty = "Naddoðr"
+		adm = 3
+		dip = 3
+		mil = 2
+		birth_date = 843.1.1
+		female = yes
+		religion = norse_pagan
+		culture = icelandic
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Húnþjófr"
+		dynasty = "al-Harrani"
+		adm = 5
+		dip = 2
+		mil = 2
+		country_of_origin = Y0Z
+		birth_date = 849.5.14
+		death_date = 909.5.14
+		religion = norse_pagan
+		culture = norse
+	}
+	add_queen_personality = well_connected_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Bragi"
+		monarch_name = "Bragi"
+		dynasty = "Naddoðr"
+		adm = 4
+		dip = 3
+		mil = 4
+		birth_date = 884.11.6
+		death_date = 949.11.6
+		claim = 89
+		religion = norse_pagan
+		culture = norse
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+910.1.30= {
+	add_prestige = 77
+	add_treasury = 37
+}

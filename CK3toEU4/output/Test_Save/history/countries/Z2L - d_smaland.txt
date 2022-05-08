@@ -1,0 +1,56 @@
+government = tribal
+add_government_reform = tribal_kingdom
+government_rank = 1
+technology_group = western
+religion = norse_pagan
+primary_culture = swedish
+capital = 3
+867.1.1= {
+	monarch = {
+		name = "Vagn"
+		dynasty = "Njudunge"
+		adm = 3
+		dip = 3
+		mil = 5
+		birth_date = 847.1.1
+		religion = norse_pagan
+		culture = swedish
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Alfrið"
+		dynasty = "Orsini"
+		adm = 3
+		dip = 4
+		mil = 1
+		country_of_origin = Z2L
+		birth_date = 850.1.1
+		death_date = 910.1.1
+		female = yes
+		religion = norse_pagan
+		culture = norse
+	}
+	add_queen_personality = well_connected_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Alfrið"
+		monarch_name = "Alfrið"
+		dynasty = "Orsini"
+		adm = 5
+		dip = 6
+		mil = 1
+		birth_date = 850.1.1
+		death_date = 915.1.1
+		female = yes
+		claim = 89
+		religion = norse_pagan
+		culture = norse
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+867.1.1= {
+	add_prestige = 47
+	add_treasury = 35
+}

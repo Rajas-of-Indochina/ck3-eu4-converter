@@ -1,0 +1,41 @@
+government = tribal
+add_government_reform = tribal_kingdom
+government_rank = 1
+technology_group = western
+religion = converted_burmic
+primary_culture = karen
+capital = 2401
+867.1.1= {
+	monarch = {
+		name = "Hpaw"
+		dynasty = "Mong Pai"
+		adm = 2
+		dip = 4
+		mil = 4
+		birth_date = 851.1.1
+		religion = converted_burmic
+		culture = karen
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	heir = {
+		name = "Tharahpi"
+		monarch_name = "Tharahpi"
+		dynasty = "Orsini"
+		adm = 2
+		dip = 4
+		mil = 4
+		birth_date = 840.4.30
+		death_date = 905.4.30
+		female = yes
+		claim = 89
+		religion = converted_burmic
+		culture = karen
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+867.1.1= {
+	add_prestige = 47
+	add_treasury = 33
+}

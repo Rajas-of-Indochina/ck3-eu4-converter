@@ -1,0 +1,41 @@
+government = tribal
+add_government_reform = tribal_kingdom
+government_rank = 1
+technology_group = western
+religion = slavic_pagan
+primary_culture = polish
+capital = 259
+fixed_capital = 259
+867.1.1= {
+	monarch = {
+		name = "Lech"
+		dynasty = "z Wislan"
+		adm = 5
+		dip = 4
+		mil = 3
+		birth_date = 845.2.13
+		religion = slavic_pagan
+		culture = polish
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	heir = {
+		name = "Krak"
+		monarch_name = "Krak"
+		dynasty = "z Wislan"
+		adm = 6
+		dip = 6
+		mil = 3
+		birth_date = 842.8.23
+		death_date = 907.8.23
+		claim = 89
+		religion = slavic_pagan
+		culture = polish
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+867.1.1= {
+	add_prestige = 47
+	add_treasury = 35
+}

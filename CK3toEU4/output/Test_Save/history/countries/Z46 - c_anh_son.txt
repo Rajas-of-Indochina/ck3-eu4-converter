@@ -1,0 +1,53 @@
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+technology_group = western
+religion = converted_phat_giao
+capital = 4821
+fixed_capital = 4821
+867.1.1= {
+	monarch = {
+		name = "Van"
+		dynasty = "Vo"
+		adm = 2
+		dip = 4
+		mil = 4
+		birth_date = 817.1.1
+		religion = converted_phat_giao
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Thuc Nga"
+		dynasty = "Le"
+		adm = 3
+		dip = 3
+		mil = 5
+		country_of_origin = Z46
+		birth_date = 817.1.1
+		death_date = 877.1.1
+		female = yes
+		religion = converted_phat_giao
+	}
+	add_queen_personality = well_connected_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Tuyet"
+		monarch_name = "Tuyet"
+		dynasty = "Orsini"
+		adm = 5
+		dip = 6
+		mil = 3
+		birth_date = 850.10.21
+		death_date = 915.10.21
+		female = yes
+		claim = 89
+		religion = converted_phat_giao
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+867.1.1= {
+	add_prestige = 47
+	add_treasury = 33
+}

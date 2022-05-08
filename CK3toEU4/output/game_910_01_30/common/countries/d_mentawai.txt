@@ -1,0 +1,18 @@
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 41 42 46 }
+monarch_names = {
+	"Adhiswara #0" = 0
+	"Bhiswara #0" = 0
+	"Gayatri #0" = -1
+	"Iswari #0" = -1
+	"Kesara #0" = 0
+	"Lewih #0" = 0
+	"Mawar #0" = -1
+	"Pipul #0" = 0
+	"Pusparasmi #0" = -1
+	"Sarini #0" = -1
+	"Suryawikrama #0" = 0
+	"Tribhuwana #0" = -1
+	"Utipati #0" = 0
+}

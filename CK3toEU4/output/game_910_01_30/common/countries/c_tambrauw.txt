@@ -1,0 +1,12 @@
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 252 96 13 }
+monarch_names = {
+	"Darawa #0" = 0
+	"Korikuku #0" = -1
+	"Leiron #0" = 0
+	"Nali #0" = -1
+	"Refafu #0" = 0
+	"Ribeka #0" = -1
+	"Teweraut #0" = -1
+}

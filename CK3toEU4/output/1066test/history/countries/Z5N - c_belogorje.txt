@@ -1,0 +1,41 @@
+government = tribal
+add_government_reform = siberian_tribe
+government_rank = 1
+technology_group = eastern
+religion = siberian_pagan
+primary_culture = ostyaki
+capital = 1069
+fixed_capital = 1069
+1068.6.5= {
+	monarch = {
+		name = "Zyryan"
+		dynasty = "Belgorojian"
+		adm = 3
+		dip = 5
+		mil = 5
+		birth_date = 1033.9.24
+		religion = siberian_pagan
+		culture = ostyaki
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	heir = {
+		name = "Tuhan"
+		monarch_name = "Tuhan"
+		dynasty = "Belgorojian"
+		adm = 2
+		dip = 3
+		mil = 4
+		birth_date = 1059.1.24
+		death_date = 1124.1.24
+		claim = 89
+		religion = siberian_pagan
+		culture = ostyaki
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+1068.6.5= {
+	add_prestige = 48
+	add_treasury = 40
+}

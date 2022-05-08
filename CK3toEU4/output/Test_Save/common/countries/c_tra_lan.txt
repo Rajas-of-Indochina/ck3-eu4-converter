@@ -1,0 +1,15 @@
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 57 84 42 }
+monarch_names = {
+	"Anh #0" = 0
+	"Huan #0" = 0
+	"Kim #0" = 0
+	"Mai #0" = 0
+	"Ngan #0" = -1
+	"The #0" = -1
+	"Tu #1" = 10
+	"Tu Quyen #0" = -1
+	"Tuong #0" = 0
+	"Van #0" = 0
+}

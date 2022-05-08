@@ -1,0 +1,41 @@
+government = tribal
+add_government_reform = tribal_kingdom
+government_rank = 1
+technology_group = sub_saharan
+religion = shamanism
+primary_culture = aka
+capital = 2258
+fixed_capital = 2258
+1068.6.5= {
+	monarch = {
+		name = "Tutu"
+		dynasty = "Wasa"
+		adm = 3
+		dip = 3
+		mil = 5
+		birth_date = 1033.1.1
+		religion = shamanism
+		culture = aka
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	heir = {
+		name = "Mensa"
+		monarch_name = "Mensa"
+		dynasty = "Wasa"
+		adm = 5
+		dip = 3
+		mil = 4
+		birth_date = 1051.1.1
+		death_date = 1116.1.1
+		claim = 89
+		religion = shamanism
+		culture = aka
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+1068.6.5= {
+	add_prestige = 48
+	add_treasury = 40
+}

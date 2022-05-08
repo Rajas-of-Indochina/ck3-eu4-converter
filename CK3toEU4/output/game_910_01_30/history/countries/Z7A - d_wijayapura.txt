@@ -1,0 +1,56 @@
+government = monarchy
+add_government_reform = mandala_reform
+government_rank = 1
+technology_group = western
+religion = vajrayana
+primary_culture = bornean
+capital = 640
+910.1.30= {
+	monarch = {
+		name = "Dharmasetu II"
+		dynasty = "Bengkayang"
+		adm = 4
+		dip = 5
+		mil = 4
+		birth_date = 866.1.1
+		religion = vajrayana
+		culture = bornean
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Bulan"
+		dynasty = "Sibuti"
+		adm = 5
+		dip = 4
+		mil = 4
+		country_of_origin = Z7A
+		birth_date = 864.1.1
+		death_date = 924.1.1
+		female = yes
+		religion = vajrayana
+		culture = bornean
+	}
+	add_queen_personality = well_connected_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Usha"
+		monarch_name = "Usha"
+		dynasty = "Bengkayang"
+		adm = 6
+		dip = 5
+		mil = 6
+		birth_date = 883.6.19
+		death_date = 948.6.19
+		female = yes
+		claim = 89
+		religion = vajrayana
+		culture = bornean
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+910.1.30= {
+	add_prestige = 59
+	add_treasury = 52
+}

@@ -1,0 +1,41 @@
+government = tribal
+add_government_reform = tribal_despotism
+government_rank = 1
+technology_group = indian
+religion = converted_sarnaism
+primary_culture = gondi
+capital = 547
+fixed_capital = 547
+867.1.1= {
+	monarch = {
+		name = "Harirudra"
+		dynasty = "Bhanja"
+		adm = 4
+		dip = 1
+		mil = 3
+		birth_date = 833.1.1
+		religion = converted_sarnaism
+		culture = gondi
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	heir = {
+		name = "Krishna"
+		monarch_name = "Krishna"
+		dynasty = "Bhanja"
+		adm = 2
+		dip = 3
+		mil = 3
+		birth_date = 858.1.1
+		death_date = 923.1.1
+		claim = 89
+		religion = converted_sarnaism
+		culture = gondi
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+867.1.1= {
+	add_prestige = 47
+	add_treasury = 32
+}

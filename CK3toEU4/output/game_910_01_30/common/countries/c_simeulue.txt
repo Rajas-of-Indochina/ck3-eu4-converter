@@ -1,0 +1,18 @@
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+monarch_names = {
+	"Cakrawati #0" = -1
+	"Dharmottungadewi #0" = -1
+	"Digwijayakasa #0" = 0
+	"Hayamwuruk #0" = 0
+	"Kembang #0" = -1
+	"Mangusir #1" = 10
+	"Pikatan #0" = 0
+	"Prapanca #0" = 0
+	"Shima #0" = -1
+	"Sibayak #1" = 10
+	"Sudiwara #0" = -1
+	"Suryawikrama #0" = 0
+	"Togli #0" = 0
+	"Wirawairimathani #0" = -1
+}

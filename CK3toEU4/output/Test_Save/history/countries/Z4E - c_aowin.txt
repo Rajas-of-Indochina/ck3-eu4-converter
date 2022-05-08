@@ -1,0 +1,36 @@
+government = tribal
+add_government_reform = tribal_kingdom
+government_rank = 1
+technology_group = sub_saharan
+religion = shamanism
+primary_culture = aka
+capital = 2258
+fixed_capital = 2258
+867.1.1= {
+	monarch = {
+		name = "(Regency Council)"
+		adm = 2
+		dip = 4
+		mil = 3
+		birth_date = 1.1.1
+		regent = yes
+		religion = shamanism
+		culture = aka
+	}
+	heir = {
+		name = "Efua"
+		dynasty = "Aowin"
+		adm = 4
+		dip = 6
+		mil = 5
+		birth_date = 854.1.1
+		death_date = 919.1.1
+		claim = 89
+		religion = shamanism
+		culture = aka
+	}
+}
+867.1.1= {
+	add_prestige = 47
+	add_treasury = 31
+}

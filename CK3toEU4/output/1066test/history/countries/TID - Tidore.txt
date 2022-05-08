@@ -1,0 +1,57 @@
+government = tribal
+add_government_reform = tribal_kingdom
+government_rank = 1
+technology_group = chinese
+religion = converted_nunusaku
+primary_culture = moluccan
+capital = 648
+fixed_capital = 648
+1068.6.5= {
+	monarch = {
+		name = "Lapsay"
+		dynasty = "Tidore"
+		adm = 3
+		dip = 5
+		mil = 0
+		birth_date = 1037.12.20
+		female = yes
+		religion = converted_nunusaku
+		culture = moluccan
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Igang"
+		dynasty = "Degi"
+		adm = 5
+		dip = 3
+		mil = 4
+		country_of_origin = TID
+		birth_date = 1038.5.9
+		death_date = 1098.5.9
+		religion = converted_nunusaku
+		culture = moluccan
+	}
+	add_queen_personality = well_connected_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Ema"
+		monarch_name = "Ema"
+		dynasty = "Tidore"
+		adm = 6
+		dip = 1
+		mil = 6
+		birth_date = 1055.2.4
+		death_date = 1120.2.4
+		female = yes
+		claim = 89
+		religion = converted_nunusaku
+		culture = moluccan
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+1068.6.5= {
+	add_prestige = 48
+	add_treasury = 52
+}

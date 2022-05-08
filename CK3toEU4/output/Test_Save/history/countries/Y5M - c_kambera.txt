@@ -1,0 +1,39 @@
+government = tribal
+add_government_reform = tribal_kingdom
+government_rank = 1
+technology_group = western
+religion = converted_celebic
+capital = 634
+fixed_capital = 634
+867.1.1= {
+	monarch = {
+		name = "Sirrullah"
+		dynasty = "Malahar"
+		adm = 4
+		dip = 3
+		mil = 6
+		birth_date = 850.2.19
+		religion = converted_celebic
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	heir = {
+		name = "Selub"
+		monarch_name = "Selub"
+		dynasty = "Orsini"
+		adm = 4
+		dip = 4
+		mil = 3
+		birth_date = 848.12.7
+		death_date = 913.12.7
+		female = yes
+		claim = 89
+		religion = converted_celebic
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+867.1.1= {
+	add_prestige = 47
+	add_treasury = 31
+}

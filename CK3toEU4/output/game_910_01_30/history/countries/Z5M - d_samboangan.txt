@@ -1,0 +1,55 @@
+government = tribal
+add_government_reform = tribal_kingdom
+government_rank = 1
+technology_group = western
+religion = converted_tulumanon
+primary_culture = filipino
+capital = 4354
+910.1.30= {
+	monarch = {
+		name = "Banisa"
+		dynasty = "Macatunao"
+		adm = 2
+		dip = 4
+		mil = 3
+		birth_date = 871.3.14
+		religion = converted_tulumanon
+		culture = filipino
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Makiling"
+		dynasty = "Bantay"
+		adm = 4
+		dip = 3
+		mil = 5
+		country_of_origin = Z5M
+		birth_date = 870.4.3
+		death_date = 930.4.3
+		female = yes
+		religion = converted_malyari
+		culture = filipino
+	}
+	add_queen_personality = well_connected_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Banisa"
+		monarch_name = "Banisa II"
+		dynasty = "Macatunao"
+		adm = 2
+		dip = 2
+		mil = 2
+		birth_date = 902.4.26
+		death_date = 967.4.26
+		claim = 89
+		religion = converted_tulumanon
+		culture = filipino
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+910.1.30= {
+	add_prestige = 51
+	add_treasury = 49
+}

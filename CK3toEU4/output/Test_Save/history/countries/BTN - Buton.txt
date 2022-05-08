@@ -1,0 +1,56 @@
+government = tribal
+add_government_reform = tribal_kingdom
+government_rank = 1
+technology_group = chinese
+religion = converted_celebic
+primary_culture = sulawesi
+capital = 2716
+fixed_capital = 2716
+867.1.1= {
+	monarch = {
+		name = "Parisi"
+		dynasty = "Kudur"
+		adm = 1
+		dip = 2
+		mil = 2
+		birth_date = 833.6.20
+		religion = converted_celebic
+		culture = sulawesi
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Vaite"
+		dynasty = "Gilang"
+		adm = 1
+		dip = 6
+		mil = 1
+		country_of_origin = BTN
+		birth_date = 834.1.1
+		death_date = 894.1.1
+		female = yes
+		religion = converted_celebic
+		culture = sulawesi
+	}
+	add_queen_personality = well_connected_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Djallori"
+		monarch_name = "Djallori"
+		dynasty = "Bangkudu"
+		adm = 2
+		dip = 3
+		mil = 4
+		birth_date = 839.5.7
+		death_date = 904.5.7
+		claim = 89
+		religion = converted_celebic
+		culture = sulawesi
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+867.1.1= {
+	add_prestige = 47
+	add_treasury = 31
+}

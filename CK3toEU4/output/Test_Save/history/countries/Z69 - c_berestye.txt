@@ -1,0 +1,41 @@
+government = tribal
+add_government_reform = tribal_kingdom
+government_rank = 1
+technology_group = eastern
+religion = slavic_pagan
+primary_culture = ruthenian
+capital = 277
+fixed_capital = 277
+867.1.1= {
+	monarch = {
+		name = "Vysheslav"
+		dynasty = "Betula"
+		adm = 3
+		dip = 4
+		mil = 5
+		birth_date = 846.5.3
+		religion = slavic_pagan
+		culture = ruthenian
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	heir = {
+		name = "Rogvolod"
+		monarch_name = "Rogvolod"
+		dynasty = "Betula"
+		adm = 1
+		dip = 3
+		mil = 3
+		birth_date = 849.7.14
+		death_date = 914.7.14
+		claim = 89
+		religion = slavic_pagan
+		culture = russian_culture
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+867.1.1= {
+	add_prestige = 47
+	add_treasury = 33
+}

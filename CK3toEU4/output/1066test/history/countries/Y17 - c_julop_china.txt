@@ -1,0 +1,56 @@
+government = tribal
+add_government_reform = siberian_tribe
+government_rank = 1
+technology_group = western
+religion = tengri_pagan
+primary_culture = buryat
+capital = 2446
+fixed_capital = 2446
+1068.6.5= {
+	monarch = {
+		name = "Bodonchar Munkhag"
+		dynasty = "Munkhagid"
+		adm = 3
+		dip = 4
+		mil = 3
+		birth_date = 1046.11.20
+		religion = tengri_pagan
+		culture = buryat
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Dokez"
+		dynasty = "Bujakhin"
+		adm = 0
+		dip = 5
+		mil = 0
+		country_of_origin = Y17
+		birth_date = 1047.1.12
+		death_date = 1107.1.12
+		female = yes
+		religion = tengri_pagan
+		culture = buryat
+	}
+	add_queen_personality = well_connected_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Khagatai"
+		monarch_name = "Khagatai"
+		dynasty = "Munkhagid"
+		adm = 2
+		dip = 1
+		mil = 2
+		birth_date = 1064.2.1
+		death_date = 1129.2.1
+		claim = 89
+		religion = tengri_pagan
+		culture = buryat
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+1068.6.5= {
+	add_prestige = 48
+	add_treasury = 36
+}

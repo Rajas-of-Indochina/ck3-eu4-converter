@@ -1,0 +1,56 @@
+government = tribal
+add_government_reform = tribal_kingdom
+government_rank = 1
+technology_group = western
+religion = slavic_pagan
+primary_culture = polish
+capital = 260
+fixed_capital = 260
+867.1.1= {
+	monarch = {
+		name = "Maciej"
+		dynasty = "z Mazur"
+		adm = 4
+		dip = 3
+		mil = 3
+		birth_date = 845.9.19
+		religion = slavic_pagan
+		culture = polish
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Magdalena"
+		dynasty = "Skarbek"
+		adm = 1
+		dip = 1
+		mil = 3
+		country_of_origin = W04
+		birth_date = 846.1.1
+		death_date = 906.1.1
+		female = yes
+		religion = slavic_pagan
+		culture = polish
+	}
+	add_queen_personality = well_connected_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Goscimir"
+		monarch_name = "Goscimir"
+		dynasty = "Mazowiecki"
+		adm = 6
+		dip = 5
+		mil = 4
+		birth_date = 849.1.1
+		death_date = 914.1.1
+		claim = 89
+		religion = slavic_pagan
+		culture = polish
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+867.1.1= {
+	add_prestige = 47
+	add_treasury = 34
+}
