@@ -707,7 +707,7 @@
 	link = { ck3 = 905 eu4 = 2097 } # Kantit -> Baghelkhand
 	link = { ck3 = 1278 eu4 = 4468 } # Gurgi -> Bandogarh
 	link = { ck3 = 925 ck3 = 1171 eu4 = 550 } # Bahoriband, Kalanjara -> Mahakoshal
-	link = { ck3 = 1301 } # Mahoba -> DROPPED
+	link = { ck3 = 1301 eu4 = 4466 } # Mahoba -> Mahoba
 	link = { ck3 = 1147 ck3 = 1289 ck3 = 1149 eu4 = 2056 } # Mandapika, Dadhipadra, Dhara -> Rewakantha
 	link = { ck3 = 1184 eu4 = 526 } # Khargone -> Mandu
 	link = { ck3 = 917 eu4 = 2057 } # Barman -> Bhilsa
