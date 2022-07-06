@@ -192,6 +192,15 @@ tenet_pastoral_isolation = {
 		tolerance_heathen = 2
 	}
 }
+tenet_rite = {
+	country = {
+		improve_relation_modifier = 0.1
+		tolerance_heretic = 2
+	}
+	country_as_secondary = {
+		tolerance_heretic = 2
+	}
+}
 ##Muslim
 tenet_adaptive = {
 	country = {
@@ -466,6 +475,16 @@ tenet_gruesome_festivals = {
 		declare_war_in_regency = yes
 	}
 }
+
+tenet_cthonic_redoubts = {
+	country = {
+		defensiveness = 0.10
+	}
+	country_as_secondary = {
+		defensiveness = 0.10
+	}
+}
+
 ##Syncretic
 tenet_eastern_syncretism = {
 	allowed_conversion = {
@@ -1018,6 +1037,28 @@ divine_destiny_doctrine = {
 		force_conversion_gives_global_holy_war_released_modifier = yes
 	}
 }
+##Adoptionist School
+special_doctrine_adoptionist_school_elipandic_doctrine = {
+	country = {
+		embracement_cost = -0.1
+	}
+}
+special_doctrine_adoptionist_school_felicitous_doctrine = {
+	country = {
+		global_spy_defence = 0.15
+	}
+}
+special_doctrine_adoptionist_school_radical_doctrine = {
+	country = {
+		core_creation = -0.05
+	}
+	unique_modifiers = {
+		fervor = yes
+	}
+	not_unique_modifiers = {
+		declare_war_in_regency = yes
+	}
+}
 ##Full Tolerance, Game Rule Only
 special_doctrine_full_tolerance  = {
 	country = {
@@ -1025,70 +1066,3 @@ special_doctrine_full_tolerance  = {
 		tolerance_heretic = 5
 	}
 }
-
-##RIC
-doctrine_right_to_rule_divine = {
-	country = {
-		max_absolutism = 10
-	}
-	country_as_secondary = {
-		max_absolutism = 5
-	}
-}
-doctrine_right_to_rule_material = {
-	country = {
-		yearly_corruption = -0.1
-	}
-	country_as_secondary = {
-		yearly_corruption = -0.1
-	}
-}
-
-doctrine_sky_burials = {
-	country = {
-		legitimacy = 1
-		horde_unity = 1
-		devotion = 1
-		meritocracy = 1
-		republican_tradition = 0.5
-	}
-	country_as_secondary = {
-		raze_power_gain = 0.15
-	}
-}
-
-doctrine_cultural_religion = {
-	country = {
-		tolerance_own = 2
-	}
-	country_as_secondary = {
-		tolerance_own = 1
-	}
-	province = {
-		local_missionary_strength = -0.02
-	}
-}
-
-doctrine_tribal_religion = {
-	country = {
-		tolerance_own = 2
-		religious_unity = 0.25
-		tolerance_heathen = 2
-	}
-	country_as_secondary = {
-		tolerance_own = 1
-		religious_unity = 0.25
-	}
-	province = {
-		local_missionary_strength = -0.02
-	}
-}
-
-sampradaya_vaishnavism_doctrine = {}
-sampradaya_shaivism_doctrine = {}
-sampradaya_shaktism_doctrine = {}
-sampradaya_smartism_doctrine = { tolerance_heretic = 1 }
-sampradaya_saurism_doctrine = {}
-sampradaya_ganapatism_doctrine = {}
-sampradaya_kaumaram_doctrine = {}
-sampradaya_shrautism_doctrine = {}

@@ -1,7 +1,0 @@
-capital = "Baraba"
-culture = ostyaki
-religion = siberian_pagan
-trade_goods = livestock
-base_tax = 1
-base_production = 1
-base_manpower = 1

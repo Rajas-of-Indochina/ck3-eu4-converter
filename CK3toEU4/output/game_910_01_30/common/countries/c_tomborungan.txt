@@ -1,8 +1,0 @@
-ck2_converter_generated = yes
-graphical_culture = westerngfx
-color = { 173 71 124 }
-monarch_names = {
-	"Dahitim #0" = -1
-	"Ngau #0" = 0
-	"Sadye #0" = -1
-}

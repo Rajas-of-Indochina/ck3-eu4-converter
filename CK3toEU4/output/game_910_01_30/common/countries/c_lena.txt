@@ -1,8 +1,0 @@
-ck2_converter_generated = yes
-graphical_culture = inuitgfx
-color = { 55 60 70 }
-monarch_names = {
-	"Artis #0" = 0
-	"Khotsa #0" = 0
-	"Sambuu #1" = 10
-}

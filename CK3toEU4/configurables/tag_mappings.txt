@@ -18,10 +18,13 @@ link = { ck3 = c_gutland eu4 = GOT }
 link = { ck3 = d_iceland eu4 = ICE }
 link = { ck3 = d_karelia eu4 = KRL }
 link = { ck3 = d_livonia eu4 = LVA }
+link = { ck3 = k_livonia eu4 = LVA }
 link = { ck3 = c_livs eu4 = LVA }
 link = { ck3 = d_latgalians eu4 = LVA }
 link = { ck3 = k_norway eu4 = NOR }
 link = { ck3 = e_scandinavia eu4 = SCA }
+link = { ck3 = d_skane eu4 = SCN }
+link = { ck3 = c_skane eu4 = SCN }
 link = { ck3 = d_holstein eu4 = SHL }
 link = { ck3 = k_sapmi eu4 = SMI }
 link = { ck3 = d_giemajohka eu4 = SMI }
@@ -90,6 +93,8 @@ link = { ck3 = d_cornwall eu4 = CRN }
 link = { ck3 = c_cornwall eu4 = CRN }
 link = { ck3 = c_desmond eu4 = DMS }
 link = { ck3 = k_england eu4 = ENG }
+link = { ck3 = d_bedford eu4 = ESX }
+link = { ck3 = c_essex eu4 = ESX }
 link = { ck3 = e_britannia eu4 = GBR }
 link = { ck3 = d_moray eu4 = HSC }
 link = { ck3 = k_ireland eu4 = IRE }
@@ -103,6 +108,7 @@ link = { ck3 = c_leinster eu4 = LEI }
 link = { ck3 = d_western_isles eu4 = LOI }
 link = { ck3 = d_munster eu4 = MCM } #Currently no county Munster
 link = { ck3 = c_thomond eu4 = MNS } #The EU4 file is still named Munster even if the country name itself has changed
+link = { ck3 = d_hereford eu4 = MRC } #Mercia
 link = { ck3 = d_meath eu4 = MTH }
 link = { ck3 = c_dublin eu4 = MTH }
 link = { ck3 = d_northumberland eu4 = NOL }
@@ -115,6 +121,7 @@ link = { ck3 = c_oriel eu4 = TYR }
 link = { ck3 = d_ulster eu4 = ULS }
 link = { ck3 = c_ulster eu4 = ULS }
 link = { ck3 = k_wales eu4 = WLS }
+link = { ck3 = d_somerset eu4 = WSX }
 
 # Eastern Europe
 
@@ -345,6 +352,9 @@ link = { ck3 = k_old_armenia eu4 = ARM }
 link = { ck3 = d_greater_armenia eu4 = ARM }
 link = { ck3 = c_astrakhan eu4 = AST }
 link = { capitals = { 5311 } eu4 = AST } # Kuma -> Astrakhan
+link = { ck3 = k_bjarmaland eu4 = BJA }
+link = { ck3 = d_biarmia eu4 = BJA }
+link = { ck3 = c_onega_BJA eu4 = BJA }
 link = { ck3 = c_beloozero eu4 = BLO }
 link = { ck3 = k_bashkiria eu4 = BSH }
 link = { ck3 = d_bashkiria eu4 = BSH }
@@ -353,6 +363,7 @@ link = { ck3 = c_kerch eu4 = FEO } # Kerch => Theodoro
 link = { ck3 = k_georgia eu4 = GEO }
 link = { ck3 = d_georgia eu4 = GEO }
 link = { ck3 = e_golden_horde eu4 = GLH }
+link = { ck3 = c_vodi eu4 = IGR } # Vodi -> Ingria
 link = { ck3 = d_kazan eu4 = KAZ }
 link = { ck3 = c_kazan eu4 = KAZ }
 link = { ck3 = c_moskva eu4 = MOS }
@@ -375,6 +386,7 @@ link = { ck3 = c_ryazan eu4 = RYA }
 link = { ck3 = c_tver eu4 = TVE }
 link = { ck3 = k_ruthenia eu4 = UKR }
 link = { ck3 = k_white_rus eu4 = UKR }
+link = { ck3 = d_vepsia eu4 = VPS }
 link = { ck3 = c_yaroslavl eu4 = YAR }
 link = { ck3 = k_pontic_steppe eu4 = ZAZ }
 
@@ -496,6 +508,7 @@ link = { ck3 = d_daylam eu4 = KRY }
 link = { ck3 = c_gilan eu4 = KRY }
 link = { ck3 = c_luristan eu4 = LRI }
 link = { ck3 = c_maragha eu4 = MGR }
+link = { ck3 = k_oghuz_il eu4 = OGZ }
 link = { ck3 = d_hormuz eu4 = ORM }
 link = { ck3 = c_hormuz eu4 = ORM }
 link = { ck3 = e_persia eu4 = PER }
@@ -651,6 +664,7 @@ link = { ck3 = c_racakonda eu4 = GOC }
 link = { ck3 = c_khinjali_mandala eu4 = GRJ } #Location of the Garjat Hills
 link = { ck3 = c_kaski eu4 = GRK } #Has city of Gorkha
 link = { ck3 = k_gujarat eu4 = GUJ }
+link = { ck3 = c_surparaka eu4 = BMY } #Aproximate location of Mumbai/Bombay
 link = { ck3 = c_gwalior eu4 = GWA }
 link = { ck3 = c_kota eu4 = HAD }
 #link = { ck3 = ??? eu4 = HIN } #Hindustan is Islamic, you can only form e_india as a dharmist
@@ -808,11 +822,18 @@ link = { ck3 = c_sriksetra eu4 = BPR } #Glory to Prome!
 
 #Siberia
 
+link = { ck3 = k_buryatia eu4 = BRT }
 link = { ck3 = e_siberia eu4 = SIB }
 link = { ck3 = k_sibir eu4 = SIB }
 link = { ck3 = d_sibir eu4 = SIB }
 link = { ck3 = c_sibir eu4 = SIB }
-link = { ck3 = k_buryatia eu4 = BRT }
+link = { ck3 = k_tuva eu4 = TUV }
+link = { ck3 = d_tannu_ola eu4 = TUV }
+link = { ck3 = c_eastern_tannu eu4 = TUV }
+link = { ck3 = c_western_tannu eu4 = TUV }
+link = { ck3 = k_yugra eu4 = YUG }
+link = { ck3 = d_ostyaki eu4 = YUG }
+
 
 #Indonesia
 
@@ -930,194 +951,58 @@ link = { ck3 = d_IMPTOCK3_MSY eu4 = KBA } # Massylia => Kabylia
 link = { ck3 = k_IMPTOCK3_MSY eu4 = KBA } # Massylia => Kabylia
 link = { ck3 = e_IMPTOCK3_MSY eu4 = KBA } # Massylia => Kabylia
 
-# Mod: Rajas of Indochina
-link = { ck3 = e_celestia_china eu4 = MNG }
-link = { ck3 = k_shannanxi_china eu4 = QIN }
-link = { ck3 = k_shannandong_china eu4 = LNG }
-link = { ck3 = k_hebei_china eu4 = YAN }
-link = { ck3 = k_henan_china eu4 = QIC }
-link = { ck3 = k_hedong_china eu4 = JIN }
-link = { ck3 = d_zhenhai_china eu4 = WUU }
-link = { ck3 = k_lingnan_china eu4 = YUE }
+# Mod: East Asia Reboot
+link = { ck3 = e_china eu4 = CHN }
+link = { ck3 = k_zin eu4 = QIN }
+link = { ck3 = k_liang eu4 = LNG }
+link = { ck3 = k_drieu eu4 = ZAO }
+link = { ck3 = k_en eu4 = YAN }
+link = { ck3 = k_zei eu4 = QIC }
+link = { ck3 = k_zzin eu4 = JIN }
+link = { ck3 = k_ngo eu4 = WUU }
+link = { ck3 = k_wat eu4 = YUE }
 
-link = { ck3 = e_dai_viet eu4 = DAI }
-link = { ck3 = k_annam eu4 = DAI }
-
-link = { ck3 = k_lavapura eu4 = AYU }
-link = { ck3 = d_lavapura eu4 = AYU }
-link = { ck3 = c_lavapura eu4 = AYU }
-
+link = { ck3 = k_annam eu4 = ANN }
+link = { ck3 = d_bangkok eu4 = AYU }
+link = { ck3 = c_ayutthaya eu4 = AYU }
 link = { ck3 = k_champa eu4 = CHA }
+link = { ck3 = k_champasak eu4 = CHK }
+link = { ck3 = d_champasak eu4 = CHK }
+link = { ck3 = c_champasak eu4 = CHK }
+link = { ck3 = e_vietnam eu4 = DAI }
+link = { ck3 = k_dai_nam eu4 = DAI }
+link = { ck3 = e_japan eu4 = JAP }
+link = { ck3 = e_shogunate eu4 = JAP }
+link = { ck3 = k_honshu eu4 = JAP }
 
-link = { ck3 = d_shrestapura eu4 = CHK }
-link = { ck3 = c_shrestapura eu4 = CHK }
+link = { ck3 = k_yezo eu4 = ANU }
+link = { ck3 = d_hokkaido eu4 = ANU }
 
-
-link = { ck3 = e_angkor eu4 = KHM }
-link = { ck3 = k_chenla eu4 = KHM }
-link = { ck3 = d_vyadhapura eu4 = KHM }
-
-
-link = { ck3 = k_laos eu4 = LUA }
-link = { ck3 = k_laos eu4 = LXA capitals = { 615 } }
+link = { ck3 = e_khmer eu4 = KHM }
+link = { ck3 = k_cambodia eu4 = KHM }
+link = { ck3 = d_cambodia eu4 = KHM }
+link = { ck3 = e_korea eu4 = KOR }
+link = { ck3 = k_joseon eu4 = KOR }
+link = { ck3 = k_luang_prabang eu4 = LUA }
 link = { ck3 = d_luang_prabang eu4 = LUA }
-link = { ck3 = c_luang_prabang eu4 = LUA }
-
-
-link = { ck3 = e_jurchen_china eu4 = MCH }
-link = { ck3 = k_motgit_china eu4 = MCH }
-
-link = { ck3 = d_langkasuka eu4 = PAT }
-link = { ck3 = c_mardelong eu4 = PAT }
-
-link = { ck3 = d_ryukyu_china eu4 = RYU }
-
-link = { ck3 = k_sukhothai eu4 = SUK }
+link = { ck3 = e_manchuria eu4 = MCH }
+link = { ck3 = k_jin eu4 = MCH }
+link = { ck3 = d_kelantan eu4 = PAT }
+link = { ck3 = c_pattani eu4 = PAT }
+link = { ck3 = k_ryukyu eu4 = RYU }
+link = { ck3 = d_ryukyu eu4 = RYU }
+link = { ck3 = d_sukhothai eu4 = SUK }
 link = { ck3 = c_sukhothai eu4 = SUK }
+link = { ck3 = d_zienghai eu4 = TOK }
+link = { ck3 = k_vientiane eu4 = VIE }
+link = { ck3 = d_vientiane eu4 = VIE }
+link = { ck3 = c_vientiane eu4 = VIE }
+link = { ck3 = d_taiwan eu4 = FRM }
 
-link = { ck3 = d_hai_dong eu4 = TOK }
+link = { ck3 = e_dali eu4 = CDL }
 
-link = { ck3 = d_nong_khai eu4 = VIE }
-link = { ck3 = c_nong_khai eu4 = VIE }
-
-link = { ck3 = k_liuqiu eu4 = FRM }
-
-link = { ck3 = e_zomia eu4 = CDL }
-link = { ck3 = k_nanzhao eu4 = CDL }
-
-link = { ck3 = k_jiannan_china eu4 = SHU }
-
-link = { ck3 = k_jiangnanxi_china eu4 = CHC }
-
-link = { ck3 = d_hiyaxu_china eu4 = CHH}
-
-link = { ck3 = d_tohchen_china eu4 = KRC }
-
-link = { ck3 = k_balhae_china eu4 = MJZ }
-
-link = { ck3 = d_yulou_china eu4 = NHX }
-
-link = { ck3 = d_udege_china eu4 = NVK }
-link = { ck3 = c_nivkh eu4 = NVK }
-
-link = { ck3 = k_siber_china eu4 = SOL }
-link = { ck3 = d_haramuru_china eu4 = SOL }
-
-link = { ck3 = d_siber_china eu4 = MYR }
-
-link = { ck3 = d_tagaung eu4 = MYA}
-
-link = { ck3 = hkamti eu4 = MKA}
-
-link = { ck3 = d_baise eu4 = CGS }
-link = { ck3 = c_baise_china eu4 = CGS }
-
-link = { ck3 = d_fujian_china eu4 = MIN }
-
-link = { ck3 = d_jiangxi_china eu4 = NNG }
-
-link = { ck3 = k_jiannan_china eu4 = CXI }
-
-link = { ck3 = k_qianzhong_china eu4 = CMI }
-
-link = { ck3 = k_luodian eu4 = CYI}
-link = { ck3 = d_shicheng eu4 = CYI}
-
-link = { ck3 = d_muong eu4 = MPH }
-
-link = { ck3 = k_xia eu4 = CSH }
-
-link = { ck3 = d_ujong_tanah eu4 = MLC }
-
-link = { ck3 = k_pahang eu4 = PAH }
-link = { ck3 = d_pahang eu4 = PAH }
-
-link = { ck3 = d_kelantan eu4 = KEL }
-
-link = { ck3 = d_kedah eu4 = KED }
-
-link = { ck3 = d_tambralinga eu4 = LIG }
-
-link = { ck3 = d_lamuri eu4 = PSA }
-link = { cks = c_pasai eu4 = PSA }
-
-link = { ck3 = d_batak eu4 = BRS }
-link = { cks = c_barus eu4 = BRS }
-
-link = { ck3 = c_inderapura eu4 = IND }
-
-link = { ck3 = d_siak eu4 = SAK }
-link = { ck3 = c_siak eu4 = SAK }
-
-link = { ck3 = d_jambi eu4 = JMB }
-link = { ck3 = c_muaro_jambi eu4 = JMB }
-
-link = { ck3 = k_palembang eu4 = PLB }
-link = { ck3 = d_palembang eu4 = PLB }
-link = { ck3 = c_palembang eu4 = PLB }
-
-link = { ck3 = k_sunda eu4 = SUN }
-link = { ck3 = d_sunda eu4 = SUN }
-
-link = { ck3 = k_jawa eu4 = MAJ }
-
-link = { ck3 = d_lumajang eu4 = BLM }
-
-link = { ck3 = k_bali_sea eu4 = BLI }
-link = { ck3 = d_bali_sea eu4 = BLI }
-link = { ck3 = c_bali_sea eu4 = BLI }
-
-link = { ck3 = k_burune eu4 = BEI }
-link = { ck3 = d_burune eu4 = BEI }
-link = { ck3 = c_burune eu4 = BEI }
-
-link = { ck3 = k_banjar eu4 = BNJ }
-link = { ck3 = d_katingan eu4 = BNJ }
-
-link = { ck3 = d_kutai eu4 = KUT }
-
-link = { ck3 = k_south_sulawesi eu4 = MKS}
-link = { ck3 = d_makassar eu4 = MKS}
-link = { ck3 = c_makassar eu4 = MKS}
-
-link = { ck3 = d_luwu eu4 = LUW }
-
-link = { ck3 = d_butungmuna eu4 = BTN }
-link = { ck3 = c_buton eu4 = BTN }
-
-link = { ck3 = d_tidore eu4 = TID }
-link = { ck3 = c_tidore eu4 = TID }
-
-link = { ck3 = d_ternate eu4 = TER }
-link = { ck3 = c_ternate eu4 = TER }
-
-link = { ck3 = k_maguinadao eu4 = MGD }
-
-link = { ck3 = k_sulu eu4 = SUL }
-link = { ck3 = d_lupah_sug eu4 = SUL }
-link = { ck3 = c_sug eu4 = SUL }
-
-link = { ck3 = k_butuan eu4 = BTU }
-link = { ck3 = d_kalagan eu4 = BTU }
-link = { ck3 = c_butuan eu4 = BTU }
-
-link = { ck3 = d_tondo eu4 = TDO }
-link = { ck3 = c_tondo eu4 = TDO }
-
-link = { ck3 = d_panay eu4 = MAS }
-link = { ck3 = c_oton eu4 = MAS }
-
-link = { ck3 = d_maynila eu4 = MNA }
-link = { ck3 = c_maynila eu4 = MNA }
-
-link = { ck3 = k_amianan eu4 = PGS }
-link = { ck3 = d_iluek eu4 = PGS }
-link = { ck3 = c_bigan eu4 = PGS }
-
-link = { ck3 = k_haripunjaya eu4 = LNA }
-
-
-
+link = { ck3 = k_jiok eu4 = SHU }
+link = { ck3 = k_chio eu4 = CHC }
 
 link = { ck3 = e_turkey eu4 = TUR }
 link = { ck3 = e_austria eu4 = HAB }
@@ -1166,3 +1051,123 @@ link = { ck3 = c_ganale eu4 = OGD } # Ogaaden
 #link = { ck3 = d_gobir eu4 = GOB } # Gobir
 #link = { ck3 = c_gobir eu4 = GOB } # Gobir
 #link = { ck3 = c_daura eu4 = DAU } # Daura
+
+## MOD: Rajas of Asia
+# Jurchen
+link = { ck3 = e_jurchen_china eu4 = MCH }
+link = { ck3 = k_balhae_china eu4 = MCH }
+link = { ck3 = d_balhae_china eu4 = MJZ }
+link = { ck3 = d_malgal_china eu4 = MHX }
+link = { ck3 = d_heishui_china eu4 = EJZ }
+link = { ck3 = d_udege_china eu4 = NVK }
+link = { ck3 = c_nivkh_china eu4 = NVK }
+link = { ck3 = d_siber_china eu4 = SOL }
+link = { ck3 = d_yulou eu4 = NHX }
+link = { ck3 = d_uroghu_china eu4 = KRC }
+link = { ck3 = d_haramuru_china eu4 = SOL }
+# China Proper
+link = { ck3 = e_celestia_china eu4 = MNG }
+link = { ck3 = k_guannei_china eu4 = CSH }
+link = { ck3 = k_hedong_china eu4 = QIN }
+link = { ck3 = k_hebei_china eu4 = YAN }
+link = { ck3 = k_henan_china eu4 = QIC }
+link = { ck3 = k_jiangnanxi_china eu4 = NNG }
+link = { ck3 = k_shannandong_china eu4 = CHC }
+link = { ck3 = k_guannei_china eu4 = JIN }
+link = { ck3 = k_duji_china eu4 = LNG }
+link = { ck3 = k_shannanxi_china eu4 = CXI }
+link = { ck3 = k_lingnang_china eu4 = YUE }
+link = { ck3 = d_fujian_china eu4 = MIN }
+link = { ck3 = d_zhenhai_china eu4 = WUU }
+link = { ck3 = e_dai_viet eu4 = DAI }
+link = { ck3 = k_annam eu4 = DAI }
+# Mongolia Extended
+link = { ck3 = k_khitan_china eu4 = CHH }
+# Zomia
+link = { ck3 = e_zomia eu4 = CDL }
+link = { ck3 = k_nanzhao eu4 = CDL }
+link = { ck3 = k_luodian eu4 = CYI }
+link = { ck3 = k_shan eu4 = HSE }
+link = { ck3 = k_laos eu4 = LUA }
+link = { ck3 = d_baise_china eu4 = CGS }
+link = { ck3 = d_mong_pai eu4 = MPA }
+link = { ck3 = d_hsipaw eu4 = HSI }
+link = { ck3 = c_hsipaw eu4 = HSI }
+link = { ck3 = d_hkamti eu4 = MKA }
+link = { ck3 = c_monkawng eu4 = MKA }
+link = { ck3 = d_sukhothai eu4 = SUK }
+link = { ck3 = c_sukhothai eu4 = SUK }
+link = { ck3 = k_lavapura eu4 = AYU }
+link = { ck3 = d_lavapura eu4 = AYU }
+link = { ck3 = k_langkasuka eu4 = LIG }
+link = { ck3 = d_langkasuka eu4 = LIG }
+link = { ck3 = d_kedah eu4 = KED }
+link = { ck3 = c_kedah eu4 = KED }
+link = { ck3 = k_pahang eu4 = MLC }
+link = { ck3 = d_ujong_tanah eu4 = MLC }
+link = { ck3 = d_pahang eu4 = PAH }
+link = { ck3 = d_kelantan eu4 = KEL }
+link = { ck3 = c_kelantan eu4 = KEL }
+link = { ck3 = c_narathiwat eu4 = PAT }
+link = { ck3 = d_lamuri eu4 = ATJ }
+link = { ck3 = c_lamuri eu4 = ATJ }
+link = { ck3 = d_aru eu4 = PSA }
+link = { ck3 = c_aru eu4 = PSA }
+link = { ck3 = d_batak eu4 = BRS }
+link = { ck3 = c_barus eu4 = BRS }
+link = { ck3 = d_minangkabau eu4 = PGR }
+link = { ck3 = c_darek eu4 = PGR }
+link = { ck3 = c_nagur eu4 = DLI }
+link = { ck3 = d_siak eu4 = SAK }
+link = { ck3 = c_siak eu4 = SAK }
+link = { ck3 = c_indrapura eu4 = IND }
+link = { ck3 = d_jambi eu4 = JMB }
+link = { ck3 = c_muaro_jambi eu4 = JMB }
+link = { ck3 = k_palembang eu4 = PLB }
+link = { ck3 = d_palembang eu4 = PLB }
+link = { ck3 = c_palembang eu4 = PLB }
+link = { ck3 = k_sunda eu4 = SUN }
+link = { ck3 = d_sunda eu4 = SUN }
+link = { ck3 = k_jawa eu4 = MAJ }
+link = { ck3 = d_lumajang eu4 = BLM }
+link = { ck3 = c_pakembangan eu4 = BLM }
+link = { ck3 = c_bali_sea eu4 = BLI }
+link = { ck3 = k_tanjungpura eu4 = SMB }
+link = { ck3 = d_wijayapura eu4 = SMB }
+link = { ck3 = c_lemukutan eu4 = SMB }
+link = { ck3 = k_burune eu4 = BEI }
+link = { ck3 = d_burune eu4 = BEI }
+link = { ck3 = c_burune eu4 = BEI }
+link = { ck3 = d_tidung eu4 = BEU }
+link = { ck3 = c_kelay eu4 = BEU }
+link = { ck3 = d_kutai eu4 = KUT }
+link = { ck3 = c_sangata eu4 = KUT }
+link = { ck3 = k_banjar eu4 = BNJ }
+link = { ck3 = d_katingan eu4 = BNJ }
+link = { ck3 = c_katingan_kuala eu4 = BNJ }
+link = { ck3 = d_luwu eu4 = LUW }
+link = { ck3 = c_burau eu4 = LUW }
+link = { ck3 = d_bugis eu4 = BNE }
+link = { ck3 = c_sopeng eu4 = BNE }
+link = { ck3 = d_makassar eu4 = MKS }
+link = { ck3 = c_makassar eu4 = MKS }
+link = { ck3 = d_butungmuna eu4 = BTN }
+link = { ck3 = c_buton eu4 = BTN }
+link = { ck3 = c_ternate eu4 = TER }
+link = { ck3 = c_tidore eu4 = TID }
+link = { ck3 = k_maguinadao eu4 = MGD }
+link = { ck3 = d_kotabatu eu4 = MGD }
+link = { ck3 = d_panay eu4 = MAS }
+link = { ck3 = d_bo_ol eu4 = CEB }
+link = { ck3 = c_bo_ol eu4 = CEB }
+link = { ck3 = d_tondo eu4 = TDO }
+link = { ck3 = c_tondo eu4 = TDO }
+link = { ck3 = d_maynila eu4 = MNA }
+link = { ck3 = c_maynila eu4 = MNA }
+link = { ck3 = d_pangasinan eu4 = PGS }
+link = { ck3 = c_binalatongan eu4 = PGS }
+link = { ck3 = d_ryukyu_china eu4 = RYU }
+link = { ck3 = c_yaeyama_china eu4 = RYU }
+link = { ck3 = k_liuqiu eu4 = FRM }
+
+link = { ck3 = c_pagan eu4 = AVA}

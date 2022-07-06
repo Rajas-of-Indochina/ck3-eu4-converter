@@ -1,8 +1,0 @@
-sound = {
-	name = religion_converted_tungusic_shamanism
-	file = "tab_religion_pagan.wav"
-}
-sound = {
-	name = start_convert_converted_tungusic_shamanism
-	file = "start_conversion_pagan_animism.wav"
-}

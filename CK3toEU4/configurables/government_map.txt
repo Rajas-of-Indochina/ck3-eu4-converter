@@ -7,9 +7,6 @@ link = { gov = monarchy ck3gov = feudal_government ck3gov = clan_government }
 link = { gov = theocracy ck3gov = theocracy_government ck3gov = holy_order_government ck3gov = holy_order_government_2 }
 link = { gov = republic ck3gov = republic_government ck3gov = mercenary_government }
 link = { gov = tribal ck3gov = tribal_government }
-link = { gov = monarchy ck3gov = mandala_government reform = mandala_reform }
-link = { gov = monarchy ck3gov = chinese_government reform = confucian_bureaucracy }
-link = { gov = tribal ck3gov = nomadic_government }
 
 
 
@@ -47,5 +44,13 @@ link = { title = d_zun_warriors gov = theocracy reform = monastic_order_reform }
 link = { title = d_sunni gov = theocracy reform = leading_clergy_reform }
 link = { title = d_shiite gov = theocracy reform = leading_clergy_reform }
 
-#china
-link = { ck3title = e_celestia_china gov = monarchy reform = celestial_empire }
+# Rajas of Asia
+link = { gov = monarchy ck3gov = chinese_government reform = chinese_warlord } # Independent Chinese Kingdom (not Ming)
+link = { gov = monarchy ck3gov = chinese_vassal_government reform = plutocratic_reform } # Chinese Vassal Kingdom
+link = { gov = monarchy ck3gov = mandala_government reform = mandala_reform } # Mandala Government
+link = { gov = tribal ck3gov = nomadic_government reform = steppe_horde }
+# Specific titles (accounting for Mongol and Jurchen Chinese Emperors)
+link = { title = e_jurchen_china ck3gov = chinese_government government = monarchy reform = celestial_empire }
+link = { title = e_celestia_china ck3gov = chinese_government government = monarchy reform = celestial_empire }
+link = { title = e_mongolia ck3gov = chinese_government government = monarchy reform = celestial_empire }
+link = { title = e_mongolia ck3gov = nomad_government ck3gov = tribal_government government = monarchy reform = great_mongol_state_reform } # Account for possibly (but not necessarily) tribalized Mongolia

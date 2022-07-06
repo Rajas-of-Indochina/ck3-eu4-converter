@@ -1,7 +1,0 @@
-
-
-************ -= The Paradox Game Converters Group =- *****************
-* Converter version 0.10J "Jain"
-* Compatible with CK3 [v1.5] and EU4 [v1.33]
-* Built on Wed Apr 20 20:53:04 2022
-*************************** + CK3 To EU4 + ***************************

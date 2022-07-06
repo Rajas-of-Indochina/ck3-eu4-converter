@@ -1,9 +1,0 @@
-ck2_converter_generated = yes
-graphical_culture = westerngfx
-color = { 100 105 120 }
-monarch_names = {
-	"Arnulf #0" = 0
-	"Godschalk #0" = 0
-	"Karlmann #1" = 10
-	"Liutswind #0" = -1
-}
