@@ -208,3 +208,4 @@ link = { eu4 = shamanism ck3 = bathouism }
 link = { eu4 = shamanism ck3 = hmongism }
 link = { eu4 = shamanism ck3 = tungusic_shamanism }
 link = { eu4 = shamanism ck3 = yzng }
+link = { eu4 = confucianism ck3 = shendao }
