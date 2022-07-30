@@ -130,7 +130,7 @@ link = { eu4 = swabian ck3 = suebi tech = western gfx = westerngfx region = nort
 link = { eu4 = suebi ck3 = suebi tech = western gfx = westerngfx }
 
 ## Splitting Lombards
-link = { eu4 = tuscian ck3 = lombard tech = western gfx = westerngfx region = tuscany_area region = corsica_sardinia_area region = emilia_romagna_area }
+link = { eu4 = tuscan ck3 = lombard tech = western gfx = westerngfx region = tuscany_area region = corsica_sardinia_area region = emilia_romagna_area }
 link = { eu4 = spoletan ck3 = lombard tech = western gfx = westerngfx region = central_italy_area region = lazio_area }
 link = { eu4 = beneventine ck3 = lombard tech = western gfx = westerngfx region = apulia_area }
 link = { eu4 = salernian ck3 = lombard tech = western gfx = westerngfx region = naples_area region = calabria_area region = western_sicily_area region = sicily_area }
@@ -780,7 +780,7 @@ link = { eu4 = getian ck3 = getian tech = nomad_group gfx = easterngfx }
 ## Arvanitic
 link = { eu4 = arbereshe ck3 = albanian ck3 = arberian ck3 = dalmatian tech = eastern gfx = easterngfx region = italy_region }
 link = { eu4 = albanian ck3 = albanian ck3 = arberian tech = eastern gfx = easterngfx }
-link = { eu4 = illyrian ck3 = dalmatian tech = western gfx = easterngfx }
+#link = { eu4 = illyrian ck3 = dalmatian tech = western gfx = easterngfx }
 
 ## Extra
 link = { eu4 = oldspain ck3 = iberian tech = western gfx = westerngfx }
@@ -818,3 +818,25 @@ link = { eu4 = central_thai ck3 = thai ck3 = tai tech = chinese gfx = asiangfx }
 link = { eu4 = sichuanese ck3 = sichuan tech = chinese gfx = asiangfx }
 link = { eu4 = chimin ck3 = min tech = chinese gfx = asiangfx }
 link = { eu4 = korean ck3 = goguryeo tech = chinese gfx = asiangfx }
+
+#Tarikh al-Islam
+##Arabic
+link = { eu4 = sicilian ck3 = sicilian_arabic tech = muslim gfx = muslim_gfx }
+link = { eu4 = hejazi_culture ck3 = hijazi tech = muslim gfx = muslimgfx }
+link = { eu4 = al_iraqiya_arabic ck3 = iraqi tech = muslim gfx = muslimgfx }
+link = { eu4 = gulf_arabic ck3 = bahraini tech = muslim gfx = muslimgfx }
+##Frankish
+link = { eu4 = burgundian ck3 = bourguignon tech = western gfx = westerngfx }
+##Iberian
+link = { eu4 = hispanic ck3 = hispano_roman tech = western gfx = westerngfx }
+##Latin
+link = { eu4 = maltese ck3 = maltese tech = western gfx = westerngfx }
+link = { eu4 = neapolitan ck3 = neapolitan tech = western gfx = westerngfx }
+link = { eu4 = tuscan ck3 = tuscan tech = western gfx = westerngfx }
+link = { eu4 = dalmatian ck3 = dalmatian tech = western gfx = westerngfx }
+##South Slavic
+link = { eu4 = serbian ck3 = sklabenoi tech = eastern gfx = easterngfx }#Map to Serbs for now?
+##Turkic
+link = { eu4 = al_misr_arabic ck3 = mamluk tech = ottoman gfx = muslimgfx }#Map to Egyptian for now?
+##East Germanic
+link = { eu4 = burgundian_frankish ck3 = burgundian tech = western gfx = westerngfx }

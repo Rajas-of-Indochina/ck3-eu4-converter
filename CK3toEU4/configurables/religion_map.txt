@@ -209,3 +209,6 @@ link = { eu4 = shamanism ck3 = hmongism }
 link = { eu4 = shamanism ck3 = tungusic_shamanism }
 link = { eu4 = shamanism ck3 = yzng }
 link = { eu4 = confucianism ck3 = shendao }
+
+# Mod: Tarikh al-Islam
+link = { eu4 = shiite ck3 = kaysani }

@@ -64,3 +64,5 @@ link = { eu4 = kamchatkan_g ck3 = heritage_ezo ck3 = heritage_nivkh }
 link = { eu4 = thai_group ck3 = heritage_tai }
 link = { eu4 = malay ck3 = heritage_malayic ck3 = heritage_chamic ck3 = heritage_dayak ck3 = heritage_sulawesi ck3 = heritage_moluccan ck3 = heritage_filipino ck3 = heritage_lumad ck3 = heritage_aslianic }
 link = { eu4 = pacific ck3 = heritage_papuan ck3 = heritage_formosan }
+
+link = { eu4 = gothic_group ck3 = heritage_east_germanic }

@@ -256,3 +256,6 @@ link = { ck3 = { tradition = tradition_angkorian_architecture } eu4 = { global_t
 link = { ck3 = { tradition = tradition_tiger_suns } eu4 = { special_unit_forcelimit = 0.05 global_manpower_modifier = 0.1 } }
 link = { ck3 = { tradition = tradition_warrior_caste } eu4 = { mil_tech_cost_modifier = -0.15 } }
 link = { ck3 = { tradition = tradition_migratory } eu4 = { movement_speed = 0.1 } }
+
+#Mod: Tarikh al-Islam
+link = { ck3 = { tradition = tradition_corsairs } eu4 = { may_perform_slave_raid = yes} }

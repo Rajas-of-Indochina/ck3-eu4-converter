@@ -55,3 +55,7 @@ link = { title = e_jurchen_china ck3gov = chinese_government government = monarc
 link = { title = e_celestia_china ck3gov = chinese_government government = monarchy reform = celestial_empire }
 link = { title = e_mongolia ck3gov = chinese_government government = monarchy reform = celestial_empire }
 link = { title = e_mongolia ck3gov = nomad_government ck3gov = tribal_government government = monarchy reform = great_mongol_state_reform } # Account for possibly (but not necessarily) tribalized Mongolia
+
+# Tarikh al-Islam
+link = { gov = monarchy ck3gov = islamic_government }
+link = { gov = republic ck3gov = theme_government reform = military_dictatorship_reform }

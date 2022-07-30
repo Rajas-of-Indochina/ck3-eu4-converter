@@ -1171,3 +1171,8 @@ link = { ck3 = c_yaeyama_china eu4 = RYU }
 link = { ck3 = k_liuqiu eu4 = FRM }
 
 link = { ck3 = c_pagan eu4 = AVA}
+
+# Tarikh al-Islam
+link = { ck3 = e_avar eu4 = HUN }
+link = { ck3 = e_carpathia eu4 = HUN}
+link = { ck3 = e_egypt eu4 = EGY } #Should this map to Mamluks?
