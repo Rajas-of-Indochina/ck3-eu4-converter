@@ -440,10 +440,10 @@
 	link = { ck3 = 11289 ck3 = 10133 ck3 = 10136 ck3 = 10131 ck3 = 10130 eu4 = 2385 } # c_wang_saphung, c_nong_bua_lam_phu, c_loei, c_udon_thani, c_nong_khai -> Nongbua Lamphu
 	link = { ck3 = 10164 ck3 = 10134 eu4 = 2386 } # c_ka_long, c_phra_lap -> Chaiyaphum
 	link = { ck3 = 10161 ck3 = 10157 ck3 = 10159 ck3 = 10158 eu4 = 612 } # c_khon_buri, c_canasapura, c_raeng_khoi, c_vimayapura -> Khorat
-	link = { ck3 = 10190 ck3 = 10189 eu4 = 603 } # c_chan_kabui, c_sra_kaeo -> Nakhon Thung Yai
-	link = { ck3 = 10187 ck3 = 10193 ck3 = 10650 ck3 = 11558 eu4 = 4830 } # c_prachinburi, c_phra_rot, c_phya_re, c_kabin_buri -> Rayong
-	link = { ck3 = 10177 ck3 = 10181 eu4 = 600 } # c_u_thong, c_ayutthaya -> Ayutthaya
-	link = { ck3 = 10180 eu4 = 4831 } # c_sakhonburi -> Bangkok
+	link = { ck3 = 10190 ck3 = 10189 ck3 = 10650 eu4 = 603 } # c_chan_kabui, c_sra_kaeo, c_phya_re -> Nakhon Thung Yai
+	link = { ck3 = 10187 ck3 = 10193 ck3 = 11558 eu4 = 4830 } # c_prachinburi, c_phra_rot, c_kabin_buri -> Rayong
+	link = { ck3 = 10177 ck3 = 10182 eu4 = 600 } # c_u_thong, c_ayutthaya -> Ayutthaya
+	link = { ck3 = 10180 ck3 = 10181 eu4 = 4831 } # c_nakhon_pathom, c_samut_prakan -> Bangkok
 	link = { ck3 = 10175 ck3 = 10174 eu4 = 4834 } # c_ban_rai, c_singhapura -> Suphanburi
 	link = { ck3 = 10093 ck3 = 10170 ck3 = 10171 eu4 = 2389 } # c_pho_pha, c_chakangrao, c_phra_bang -> Phra Bang
 	link = { ck3 = 10122 ck3 = 10121 eu4 = 1817 } # c_wiang_si_sa_ket, c_nan -> Nan
@@ -687,8 +687,8 @@
 	link = { ck3 = 10313 ck3 = 10317 eu4 = 4811 } # c_kluet, c_pakpak -> Barus
 	link = { ck3 = 10306 eu4 = 2685 } # c_pasikaram -> Gayo
 	link = { ck3 = 10316 eu4 = 4809 } # c_aru -> Langkat
-	link = { ck3 = 10312 eu4 = 2674 } # c_perlak -> Peureulak
-	link = { ck3 = 10305 ck3 = 10308 ck3 = 10310 eu4 = 2673 } # c_pedir, c_pasai, c_gayo -> Pasai
+	link = { ck3 = 10312 ck3 = 10310 eu4 = 2674 } # c_perlak, c_gayo -> Peureulak
+	link = { ck3 = 10305 ck3 = 10308 eu4 = 2673 } # c_pedir, c_pasai -> Pasai
 	link = { ck3 = 10399 ck3 = 10397 ck3 = 10401 eu4 = 574 } # c_hantuman, c_jarawa, c_nakkavaram -> The Andamans
 	link = { ck3 = 10219 ck3 = 10218 ck3 = 10226 eu4 = 4825 } # c_koh_kong, c_khemara_phoumin, c_pursat -> Pursat
 	link = { ck3 = 10656 ck3 = 10655 ck3 = 10215 eu4 = 4826 } # c_ream, c_chum_kiri, c_angkor_borei -> Kampot
@@ -1746,11 +1746,11 @@
 	link = { ck3 = 1930 ck3 = 1899 eu4 = 2755 } # c_molina, c_soria -> Soria
 	link = { ck3 = 1932 eu4 = 4557 } # c_calatayud -> Calatayud
 	link = { ck3 = 1937 ck3 = 1891 eu4 = 2990 } # c_teruel, c_albarracin -> Teruel
-	link = { ck3 = 1864 ck3 = 1867 eu4 = 212 eu4 = 197 } # MANY-TO-MANY: c_girona, c_puigcerda -> Girona, Roussillon
+	link = { eu4 = 212 eu4 = 197 } # NOTHING -> Girona, Roussillon
 	link = { ck3 = 1861 eu4 = 213 } # c_barcelona -> Barcelona
-	link = { ck3 = 1869 ck3 = 1880 eu4 = 2987 } # c_urgell, c_lleida -> Urgell
+	link = { ck3 = 1869 eu4 = 2987 } # c_urgell -> Urgell
 	link = { ck3 = 1807 eu4 = 211 } # c_alto_aragon -> Huesca
-	link = { ck3 = 1885 ck3 = 1874 eu4 = 214 } # c_zaragoza, c_fraga -> Zaragoza
+	link = { ck3 = 1885 eu4 = 214 } # c_zaragoza -> Zaragoza
 	link = { ck3 = 1859 eu4 = 2988 } # c_tarragona -> Tarragona
 	link = { ck3 = 1857 ck3 = 1883 eu4 = 4550 } # c_castellon, c_alcaniz -> Castelló
 	link = { ck3 = 1855 eu4 = 220 eu4 = 4549 } # c_valencia -> València, Xàtiva
