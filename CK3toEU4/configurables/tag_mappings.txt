@@ -1176,3 +1176,5 @@ link = { ck3 = c_pagan eu4 = AVA}
 link = { ck3 = e_avar eu4 = HUN }
 link = { ck3 = e_carpathia eu4 = HUN}
 link = { ck3 = e_egypt eu4 = EGY } #Should this map to Mamluks?
+link = { ck3 = e_mamluk eu4 = MAM } #NVM Mamluk is gonna be implemented lol
+link = { ck3 = e_mughal eu4 = MUG}

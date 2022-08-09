@@ -56,7 +56,7 @@ link = { eu4 = evenks ck3 = heritage_siberian }
 
 # Mod: Rajas of Asia
 link = { eu4 = evenks ck3 = heritage_tungusic }
-link = { eu4 = southeastasian_group ck3 = khmer ck3 = katuic cks = palaungic ck3 = heritage_san_miao ck3 = heritage_vietic ck3 = heritage_kradai }
+link = { eu4 = southeastasian_group ck3 = khmer ck3 = katuic ck3 = palaungic ck3 = heritage_san_miao ck3 = heritage_vietic ck3 = heritage_kradai }
 link = { eu4 = tibetan_group ck3 = heritage_loloish }
 link = { eu4 = korean_g ck3 = heritage_korean ck3 = heritage_damhan }
 link = { eu4 = japanese_g ck3 = heritage_ryukyu }

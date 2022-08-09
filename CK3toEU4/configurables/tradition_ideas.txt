@@ -259,3 +259,4 @@ link = { ck3 = { tradition = tradition_migratory } eu4 = { movement_speed = 0.1 
 
 #Mod: Tarikh al-Islam
 link = { ck3 = { tradition = tradition_corsairs } eu4 = { may_perform_slave_raid = yes} }
+#link = { ck3 = { tradition =  } eu4 = { reform_progress_growth = 0.1 nobles_influence_modifier = 0.05 } }
