@@ -1128,6 +1128,10 @@ link = { ck3 = d_palembang eu4 = PLB }
 link = { ck3 = c_palembang eu4 = PLB }
 link = { ck3 = k_sunda eu4 = SUN }
 link = { ck3 = d_sunda eu4 = SUN }
+link = { ck3 = c_banten eu4 = BAN }
+link = { ck3 = c_patapan eu4 = CRB }
+link = { ck3 = c_mataram eu4 = MTR }
+link = { ck3 = d_mataram eu4 = MTR }
 link = { ck3 = k_jawa eu4 = MAJ }
 link = { ck3 = d_lumajang eu4 = BLM }
 link = { ck3 = c_pakembangan eu4 = BLM }
@@ -1171,6 +1175,12 @@ link = { ck3 = c_yaeyama_china eu4 = RYU }
 link = { ck3 = k_liuqiu eu4 = FRM }
 
 link = { ck3 = c_pagan eu4 = AVA}
+
+link = { ck3 = d_kinh_bac eu4 = TOK }
+link = { ck3 = c_thanh_long eu4 = TOK }
+
+link = { ck3 = d_chantabuli eu4 = VIE }
+link = { ck3 = c_chantabuli eu4 = VIE }
 
 # Tarikh al-Islam
 link = { ck3 = e_avar eu4 = HUN }
