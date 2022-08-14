@@ -1,4 +1,8 @@
 0.0.0 = {
+	link = { ck3 = 12861 ck3 = 13080 ck3 = 13082 ck3 = 13068 ck3 = 13055 ck3 = 12209 ck3 = 13051 ck3 = 13077 ck3 = 13091 ck3 = 13100 ck3 = 13115 ck3 = 13086 eu4 = 2721 } # c_kiwai, c_kamula, c_tomu, c_kikori, c_purari, c_kerema, c_kotombaiwa, c_angal, c_enga, c_kopiago, c_samaia, c_wahgi -> Kerema
+	link = { ck3 = 12046 ck3 = 12113 ck3 = 13041 ck3 = 13147 eu4 = 2722 } # c_yam, c_oriomo, c_gogodala, c_maluligal -> Daru
+	link = { ck3 = 13042 ck3 = 13044 ck3 = 13078 ck3 = 13048 ck3 = 12937 eu4 = 2723 } # c_kolepom, c_bulaka, c_elevala, c_boazi, c_marind -> Yos Sudarso
+	link = { ck3 = 13111 ck3 = 13096 ck3 = 13079 ck3 = 13089 ck3 = 13108 ck3 = 13114 ck3 = 13119 ck3 = 13122 ck3 = 13127 ck3 = 13107 ck3 = 13131 ck3 = 13137 ck3 = 13140 eu4 = 2724 } # c_kemoro, c_asmat, c_mappi, c_korowai, c_momuna, c_baliem, c_nemangkawi, c_dogiyai, c_tariku, c_mek, c_nabire, c_sawai2, c_mamberamo -> Asmat
 	link = { ck3 = 12982 eu4 = 1996 } # c_palau -> Palau
 	link = { ck3 = 1360 eu4 = 1248 } # c_maldives -> Maldives
 	link = { ck3 = 2761 ck3 = 2776 eu4 = 68 } # c_grunningen, c_kempten -> Memmingen
@@ -629,7 +633,12 @@
 	link = { ck3 = 11697 eu4 = 645 } # c_buru -> Buru
 	link = { ck3 = 11701 eu4 = 646 } # c_piru -> Ambon
 	link = { ck3 = 11706 ck3 = 11703 eu4 = 647 } # c_bula, c_masohi -> Ceram
-	link = { ck3 = 11734 ck3 = 11732 ck3 = 11730 ck3 = 11728 ck3 = 11726 ck3 = 11722 ck3 = 11723 ck3 = 11724 eu4 = 1245 } # c_mantion, c_tambrauw, c_maybrat, c_berau, c_soren, c_waigeo, c_salawati, c_waigama -> Manokwari
+	link = { ck3 = 13092 ck3 = 13095 ck3 = 13110 ck3 = 13116 eu4 = 1236 } # c_ngero, c_mengen, c_baining, c_latangai -> Rabaul
+	link = { ck3 = 11877 ck3 = 11725 ck3 = 11708 ck3 = 11700 ck3 = 11712 ck3 = 12067 ck3 = 10828 eu4 = 1237 } # c_koiali, c_kwale, c_meneao, c_suau, c_moratau, c_muyua, c_vanatinai -> Hanuabada
+	link = { ck3 = 13087 ck3 = 13073 ck3 = 13050 ck3 = 12659 ck3 = 11918 eu4 = 2720 } # c_upat, c_wampar, c_morobe, c_mambare, c_ijivitari -> Lae
+	link = { ck3 = 13090 ck3 = 13102 ck3 = 13076 ck3 = 13074 ck3 = 12230 ck3 = 13040 ck3 = 11761 ck3 = 11787 ck3 = 11698 eu4 = 1238 } # c_wakunai, c_buka, c_arawa, c_lauru, c_roviana, c_mahaga, c_isatabu, c_maramapaina, c_makira -> Solomon Islands
+	link = { ck3 = 13097 ck3 = 13109 ck3 = 13124 ck3 = 13106 ck3 = 13126 ck3 = 13121 ck3 = 13136 ck3 = 13141 eu4 = 2719 } # c_madang, c_angoram, c_wewak, c_ambunti, c_vamino, c_nawa, c_sentani, c_manus -> Madang
+	link = { ck3 = 11734 ck3 = 11732 ck3 = 11730 ck3 = 11728 ck3 = 11726 ck3 = 11722 ck3 = 11723 ck3 = 11724 ck3 = 13146 ck3 = 13143 eu4 = 1245 } # c_mantion, c_tambrauw, c_maybrat, c_berau, c_soren, c_waigeo, c_salawati, c_waigama, c_biak, c_yapen -> Manokwari
 	link = { ck3 = 11746 ck3 = 11744 ck3 = 11741 ck3 = 11739 ck3 = 11737 eu4 = 2718 } # c_mairasi, c_irarutu, c_buruwai, c_kapaur, c_wamesa -> Fak-Fak
 	link = { ck3 = 11694 ck3 = 11688 eu4 = 2725 } # c_ewav, c_aru_east -> Aru
 	link = { ck3 = 11692 eu4 = 2696 } # c_yamdena -> Yamdena
