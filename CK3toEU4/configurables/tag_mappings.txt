@@ -459,6 +459,7 @@ link = { ck3 = c_ghadames eu4 = GHD }
 link = { ck3 = d_bejaia eu4 = KBA }
 link = { ck3 = c_bejaia eu4 = KBA }
 #link = { ck3 = ??? eu4 = MAM }
+link = { ck3 = e_maghreb eu4 = MOR }
 link = { ck3 = k_maghreb eu4 = MOR }
 link = { ck3 = d_marrakesh eu4 = MRK }
 link = { ck3 = c_marrakesh eu4 = MRK }
@@ -1188,3 +1189,18 @@ link = { ck3 = e_carpathia eu4 = HUN}
 link = { ck3 = e_egypt eu4 = EGY } #Should this map to Mamluks?
 link = { ck3 = e_mamluk eu4 = MAM } #NVM Mamluk is gonna be implemented lol
 link = { ck3 = e_mughal eu4 = MUG}
+
+# Historic Invasions
+link = { ck3 = e_almoravids eu4 = MOR }
+link = { ck3 = e_almohads eu4 = MOR }
+link = { ck3 = e_delhi eu4 = DLH }
+link = { ck3 = e_ottomans eu4 = TUR }
+link = { ck3 = e_mamluks eu4 = MAM }
+link = { ck3 = e_teutonic_state eu4 = TEU }
+link = { ck3 = k_teutonic_order eu4 = TEU }
+link = { ck3 = k_libonian_order eu4 = LIV }
+link = { ck3 = k_oman eu4 = OMA }
+link = { ck3 = k_hejaz eu4 = HED }
+
+# Muslim Enhancements
+link = { ck3 = d_hashsashin eu4 = HAH }

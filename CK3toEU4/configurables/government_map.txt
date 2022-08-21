@@ -59,3 +59,20 @@ link = { title = e_mongolia ck3gov = nomad_government ck3gov = tribal_government
 # Tarikh al-Islam
 link = { gov = monarchy ck3gov = islamic_government }
 link = { gov = republic ck3gov = theme_government reform = military_dictatorship_reform }
+
+# Historic Invasions
+link = { title = e_shiite gov = theocracy reform = leading_clergy_reform }
+link = { title = e_almohads gov = theocracy reform = leading_clergy_reform }
+
+# Muslim Enhancements
+link = { title = d_isfahani gov = theocracy reform = leading_clergy_reform }
+link = { title = d_zaydi gov = theocracy reform = leading_clergy_reform }
+link = { title = d_imami gov = theocracy reform = leading_clergy_reform }
+link = { title = d_alawi gov = theocracy reform = leading_clergy_reform }
+link = { title = d_ishaqiya gov = theocracy reform = leading_clergy_reform }
+link = { title = d_ibadi gov = theocracy reform = leading_clergy_reform }
+link = { title = d_wahbiya gov = theocracy reform = leading_clergy_reform }
+link = { title = d_nukkari gov = theocracy reform = leading_clergy_reform }
+link = { title = d_barghawata gov = theocracy reform = leading_clergy_reform }
+
+# ASDAC
