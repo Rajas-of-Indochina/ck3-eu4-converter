@@ -1068,18 +1068,18 @@ link = { ck3 = d_uroghu_china eu4 = KRC }
 link = { ck3 = d_haramuru_china eu4 = SOL }
 # China Proper
 link = { ck3 = e_celestia_china eu4 = MNG }
-link = { ck3 = k_guannei_china eu4 = CSH }
-link = { ck3 = k_hedong_china eu4 = QIN }
-link = { ck3 = k_hebei_china eu4 = YAN }
-link = { ck3 = k_henan_china eu4 = QIC }
-link = { ck3 = k_jiangnanxi_china eu4 = NNG }
-link = { ck3 = k_shannandong_china eu4 = CHC }
-link = { ck3 = k_guannei_china eu4 = JIN }
-link = { ck3 = k_duji_china eu4 = LNG }
-link = { ck3 = k_shannanxi_china eu4 = CXI }
-link = { ck3 = k_lingnang_china eu4 = YUE }
+link = { ck3 = k_xia_china eu4 = CSH }
+link = { ck3 = k_han_china eu4 = CXI }
+link = { ck3 = d_hunan_china eu4 = CMI }
 link = { ck3 = d_fujian_china eu4 = MIN }
-link = { ck3 = d_zhenhai_china eu4 = WUU }
+link = { ck3 = d_lingnan_china eu4 = YUE }
+link = { ck3 = d_luling_china eu4 = NNG }
+link = { ck3 = d_zhedong_china eu4 = WUU }
+link = { ck3 = k_qi_china eu4 = QIC }
+link = { ck3 = k_yan_china eu4 = YAN }
+link = { ck3 = k_jin_china eu4 = JIN }
+link = { ck3 = k_liang_china eu4 = LNG }
+link = { ck3 = k_qin_china eu4 = QIN }
 link = { ck3 = e_dai_viet eu4 = DAI }
 link = { ck3 = k_annam eu4 = DAI }
 # Mongolia Extended
