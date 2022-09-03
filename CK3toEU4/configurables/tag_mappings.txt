@@ -1204,3 +1204,14 @@ link = { ck3 = k_hejaz eu4 = HED }
 
 # Muslim Enhancements
 link = { ck3 = d_hashsashin eu4 = HAH }
+
+# More German Kingdoms
+link = { ck3 = k_lower_saxony eu4 = HAN }
+link = { ck3 = k_swabia eu4 = SWA }
+link = { ck3 = k_franconia eu4 = FKN }
+link = { ck3 = k_upper_saxony eu4 = SAX }
+link = { ck3 = k_prussia eu4 = PRU }
+link = { ck3 = k_cainthia eu4 = STY }
+link = { ck3 = e_netherlands eu4 = NED }
+link = { ck3 = e_german_empire eu4 = GER }
+link = { ck3 = k_belgium eu4 = BEL }
