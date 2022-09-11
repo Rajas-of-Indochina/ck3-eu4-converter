@@ -819,6 +819,8 @@ link = { eu4 = central_thai ck3 = thai ck3 = tai ck3 = siamese ck3 = khom tech =
 link = { eu4 = sichuanese ck3 = sichuan tech = chinese gfx = asiangfx }
 link = { eu4 = chimin ck3 = min tech = chinese gfx = asiangfx }
 link = { eu4 = korean ck3 = goguryeo tech = chinese gfx = asiangfx }
+link = { eu4 = papuan ck3 = abui ck3 = mantion ck3 = yapen ck3 = mairasi ck3 = amung ck3 = anim ck3 = asmat ck3 = awyu ck3 = baining ck3 = bauzi ck3 = binandere ck3 = bosavi ck3 = enga ck3 = gogodala ck3 = kayagar ck3 = kiwaian ck3 = kwerba ck3 = madang ck3 = mek ck3 = meneao ck3 = morobe ck3 = ndani ck3 = ok ck3 = oriomo ck3 = pauwasi ck3 = sepik ck3 = yam ck3 = manus ck3 = ngero ck3 = suau tech = polynesian_tech gfx = polynesiangfx }
+link = { eu4 = melanesian ck3 = nasioi ck3 = palauan ck3 = malaita ck3 = motu ck3 = uneapa tech = polynesian_tech gfx = polynesiangfx }
 
 #Tarikh al-Islam
 ##Arabic
