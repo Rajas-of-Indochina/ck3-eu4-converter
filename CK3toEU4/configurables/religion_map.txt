@@ -204,6 +204,9 @@ link = { eu4 = animism ck3 = nunusaku }
 link = { eu4 = animism ck3 = penunggu }
 link = { eu4 = animism ck3 = ban_phi }
 link = { eu4 = animism ck3 = wa_animism }
+link = { eu4 = animism ck3 = khasi_animism }
+link = { eu4 = animism ck3 = palau_animism }
+link = { eu4 = animism ck3 = oceanic_animism }
 link = { eu4 = shamanism ck3 = bathouism }
 link = { eu4 = shamanism ck3 = hmongism }
 link = { eu4 = shamanism ck3 = tungusic_shamanism }

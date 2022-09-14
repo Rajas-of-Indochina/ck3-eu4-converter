@@ -459,6 +459,7 @@ link = { ck3 = c_ghadames eu4 = GHD }
 link = { ck3 = d_bejaia eu4 = KBA }
 link = { ck3 = c_bejaia eu4 = KBA }
 #link = { ck3 = ??? eu4 = MAM }
+link = { ck3 = e_maghreb eu4 = MOR }
 link = { ck3 = k_maghreb eu4 = MOR }
 link = { ck3 = d_marrakesh eu4 = MRK }
 link = { ck3 = c_marrakesh eu4 = MRK }
@@ -1067,18 +1068,18 @@ link = { ck3 = d_uroghu_china eu4 = KRC }
 link = { ck3 = d_haramuru_china eu4 = SOL }
 # China Proper
 link = { ck3 = e_celestia_china eu4 = MNG }
-link = { ck3 = k_guannei_china eu4 = CSH }
-link = { ck3 = k_hedong_china eu4 = QIN }
-link = { ck3 = k_hebei_china eu4 = YAN }
-link = { ck3 = k_henan_china eu4 = QIC }
-link = { ck3 = k_jiangnanxi_china eu4 = NNG }
-link = { ck3 = k_shannandong_china eu4 = CHC }
-link = { ck3 = k_guannei_china eu4 = JIN }
-link = { ck3 = k_duji_china eu4 = LNG }
-link = { ck3 = k_shannanxi_china eu4 = CXI }
-link = { ck3 = k_lingnang_china eu4 = YUE }
+link = { ck3 = k_xia_china eu4 = CSH }
+link = { ck3 = k_han_china eu4 = CXI }
+link = { ck3 = d_hunan_china eu4 = CMI }
 link = { ck3 = d_fujian_china eu4 = MIN }
-link = { ck3 = d_zhenhai_china eu4 = WUU }
+link = { ck3 = d_lingnan_china eu4 = YUE }
+link = { ck3 = d_luling_china eu4 = NNG }
+link = { ck3 = d_zhedong_china eu4 = WUU }
+link = { ck3 = k_qi_china eu4 = QIC }
+link = { ck3 = k_yan_china eu4 = YAN }
+link = { ck3 = k_jin_china eu4 = JIN }
+link = { ck3 = k_liang_china eu4 = LNG }
+link = { ck3 = k_qin_china eu4 = QIN }
 link = { ck3 = e_dai_viet eu4 = DAI }
 link = { ck3 = k_annam eu4 = DAI }
 # Mongolia Extended
@@ -1128,6 +1129,10 @@ link = { ck3 = d_palembang eu4 = PLB }
 link = { ck3 = c_palembang eu4 = PLB }
 link = { ck3 = k_sunda eu4 = SUN }
 link = { ck3 = d_sunda eu4 = SUN }
+link = { ck3 = c_banten eu4 = BAN }
+link = { ck3 = c_patapan eu4 = CRB }
+link = { ck3 = c_mataram eu4 = MTR }
+link = { ck3 = d_mataram eu4 = MTR }
 link = { ck3 = k_jawa eu4 = MAJ }
 link = { ck3 = d_lumajang eu4 = BLM }
 link = { ck3 = c_pakembangan eu4 = BLM }
@@ -1172,7 +1177,41 @@ link = { ck3 = k_liuqiu eu4 = FRM }
 
 link = { ck3 = c_pagan eu4 = AVA}
 
+link = { ck3 = d_kinh_bac eu4 = TOK }
+link = { ck3 = c_thanh_long eu4 = TOK }
+
+link = { ck3 = d_chantabuli eu4 = VIE }
+link = { ck3 = c_chantabuli eu4 = VIE }
+
 # Tarikh al-Islam
 link = { ck3 = e_avar eu4 = HUN }
 link = { ck3 = e_carpathia eu4 = HUN}
 link = { ck3 = e_egypt eu4 = EGY } #Should this map to Mamluks?
+link = { ck3 = e_mamluk eu4 = MAM } #NVM Mamluk is gonna be implemented lol
+link = { ck3 = e_mughal eu4 = MUG}
+
+# Historic Invasions
+link = { ck3 = e_almoravids eu4 = MOR }
+link = { ck3 = e_almohads eu4 = MOR }
+link = { ck3 = e_delhi eu4 = DLH }
+link = { ck3 = e_ottomans eu4 = TUR }
+link = { ck3 = e_mamluks eu4 = MAM }
+link = { ck3 = e_teutonic_state eu4 = TEU }
+link = { ck3 = k_teutonic_order eu4 = TEU }
+link = { ck3 = k_libonian_order eu4 = LIV }
+link = { ck3 = k_oman eu4 = OMA }
+link = { ck3 = k_hejaz eu4 = HED }
+
+# Muslim Enhancements
+link = { ck3 = d_hashsashin eu4 = HAH }
+
+# More German Kingdoms
+link = { ck3 = k_lower_saxony eu4 = HAN }
+link = { ck3 = k_swabia eu4 = SWA }
+link = { ck3 = k_franconia eu4 = FKN }
+link = { ck3 = k_upper_saxony eu4 = SAX }
+link = { ck3 = k_prussia eu4 = PRU }
+link = { ck3 = k_cainthia eu4 = STY }
+link = { ck3 = e_netherlands eu4 = NED }
+link = { ck3 = e_german_empire eu4 = GER }
+link = { ck3 = k_belgium eu4 = BEL }
