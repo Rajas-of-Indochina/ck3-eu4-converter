@@ -1271,6 +1271,7 @@ link = { ck3 = c_patapan eu4 = CRB }
 link = { ck3 = c_mataram eu4 = MTR }
 link = { ck3 = d_mataram eu4 = MTR }
 link = { ck3 = k_jawa eu4 = MAJ }
+link = { ck3 = e_majapahit eu4 = MAJ }
 link = { ck3 = d_lumajang eu4 = BLM }
 link = { ck3 = c_pakembangan eu4 = BLM }
 link = { ck3 = c_bali_sea eu4 = BLI }
