@@ -1,7 +1,3 @@
-IMPORTANT FOR TARIKH AL-ISLAM BOOKMARK MOD USERS:
-
-If you are using this converter for TIB support but you are not using Rajas of Asia, DELETE province_mappings.txt from /configurables and rename province_mappings.txt.bak to province_mappings.txt. This will restore the base game province mappings.
-
 This FAQ is always current for all the converters. Please read it before you ask questions.
 
 NOTE: The converters do NOT support XBox/Gamepass installations, they cannot be used.

@@ -1,0 +1,176 @@
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 33 101 137 }
+revolutionary_colors = { 5 0 5 }
+historical_idea_groups = {
+	religious_ideas
+	trade_ideas
+	defensive_ideas
+	economic_ideas
+	innovativeness_ideas
+	offensive_ideas
+	administrative_ideas
+	spy_ideas
+}
+historical_units = {
+	austrian_grenzer
+	austrian_hussar
+	austrian_jaeger
+	austrian_tercio
+	austrian_white_coat
+	dutch_maurician
+	mixed_order_infantry
+	napoleonic_lancers
+	napoleonic_square
+	open_order_cavalry
+	swiss_landsknechten
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+}
+monarch_names = {
+	"Adalbero #0" = 0
+	"Adelinde #0" = -1
+	"Amalberga #0" = -1
+	"Arnold #1" = 10
+	"Berard #0" = 0
+	"Cyprian #1" = 10
+	"Dedo #1" = 10
+	"Ekbert #1" = 10
+	"Irmele #0" = -1
+	"Lutbert #0" = 0
+	"Marquard #1" = 10
+	"Pero #1" = 10
+	"Radbot #0" = 0
+	"Reinmar #1" = 10
+	"Richfrid #1" = 10
+	"Rimbert #2" = 10
+	"Sergiu #1" = 10
+	"Serhilda #0" = -1
+	"Viric #2" = 10
+	"Waldemar #0" = 0
+}
+leader_names = {
+	"Adler"
+	"Alers"
+	"Bake"
+	"Beckröge"
+	"Bergius"
+	"Berninghausen"
+	"Boelken"
+	"Bollheim"
+	"Brill"
+	"Delius"
+	"Drewers"
+	"Engels"
+	"Ficke"
+	"Foukhard"
+	"Geffken"
+	"Gildemeister"
+	"Grovermann"
+	"Happach"
+	"Heimbruch"
+	"Hinke"
+	"Kindt"
+	"Krefting"
+	"Köhne"
+	"Laporte"
+	"Löning"
+	"Meyer"
+	"Oelrichs"
+	"Ordemann"
+	"Reiners"
+	"Rohde"
+	"Sanders"
+	"Schulken"
+	"Steinwachs"
+	"Stucken"
+	"Truernitt"
+	"von Bobert"
+	"von Cappeln"
+	"von Holten"
+	"von Horn"
+	"von Meinertzhagen"
+}
+ship_names = {
+	"Adler von Lübeck"
+	"Admiralität von Hamburg"
+	"Afrikaner"
+	"Anna"
+	"Arche Noah"
+	"Bersteinfänger"
+	"Bracke"
+	"Brunte Kuh"
+	"Clementia"
+	"Colonia"
+	"Der Große Adler"
+	"Derffinger"
+	"Dorothea"
+	"Engel"
+	"Engel Gabriel"
+	"Feuerblase"
+	"Fliegender Hirsch"
+	"Fortuna"
+	"Friede"
+	"Fuchs"
+	"Füchslein"
+	"Gabriel"
+	"Gelber Löve"
+	"Goldener Löwe"
+	"Grafschaft Mark"
+	"Grüner Drache"
+	"Herzogtum Cleve"
+	"Hoffning"
+	"Jesus von Lübeck"
+	"Johannesburg"
+	"Jonge Tobias"
+	"Kurprinz"
+	"König David"
+	"Leopoldus Primus"
+	"Lisa von Lübeck"
+	"Lybischer Trotz"
+	"Lübscher Adler"
+	"Makarele"
+	"Maria Catharina"
+	"Meermann"
+	"Meerweib"
+	"Mercurius"
+	"Morian"
+	"Nordischer Löwe"
+	"Pax"
+	"Peter und Paul"
+	"Peter von Danzig"
+	"Pierelepomp"
+	"Prinz Ludwig"
+	"Prophet Daniel"
+	"Ritter Sankt Georg"
+	"Roland"
+	"Rommelpot"
+	"Rosenfelde"
+	"Roter Hirsch"
+	"Salamander"
+	"Sankt Laurens"
+	"Sankt Peter"
+	"Schwarzer Rabe"
+	"Seemoewe"
+	"Seeritter"
+	"Sieben Provinzien"
+	"Stad Emden"
+	"Syrig"
+	"Vogel Greif"
+	"Wapen von Bremen"
+	"Wapen von Hamburg"
+	"Wappen von Bremen"
+	"Wappen von Cleve"
+	"Wasserhund"
+	"Weißer Löwe"
+	"Wilhelmina Margaretta"
+	"Windhund"
+	"Wolkensäule"
+	"Zwei Brüder"
+}
+army_names = {
+	"Armee von $PROVINCE$"
+	"Erzbischofliche Garde"
+}
+preferred_religion = protestant

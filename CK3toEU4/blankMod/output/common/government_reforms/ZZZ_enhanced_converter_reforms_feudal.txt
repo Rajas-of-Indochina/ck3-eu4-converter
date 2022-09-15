@@ -18,15 +18,17 @@ grand_duchy_reform = {
 	valid_for_nation_designer = yes
 	nation_designer_cost = 10
 	modifiers = {
-		governing_capacity = 100
+		governing_capacity = 200
 	}
 }
 english_monarchy = {
 	icon = "british_queen"
 	allow_normal_conversion = no
 	potential = {
+		OR = {
 		has_reform = english_monarchy
 		have_had_reform = english_monarchy
+	}
 	}
 	lock_level_when_selected = yes
 	valid_for_nation_designer = yes
@@ -41,16 +43,12 @@ english_monarchy = {
 		legitimacy = 0.5
 		global_unrest = -1
 		max_absolutism = -30
+		nobles_influence_modifier = -0.1
 	}
 
 	conditional = {
 		allow = { has_dlc = "Common Sense" }
 		has_parliament = yes
-
-		custom_attributes = {
-			blocked_call_diet = yes
-			disables_nobility = yes
-		}
 	}
 }
 
@@ -102,24 +100,30 @@ prussian_monarchy = {
 				NOT = { map_setup = map_setup_random }
 			}
 			has_reform = prussian_monarchy
+			have_had_reform = shaka_regime
 			have_had_reform = prussian_monarchy
+			have_had_reform = prussian_republic_reform
+			have_had_reform = prussian_theocratic_reform			
+			has_unlocked_government_reform = {
+				government_reform = prussian_monarchy
+			}
 		}
 	}
 	trigger = {
 		OR = {
 			is_playing_custom_nation = yes
-			religion = protestant
-			religion = reformed
-			religion = cathar
-			religion = waldensian
-			religion = lollard
-			religion = adamites
+			uses_church_aspects = yes
+			uses_fervor = yes
+			religion = anglican #Check to see if "uses_anglican_power = yes" works
 			AND = {
 				religion_group = christian
 				OR= {
 					uses_church_aspects = yes
 					uses_fervor = yes
 				}
+			}
+			has_unlocked_government_reform_tooltip = {
+				government_reform = prussian_monarchy
 			}
 		}
 	}
@@ -255,7 +259,7 @@ tsardom = {
 		global_manpower_modifier = 0.20
 		yearly_absolutism = 0.5
 		global_autonomy = -0.05
-		governing_capacity = 250
+		governing_capacity = 350
 	}
 
 	conditional = {
@@ -604,7 +608,7 @@ uparaja_reform = {
 	}
 }
 solomonic_empire = {
-	icon = "king"
+	icon = "solomonic_empire"
 	allow_normal_conversion = yes
 	lock_level_when_selected = yes
 	potential = {
