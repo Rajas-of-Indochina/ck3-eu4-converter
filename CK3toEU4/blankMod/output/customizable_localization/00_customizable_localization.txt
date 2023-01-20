@@ -1803,7 +1803,7 @@ defined_text = {
 	text = {
 		localisation_key = string_ruler_title
 		trigger = {
-				tag = PAP
+			tag = PAP
 		}
 	}
 	text = {
@@ -4351,12 +4351,12 @@ defined_text = {
         trigger = {
             NOT = {
                 check_variable = {
-					which = num_converted_religion
-					value = 1
-				}
-			}
-		}
-	}
+                    which = num_converted_religion
+                    value = 1
+                }
+            }
+        }
+    }
 
     text = {
         localisation_key = NUM_OF_RAIDED_CHURCHES
@@ -4417,5 +4417,5 @@ defined_text = {
                 which = liv_event_counter
                 value = 1
             }
-}
+        }
     }

@@ -410,7 +410,7 @@ country_decisions = {
 					NOT = { government = theocracy }
 				}
 				change_government_to_monarchy = yes
-			add_government_reform = prussian_monarchy
+				add_government_reform = prussian_monarchy
 			}
 			else_if = {
 				limit = {
@@ -435,13 +435,13 @@ country_decisions = {
 			add_prestige = 5
 			if = {
 				limit = { culture_group = germanic }
-			change_primary_culture = prussian
+				change_primary_culture = prussian
 			}
 			PRU = {
 				random_owned_province = {
 					limit = {
 						is_capital = no
-							culture_group = germanic
+						culture_group = germanic
 					}
 					change_culture = prussian
 				}
@@ -449,7 +449,7 @@ country_decisions = {
 					limit = {
 						is_capital = no
 						culture_group = baltic
-			}
+					}
 					change_culture = pruthenian
 				}
 			}
@@ -468,8 +468,8 @@ country_decisions = {
 			capital_scope = {
 				if = {
 					limit = { culture_group = germanic }
-				change_culture = prussian
-			}
+					change_culture = prussian
+				}
 				else_if = {
 					limit = { culture_group = baltic }
 					change_culture = pruthenian
@@ -563,15 +563,15 @@ country_decisions = {
 				}
 				change_government_to_monarchy = yes
 				if = {
-				limit = {
+					limit = { 
 						has_dlc = "Lions of the North"
 						has_country_flag = teu_prussian_path
 					}
 					unlock_government_reform = {
 						government_reform = prussian_monarchy
+					}
 				}
-			}
-			add_government_reform = prussian_monarchy
+				add_government_reform = prussian_monarchy
 			}
 			else_if = {
 				limit = {
@@ -753,13 +753,13 @@ country_decisions = {
 			add_prestige = 25
 			if = {
 				limit = { culture_group = germanic }
-			change_primary_culture = prussian
+				change_primary_culture = prussian
 			}
 			capital_scope = {
 				if = {
 					limit = { culture_group = germanic }
-				change_culture = prussian
-			}
+					change_culture = prussian
+				}
 				if = {
 					limit = { culture_group = baltic }
 					change_culture = pruthenian
@@ -768,8 +768,8 @@ country_decisions = {
 			random_owned_province = {
 				limit = {
 					is_capital = no
-						culture_group = germanic
-					}
+					culture_group = germanic
+				}
 				change_culture = prussian
 			}
 			random_owned_province = {
@@ -925,8 +925,8 @@ country_decisions = {
 				if = {
 					limit = { is_revolutionary = no }
 					change_government_to_monarchy = yes
-				add_government_reform = tsardom
-			}
+					add_government_reform = tsardom
+				}
 			}
 			set_country_flag = formed_ruthenia_flag
 			if = {
@@ -1046,13 +1046,13 @@ country_decisions = {
 		}
 		effect = {
 			hidden_effect = {
-			if = {
-				limit = {
-					tag = NOV
+				if = {
+					limit = {
+						tag = NOV
+					}
+					complete_mission = tr_invade_novgorod_mission
+					complete_mission = tr_subjugate_novgorod
 				}
-				complete_mission = tr_invade_novgorod_mission
-				complete_mission = tr_subjugate_novgorod
-			}
 			}
 			change_tag = RUS
 			restore_country_name = yes

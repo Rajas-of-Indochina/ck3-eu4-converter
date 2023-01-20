@@ -24,15 +24,14 @@ feudalism = {
 	history = {
 		is_year = 1000
 		OR = {
-		owner = {
-			NOT = {
-				government = tribal
-				government = native
-
-				technology_group = andean
-				technology_group = mesoamerican
-				technology_group = north_american
-				technology_group = south_american
+            owner = {
+                NOT = {
+                    government = tribal
+                    government = native
+                    technology_group = andean
+                    technology_group = mesoamerican
+                    technology_group = north_american
+                    technology_group = south_american
                     technology_group = sub_saharan
                     technology_group = aboriginal_tech
                 }
@@ -43,9 +42,9 @@ feudalism = {
                     NOT = { has_reform = siberian_tribe }
                     NOT = { has_reform = steppe_horde }
                 }
-			}
+            }
             is_year = 1700
-		}
+        }
 	}
 	
 	# no need for events, as its there from the start.
@@ -293,7 +292,7 @@ renaissance = {
 	can_embrace = {
 		owner = { has_institution = feudalism }
 	}
-	
+
 
 	
 	embracement_speed = {
@@ -510,7 +509,7 @@ new_world_i = {
 	can_embrace = {
 		always = yes
 	}
-	
+
 
 	
 	embracement_speed = {
@@ -691,13 +690,13 @@ printing_press = {
 	start_chance = 5		#in 100 for when a province can_start	
 	
 	
-	on_start = institution_events.4	
+	on_start = institution_events.4
 	
 	
 	can_embrace = {
 		always = yes
 	}
-	
+
 	
 	embracement_speed = {
 	
@@ -1019,9 +1018,9 @@ global_trade = {
 			}
 			custom_trigger_tooltip = {
 				tooltip = tooltip_center_of_trade_3_spread
-					province_has_center_of_trade_of_level = 3
-				}
+				province_has_center_of_trade_of_level = 3
 			}
+		}
 		modifier = {
 			factor = 0.1
 			scale = yes
@@ -1030,9 +1029,9 @@ global_trade = {
 			}
 			custom_trigger_tooltip = {
 				tooltip = tooltip_center_of_trade_spread
-					province_has_center_of_trade_of_level = 2
-				}
+				province_has_center_of_trade_of_level = 2
 			}
+		}
 		modifier = {
 			factor = 0.1
 			scale = yes
@@ -1278,11 +1277,11 @@ manufactories = {
 					
 				manufactories_origin = {
 					same_continent = PREV
-			}
+				}
 			}
 			custom_trigger_tooltip = {
 				tooltip = tooltip_wharf_on_institution_continent
-			has_building = wharf
+				has_building = wharf
 			}
 		}
 		modifier = {
@@ -1299,7 +1298,7 @@ manufactories = {
 			}
 			custom_trigger_tooltip = {
 				tooltip = tooltip_weapons_on_institution_continent
-			has_building = weapons
+				has_building = weapons
 			}
 		}
 		modifier = {
@@ -1314,11 +1313,11 @@ manufactories = {
 				}
 				manufactories_origin = {
 					same_continent = PREV
-			}
+				}
 			}
 			custom_trigger_tooltip = {
 				tooltip = tooltip_textile_on_institution_continent
-			has_building = textile
+				has_building = textile
 			}
 		}
 		modifier = {
@@ -1339,7 +1338,7 @@ manufactories = {
 			}
 			custom_trigger_tooltip = {
 				tooltip = tooltip_plantations_on_institution_continent
-			has_building = plantations
+				has_building = plantations
 			}
 		}
 		modifier = {
@@ -1360,7 +1359,7 @@ manufactories = {
 			}
 			custom_trigger_tooltip = {
 				tooltip = tooltip_tradecompany_on_institution_continent
-			has_building = tradecompany
+				has_building = tradecompany
 			}
 		}
 		modifier = {
@@ -1374,11 +1373,11 @@ manufactories = {
 				}
 				manufactories_origin = {
 					same_continent = PREV
-			}
+				}
 			}
 			custom_trigger_tooltip = {
 				tooltip = tooltip_farm_estate_on_institution_continent
-			has_building = farm_estate
+				has_building = farm_estate
 			}
 		}
 		modifier = {
@@ -1398,7 +1397,7 @@ manufactories = {
 			}
 			custom_trigger_tooltip = {
 				tooltip = tooltip_mills_on_institution_continent
-			has_building = mills
+				has_building = mills
 			}
 		}
 		modifier = {
@@ -1412,11 +1411,11 @@ manufactories = {
 				}
 				manufactories_origin = {
 					NOT = { same_continent = PREV }
-			}
+				}
 			}
 			custom_trigger_tooltip = {
 				tooltip = tooltip_wharf_not_institution_continent
-			has_building = wharf
+				has_building = wharf
 			}
 		}
 		modifier = {
@@ -1433,7 +1432,7 @@ manufactories = {
 			}
 			custom_trigger_tooltip = {
 				tooltip = tooltip_weapons_not_institution_continent
-			has_building = weapons
+				has_building = weapons
 			}
 		}
 		modifier = {
@@ -1452,7 +1451,7 @@ manufactories = {
 			}
 			custom_trigger_tooltip = {
 				tooltip = tooltip_textile_not_institution_continent
-			has_building = textile
+				has_building = textile
 			}
 		}
 		modifier = {
@@ -1469,11 +1468,11 @@ manufactories = {
 				}
 				manufactories_origin = {
 					NOT = { same_continent = PREV }
-			}
+				}
 			}
 			custom_trigger_tooltip = {
 				tooltip = tooltip_plantations_not_institution_continent
-			has_building = plantations
+				has_building = plantations
 			}
 		}
 		modifier = {
@@ -1494,7 +1493,7 @@ manufactories = {
 			}
 			custom_trigger_tooltip = {
 				tooltip = tooltip_tradecompany_not_institution_continent
-			has_building = tradecompany
+				has_building = tradecompany
 			}
 		}
 		modifier = {
@@ -1508,11 +1507,11 @@ manufactories = {
 				}
 				manufactories_origin = {
 					NOT = { same_continent = PREV }
-			}
+				}
 			}
 			custom_trigger_tooltip = {
 				tooltip = tooltip_farm_estate_not_institution_continent
-			has_building = farm_estate
+				has_building = farm_estate
 			}
 		}
 		modifier = {
@@ -1532,7 +1531,7 @@ manufactories = {
 			}
 			custom_trigger_tooltip = {
 				tooltip = tooltip_mills_not_institution_continent
-			has_building = mills
+				has_building = mills
 			}
 		}
 		modifier = {
@@ -1582,7 +1581,7 @@ manufactories = {
 				}
 				NOT = { continent = owner }
 			}
-
+			
 			custom_trigger_tooltip = {
 				tooltip = tooltip_manufactories_embraced_other_continent
 				is_owned_by_trade_company = no
@@ -1731,7 +1730,7 @@ enlightenment = {
 			scale = yes
 			custom_trigger_tooltip = {
 				tooltip = tooltip_university_on_institution_continent
-			has_building = university
+				has_building = university
 			}
 		}
 		modifier = {
@@ -1744,7 +1743,7 @@ enlightenment = {
 			scale = yes
 			custom_trigger_tooltip = {
 				tooltip = tooltip_university_not_institution_continent
-			has_building = university
+				has_building = university
 			}
 		}
 		modifier = {
@@ -1760,7 +1759,7 @@ enlightenment = {
 				has_seat_in_parliament = yes
 				enlightenment_origin = {
 					same_continent = PREV
-			}
+				}
 			}
 		}
 		modifier = {
@@ -1775,7 +1774,7 @@ enlightenment = {
 				has_seat_in_parliament = yes
 				enlightenment_origin = {
 					NOT = { same_continent = PREV }
-			}
+				}
 			}
 		}
 		modifier = {
