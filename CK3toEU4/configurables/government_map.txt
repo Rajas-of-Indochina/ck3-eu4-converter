@@ -3,7 +3,7 @@
 # You can mix and match as you prefer.
 
 # General
-link = { gov = monarchy ck3gov = feudal_government ck3gov = clan_government }
+link = { gov = monarchy ck3gov = feudal_government ck3gov = clan_government ck3gov = imperial_government ck3gov = autocratic_government ck3gov = roman_government ck3gov = eranshar_government }
 link = { gov = theocracy ck3gov = theocracy_government ck3gov = holy_order_government ck3gov = holy_order_government_2 }
 link = { gov = republic ck3gov = republic_government ck3gov = mercenary_government }
 link = { gov = tribal ck3gov = tribal_government }
@@ -50,6 +50,11 @@ link = { gov = monarchy ck3gov = chinese_vassal_government reform = plutocratic_
 link = { gov = monarchy ck3gov = mandala_government reform = mandala_reform } # Mandala Government
 link = { gov = tribal ck3gov = nomadic_government reform = steppe_horde }
 link = { gov = tribal ck3gov = anarchist_government reform = stateless_society }
+link = { gov = republic reform = military_dictatorship_reform ck3gov = legion_government } # For Legionary governments
+link = { ck3gov = caliphate_government gov = theocracy reform = leading_theocracy_reform }
+link = { ck3gov = imperial_cult_government gov = theocracy reform = leading_theocracy_reform }
+link = { ck3gov = city_state_government gov = republic reform = merchants_reform }
+
 # Specific titles (accounting for Mongol and Jurchen Chinese Emperors)
 link = { title = e_jurchen_china ck3gov = chinese_government government = monarchy reform = celestial_empire }
 link = { title = e_celestia_china ck3gov = chinese_government government = monarchy reform = celestial_empire }

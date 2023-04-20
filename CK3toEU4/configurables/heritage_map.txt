@@ -8,7 +8,7 @@ link = { eu4 = gaelic ck3 = heritage_goidelic }
 link = { eu4 = latin ck3 = heritage_latin }
 link = { eu4 = iberian ck3 = heritage_iberian }
 link = { eu4 = french ck3 = heritage_frankish }
-link = { eu4 = finno_ugric ck3 = heritage_ugro_permian ck3 = heritage_volga_finnic }
+link = { eu4 = finno_ugric ck3 = heritage_ugro_permian ck3 = heritage_volga_finnic ck3 = heritage_saomyedic }
 link = { eu4 = south_slavic ck3 = heritage_south_slavic }
 link = { eu4 = west_slavic ck3 = heritage_west_slavic }
 link = { eu4 = carpathian ck3 = heritage_magyar ck3 = heritage_vlach }
@@ -17,14 +17,14 @@ link = { eu4 = baltic ck3 = heritage_baltic ck3 = heritage_balto_finnic }
 link = { eu4 = byzantine ck3 = heritage_byzantine }
 
 # no clear mapping as they shoved the cultures in byzantine 
-#link = { eu4 = caucasian }
+link = { eu4 = caucasian ck3 = heritage_caucasian ck3 = heritage_armenian }
 
 # this is levantine group, no actual turks.
-link = { eu4 = turko_semitic ck3 = heritage_arabic }
+link = { eu4 = turko_semitic ck3 = heritage_arabic ck3 = heritage_south_arabian ck3 = heritage_aramaic }
 
 link = { eu4 = maghrebi ck3 = heritage_berber }
 link = { eu4 = iranian ck3 = heritage_iranian ck3 = heritage_tocharian }
-link = { eu4 = altaic ck3 = heritage_mongolic }
+link = { eu4 = altaic ck3 = heritage_mongolic ck3 = heritage_toquz_oghuz ck3 = heritage_sayan_altaic ck3 = heritage_on_oq ck3 = heritage_tatar ck3 = heritage_kipchak }
 
 # this is dubious. they put turkish in with tartars all in turkic, eu4 has them in levantine.
 link = { eu4 = tartar ck3 = heritage_turkic }
@@ -32,7 +32,7 @@ link = { eu4 = israelite ck3 = heritage_israelite }
 
 link = { eu4 = east_asian ck3 = heritage_chinese }
 link = { eu4 = tibetan_group ck3 = heritage_tibetan ck3 = heritage_qiangic }
-link = { eu4 = burman ck3 = heritage_burman }
+link = { eu4 = burman ck3 = heritage_burman ck3 = heritage_loloish }
 
 # unclear
 #link = { eu4 = hindusthani ck3 =  }
@@ -41,7 +41,7 @@ link = { eu4 = western_aryan ck3 = heritage_indo_aryan }
 link = { eu4 = dravidian ck3 = heritage_dravidian }
 
 # please fix if possible
-link = { eu4 = mande ck3 = heritage_west_african } #CK3's West African =/= EU4's
+link = { eu4 = mande ck3 = heritage_west_african ck3 = heritage_gur } #CK3's West African =/= EU4's
 #link = { eu4 = great_lakes_group ck3 =  }
 #link = { eu4 = sudanese ck3 =  }
 link = { eu4 = sahelian ck3 = heritage_sahelian ck3 = heritage_senegambian ck3 = heritage_central_african }
@@ -53,16 +53,21 @@ link = { eu4 = cushitic ck3 = heritage_somalian }
 # Mod: RICE
 link = { eu4 = african ck3 = heritage_east_bantu }
 link = { eu4 = evenks ck3 = heritage_siberian }
+link = { eu4 = eastern_algonquian ck3 = heritage_algonquian }
+link = { eu4 = iroquoian ck3 = heritage_iroquoian }
+link = { eu4 = eskaleut ck3 = heritage_inuit ck3 = heritage_paleo_inuit }
 
 # Mod: Rajas of Asia
 link = { eu4 = evenks ck3 = heritage_tungusic }
-link = { eu4 = southeastasian_group ck3 = khmer ck3 = katuic ck3 = palaungic ck3 = heritage_san_miao ck3 = heritage_vietic ck3 = heritage_kradai }
-link = { eu4 = tibetan_group ck3 = heritage_loloish }
+link = { eu4 = southeastasian_group ck3 = heritage_khmer ck3 = heritage_katuic ck3 = heritage_palaungic ck3 = heritage_san_miao ck3 = heritage_vietic ck3 = heritage_kradai ck3 = heritage_mon ck3 = heritage_munda ck3 = heritage_kra ck3 = heritage_kam ck3 = heritage_hlai ck3 = heritage_be ck3 = heritage_hmong ck3 = heritage_mien }
+link = { eu4 = tibetan_group ck3 = heritage_loloish ck3 = heritage_cai_long }
 link = { eu4 = korean_g ck3 = heritage_korean ck3 = heritage_damhan }
-link = { eu4 = japanese_g ck3 = heritage_ryukyu }
-link = { eu4 = kamchatkan_g ck3 = heritage_ezo ck3 = heritage_nivkh }
+link = { eu4 = japanese_g ck3 = heritage_ryukyu ck3 = heritage_yamato }
+link = { eu4 = kamchatkan_g ck3 = heritage_ezo ck3 = heritage_nivkh ck3 = heritage_okhot ck3 = heritage_ainu ck3 = heritage_emishi }
 link = { eu4 = thai_group ck3 = heritage_tai }
-link = { eu4 = malay ck3 = heritage_malayic ck3 = heritage_chamic ck3 = heritage_dayak ck3 = heritage_sulawesi ck3 = heritage_moluccan ck3 = heritage_filipino ck3 = heritage_lumad ck3 = heritage_aslianic }
-link = { eu4 = pacific ck3 = heritage_papuan ck3 = heritage_formosan ck3 = heritage_oceanic }
+link = { eu4 = malay ck3 = heritage_malayic ck3 = heritage_chamic ck3 = heritage_dayak ck3 = heritage_sulawesi ck3 = heritage_moluccan ck3 = heritage_filipino ck3 = heritage_lumad ck3 = heritage_aslianic ck3 = heritage_kadazan }
+link = { eu4 = pacific ck3 = heritage_papuan ck3 = heritage_formosan ck3 = heritage_oceanic ck3 = heritage_melanesian ck3 = heritage_micronesian ck3 = heritage_palauan }
 
 link = { eu4 = gothic_group ck3 = heritage_east_germanic }
+
+link = { eu4 = aboriginal_australian ck3 = heritage_kuarareg }
