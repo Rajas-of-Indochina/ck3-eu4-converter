@@ -307,9 +307,15 @@ link = { ck3 = { tradition = tradition_RICE_beyond_the_reach_of_eagles } eu4 = {
 ## Mod: Rajas of Asia
 link = { ck3 = { tradition = tradition_tamil_thai } eu4 = { dip_tech_cost_modifier = -0.05 prestige = 0.5 } }
 link = { ck3 = { tradition = tradition_angkorian_architecture } eu4 = { global_tax_modifier = 0.05 build_time = -0.1 } }
-link = { ck3 = { tradition = tradition_tiger_suns } eu4 = { special_unit_forcelimit = 0.05 global_manpower_modifier = 0.1 } }
+link = { ck3 = { tradition = tradition_tiger_sons } eu4 = { special_unit_forcelimit = 0.05 global_manpower_modifier = 0.1 } }
 link = { ck3 = { tradition = tradition_warrior_caste } eu4 = { mil_tech_cost_modifier = -0.15 } }
 link = { ck3 = { tradition = tradition_migratory } eu4 = { movement_speed = 0.1 } }
+link = { ck3 = { tradition = tradition_confucian_philosophy } eu4 = { institution_spread_from_true_faith = 0.1 } }
+link = { ck3 = { tradition = tradition_krabi_krabong } eu4 = { special_unit_forcelimit = 0.05 infantry_shock = 1 } }
+link = { ck3 = { tradition = tradition_thalassocratic } eu4 = { trade_power_in_fleet_modifier = 1 } }
+link = { ck3 = { tradition = disloyal_subjects } eu4 = { liberty_desire = 15 } }
+link = { ck3 = { tradition = tradition_balbals } eu4 = { great_project_upgrade_cost = -0.2 } }
+link = { ck3 = { tradition = tradition_steppe_confederation } eu4 = { diplomats = 1 } }
 
 #Mod: Tarikh al-Islam
 link = { ck3 = { tradition = tradition_corsairs } eu4 = { may_perform_slave_raid = yes} }

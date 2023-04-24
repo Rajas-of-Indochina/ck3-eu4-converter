@@ -428,11 +428,11 @@ link = { ck3 = k_georgia eu4 = GEO }
 link = { ck3 = d_georgia eu4 = GEO }
 link = { ck3 = d_colchis eu4 = GEO }
 link = { ck3 = e_golden_horde eu4 = GLH }
+link = { ck3 = c_vodi eu4 = IGR } # Vodi -> Ingria
 link = { ck3 = k_kazan eu4 = KAZ }
 link = { ck3 = d_kazan eu4 = KAZ }
 link = { ck3 = c_kazan eu4 = KAZ }
-link = { ck3 = k_volga_bulgaria eu4 = KAZ }
-link = { ck3 = d_bulgars eu4 = KAZ }
+link = { ck3 = k_muscovy eu4 = MOS }
 link = { ck3 = c_moskva eu4 = MOS }
 link = { ck3 = k_muscovy eu4 = MOS }
 link = { capitals = { 575 } eu4 = MOS } 	
@@ -589,6 +589,7 @@ link = { ck3 = k_kabulistan eu4 = AFG }
 link = { ck3 = c_talish eu4 = BPI }
 link = { ck3 = d_basra eu4 = BSR }
 link = { ck3 = c_basra eu4 = BSR }
+link = { ck3 = d_zichia eu4 = CIR }
 link = { ck3 = d_alania eu4 = CIR }
 link = { ck3 = d_zichia eu4 = CIR }
 link = { ck3 = d_fars eu4 = FRS }
@@ -980,7 +981,7 @@ link = { ck3 = c_verona eu4 = VRN }
 link = { ck3 = c_coburg eu4 = COB }
 link = { ck3 = k_lotharingia eu4 = LOT }
 link = { ck3 = c_orvieto eu4 = PGA } #Has temple-city Perugia
-link = { ck3 = k_sicily eu4 = TTS }
+link = { ck3 = k_sicily eu4 = SIC }
 link = { ck3 = d_east_franconia eu4 = FKN }
 link = { ck3 = d_swabia eu4 = SWA }
 link = { ck3 = k_swabia eu4 = SWA }
@@ -1090,6 +1091,8 @@ link = { ck3 = c_champasak eu4 = CHK }
 link = { ck3 = e_vietnam eu4 = DAI }
 link = { ck3 = k_dai_nam eu4 = DAI }
 link = { ck3 = e_japan eu4 = JAP }
+link = { ck3 = k_yamato eu4 = JAP }
+link = { ck3 = k_hitakami eu4 = ANU}
 link = { ck3 = e_shogunate eu4 = JAP }
 link = { ck3 = k_honshu eu4 = JAP }
 
@@ -1193,8 +1196,6 @@ link = { ck3 = k_yugra eu4 = YUG }
 ## MOD: Rajas of Asia
 # Jurchen
 link = { ck3 = e_jurchen_china eu4 = MCH }
-link = { ck3 = k_balhae_china eu4 = MCH }
-link = { ck3 = d_balhae_china eu4 = MJZ }
 link = { ck3 = d_malgal_china eu4 = MHX }
 link = { ck3 = d_heishui_china eu4 = EJZ }
 link = { ck3 = d_udege_china eu4 = NVK }
@@ -1219,8 +1220,6 @@ link = { ck3 = k_liang_china eu4 = LNG }
 link = { ck3 = k_qin_china eu4 = QIN }
 link = { ck3 = e_dai_viet eu4 = DAI }
 link = { ck3 = k_annam eu4 = DAI }
-# Mongolia Extended
-link = { ck3 = k_khitan_china eu4 = CHH }
 # Zomia
 link = { ck3 = e_zomia eu4 = CDL }
 link = { ck3 = k_nanzhao eu4 = CDL }
@@ -1312,6 +1311,8 @@ link = { ck3 = c_binalatongan eu4 = PGS }
 link = { ck3 = d_ryukyu_china eu4 = RYU }
 link = { ck3 = c_yaeyama_china eu4 = RYU }
 link = { ck3 = k_liuqiu eu4 = FRM }
+link = { ck3 = d_yushi eu4 = CGS}
+link = { ck3 = c_temo_china eu4 = CGS}
 
 link = { ck3 = c_pagan eu4 = AVA}
 
@@ -1320,6 +1321,82 @@ link = { ck3 = c_thanh_long eu4 = TOK }
 
 link = { ck3 = d_chantabuli eu4 = VIE }
 link = { ck3 = c_chantabuli eu4 = VIE }
+
+# Japan
+link = { ck3 = e_japan eu4 = JAP }
+link = { ck3 = k_yamato eu4 = JAP }
+link = { ck3 = k_hitakami eu4 = ANU }
+# Daimyo tags
+link = { capitals = { 1018 } eu4 = AMA }
+link = { capitals = { 1026 } eu4 = ASA }
+link = { capitals = { 1819 } eu4 = CSK }
+link = { capitals = { 1026 } eu4 = DTE }
+link = { capitals = { 4189 } eu4 = HJO }
+link = { capitals = { 1021 } eu4 = HSK }
+link = { capitals = { 1837 } eu4 = HTK }
+link = { capitals = { 1839 } eu4 = IMG }
+link = { capitals = { 1825 } eu4 = MRI }
+link = { capitals = { 1030 } eu4 = ODA }
+link = { capitals = { 1014 } eu4 = OTM }
+link = { capitals = { 1017 } eu4 = OUC }
+link = { capitals = { 1023 } eu4 = SBA }
+link = { capitals = { 1012 } eu4 = SMZ }
+link = { capitals = { 1029 } eu4 = TKD }
+link = { capitals = { 4360 } eu4 = TKG }
+link = { capitals = { 1843 } eu4 = UES }
+link = { capitals = { 1830 } eu4 = YMN }
+link = { capitals = { 4131 } eu4 = RFR }
+link = { capitals = { 1020 } eu4 = ASK }
+link = { capitals = { 4359 } eu4 = KTB }
+link = { capitals = { 1019 } eu4 = AKM }
+link = { capitals = { 4192 } eu4 = AKT }
+link = { capitals = { 4190 } eu4 = CBA }
+link = { capitals = { 4185 } eu4 = ISK }
+link = { capitals = { 4180 } eu4 = ITO }
+link = { capitals = { 4181 } eu4 = KKC }
+link = { capitals = { 4186 } eu4 = KNO }
+link = { capitals = { 4188 } eu4 = OGS }
+link = { capitals = { 1027 } eu4 = SHN }
+link = { capitals = { 1835 } eu4 = STK }
+link = { capitals = { 4191 } eu4 = TKI }
+link = { capitals = { 4191 } eu4 = UTN }
+link = { capitals = { 1832 } eu4 = TTI }
+
+# Korea
+link = { ck3 = e_haedong eu4 = KOR }
+link = { ck3 = k_goryeo eu4 = KOR }
+
+# Manchuria
+link = { ck3 = e_manchuria eu4 = MCH }
+link = { ck3 = k_amgun eu4 = NVK }
+link = { ck3 = d_amgun eu4 = NVK }
+link = { ck3 = k_balhae eu4 = MJZ }
+link = { ck3 = k_khitan eu4 = CHH }
+link = { ck3 = d_raole eu4 = CHH }
+link = { ck3 = k_shiwei eu4 = MYR }
+link = { ck3 = d_hulan eu4 = MYR }
+link = { ck3 = k_solon eu4 = SOL }
+link = { ck3 = d_solon eu4 = SOL }
+link = { ck3 = k_udege eu4 = NHX }
+link = { ck3 = k_uru eu4 = NHX }
+
+# Mongolia
+link = { ck3 = d_shanshan eu4 = HMI }
+link = { ck3 = k_qocho eu4 = OIR }
+
+# Central Asia
+link = { ck3 = c_bukhara eu4 = BUK }
+link = { ck3 = d_soghd eu4 = BUK }
+link = { ck3 = k_khotan eu4 = KAS }
+link = { ck3 = d_yettishar eu4 = KAS }
+link = { ck3 = c_ferghana eu4 = KOK }
+link = { ck3 = d_ferghana eu4 = KOK }
+link = { ck3 = k_oghuz_il eu4 = KHI }
+link = { capitals = { 1973 441 } eu4 = KHI }
+link = { ck3 = k_buryatia eu4 = BRT }
+
+# Tibet
+link = { ck3 = d_nagormo eu4 = SYG }
 
 # Tarikh al-Islam
 link = { ck3 = e_avar eu4 = HUN }
@@ -1336,7 +1413,7 @@ link = { ck3 = e_ottomans eu4 = TUR }
 link = { ck3 = e_mamluks eu4 = MAM }
 link = { ck3 = e_teutonic_state eu4 = TEU }
 link = { ck3 = k_teutonic_order eu4 = TEU }
-link = { ck3 = k_libonian_order eu4 = LIV }
+link = { ck3 = k_livonian_order eu4 = LIV }
 link = { ck3 = k_oman eu4 = OMA }
 link = { ck3 = k_hejaz eu4 = HED }
 
@@ -1353,3 +1430,14 @@ link = { ck3 = k_cainthia eu4 = STY }
 link = { ck3 = e_netherlands eu4 = NED }
 link = { ck3 = e_german_empire eu4 = GER }
 link = { ck3 = k_belgium eu4 = BEL }
+
+# misc
+link = { ck3 = e_germany eu4 = GER }
+link = { ck3 = k_tekke eu4 = MEN }
+link = { ck3 = k_two_sicilies eu4 = TTS }
+link = { ck3 = k_prussia eu4 = PRU }
+link = { ck3 = k_franconia_otto eu4 = FKN }
+link = { ck3 = k_thuringia_otto eu4 = THU }
+link = { ck3 = k_swabia_otto eu4 = SWA }
+link = { ck3 = k_saxon eu4 = SAX }
+link = { ck3 = k_uzbek eu4 = SHY }

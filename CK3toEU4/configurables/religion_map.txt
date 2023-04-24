@@ -17,7 +17,7 @@ link = { eu4 = bon ck3 = old_bon }
 # Buddhism
 link = { eu4 = buddhism ck3 = theravada ck3 = ari }
 link = { eu4 = mahayana ck3 = mahayana }
-link = { eu4 = vajrayana ck3 = vajrayana ck3 = lamaism }
+link = { eu4 = vajrayana ck3 = vajrayana ck3 = lamaism ck3 = kagyu ck3 = sakya ck3 = gelug }
 # Christianity
 link = { eu4 = catholic religious_head = k_papal_state }
 link = { eu4 = catholic ck3 = conversos ck3 = catholic ck3 = mozarabic_church } # Fallback for old saves (pre 1.6.1.2)
@@ -48,7 +48,7 @@ link = { eu4 = cainitism ck3 = cainitism }
 # Finno-Ugric
 link = { eu4 = finnish_pagan ck3 = finnish_pagan }
 # Siberian
-link = { eu4 = siberian_pagan ck3 = siberian_pagan }
+link = { eu4 = siberian_pagan ck3 = siberian_pagan ck3 = kuptyng }
 # Germanic
 link = { eu4 = norse_pagan ck3 = norse_pagan }
 link = { eu4 = germanic_pagan ck3 = germanic_pagan }
@@ -94,7 +94,7 @@ link = { eu4 = slavic_pagan ck3 = slavic_pagan }
 # Taoism
 link = { eu4 = confucianism ck3 = zhengyi ck3 = shangqing ck3 = quanzhen }
 # Tengrism
-link = { eu4 = tengri_pagan ck3 = tengri_pagan }
+link = { eu4 = tengri_pagan ck3 = tengri_pagan ck3 = eastern_tengri ck3 = ulganism }
 # Waaqism
 link = { eu4 = shamanism ck3 = waaqism_pagan }
 # West African
@@ -186,25 +186,25 @@ link = { eu4 = animism ck3 = sanamahi_pagan }
 link = { eu4 = animism ck3 = umboh }
 link = { eu4 = animism ck3 = batak_animism }
 link = { eu4 = animism ck3 = malayic }
-link = { eu4 = animism ck3 = javanist }
+link = { eu4 = animism ck3 = javanist ck3 = jatisunda }
 link = { eu4 = animism ck3 = jatisunda }
 link = { eu4 = animism ck3 = burmic }
 link = { eu4 = animism ck3 = tolotang }
 link = { eu4 = animism ck3 = makassaric }
 link = { eu4 = animism ck3 = alukta }
 link = { eu4 = animism ck3 = malesung }
-link = { eu4 = animism ck3 = celebic }
-link = { eu4 = animism ck3 = kaharingan }
+link = { eu4 = animism ck3 = celebic ck3 = alukta ck3 = malesung ck3 = marapu }
+link = { eu4 = animism ck3 = kaharingan ck3 = momolianism }
 link = { eu4 = animism ck3 = anito }
 link = { eu4 = animism ck3 = tulumanon }
 link = { eu4 = animism ck3 = papaiagan }
 link = { eu4 = animism ck3 = malyari }
 link = { eu4 = animism ck3 = dayaw }
 link = { eu4 = animism ck3 = kadai }
-link = { eu4 = animism ck3 = kabunian }
+link = { eu4 = animism ck3 = kabunian ck3 = tulumanon ck3 = malyari ck3 = dayaw }
 link = { eu4 = animism ck3 = sambal }
 link = { eu4 = animism ck3 = ryukyu_animism }
-link = { eu4 = animism ck3 = sarnasim }
+link = { eu4 = animism ck3 = sarnaism }
 link = { eu4 = animism ck3 = koyapunem }
 link = { eu4 = animism ck3 = kuy_animism }
 link = { eu4 = animism ck3 = bimoism }
@@ -219,9 +219,14 @@ link = { eu4 = animism ck3 = palau_animism }
 link = { eu4 = animism ck3 = oceanic_animism }
 link = { eu4 = shamanism ck3 = bathouism }
 link = { eu4 = shamanism ck3 = hmongism }
-link = { eu4 = shamanism ck3 = tungusic_shamanism }
+link = { eu4 = shamanism ck3 = tungusic_shamanism ck3 = yzng ck3 = ainu_paganism ck3 = bugaism ck3 = abkaism ck3 = muism }
 link = { eu4 = shamanism ck3 = yzng }
 link = { eu4 = confucianism ck3 = shendao }
+link = { eu4 = animism ck3 = mentawai_animism ck3 = umboh ck3 = batak_animism ck3 = malayic }
+link = { eu4 = dreamtime ck3 = tagai }
+link = { eu4 = animism ck3 = burmic }
+link = { eu4 = animism ck3 = formosa_religion }
+link = { eu4 = animism ck3 = ban_phi ck3 = moism}
 
 # Mod: Tarikh al-Islam
 link = { eu4 = shiite ck3 = kaysani }

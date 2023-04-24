@@ -87,6 +87,31 @@ western_aryan = {
 		}
 		dynasty_names = { Yasin Nagar Werchikwar Baltit Worshigum Selgaan Thoi Darkut Karur Katoor Rakaposhi Dumani Gojal Shimshal Misgar Chipursan Yishkuk Avgarch Gircha Sost Shishkat Gulmit Passu Diran Miachar Ishkoman Pakkora Ghizer Kunjut Spantik Buroong Baratilang Khurukut Thamos Uyongko Akabirting Bar Bare Bare Sis Baldakuyo Tsilgalasho Bericho Ganish Rosh Shalanga Ghulapee Bhuthe Shamir Faratu Matham Shahthurai Ghauin Dhathu Laghan Jerovf Noormuhammed }
 	}
+	romani = {
+		dynasty_names = {
+			"Kohkkar" "Gakhkhar" "Phulkian" "Bhullara" "Dhaliwala" "Sandhawalia" "Ahluwalia" "Langa" 
+			"Mirrani" "Abbasi"
+			"Janda" "Jhuti" "Kahlon" "Banu Sama"
+		}
+		male_names = {
+			"Jassa Ahuwalia" "Lahina" "Ranjit" "Bhag" "Kharak" "Duleep" "Fateh" "Maha" "Sobha" "Narnak" 
+			"Ram" "Arjan" "Gobind" "Rai" "Krishan" "Bahadur" "Sardar Badar" "Balbir" "Bhalla" "Daya" 
+			"Gahunia" "Gian" "Nihang " "Granth" "Bhai Bachittar" "Himmat" "Hoora" "Ishnar" "Jhol" "Jhotti" 
+			"Mokham" "Nand" "Parmanand" "Rajsingh" "Sanlib" "Sardul" "Shabeg" "Shergill" "Sodhi" "Sohal" 
+			"Tara" "Udasi" "Angad" "Amar" "Lohaar" "Dharem" "Fakir" Ranjor
+			Ajit Amar "Amar Dasi" Amir Angad Arjun Atar Basawa Bhagwant Bhaimani Budh Chand Charat 
+			Damodar Dasu Datu Dayaram Didar Farid Fateh Gobind Gurdita 
+			Hargobind Hari "Har Krishan" "Har Rai" "Jai Ram" Jetha Jujhar 
+			Kalyan Kapur Kehar Kharak Khushal Lahna Lakhmichand Laxman 
+			Mahadev Mohan Mohri Nanak Narayan Nodha Partap Pheru Prithichand Prithvi "Ram Rai" Ranjit 
+			Sahdev Shamsher Sher Srichand "Tegh Bahadur" "Tej Bhan" Thakur Zorawar
+		}
+		female_names = {
+			Amro Anokhi Anup Begum Bhani Dani Gujri Jodhabai Khivi Kishan 
+			Lachmi Nanaki Nihal Ramo Sabhirai Sahib Sulakhni Sundari Tripta
+			"Chand Kaur" "Ratan Kaur" "Kanwal Kaur" "Datar Kaur" "Nand Kaur" "Mahtab"
+		}
+	}
 }
 turko_semitic = {
 	himyarite = {
