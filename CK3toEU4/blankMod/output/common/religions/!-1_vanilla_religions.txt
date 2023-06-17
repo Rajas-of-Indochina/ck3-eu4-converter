@@ -1550,7 +1550,7 @@ eastern = {
 		icon = 10
 		country = {
 			land_morale = 0.1
-			tolerance_heathen = 1
+			tolerance_heretic = 2
 		}
 		province = {
 			local_missionary_strength = -0.02

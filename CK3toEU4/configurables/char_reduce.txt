@@ -31,7 +31,7 @@ link = { utf8 = "ň" win1252 = "n" }
 link = { utf8 = "ř" win1252 = "r" }
 link = { utf8 = "ṛ" win1252 = "ri" } # See Rigveda
 link = { utf8 = "ș" win1252 = "š" }
-link = { utf8 = "ś" win1252 = "sh" }
+link = { utf8 = "ś" win1252 = "s" }
 link = { utf8 = "ț" win1252 = "t" }
 link = { utf8 = "ź" win1252 = "z" }
 link = { utf8 = "ż" win1252 = "z" } # Mostly used in Polish and simplified to "z"
@@ -79,7 +79,7 @@ link = { utf8 = "Ň" win1252 = "N" }
 link = { utf8 = "Ř" win1252 = "R" }
 link = { utf8 = "Ṛ" win1252 = "Ri" } # See Rigveda
 link = { utf8 = "Ș" win1252 = "Š" }
-link = { utf8 = "Ś" win1252 = "Sh" }
+link = { utf8 = "Ś" win1252 = "S" }
 link = { utf8 = "Ț" win1252 = "T" }
 link = { utf8 = "Ź" win1252 = "Z" }
 link = { utf8 = "Ż" win1252 = "Z" } # Mostly used in Polish and simplified to "Z"

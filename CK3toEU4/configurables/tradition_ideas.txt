@@ -201,6 +201,9 @@ link = { ck3 = { tradition = tradition_fp2_ritualised_friendship } eu4 = { impro
 link = { ck3 = { tradition = tradition_fp2_strategy_gamers } eu4 = { movement_speed = 0.1 } }
 link = { ck3 = { tradition = tradition_fp2_malleable_subjects } eu4 = { liberty_desire_from_subject_development = -0.1 } }
 
+### 1.9.0 - New Tradition
+link = { ck3 = { tradition = tradition_ep2_avid_falconers } eu4 = { prestige = 0.5 } }
+
 ### Rule Overrides
 link = { ck3 = { tradition = tradition_seafaring } rule = { heritage = heritage_north_germanic } eu4 = { may_explore = yes } }
 link = { ck3 = { tradition = tradition_forest_folk } rule = { heritage = heritage_east_slavic idea_name = fin_siberian_frontier } eu4 = { may_establish_frontier = yes auto_explore_adjacent_to_colony = yes } }
@@ -314,6 +317,15 @@ link = { ck3 = { tradition = tradition_RICE_khuzi_elevated_elymaean } eu4 = { la
 link = { ck3 = { tradition = tradition_RICE_khuzi } eu4 = { spy_offence = 0.2 } }
 link = { ck3 = { tradition = tradition_RICE_akhtarvenik } eu4 = { adm_tech_cost_modifier = -0.12 } }
 link = { ck3 = { tradition = tradition_RICE_kala_settlements } eu4 = { build_time = -0.1 build_cost = -0.1 } }
+link = { ck3 = { tradition = tradition_RICE_northmen } eu4 = { merc_maintenance_modifier = -0.10 heir_chance = 0.25 } }
+link = { ck3 = { tradition = tradition_RICE_adventurers_and_aristocrats } eu4 = { may_perform_slave_raid = yes } }
+link = { ck3 = { tradition = tradition_RICE_adventurers_and_aristocrats } eu4 = { build_cost = -0.1 infantry_power = 0.1 } }
+link = { ck3 = { tradition = tradition_RICE_adventurers_and_aristocrats_culture } eu4 = { num_accepted_cultures = 1 } }
+link = { ck3 = { tradition = tradition_RICE_munya_estates } eu4 = { development_cost =  -0.15 } }
+link = { ck3 = { tradition = tradition_RICE_tuareg } eu4 = { heir_chance = 0.25 } }
+link = { ck3 = { tradition = tradition_RICE_gold_dust_traders } eu4 = { movement_speed = 0.15 } }
+link = { ck3 = { tradition = tradition_RICE_african_mud_masons } eu4 = { build_time = -0.1 build_cost = -0.1 } }
+link = { ck3 = { tradition = tradition_RICE_masters_of_the_river } eu4 = { development_cost =  -0.15 } }
 
 ## Mod: Rajas of Asia
 link = { ck3 = { tradition = tradition_tamil_thai } eu4 = { dip_tech_cost_modifier = -0.05 prestige = 0.5 } }

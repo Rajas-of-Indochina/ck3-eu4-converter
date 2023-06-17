@@ -8,7 +8,7 @@ link = { eu4 = gaelic ck3 = heritage_goidelic ck3 = heritage_celtic ck3 = herita
 link = { eu4 = latin ck3 = heritage_latin }
 link = { eu4 = iberian ck3 = heritage_iberian ck3 = heritage_vasconic ck3 = heritage_paleo_iberian }
 link = { eu4 = french ck3 = heritage_frankish ck3 = heritage_continental_celtic }
-link = { eu4 = finno_ugric ck3 = heritage_ugro_permian ck3 = heritage_volga_finnic ck3 = heritage_saomyedic }
+link = { eu4 = finno_ugric ck3 = heritage_ugro_permian ck3 = heritage_volga_finnic ck3 = heritage_samoyedic }
 link = { eu4 = south_slavic ck3 = heritage_south_slavic }
 link = { eu4 = west_slavic ck3 = heritage_west_slavic }
 link = { eu4 = carpathian ck3 = heritage_magyar ck3 = heritage_vlach ck3 = heritage_proto_carpathian }
