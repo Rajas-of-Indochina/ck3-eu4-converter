@@ -303,7 +303,7 @@ link = { eu4 = yavana ck3 = greek tech = eastern gfx = westerngfx region = india
 link = { eu4 = greek ck3 = greek ck3 = delmatic ck3 = macedonian ck3 = tsakonian ck3 = spartan ck3 = helleno_thracian ck3 = romano_thracian ck3 = ancient_greek tech = eastern gfx = easterngfx }
 
 #Caucasian
-link = { eu4 = circassian ck3 = circassian ck3 = alan ck3 = georgian ck3 = assyrian tech = eastern gfx = easterngfx region = circassia_area } #Circassian is needed for Mamluk Government type, so let's try to make it happen
+link = { eu4 = circassian ck3 = circassian ck3 = alan ck3 = abkhazian ck3 = georgian ck3 = assyrian tech = eastern gfx = easterngfx region = circassia_area } #Circassian is needed for Mamluk Government type, so let's try to make it happen
 link = { eu4 = circassian ck3 = circassian ck3 = abaza ck3 = adyghes tech = eastern gfx = easterngfx } #It has to be this way or the Circassian outside of Circassia will disappear
 link = { eu4 = dagestani ck3 = georgian tech = eastern gfx = easterngfx region = dagestan_area }
 link = { eu4 = dagestani ck3 = dagestani ck3 = nakh ck3 = durdzuk tech = eastern gfx = easterngfx }
@@ -313,7 +313,7 @@ link = { eu4 = georgian ck3 = georgian ck3 = georgian1 ck3 = udi ck3 = caucasian
 #Chaldean
 link = { eu4 = assyrian ck3 = assyrian ck3 = syriac tech = eastern gfx = easterngfx }
 link = { eu4 = babylonian ck3 = babylonian ck3 = akkadian tech = eastern gfx = muslimgfx }
-link = { eu4 = coptic ck3 = coptic ck3 = old_egyptian tech = eastern gfx = easterngfx }
+link = { eu4 = coptic ck3 = coptic ck3 = old_egyptian ck3 = coptic_egyptian tech = eastern gfx = easterngfx }
 
 # I:R Greek
 link = { eu4 = prettanian ck3 = eblanic ck3 = scotinous ck3 = prettanian tech = eastern gfx = easterngfx }
@@ -685,7 +685,7 @@ link = { eu4 = magogic ck3 = ashkenazi ck3 = sephardi ck3 = hebrew tech = nomad_
 link = { eu4 = magogic ck3 = juhuro ck3 = gruzinim tech = eastern gfx = easterngfx }
 link = { eu4 = yevanic ck3 = ashkenazi ck3 = sephardi ck3 = hebrew tech = eastern gfx = easterngfx region = carpathia_region region = balkan_region region = anatolia_region }
 link = { eu4 = mizrahi ck3 = ashkenazi ck3 = sephardi ck3 = hebrew tech = muslim gfx = muslimgfx region = persia_superregion region = arabia_region region = india_superregion }
-link = { eu4 = israeli ck3 = ashkenazi ck3 = sephardi ck3 = hebrew ck3 = yemenite tech = eastern gfx = easterngfx region = mashriq_region }
+link = { eu4 = israeli ck3 = ashkenazi ck3 = sephardi ck3 = hebrew ck3 = yemenite ck3 = bavlim tech = eastern gfx = easterngfx region = mashriq_region }
 link = { eu4 = beta_israeli ck3 = beta_israeli tech = east_african gfx = africangfx }
 link = { eu4 = misrayim ck3 = ashkenazi ck3 = sephardi ck3 = hebrew tech = muslim gfx = muslimgfx region = egypt_region region = africa_superregion }
 link = { eu4 = zarphatic ck3 = ashkenazi ck3 = sephardi ck3 = hebrew tech = eastern gfx = easterngfx region = france_region }
@@ -698,7 +698,7 @@ link = { eu4 = ashkenazi ck3 = ashkenazi tech = eastern gfx = westerngfx }
 link = { eu4 = sephardi ck3 = sephardi tech = eastern gfx = easterngfx }
 link = { eu4 = mizrahi ck3 = radhanite tech = eastern gfx = easterngfx }
 link = { eu4 = kaifeng ck3 = kochinim tech = indian gfx = asiangfx } # Misinterpretation but doesn't need a separate culture
-link = { eu4 = israeli ck3 = hebrew tech = eastern gfx = muslimgfx } # Fallback
+link = { eu4 = israeli ck3 = hebrew ck3 = bavlim tech = eastern gfx = muslimgfx } # Fallback
 
 # Misc
 link = { eu4 = equine ck3 = horse tech = western gfx = westerngfx }
@@ -820,7 +820,7 @@ link = { eu4 = getian ck3 = getian tech = nomad_group gfx = easterngfx }
 ## Arvanitic
 link = { eu4 = arbereshe ck3 = albanian ck3 = arberian ck3 = dalmatian tech = eastern gfx = easterngfx region = italy_region }
 link = { eu4 = albanian ck3 = albanian ck3 = arberian tech = eastern gfx = easterngfx }
-link = { eu4 = illyrian ck3 = dalmatian ck3 = illyrian tech = western gfx = easterngfx }
+link = { eu4 = illyrian ck3 = illyrian tech = western gfx = easterngfx }
 
 ## Extra
 link = { eu4 = oldspain ck3 = iberian tech = western gfx = westerngfx }
@@ -845,7 +845,7 @@ link = { eu4 = hephthalite ck3 = hephthalite ck3 = huna ck3 = turco_hephthalite 
 link = { eu4 = xibei ck3 = wenmo tech = chinese gfx = asiangfx }
 link = { eu4 = israeli ck3 = teimani ck3 = persian_jewish tech = eastern gfx = easterngfx region = mashriq_region }
 link = { eu4 = teimani ck3 = teimani tech = muslim gfx = muslimgfx }
-link = { eu4 = parsim ck3 = persian_jewish tech = muslim gfx = muslimgfx }
+link = { eu4 = parsim ck3 = persian_jewish ck3 = parsim tech = muslim gfx = muslimgfx }
 link = { eu4 = laurentian ck3 = laurentian tech = north_american gfx = northamericagfx }
 link = { eu4 = inuit ck3 = dorset tech = north_american gfx = northamericagfx }
 link = { eu4 = maliseet ck3 = maliseet tech = north_american gfx = northamericagfx }

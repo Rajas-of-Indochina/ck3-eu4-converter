@@ -71,4 +71,4 @@ link = { eu4 = pacific ck3 = heritage_papuan ck3 = heritage_formosan ck3 = herit
 
 link = { eu4 = gothic_group ck3 = heritage_east_germanic }
 
-link = { eu4 = aboriginal_australian ck3 = heritage_kuarareg }
+link = { eu4 = aboriginal_australian ck3 = heritage_kaurareg }

@@ -339,6 +339,16 @@ link = { ck3 = { tradition = tradition_thalassocratic } eu4 = { trade_power_in_f
 link = { ck3 = { tradition = disloyal_subjects } eu4 = { liberty_desire = 15 } }
 link = { ck3 = { tradition = tradition_balbals } eu4 = { great_project_upgrade_cost = -0.2 } }
 link = { ck3 = { tradition = tradition_steppe_confederation } eu4 = { diplomats = 1 } }
+link = { ck3 = { tradition = tradition_sinicized_culture } eu4 = { harmonization_speed = 0.1 culture_conversion_cost = -0.1 } }
+link = { ck3 = { tradition = tradition_walled_villages } eu4 = { garrison_size = 0.10 } }
+link = { ck3 = { tradition = tradition_soot_faced_councils } eu4 = { monarch_military_power = 1 } }
+link = { ck3 = { tradition = tradition_black_river_banners } eu4 = { monarch_military_power = 1 } }
+link = { ck3 = { tradition = tradition_horses_like_clouds } eu4 = { cavalry_flanking = 0.10 } }
+link = { ck3 = { tradition = tradition_jungle_warfare } eu4 = { land_attrition = -0.1 } }
+link = { ck3 = { tradition = tradition_people_of_the_red_river } eu4 = { development_cost = -0.15 } }
+link = { ck3 = { tradition = tradition_underground_cities } eu4 = { fort_maintenance_modifier = -0.10 } }
+
+
 
 #Mod: Tarikh al-Islam
 link = { ck3 = { tradition = tradition_corsairs } eu4 = { may_perform_slave_raid = yes} }

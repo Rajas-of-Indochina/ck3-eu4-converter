@@ -59,7 +59,7 @@ link = { eu4 = norse_pagan ck3 = norse_pagan }
 link = { eu4 = germanic_pagan ck3 = germanic_pagan }
 link = { eu4 = anglo_pagan ck3 = anglo_pagan }
 # Hellenism
-link = { eu4 = hellenic_pagan ck3 = hellenic_pagan ck3 = eleusinian_mysteries }
+link = { eu4 = hellenic_pagan ck3 = hellenic_pagan ck3 = eleusinian_mysteries ck3 = indo_hellenism }
 # Hinduism
 link = { eu4 = hinduism ck3 = vaishnavism ck3 = advaitism ck3 = shaivism ck3 = srikula_shaktism ck3 = kalikula_shaktism ck3 = smartism ck3 = krishnaism ck3 = munda_pagan }
 # Islam
@@ -97,7 +97,7 @@ link = { eu4 = animism ck3 = melieism }
 # Slavic
 link = { eu4 = slavic_pagan ck3 = slavic_pagan }
 # Taoism
-link = { eu4 = confucianism ck3 = zhengyi ck3 = shangqing ck3 = quanzhen }
+link = { eu4 = confucianism ck3 = zhengyi ck3 = shangqing ck3 = quanzhen ck3 = lixue }
 # Tengrism
 link = { eu4 = tengri_pagan ck3 = tengri_pagan ck3 = eastern_tengri ck3 = ulganism }
 # Waaqism
@@ -190,7 +190,7 @@ link = { eu4 = bon_reformed ck3 = dongba }
 link = { eu4 = vajrayana ck3 = azhaliism }
 link = { eu4 = mahayana ck3 = pudgalavada ck3 = phat_giao ck3 = zenzong }
 # Hinduism
-link = { eu4 = hinduism ck3 = kambuja_devaraja ck3 = chamic_shaivism ck3 = trika_shaivism ck3 = ganaptism ck3 = suryaism ck3 = shrautism ck3 = kaumaram }
+link = { eu4 = hinduism ck3 = kambuja_devaraja ck3 = chamic_shaivism ck3 = trika_shaivism ck3 = ganaptism ck3 = suryaism ck3 = shrautism ck3 = kaumaram ck3 = smartism ck3 = srikula_shasktism ck3 = kalikula_shaktism ck3 = ganaptism ck3 = suryaism ck3 = shrautism ck3 = kaumaram }
 # Pagan faiths
 link = { eu4 = animism ck3 = sanamahi_pagan }
 link = { eu4 = animism ck3 = umboh }
@@ -222,7 +222,6 @@ link = { eu4 = animism ck3 = benzhu }
 link = { eu4 = animism ck3 = nuo }
 link = { eu4 = animism ck3 = nunusaku }
 link = { eu4 = animism ck3 = penunggu }
-link = { eu4 = animism ck3 = ban_phi }
 link = { eu4 = animism ck3 = wa_animism }
 link = { eu4 = animism ck3 = khasi_animism }
 link = { eu4 = animism ck3 = palau_animism }
@@ -237,6 +236,9 @@ link = { eu4 = dreamtime ck3 = tagai }
 link = { eu4 = animism ck3 = burmic }
 link = { eu4 = animism ck3 = formosa_religion }
 link = { eu4 = animism ck3 = ban_phi ck3 = moism}
+link = { eu4 = animism ck3 = siberian_pagan ck3 = kuptyng }
+link = { eu4 = shamanism ck3 = apsuara ck3 = khabzism ck3 = alan_pagan ck3 = nakh_pagan }
+
 
 # Mod: Tarikh al-Islam
 link = { eu4 = shiite ck3 = kaysani }
