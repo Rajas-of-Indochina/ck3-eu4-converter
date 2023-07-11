@@ -353,3 +353,15 @@ link = { ck3 = { tradition = tradition_underground_cities } eu4 = { fort_mainten
 #Mod: Tarikh al-Islam
 link = { ck3 = { tradition = tradition_corsairs } eu4 = { may_perform_slave_raid = yes} }
 #link = { ck3 = { tradition =  } eu4 = { reform_progress_growth = 0.1 nobles_influence_modifier = 0.05 } }
+
+#Mod: Africa Plus
+link = { ck3 = { tradition = tradition_joking_relationships_serer_pulaar } eu4 = { diplomats = 1 } }
+link = { ck3 = { tradition = tradition_joking_relationships_bozo_kibsi } eu4 = { diplomats = 1 } }
+link = { ck3 = { tradition = tradition_culture_conversion } eu4 = { culture_conversion_cost = -0.25 } }
+link = { ck3 = { tradition = tradition_gbeto } eu4 = { female_advisor_chance = 0.25 may_recruit_female_generals = yes } }
+link = { ck3 = { tradition = tradition_mande_hunters } eu4 = { development_cost = -0.1 } }
+link = { ck3 = { tradition = tradition_sahel_pastoralists } eu4 = { global_trade_goods_size_modifier = 0.05 global_manpower_modifier = 0.05 } } 
+link = { ck3 = { tradition = tradition_imperial_court } eu4 = { legitimacy = 1 } }
+link = { ck3 = { tradition = tradition_abstract_philosophy } eu4 = { monthly_piety = -0.05 monthly_karma = 0.05 monthly_church_power = 0.05 } }
+link = { ck3 = { tradition = tradition_historians } eu4 = { possible_dip_policy = 1 } }
+link = { ck3 = { tradition = tradition_free_cities } eu4 = { burghers_loyalty_modifier = 0.1 development_cost = -0.05 } }

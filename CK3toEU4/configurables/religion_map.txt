@@ -242,3 +242,24 @@ link = { eu4 = shamanism ck3 = apsuara ck3 = khabzism ck3 = alan_pagan ck3 = nak
 
 # Mod: Tarikh al-Islam
 link = { eu4 = shiite ck3 = kaysani }
+
+# Mod: Muslim Enhancements
+link = { eu4 = shiite ck3 = ishaqiya }
+link = { eu4 = ibadi ck3 = wahbiya ck3 = nukkari }
+link = { eu4 = kharijite ck3 = barghawata }
+link = { eu4 = quranist ck3 = nazzamism }
+
+
+# Mod: Africa Plus
+link = { eu4 = shamanism ck3 = basho_pagan }
+link = { eu4 = coptic ck3 = nubian_orthodox }
+link = { eu4 = shamanism ck3 = dinka_pagan }
+link = { eu4 = shamanism ck3 = idoism_pagan ck3 = munean_pagan }
+link = { eu4 = shamanism ck3 = ijaw_pagan }
+link = { eu4 = sunni ck3 = african_folk_islam ck3 = ghomara_pagan }
+link = { eu4 = shiite ck3 = kutama_pagan }
+link = { eu4 = kushitism_pagan ck3 = beja_pagan }
+link = { eu4 = shamanism ck3 = tenga_pagan ck3 = wennam_pagan }
+link = { eu4 = shamanism ck3 = vodun_pagan }
+link = { eu4 = shamanism ck3 = oloku_pagan }
+link = { eu4 = shamanism ck3 = songhai_pagan }

@@ -1588,6 +1588,12 @@ link = { ck3 = e_netherlands eu4 = NED }
 link = { ck3 = e_german_empire eu4 = GER }
 link = { ck3 = k_belgium eu4 = BEL }
 
+# Africa Plus
+link = { ck3 = e_nubia eu4 = NBI }
+link = { ck3 = k_alodia eu4 = ALO }
+link = { ck3 = k_benin  eu4 = BEN }
+link = { ck3 = d_shabe eu4 = OGD } # Ogaaden
+
 # misc
 link = { ck3 = e_germany eu4 = GER }
 link = { ck3 = k_tekke eu4 = MEN }

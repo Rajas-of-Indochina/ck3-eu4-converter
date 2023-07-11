@@ -82,4 +82,8 @@ link = { ck3title = d_wahbiya gov = theocracy reform = leading_clergy_reform }
 link = { ck3title = d_nukkari gov = theocracy reform = leading_clergy_reform }
 link = { ck3title = d_barghawata gov = theocracy reform = leading_clergy_reform }
 
-# ASDAC
+# Africa Plus
+link = { ck3title = d_nubian_church gov = theocracy reform = leading_clergy_reform }
+link = { ck3title = d_muarikism gov = theocracy reform = leading_clergy_reform }
+link = { ck3title = d_hamimism gov = theocracy reform = leading_clergy_reform }
+link = { ck3title = d_ooni_of_ife gov = monarchy reform = feudal_theocracy }
