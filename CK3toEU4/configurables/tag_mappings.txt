@@ -29,8 +29,6 @@ link = { ck3 = d_latgalians eu4 = LTG }
 link = { ck3 = d_lettigalians eu4 = LTG }
 link = { ck3 = k_norway eu4 = NOR }
 link = { ck3 = e_scandinavia eu4 = SCA }
-link = { ck3 = d_skane eu4 = SCN }
-link = { ck3 = c_skane eu4 = SCN }
 link = { ck3 = d_holstein eu4 = SHL }
 link = { ck3 = k_sapmi eu4 = SMI }
 link = { ck3 = d_sami eu4 = SMI }
@@ -438,7 +436,7 @@ link = { ck3 = k_armenian_principality eu4 = ARM }
 link = { ck3 = k_old_armenia eu4 = ARM }
 link = { ck3 = d_greater_armenia eu4 = ARM }
 link = { ck3 = c_astrakhan eu4 = AST }
-link = { capitals = { 5311 } eu4 = AST } # Kuma -> Astrakhan
+link = { capitals = { 464 } eu4 = AST } # Kuma -> Astrakhan
 link = { ck3 = c_beloozero eu4 = BLO }
 link = { ck3 = k_bashkiria eu4 = BSH }
 link = { ck3 = d_bashkiria eu4 = BSH }
@@ -457,7 +455,7 @@ link = { ck3 = c_kazan eu4 = KAZ }
 link = { ck3 = c_yoshkar-ola eu4 = KAZ } #Maps to same province as c_kazan
 link = { ck3 = k_muscovy eu4 = MOS }
 link = { ck3 = c_moskva eu4 = MOS }
-link = { capitals = { 575 } eu4 = MOS } 	
+link = { capitals = { 295 } eu4 = MOS }
 link = { capitals = { 309 } eu4 = YAR }
 link = { ck3 = k_opolye eu4 = MOS }
 link = { ck3 = k_nogai eu4 = NOG }
@@ -472,7 +470,7 @@ link = { ck3 = d_perm eu4 = PRM }
 link = { ck3 = c_perm eu4 = PRM }
 link = { ck3 = c_sebur eu4 = PRM } #Maps to same province as c_perm
 link = { ck3 = c_pskov eu4 = PSK }
-link = { capitals = { 574 } eu4 = RSO }
+link = { capitals = { 4147 } eu4 = RSO }
 link = { ck3 = e_russia eu4 = UKR }
 link = { ck3 = e_russian_empire eu4 = RUS }	   
 link = { ck3 = d_ryazan eu4 = RYA }
@@ -1259,75 +1257,63 @@ link = { ck3 = e_tang eu4 = TNG }
 link = { ck3 = e_jurchen_china eu4 = JIN }
 link = { ck3 = k_chrysanthemum_throne eu4 = JAP }
 
-HI
+#Historic Invasions
 
-link = { ck3 = c_essex eu4 = ESX }
-link = { ck3 = c_skane eu4 = SCN }
-link = { ck3 = d_biarmia eu4 = BJA }
-link = { ck3 = d_bjarma_tribe eu4 = BJA }
-link = { ck3 = d_chuvashia eu4 = CVS }
-link = { ck3 = d_skane eu4 = SCN }
-link = { ck3 = d_vepsia eu4 = VPS }
-link = { ck3 = e_almohad eu4 = MOR }
-link = { ck3 = e_almohads eu4 = MOR }
-link = { ck3 = e_almoravid eu4 = MOR }
-link = { ck3 = e_almoravids eu4 = MOR }
-link = { ck3 = e_anushtiginid eu4 = KHI }
-link = { ck3 = e_anushtiginids eu4 = KHI }
-link = { ck3 = e_ayyubid eu4 = SYR }
-link = { ck3 = e_ayyubids eu4 = SYR }
-link = { ck3 = e_balgarsko eu4 = BUL }
-link = { ck3 = e_borjigin eu4 = MGE }
-link = { ck3 = e_chola eu4 = MAD }
-link = { ck3 = e_cholas eu4 = MAD }
-link = { ck3 = e_delhi eu4 = DLH }
 link = { ck3 = e_fatimid eu4 = EGY }
-link = { ck3 = e_gediminid eu4 = LIT }
 link = { ck3 = e_ghaznavid eu4 = AFG }
-link = { ck3 = e_ghaznavids eu4 = AFG }
-link = { ck3 = e_ghurid eu4 = DLH }
-link = { ck3 = e_keita eu4 = MAL }
-link = { ck3 = e_keitas eu4 = MAL }
-link = { ck3 = e_knytling eu4 = ENS } # Empire of the North Sea
-link = { ck3 = e_mamluks eu4 = MAM }
-link = { ck3 = e_maurya eu4 = BHA }
-link = { ck3 = e_nikaea eu4 = BYZ }
-link = { ck3 = e_ottoman eu4 = TUR }
-link = { ck3 = e_ottomans eu4 = TUR }
-link = { ck3 = e_rurikid eu4 = UKR }
-link = { ck3 = e_rurikids eu4 = UKR }
-link = { ck3 = e_sangama eu4 = VIJ }
 link = { ck3 = e_seljuk eu4 = PER }
-link = { ck3 = e_seljuks eu4 = PER }
-link = { ck3 = e_song eu4 = SNG }
-link = { ck3 = e_terteroba eu4 = CMN }
-link = { ck3 = e_terterobas eu4 = CMN }
-link = { ck3 = e_teutonic_state eu4 = TEU }
-link = { ck3 = e_yelu eu4 = LIO }
-link = { ck3 = e_yelus eu4 = LIO }
-link = { ck3 = k_bahrain eu4 = ALH }
-link = { ck3 = k_balgarsko eu4 = BUL }
-link = { ck3 = k_balk eu4 = LIV }
-link = { ck3 = k_bassenheim eu4 = TEU }
-link = { ck3 = k_bjarmaland eu4 = BJA }
-link = { ck3 = k_hauteville eu4 = TTS }
-link = { ck3 = k_hejaz eu4 = HED }
-link = { ck3 = k_jabalid eu4 = HAH }
-link = { ck3 = k_jannabid eu4 = ALH }
-link = { ck3 = k_jannabids eu4 = ALH }
-link = { ck3 = k_livonian_order eu4 = LIV }
-link = { ck3 = k_ludolfinger eu4 = SAX }
-link = { ck3 = k_norman_host_sicily eu4 = TTS }
-link = { ck3 = k_normandie eu4 = NRM }
-link = { ck3 = k_oghuz_il eu4 = OGZ }
-link = { ck3 = k_oman eu4 = OMA }
-link = { ck3 = k_piast eu4 = POL }
-link = { ck3 = k_sabbah eu4 = HAH }
-link = { ck3 = k_teutonic_order eu4 = TEU }
-link = { ck3 = k_tuva eu4 = TUV }
-link = { ck3 = k_yugra eu4 = YUG }
 link = { ck3 = k_ziyarid eu4 = KRY }
+link = { ck3 = e_ayyubid eu4 = SYR }
+link = { ck3 = k_bahrain eu4 = ALH }
+link = { ck3 = e_almoravid eu4 = MOR }
+link = { ck3 = e_almohad eu4 = MOR }
+link = { ck3 = e_ghurid eu4 = DLH }
+link = { ck3 = k_hauteville eu4 = TTS }
+link = { ck3 = k_jannabid eu4 = ALH }
+link = { ck3 = e_terteroba eu4 = CMN }
+link = { ck3 = e_rurikid eu4 = UKR }
+link = { ck3 = e_chola eu4 = MAD }
+link = { ck3 = e_anushtiginid eu4 = KHI }
+link = { ck3 = e_yelu eu4 = LIO }
+link = { ck3 = e_ottoman eu4 = TUR }
+link = { ck3 = e_keita eu4 = MAL }
+
+link = { ck3 = e_ghaznavids eu4 = AFG }
+link = { ck3 = e_seljuks eu4 = PER }
 link = { ck3 = k_ziyarids eu4 = KRY }
+link = { ck3 = e_ayyubids eu4 = SYR }
+link = { ck3 = e_almoravids eu4 = MOR }
+link = { ck3 = e_almohads eu4 = MOR }
+link = { ck3 = e_delhi eu4 = DLH }
+link = { ck3 = k_norman_host_sicily eu4 = TTS }
+link = { ck3 = k_jannabids eu4 = ALH }
+link = { ck3 = e_nikaea eu4 = BYZ }
+link = { ck3 = e_teutonic_state eu4 = TEU }
+link = { ck3 = k_teutonic_order eu4 = TEU }
+link = { ck3 = k_livonian_order eu4 = LIV }
+link = { ck3 = e_terterobas eu4 = CMN }
+link = { ck3 = e_rurikids eu4 = UKR }
+link = { ck3 = e_cholas eu4 = MAD }
+link = { ck3 = e_anushtiginids eu4 = KHI }
+link = { ck3 = e_yelus eu4 = LIO }
+link = { ck3 = e_ottomans eu4 = TUR }
+link = { ck3 = e_keitas eu4 = MAL }
+link = { ck3 = e_maurya eu4 = BHA }
+link = { ck3 = e_song eu4 = SNG }
+link = { ck3 = e_balgarsko eu4 = BUL }
+link = { ck3 = k_balgarsko eu4 = BUL }
+
+link = { ck3 = k_sabbah eu4 = HAH }
+link = { ck3 = k_jabalid eu4 = HAH }
+link = { ck3 = e_gediminid eu4 = LIT }
+link = { ck3 = e_knytling eu4 = ENS } # Empire of the North Sea
+link = { ck3 = k_normandie eu4 = NRM }
+link = { ck3 = k_piast eu4 = POL }
+link = { ck3 = k_ludolfinger eu4 = SAX }
+link = { ck3 = k_bassenheim eu4 = TEU }
+link = { ck3 = k_balk eu4 = LIV }
+link = { ck3 = e_sangama eu4 = VIJ }
+link = { ck3 = e_borjigin eu4 = MGE }
 
 ## MOD: HI-ROA
 link = { ck3 = e_wanggiyan eu4 = MCH }
@@ -1561,18 +1547,6 @@ link = { ck3 = e_carpathia eu4 = HUN}
 link = { ck3 = e_egypt eu4 = EGY } #Should this map to Mamluks?
 link = { ck3 = e_mamluk eu4 = MAM } #NVM Mamluk is gonna be implemented lol
 link = { ck3 = e_mughal eu4 = MUG}
-
-# Historic Invasions
-link = { ck3 = e_almoravids eu4 = MOR }
-link = { ck3 = e_almohads eu4 = MOR }
-link = { ck3 = e_delhi eu4 = DLH }
-link = { ck3 = e_ottomans eu4 = TUR }
-link = { ck3 = e_mamluks eu4 = MAM }
-link = { ck3 = e_teutonic_state eu4 = TEU }
-link = { ck3 = k_teutonic_order eu4 = TEU }
-link = { ck3 = k_livonian_order eu4 = LIV }
-link = { ck3 = k_oman eu4 = OMA }
-link = { ck3 = k_hejaz eu4 = HED }
 
 # Muslim Enhancements
 link = { ck3 = d_hashsashin eu4 = HAH }

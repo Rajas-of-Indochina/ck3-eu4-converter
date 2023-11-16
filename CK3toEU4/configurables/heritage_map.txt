@@ -8,7 +8,7 @@ link = { eu4 = gaelic ck3 = heritage_goidelic ck3 = heritage_celtic ck3 = herita
 link = { eu4 = latin ck3 = heritage_latin }
 link = { eu4 = iberian ck3 = heritage_iberian ck3 = heritage_vasconic ck3 = heritage_paleo_iberian }
 link = { eu4 = french ck3 = heritage_frankish ck3 = heritage_continental_celtic }
-link = { eu4 = finno_ugric ck3 = heritage_ugro_permian ck3 = heritage_volga_finnic ck3 = heritage_samoyedic }
+link = { eu4 = finno_ugric ck3 = heritage_ugro_permian ck3 = heritage_volga_finnic ck3 = heritage_samoyedic ck3 = heritage_yugrian }
 link = { eu4 = south_slavic ck3 = heritage_south_slavic }
 link = { eu4 = west_slavic ck3 = heritage_west_slavic }
 link = { eu4 = carpathian ck3 = heritage_magyar ck3 = heritage_vlach ck3 = heritage_proto_carpathian }
@@ -23,7 +23,7 @@ link = { eu4 = caucasian ck3 = heritage_caucasian ck3 = heritage_armenian }
 link = { eu4 = turko_semitic ck3 = heritage_arabic ck3 = heritage_south_arabian ck3 = heritage_aramaic ck3 = heritage_levantine ck3 = heritage_coptic ck3 = heritage_punic }
 
 link = { eu4 = maghrebi ck3 = heritage_berber ck3 = heritage_guanche }
-link = { eu4 = iranian ck3 = heritage_iranian ck3 = heritage_tocharian ck3 = heritage_east_iranian ck3 = heritage_elamite ck3 = heritage_chaldean }
+link = { eu4 = iranian ck3 = heritage_iranian ck3 = heritage_tocharian ck3 = heritage_east_iranian ck3 = heritage_elamite ck3 = heritage_chaldean ck3 = heritage_peristani ck3 = heritage_sakan ck3 = heritage_sarmatian }
 link = { eu4 = altaic ck3 = heritage_mongolic ck3 = heritage_toquz_oghuz ck3 = heritage_sayan_altaic ck3 = heritage_on_oq ck3 = heritage_tatar ck3 = heritage_kipchak }
 
 # this is dubious. they put turkish in with tartars all in turkic, eu4 has them in levantine.
@@ -47,7 +47,7 @@ link = { eu4 = sudanese ck3 = heritage_east_african  }
 link = { eu4 = sahelian ck3 = heritage_sahelian ck3 = heritage_senegambian ck3 = heritage_central_african ck3 = heritage_gur }
 link = { eu4 = west_african ck3 = heritage_akan ck3 = heritage_yoruba }
 #link = { eu4 = kongo_group ck3 =  } Central African is the pass between west and east africa, not the Kongo
-#link = { eu4 = african ck3 =  }
+link = { eu4 = african ck3 = heritage_bantu }
 link = { eu4 = cushitic ck3 = heritage_somalian }
 
 # Mod: RICE
@@ -56,7 +56,7 @@ link = { eu4 = iroquoian ck3 = heritage_iroquoian }
 link = { eu4 = eskaleut ck3 = heritage_paleo_inuit }
 link = { eu4 = eskaleut ck3 = heritage_inuit }
 link = { eu4 = african ck3 = heritage_east_bantu }
-link = { eu4 = evenks ck3 = heritage_siberian }
+link = { eu4 = southern_african ck3 = heritage_south_bantu }
 
 # Mod: Rajas of Asia
 link = { eu4 = evenks ck3 = heritage_tungusic }
