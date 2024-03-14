@@ -1,2 +1,0 @@
-discovered_by = INC
-discovered_by = TRL

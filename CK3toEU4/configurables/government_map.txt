@@ -47,7 +47,6 @@ link = { ck3title = k_teutonic_order gov = theocracy reform = monastic_order_ref
 
 link = { ck3title = d_sunni gov = theocracy reform = leading_clergy_reform }
 link = { ck3title = d_shiite gov = theocracy reform = leading_clergy_reform }
-
 # Rajas of Asia
 link = { gov = monarchy ck3gov = chinese_government reform = chinese_warlord } # Independent Chinese Kingdom (not Ming)
 link = { gov = monarchy ck3gov = chinese_vassal_government reform = plutocratic_reform } # Chinese Vassal Kingdom
